@@ -6,6 +6,8 @@ maintained by the Apologetics Knowledge Architect (Mahonri).
 ## Structure
 - `Sources/` — one note per source (video / article / book) + its authority tier
 - `Concepts/` — atomic notes: claims, objections, rebuttals (the debate map)
+- `People/` — one note per person (prophet, church father, scholar, critic) — a hub
+- `Scriptures/` — one note per verse / verse-set, linked from every argument that cites it
 - `Questions/` — FAQ entry notes (the natural way to query the library)
 - `Glossary/` — vocabulary & term definitions
 - `MOCs/` — topic maps (this folder)
