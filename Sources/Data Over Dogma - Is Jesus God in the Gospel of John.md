@@ -42,9 +42,11 @@ Dan McClellan argues that the Gospel of John does NOT teach that Jesus is the Go
 
 ## People mentioned
 - [[Dan McClellan]]
+- [[Dan Beers]]
 - [[Philo of Alexandria]]
 - [[Justin Martyr]]
 - [[Arius]]
+- [[St. Nicholas]]
 - [[Constantine]]
 - [[Daniel Wallace]]
 - [[Bruce Metzger]]
