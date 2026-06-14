@@ -30,6 +30,8 @@ C = informed, cited commentary · D = opinion / uncited
 | [[James White]] | B | Prominent Reformed apologist; popular-level debate/apologetics. |
 | Ward Radio (channel) | C | Informed LDS apologetic podcast; cites manuscript/scholarly evidence but is panel commentary, not peer-reviewed. |
 | The Council of Trent (Trent Horn podcast) | B | Catholic apologetics; heavily cited from magisterium + scholars. |
+| [[Ephrem the Syrian]] | B | 4th-c. Syriac church father; *Cave of Treasures* tradition (apocryphal in genre). |
+| [[Jonah (Plain and Precious Publishing)|Jonah]] | C | LDS author (Plain & Precious Publishing); compiles apocryphal sources, popular apologetics. |
 | [[Ted Patrick]] | D | Self-appointed 1970s "deprogrammer"; methods rejected by courts. Not an authority. |
 | *(example) Royal Skousen* | A | Book of Mormon textual criticism (BYU linguistics) |
 

@@ -14,6 +14,7 @@ Master map of the apologetics library. Repopulated as sources are ingested.
 | **LDS Scripture Rebuttals** | Bible verses weaponized against the Church, read in context |
 | **NRM / Cult Scholarship** | Sociology of cults/new religious movements; brainwashing debunked |
 | **Catholic Justification** | James 2:24 vs *sola fide*; initial vs ongoing justification |
+| **Apocrypha & Canon** | Jesus's use of extra-biblical traditions; Deuteronomistic corruption |
 
 ## LDS Scripture Rebuttals
 
@@ -60,6 +61,17 @@ From [[Council of Trent - James 2 Not By Faith Alone]] (with [[Trent Horn]]):
 - [[Luther and the Epistle of Straw]]
 - [[Justification - Infusion vs Legal Fiction]]
 - [[Assurance of Salvation - Catholic vs Protestant]]
+
+## Apocrypha & Canon
+
+From [[WardRadio - Jesus Referenced the Apocrypha]] (with [[Jonah (Plain and Precious Publishing)|Jonah]]):
+
+- [[Jesus Referenced the Apocrypha]]
+- [[Blood of Abel - Unburiable Tradition]]
+- [[Blood of Zechariah - Perpetual Boiling Blood]]
+- [[Blood of Abel to Zechariah - Not A to Z]]
+- [[Deuteronomistic Corruption of the Old Testament]]
+- [[Multiple Attestation - Corroborating Apocryphal Sources]]
 
 ---
 See also: [[Home]] · [[Sources Index]]
