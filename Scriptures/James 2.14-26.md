@@ -10,9 +10,15 @@ tags: [type/scripture, testament/new]
 ## Significance
 The biblical counterweight to a faith-*alone* reading of [[Ephesians 2.8-9|Ephesians 2:8-9]]: living faith necessarily expresses itself in works. Grounds the LDS position that faith and works are inseparable (see [[Faith and Works - Two Blades of the Scissors]]).
 
+## Cited across traditions
+Both LDS apologetics (faith + works) and Catholic apologetics (against *sola fide*) appeal to this passage — see the Catholic treatment in [[James 2-24 - Justified by Works Not Faith Alone]].
+
 ## Used in
 - [[Ephesians 2-8-9 - Saved by Grace Not Works Rebutted]]
 - [[Faith and Works - Two Blades of the Scissors]]
+- [[James 2-24 - Justified by Works Not Faith Alone]]
+- [[James - Different Kind of Faith Reply Rebutted]]
+- [[James - Justification Before Men Reply Rebutted]]
 
 ---
 See also: [[Scriptures]]

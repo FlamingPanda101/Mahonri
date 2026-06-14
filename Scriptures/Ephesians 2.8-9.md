@@ -19,6 +19,7 @@ Salvation is by grace **through faith** — and faith that is real *demonstrates
 
 ## Used in
 - [[Ephesians 2-8-9 - Saved by Grace Not Works Rebutted]]
+- [[Initial vs Ongoing Justification]] — Catholic reading (initial justification by grace alone)
 
 ---
 See also: [[Scriptures]] · [[WardRadio - Top 9 Misconstrued Scriptures]]

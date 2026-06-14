@@ -13,6 +13,7 @@ Master map of the apologetics library. Repopulated as sources are ingested.
 |--------|-------|
 | **LDS Scripture Rebuttals** | Bible verses weaponized against the Church, read in context |
 | **NRM / Cult Scholarship** | Sociology of cults/new religious movements; brainwashing debunked |
+| **Catholic Justification** | James 2:24 vs *sola fide*; initial vs ongoing justification |
 
 ## LDS Scripture Rebuttals
 
@@ -46,6 +47,19 @@ From [[WardRadio - Lorne Dawson NRM Interview]] (with [[Lorne Dawson]]):
 - [[Brainwashing Does Not Exist]]
 - [[Why People Join New Religious Movements]]
 - [[Cult Accusation as Political Weapon]]
+
+## Catholic Justification
+
+From [[Council of Trent - James 2 Not By Faith Alone]] (with [[Trent Horn]]):
+
+- [[James 2-24 - Justified by Works Not Faith Alone]]
+- [[James - Different Kind of Faith Reply Rebutted]]
+- [[James - Justification Before Men Reply Rebutted]]
+- [[Initial vs Ongoing Justification]]
+- [[Faith Alone but Never Alone]]
+- [[Luther and the Epistle of Straw]]
+- [[Justification - Infusion vs Legal Fiction]]
+- [[Assurance of Salvation - Catholic vs Protestant]]
 
 ---
 See also: [[Home]] · [[Sources Index]]
