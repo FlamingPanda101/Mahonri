@@ -1,6 +1,6 @@
 # Consolidation Report
 
-*Scanned 2026-06-14 15:26 — 14 concept notes.*
+*Scanned 2026-06-14 15:32 — 22 concept notes.*
 
 Auto-detected. **Nothing was changed** — review and merge via Mahonri (tell it: merge note X into note Y) or by hand.
 

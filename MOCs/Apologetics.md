@@ -12,6 +12,7 @@ Master map of the apologetics library. Repopulated as sources are ingested.
 | Domain | Focus |
 |--------|-------|
 | **LDS Scripture Rebuttals** | Bible verses weaponized against the Church, read in context |
+| **NRM / Cult Scholarship** | Sociology of cults/new religious movements; brainwashing debunked |
 
 ## LDS Scripture Rebuttals
 
@@ -32,6 +33,19 @@ Nine commonly misconstrued verses (from [[WardRadio - Top 9 Misconstrued Scriptu
 - [[Orthopraxy over Orthodoxy]]
 - [[Degrees of Glory vs Heaven]]
 - [[Faith and Works - Two Blades of the Scissors]]
+
+## NRM / Cult Scholarship
+
+From [[WardRadio - Lorne Dawson NRM Interview]] (with [[Lorne Dawson]]):
+
+- [[Cult - A Contaminated Pejorative Term]]
+- [[Church Sect Cult Distinction]]
+- [[Where Mormons Rank on the Church-Sect Continuum]]
+- [[Family Resemblance Definition of Cults]]
+- [[Christianity Began as a New Religious Movement]]
+- [[Brainwashing Does Not Exist]]
+- [[Why People Join New Religious Movements]]
+- [[Cult Accusation as Political Weapon]]
 
 ---
 See also: [[Home]] · [[Sources Index]]
