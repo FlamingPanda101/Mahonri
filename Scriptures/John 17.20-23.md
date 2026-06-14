@@ -12,6 +12,8 @@ The same "one" of [[John 10.30|John 10:30]]: Jesus prays his disciples be one **
 
 ## Used in
 - [[John 10-30 - I and the Father Are One Rebutted]]
+- [[Divine Name Theology]]
+- [[Trinity - Historical Development]]
 
 ---
-See also: [[Scriptures]]
+See also: [[Scriptures]] · [[Data Over Dogma - Is Jesus God in the Gospel of John?]]

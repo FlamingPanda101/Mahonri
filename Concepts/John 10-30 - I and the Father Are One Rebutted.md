@@ -6,6 +6,7 @@ related:
   - "[[Definition of Gospel]]"
 sources:
   - "[[WardRadio - Top 9 Misconstrued Scriptures]]"
+  - "[[Data Over Dogma - Is Jesus God in the Gospel of John?]]"
 tags: [apologetics, trinity, godhead, oneness, tradition/lds]
 #type/rebuttal
 ---
@@ -35,12 +36,19 @@ The one-substance doctrine derives from the early creeds and church fathers, gen
 ## Counter-arguments / related
 - [[1 John 5-7 - Johannine Comma Interpolation]] — the companion Trinity proof text.
 - [[Isaiah 43-10 - No God Formed Before Me Rebutted]] — divine plurality.
+- [[John 10-33 - Making Yourself God (Missing Article)]] — the immediate context: the accusation is qualitative, not definite.
+- [[Divine Name Theology]] — Jesus's oneness with the Father is through bearing the divine name (John 17:11), not sharing substance.
+
+## Scholarly support (McClellan)
+[[Dan McClellan]] independently confirms this reading. In [[John 17.20-23|John 17:20-23]], Jesus prays that his followers be one "as we are one" — and "whatever oneness Jesus is talking about in John 10:30 is the exact same kind of oneness Jesus prays his followers will achieve with each other and with Jesus and God."[^5] The oneness is "a unity, a connection — it is not one being, it is not one substance — that is a much later development."[^6]
 
 ## References
 [^1]: [[WardRadio - Top 9 Misconstrued Scriptures|Ward Radio - Top 9 Misconstrued Scriptures]], [15:30], https://youtu.be/lkiUEqR5OBI
 [^2]: [[WardRadio - Top 9 Misconstrued Scriptures|Ward Radio - Top 9 Misconstrued Scriptures]], [16:00], https://youtu.be/lkiUEqR5OBI
 [^3]: [[WardRadio - Top 9 Misconstrued Scriptures|Ward Radio - Top 9 Misconstrued Scriptures]], [16:30], https://youtu.be/lkiUEqR5OBI
 [^4]: [[WardRadio - Top 9 Misconstrued Scriptures|Ward Radio - Top 9 Misconstrued Scriptures]], [26:31], https://youtu.be/lkiUEqR5OBI
+[^5]: [[Data Over Dogma - Is Jesus God in the Gospel of John?|Data Over Dogma - Is Jesus God in the Gospel of John?]], [32:00], https://youtu.be/K0kobJi-sLI
+[^6]: [[Data Over Dogma - Is Jesus God in the Gospel of John?|Data Over Dogma - Is Jesus God in the Gospel of John?]], [33:32], https://youtu.be/K0kobJi-sLI
 
 ---
 See also: [[Apologetics]] · [[WardRadio - Top 9 Misconstrued Scriptures]]

@@ -18,6 +18,8 @@ Latter-day Saints affirm the Father and Son are "one" — but **one in unity, mi
 
 ## Used in
 - [[John 10-30 - I and the Father Are One Rebutted]]
+- [[John 10-33 - Making Yourself God (Missing Article)]]
+- [[Divine Name Theology]]
 
 ---
-See also: [[Scriptures]] · [[WardRadio - Top 9 Misconstrued Scriptures]]
+See also: [[Scriptures]] · [[WardRadio - Top 9 Misconstrued Scriptures]] · [[Data Over Dogma - Is Jesus God in the Gospel of John?]]

@@ -28,6 +28,8 @@ C = informed, cited commentary · D = opinion / uncited
 | [[John Calvin]] | B | Primary Reformed figure; *Institutes* (primary source). |
 | [[John MacArthur]] | B | Prominent Reformed pastor/author; popular-level, not peer-reviewed. |
 | [[James White]] | B | Prominent Reformed apologist; popular-level debate/apologetics. |
+| [[Dan McClellan]] | B | Ph.D. biblical studies; public scholar (*Data Over Dogma* podcast). Presents academic consensus; podcast format is popular-level. |
+| [[Daniel Wallace]] | B | Evangelical NT Greek grammarian (Dallas Theological Seminary); acknowledges qualitative *theos* in John 1:1c. |
 | Ward Radio (channel) | C | Informed LDS apologetic podcast; cites manuscript/scholarly evidence but is panel commentary, not peer-reviewed. |
 | The Council of Trent (Trent Horn podcast) | B | Catholic apologetics; heavily cited from magisterium + scholars. |
 | [[David Bentley Hart]] | A | Orthodox philosophical theologian; Yale UP author (*That All Shall Be Saved*); universalist. |
