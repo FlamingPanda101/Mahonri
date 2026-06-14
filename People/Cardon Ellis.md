@@ -1,17 +1,17 @@
 ---
-title: "Cardon Ellis"
-role: Host of Ward Radio
-sources:
-  - "[[WardRadio - Top 9 Misconstrued Scriptures]]"
-tags: [person, lds, apologist, ward-radio, youtube]
+aliases: ["Cardon Ellis"]
+tags: [type/person, tradition/lds, role/commentator, channel/ward-radio]
 ---
 
 # Cardon Ellis
 
-Host of **Ward Radio**, a YouTube channel focused on LDS cultural commentary and
-apologetics. Known for a casual, humorous, self-deprecating interview style. In
-this episode, he frames the discussion while letting the three apologist guests
-carry the rebuttals.
+Host of **Ward Radio**, a Latter-day Saint commentary and apologetics podcast/YouTube channel. Hosts panels of LDS creators and apologists discussing doctrine, culture, and responses to criticism.
 
-Notable contribution: The C.S. Lewis "scissors" analogy for faith vs. works —
-"which blade on a pair of scissors is more important?" [[Ephesians 2-8-9 - Grace vs Works]]
+## Top 9 Misconstrued Scriptures
+Hosted the panel walking through nine commonly weaponized verses, framing each discussion and reading the texts. Tied the recurring theme of [[Orthopraxy over Orthodoxy]] to the Good Samaritan — the priest had right belief but failed at right action [^1].
+
+## References
+[^1]: [[WardRadio - Top 9 Misconstrued Scriptures|Ward Radio - Top 9 Misconstrued Scriptures]], [21:32], https://youtu.be/lkiUEqR5OBI
+
+---
+See also: [[People]] · [[WardRadio - Top 9 Misconstrued Scriptures]]

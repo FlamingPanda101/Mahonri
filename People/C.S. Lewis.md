@@ -1,39 +1,19 @@
 ---
-title: "C.S. Lewis"
-role: 20th-Century Christian Apologist and Author
-tags: [person, apologist, author, anglican, free-will, hell]
-#type/person
-#tradition/anglican
-#role/apologist
+aliases: ["C.S. Lewis", "Clive Staples Lewis"]
+tags: [type/person, tradition/anglican, role/scholar]
+authority: B
+authority_reason: "Oxford/Cambridge literary scholar and the 20th century's most influential lay Christian apologist (*Mere Christianity*). Anglican; quoted across traditions including LDS apologetics."
 ---
 
-# C.S. Lewis
+# C.S. Lewis (1898-1963)
 
-20th-century Anglican apologist and author whose **free will defense of hell**
-is referenced and rebutted.
+Oxford and Cambridge literary scholar and the most widely read lay Christian apologist of the 20th century (*Mere Christianity*, *The Screwtape Letters*). Anglican, but quoted across Christian traditions.
 
-## Key Quote (on Hell and Free Will)
-
-> "The doors of hell are locked from the inside." [^1]
-
-Lewis's formulation frames hell not as punishment imposed by God but as the
-natural consequence of humans freely choosing to reject God. God honors that
-choice rather than overriding it.
-
-## Critique
-
-This position is rebutted in [[Hell - Free Will Defense Rebutted]], which
-argues that:
-
-1. Creation from nothing with divine foreknowledge undermines meaningful free
-   will
-2. The **parental analogy** shows that respecting autonomous choice to the
-   point of allowing eternal self-harm is not loving but negligent
-
-## Appearance In
-
-- [[All Those In Favor - Why Christianity is Probably Wrong about Hell]]
+## Faith and works
+Cited on Ward Radio for his image that arguing whether **faith or works** is more important is "like saying which one of the blades on a pair of scissors is more important" — both are needed together. See [[Faith and Works - Two Blades of the Scissors]] [^1].
 
 ## References
+[^1]: [[WardRadio - Top 9 Misconstrued Scriptures|Ward Radio - Top 9 Misconstrued Scriptures]], [44:30], https://youtu.be/lkiUEqR5OBI
 
-[^1]: [[All Those In Favor - Why Christianity is Probably Wrong about Hell]], [18:30–19:00], https://youtu.be/PTzLAyoD9LY
+---
+See also: [[People]] · [[Authority Ledger]]

@@ -4,5 +4,6 @@ What the apologist profile has saved. Newest on top.
 
 | Date | Action | Target file | Notes |
 |------|--------|-------------|-------|
-| 2026-06-14 | Build | All Those In Favor - Why Christianity is Probably Wrong about Hell | Full ingestion: Source note + 8 Concept notes + 1 Scripture note (Romans 5:12) + 8 People notes + MOC update. Video: PTzLAyoD9LY. Covers: problem of hell and creation, 5 Christian defenses rebutted, LDS degrees-of-glory alternative. 18 notes. Total vault: ~73 apologetics notes.
-| 2026-06-13 | init | — | Advocate brain created |
+| 2026-06-14 | Build (Claude) | WardRadio - Top 9 Misconstrued Scriptures | Hand-built by Claude Opus for the gold-standard foundation. Video: lkiUEqR5OBI. 1 Source + 13 Concept (9 rebuttals + 4 themes) + 18 Scripture + 9 People = 41 notes. Full [^n] footnotes w/ [MM:SS] timestamps, bidirectional links, Apologetics MOC, Authority Ledger (Heiser B, C.S. Lewis B). |
+| 2026-06-14 | reset | - | Vault content cleared for clean rebuild through the BUILD+CHECK pipeline |
+| 2026-06-13 | init | - | Advocate brain created |
