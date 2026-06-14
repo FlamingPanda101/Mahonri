@@ -30,7 +30,15 @@ C = informed, cited commentary · D = opinion / uncited
 | [[James White]] | B | Prominent Reformed apologist; popular-level debate/apologetics. |
 | Ward Radio (channel) | C | Informed LDS apologetic podcast; cites manuscript/scholarly evidence but is panel commentary, not peer-reviewed. |
 | The Council of Trent (Trent Horn podcast) | B | Catholic apologetics; heavily cited from magisterium + scholars. |
+| [[David Bentley Hart]] | A | Orthodox philosophical theologian; Yale UP author (*That All Shall Be Saved*); universalist. |
+| [[Jonathan Kvanvig]] | A | Analytic philosopher of religion; *The Problem of Hell* (Oxford UP). |
+| [[Thomas Aquinas]] | A | Medieval Doctor of the Church; *Summa Theologiae* (primary). |
+| [[Isaac of Nineveh]] | B | 7th-c. Syriac church father; writings on divine mercy (primary patristic). |
+| [[Gregory of Nyssa]] | B | 4th-c. Cappadocian church father (primary patristic). |
+| [[Jonathan Edwards]] | B | 18th-c. Puritan theologian (primary historical). |
+| [[William Wainwright]] | B | Philosopher of religion; "sin against an infinite being" argument. |
 | [[Ephrem the Syrian]] | B | 4th-c. Syriac church father; *Cave of Treasures* tradition (apocryphal in genre). |
+| [[Wes Huff]] | C | Christian apologist; here represents the "appeal to sinfulness" view (foil). |
 | [[Jonah (Plain and Precious Publishing)|Jonah]] | C | LDS author (Plain & Precious Publishing); compiles apocryphal sources, popular apologetics. |
 | [[Ted Patrick]] | D | Self-appointed 1970s "deprogrammer"; methods rejected by courts. Not an authority. |
 | *(example) Royal Skousen* | A | Book of Mormon textual criticism (BYU linguistics) |

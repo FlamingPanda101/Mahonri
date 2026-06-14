@@ -23,6 +23,7 @@ Latter-day Saints define **salvation** differently from most Christians, which d
 
 ## Counter-arguments / related
 - Underwrites the grace/works rebuttal in [[Ephesians 2-8-9 - Saved by Grace Not Works Rebutted]] and the resurrection-marriage point in [[Matthew 22-30 - No Marriage in Resurrection Rebutted]].
+- Developed as the resolution to the problem of hell in [[LDS Afterlife - Degrees of Glory]].
 
 ## References
 [^1]: [[WardRadio - Top 9 Misconstrued Scriptures|Ward Radio - Top 9 Misconstrued Scriptures]], [48:30], https://youtu.be/lkiUEqR5OBI

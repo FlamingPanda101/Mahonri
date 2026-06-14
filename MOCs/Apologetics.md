@@ -15,6 +15,7 @@ Master map of the apologetics library. Repopulated as sources are ingested.
 | **NRM / Cult Scholarship** | Sociology of cults/new religious movements; brainwashing debunked |
 | **Catholic Justification** | James 2:24 vs *sola fide*; initial vs ongoing justification |
 | **Apocrypha & Canon** | Jesus's use of extra-biblical traditions; Deuteronomistic corruption |
+| **Problem of Hell** | Eternal conscious torment vs a loving Creator; degrees of glory |
 
 ## LDS Scripture Rebuttals
 
@@ -72,6 +73,19 @@ From [[WardRadio - Jesus Referenced the Apocrypha]] (with [[Jonah (Plain and Pre
 - [[Blood of Abel to Zechariah - Not A to Z]]
 - [[Deuteronomistic Corruption of the Old Testament]]
 - [[Multiple Attestation - Corroborating Apocryphal Sources]]
+
+## Problem of Hell
+
+From [[All Those In Favor - Why Christianity is Probably Wrong about Hell]]:
+
+- [[Problem of Hell and Creation]]
+- [[Hell - Appeal to Sinfulness Rebutted]]
+- [[Hell - Finite Sin vs Infinite Punishment]]
+- [[Hell - Watchmaker Wind Up and Go Rebutted]]
+- [[Hell - For Gods Glory Defense Rebutted]]
+- [[Hell - Appeal to the Fall Rebutted]]
+- [[Hell - Free Will Defense Rebutted]]
+- [[LDS Afterlife - Degrees of Glory]]
 
 ---
 See also: [[Home]] · [[Sources Index]]
