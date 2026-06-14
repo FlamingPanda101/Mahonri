@@ -1,5 +1,20 @@
 # Log
 
+## 2025-06-14 — Ingested Benjamin Park: Did Joseph Smith Teach Men Can Become God?
+- **Source:** `Benjamin Park - Did Joseph Smith Teach Men Can Become God.md` (video, B-tier, https://youtu.be/sKQeEuCEgyY)
+- **People created:** [[Benjamin Park]] (B-tier, PhD historian), [[BH Roberts]], [[Lorenzo Snow]], [[Joseph F. Smith]], [[Charles Penrose]], [[Joseph Fielding Smith]], [[Bruce R. McConkie]], [[Wilford Woodruff]], [[Gordon B. Hinckley]], [[Brigham Young]], [[David Paulsen]], [[Terrell Givens]], [[William Law]], [[King Follett]], [[William Clayton]], [[Thomas Bullock]], [[Willard Richards]], [[Harold Bloom]], [[Alexander Campbell]], [[Jonathan Grimshaw]], [[Joseph Fielding]]
+- **People updated:** [[Joseph Smith]] (merged King Follett sections with existing Helen Mar Kimball content; full bidirectional links)
+- **Concepts created (6):**
+  - [[King Follett Discourse]] — overview of the sermon's context, content, setting
+  - [[God Was Once a Man]] — the core claim of an embodied, exalted, once-human God
+  - [[Human Deification in Mormonism]] — the inverse: humans can become gods
+  - [[Infant Exaltation]] — children who die remain children in eternity
+  - [[Spirit Birth and Intelligences]] — co-eternal spirits vs. organized intelligences debate
+  - [[King Follett Discourse Publication History]] — the 1912 suppression, BH Roberts fight, later editing
+  - [[Modern LDS Tensions on King Follett Discourse]] — Hinckley, Paulsen, Givens, theosis framing
+- **Scriptures created (3):** [[D&C 76]], [[D&C 93]], [[John 4.24]]
+- **Authority Ledger updated:** Added Benjamin Park (B tier)
+
 ## 2025-06-14 — Ingested Data Over Dogma: Why the Bible Began (Jacob Wright)
 - **Source:** `Data Over Dogma - Why the Bible Began with Jacob Wright.md` (video, B-tier, https://youtu.be/5ebvYxjXH2Y)
 - **People created:** [[Jacob Wright]] (A-tier, Cambridge UP), [[Julius Wellhausen]] (A-tier, foundational)

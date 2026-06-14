@@ -13,13 +13,13 @@ tags: [apologetics, history, roman-empire, tacitus, census]
 
 ## The Objection Rebutted
 
-Some apologists (including [[Inspiring Philosophy]]) cite Tacitus, _Annals_ Book 6, to argue that Rome imposed censuses on client kingdoms — including possibly Herod's Judea. The passage concerns the Cleitae (Clitae), a tribe "subject to the Cappadocian Archelaus," who were "compelled in Roman fashion to render an account of their revenue and submit to tribute." Apologists claim this shows Rome directly taxing client kingdoms, supporting Luke's census.[^1]
+Some apologists (including [[Inspiring Philosophy]]) cite [[Tacitus]], _Annals_ Book 6, to argue that Rome imposed censuses on client kingdoms — including possibly Herod's Judea. The passage concerns the Cleitae (Clitae), a tribe "subject to the Cappadocian [[Archelaus of Cappadocia|Archelaus]]," who were "compelled in Roman fashion to render an account of their revenue and submit to tribute." Apologists claim this shows Rome directly taxing client kingdoms, supporting Luke's census.[^1]
 
 ## The Rebuttal
 
 ### 1. The passage says the opposite of what apologists claim
 
-McClellan reads the Latin: "It does not say that Rome imposed a census. It says that this tribe that was subject to Archelaus was compelled in Roman fashion to render an account of their revenue." The Latin actually reads "according to our mode they were subjected to a census" — but classicists unanimously interpret this as the _client king_ (Archelaus of Cappadocia) imposing his own census using Roman methods, not Rome directly imposing it.[^2]
+McClellan reads the Latin: "It does not say that Rome imposed a census. It says that this tribe that was subject to [[Archelaus of Cappadocia|Archelaus]] was compelled in Roman fashion to render an account of their revenue." The Latin actually reads "according to our mode they were subjected to a census" — but classicists unanimously interpret this as the _client king_ ([[Archelaus of Cappadocia]]) imposing his own census using Roman methods, not Rome directly imposing it.[^2]
 
 ### 2. Classicists confirm the standard reading
 
@@ -31,7 +31,7 @@ McClellan reads the Latin: "It does not say that Rome imposed a census. It says 
 
 ### 4. This Archelaus is not the Judean one
 
-McClellan emphasizes: "This is not the Archelaus that took over rule of Judea after Herod died. This is Archelaus of Cappadocia. This is a different Archelaus." The passage has nothing to do with Judea, Herod, or any census relevant to Jesus's birth.[^5]
+McClellan emphasizes: "This is not the [[Herod Archelaus|Archelaus]] that took over rule of Judea after Herod died. This is [[Archelaus of Cappadocia]]. This is a different Archelaus." The passage has nothing to do with Judea, Herod, or any census relevant to Jesus's birth.[^5]
 
 ## Best Quote
 

@@ -13,7 +13,7 @@ tags: [apologetics, virgin-birth, tradition/academic-critical, christology]
 
 ## The Claim
 
-The virgin birth of Jesus is not an original, early element of Christian belief but a "posthumous secondary accretion to the Jesus tradition" — a later development added as concerns about Jesus's divine origins intensified in the decades after his death. It appears only in the later gospels (Matthew and Luke, with Luke's nativity account possibly being even later than the rest of Luke), and is absent from the earliest Christian writings.[^1]
+The virgin birth of Jesus is not an original, early element of Christian belief but a "posthumous secondary accretion to the Jesus tradition" — a later development added as concerns about Jesus's divine origins intensified in the decades after his death. It appears only in the later gospels ([[Matthew the Evangelist|Matthew]] and [[Luke the Evangelist|Luke]], with Luke's nativity account possibly being even later than the rest of Luke), and is absent from the earliest Christian writings.[^1]
 
 ## Supporting Evidence
 
@@ -21,11 +21,11 @@ The virgin birth of Jesus is not an original, early element of Christian belief 
 
 [[Dan McClellan|McClellan]]: "Paul and Mark say nothing about Jesus's origins except that Paul says, you know, he was born of a woman, but great. Happened to most of us. Really sets him apart there. So there's nothing significant about his origins until we get to the later gospels."[^2]
 
-> **Evidence rating:** Primary (textual). Paul's letters (~50s CE) and Mark (~70 CE) are the earliest Christian writings; neither mentions a virgin birth. Paul's sole reference (Galatians 4:4) says Jesus was "born of a woman" — language that would be strikingly understated if Paul knew a virgin birth tradition.
+> **Evidence rating:** Primary (textual). [[Paul the Apostle|Paul]]'s letters (~50s CE) and [[John Mark|Mark]] (~70 CE) are the earliest Christian writings; neither mentions a virgin birth. Paul's sole reference ([[Galatians 4.4|Galatians 4:4]]) says Jesus was "born of a woman" — language that would be strikingly understated if Paul knew a virgin birth tradition.
 
 ### 2. Progressive "pushing back" of divinity
 
-McClellan argues the gospels show a pattern: "they begin to push the divinity of Jesus's origins further and further back in time." Mark has no birth story — Jesus becomes divine at his baptism. Matthew and Luke add virgin birth narratives. John pushes divinity to the pre-existent Logos. This trajectory suggests the virgin birth developed as christological reflection deepened.[^3]
+McClellan argues the gospels show a pattern: "they begin to push the divinity of Jesus's origins further and further back in time." [[John Mark|Mark]] has no birth story — [[Jesus of Nazareth|Jesus]] becomes divine at his baptism. [[Matthew the Evangelist|Matthew]] and [[Luke the Evangelist|Luke]] add virgin birth narratives. [[John the Evangelist|John]] pushes divinity to the pre-existent Logos. This trajectory suggests the virgin birth developed as christological reflection deepened.[^3]
 
 > **Evidence rating:** Secondary (critical inference). The developmental pattern across the gospels is well-recognized in NT scholarship, though the exact sequence and dating are debated.
 

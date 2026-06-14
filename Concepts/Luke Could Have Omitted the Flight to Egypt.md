@@ -26,7 +26,7 @@ Matthew's timeline places the slaughter up to two years after Jesus's birth (Her
 
 ### 3. Luke is internally consistent without Egypt
 
-Luke 2:39 says "when they had finished everything required by the law of the Lord, they returned to Galilee, to their own town of Nazareth." There is no gap in Luke's narrative where the flight to Egypt could be inserted. The sequence is: birth → temple → return to Nazareth. Inserting a two-year stay in Bethlehem, flight to Egypt, and years in exile would break Luke's narrative flow entirely.[^4]
+[[Luke 2.39|Luke 2:39]] says "when they had finished everything required by the law of the Lord, they returned to Galilee, to their own town of Nazareth." There is no gap in Luke's narrative where the flight to Egypt could be inserted. The sequence is: birth → temple → return to Nazareth. Inserting a two-year stay in Bethlehem, flight to Egypt, and years in exile would break Luke's narrative flow entirely.[^4]
 
 ## Best Quote
 

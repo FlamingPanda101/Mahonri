@@ -27,7 +27,7 @@ McClellan: "Rome would not have issued a census requiring everyone return to the
 
 ### 2. The chronological contradiction with Herod the Great
 
-Quirinius governed Syria starting in 6 CE, after Herod Archelaus was deposed and Rome assumed direct rule of Judea. But Luke 1 places Jesus's birth during the reign of Herod the Great, who died ~4 BCE — a full decade before Quirinius's governorship. Luke 2:2 "would have to have this census and Jesus's birth dating to 6 CE, which directly contradicts Luke 1, which has it occurring during the reign of Herod the Great very shortly after his death in 4 BCE."[^3]
+Quirinius governed Syria starting in 6 CE, after [[Herod Archelaus]] was deposed and Rome assumed direct rule of Judea. But Luke 1 places Jesus's birth during the reign of [[Herod the Great]], who died ~4 BCE — a full decade before Quirinius's governorship. Luke 2:2 "would have to have this census and Jesus's birth dating to 6 CE, which directly contradicts Luke 1, which has it occurring during the reign of Herod the Great very shortly after his death in 4 BCE."[^3]
 
 > **Evidence rating:** Primary (historical chronology). The dates are well-established: Herod died ~4 BCE; Quirinius's census in Judea occurred in 6 CE.
 

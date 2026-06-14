@@ -51,7 +51,8 @@ C = informed, cited commentary · D = opinion / uncited
 | [[Jacob Wright]] | A | Professor of Hebrew Bible, Emory University; Cambridge University Press author (*Why the Bible Began*). |
 | [[Julius Wellhausen]] | A | Foundational German biblical scholar (1844–1918); Documentary Hypothesis (JEDP), *Prolegomena to the History of Israel*. |
 || *(example) Royal Skousen* | A | Book of Mormon textual criticism (BYU linguistics) |
-|| Tim Chaffy | C | Answers in Genesis apologist; doctorate from accredited theological seminary. Writes popular apologetics for a young-earth creationist organization. |
+||| Tim Chaffy | C | Answers in Genesis apologist; doctorate from accredited theological seminary. Writes popular apologetics for a young-earth creationist organization. |
+||| [[Benjamin Park]] | B | PhD historian; President of Mormon History Association; academic publications on Mormon history. Credentialed expert. |
 
 ---
 See also: [[Home]]

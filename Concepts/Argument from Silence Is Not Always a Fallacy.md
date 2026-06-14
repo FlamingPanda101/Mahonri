@@ -13,7 +13,7 @@ tags: [apologetics, logic, nativity, tradition/academic-critical]
 
 ## The Objection Rebutted
 
-Apologists object that the Bethlehem birth's absence from Paul and Mark is "the fallacy of the argument from silence" — just because they didn't mention it doesn't mean it didn't happen.[^1]
+Apologists object that the Bethlehem birth's absence from [[Paul the Apostle|Paul]] and [[John Mark|Mark]] is "the fallacy of the argument from silence" — just because they didn't mention it doesn't mean it didn't happen.[^1]
 
 ## The Rebuttal
 
@@ -27,9 +27,9 @@ McClellan acknowledges: "Of all the stuff we're going to go through, this probab
 
 ### 3. The gospel authors are a different case from Paul
 
-For Paul, the silence is weaker evidence — "Paul's not really about his temporal life. We have a passing reference to him being born of a woman, but that's serving a more theological point." Paul never claims to have met Jesus and his letters aren't biographical.[^4]
+For [[Paul the Apostle|Paul]], the silence is weaker evidence — "Paul's not really about his temporal life. We have a passing reference to him being born of a woman, but that's serving a more theological point." Paul never claims to have met [[Jesus of Nazareth|Jesus]] and his letters aren't biographical.[^4]
 
-But for the gospel authors, if we accept traditional authorship, "we would be assuming that the authors had actually met and hung out with Jesus." Mark is supposed to have been Peter's interpreter. Luke claims to have done careful investigation. "To a degree, yeah, we would expect them to have" mentioned Bethlehem — especially Mark, if it were known.[^5]
+But for the gospel authors, if we accept traditional authorship, "we would be assuming that the authors had actually met and hung out with Jesus." [[John Mark|Mark]] is supposed to have been [[Peter]]'s interpreter. [[Luke the Evangelist|Luke]] claims to have done careful investigation. "To a degree, yeah, we would expect them to have" mentioned Bethlehem — especially Mark, if it were known.[^5]
 
 ### 4. The Bethlehem claim is supported by other evidence, not silence alone
 

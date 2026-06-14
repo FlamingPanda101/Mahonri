@@ -32,7 +32,7 @@ The Hebrew uses an adjective meaning "pregnant" without a tense marker. The Sept
 
 ### 3. The prophetic context is 8th-century BCE, not messianic
 
-Isaiah 7 is set during a crisis under King Ahaz (~735 BCE). A coalition of northern kingdoms threatened Judah. Isaiah pointed to a pregnant woman known to the king and prophesied: before her child grows up, those threatening kingdoms will be gone. The prophecy's function was to say "relax — those countries are not going to be countries anymore" — it was a politically timed sign, not a prediction about a Messiah 700+ years later.[^4]
+Isaiah 7 is set during a crisis under [[King Ahaz]] (~735 BCE). A coalition of northern kingdoms threatened Judah. Isaiah pointed to a pregnant woman known to the king and prophesied: before her child grows up, those threatening kingdoms will be gone. The prophecy's function was to say "relax — those countries are not going to be countries anymore" — it was a politically timed sign, not a prediction about a Messiah 700+ years later.[^4]
 
 > **Evidence rating:** Primary (contextual). The surrounding narrative (Isaiah 7:1-17) explicitly addresses Ahaz's contemporary political crisis.
 

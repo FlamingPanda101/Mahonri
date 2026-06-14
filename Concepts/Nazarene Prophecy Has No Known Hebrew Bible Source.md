@@ -27,7 +27,7 @@ McClellan states it plainly: "There's no part of the Hebrew Bible that says he w
 
 ### 2. The Nazirite connection is conceptually unrelated
 
-"Nazarene" and "Nazirite" are "not even related conceptually" — a Nazirite is someone under a temporary vow (Numbers 6), not someone from Nazareth. Furthermore, "there's nothing in the Hebrew Bible that says the Messiah would be a Nazirite either." The only link is that the Greek transliterations are "very close together."[^3]
+"Nazarene" and "Nazirite" are "not even related conceptually" — a Nazirite is someone under a temporary vow ([[Numbers 6|Numbers 6]]), not someone from Nazareth. Furthermore, "there's nothing in the Hebrew Bible that says the Messiah would be a Nazirite either." The only link is that the Greek transliterations are "very close together."[^3]
 
 > **Evidence rating:** Primary (conceptual). The categories are distinct in both Hebrew and Greek, and no messianic Nazirite prophecy exists.
 

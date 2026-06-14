@@ -13,7 +13,7 @@ tags: [apologetics, nativity, prophecy, tradition/academic-critical]
 
 ## The Claim
 
-Jesus was most likely born in Nazareth, not Bethlehem. The Bethlehem birth was invented after his death to fulfill the messianic prophecy of Micah 5:2, which said the Messiah would come from Bethlehem, David's city. The nativity accounts in Matthew and Luke were constructed to satisfy this expectation.[^1]
+Jesus was most likely born in Nazareth, not Bethlehem. The Bethlehem birth was invented after his death to fulfill the messianic prophecy of [[Micah 5.2|Micah 5:2]], which said the Messiah would come from Bethlehem, David's city. The nativity accounts in [[Matthew the Evangelist|Matthew]] and [[Luke the Evangelist|Luke]] were constructed to satisfy this expectation.[^1]
 
 ## Supporting Evidence
 
@@ -25,7 +25,7 @@ Jesus was most likely born in Nazareth, not Bethlehem. The Bethlehem birth was i
 
 ### 2. Absent from Paul and Mark
 
-"The word Bethlehem only ever occurs in Matthew's nativity account, Luke's nativity account, and John's reference to the prophecy of the Messiah coming from Bethlehem." Paul never mentions it; Mark never mentions it. If Bethlehem were truly Jesus's birthplace, this absence is striking.[^3]
+"The word Bethlehem only ever occurs in Matthew's nativity account, Luke's nativity account, and John's reference to the prophecy of the Messiah coming from Bethlehem." [[Paul the Apostle|Paul]] never mentions it; [[John Mark|Mark]] never mentions it. [[John 7.42|John 7:42]] only references the prophecy — not [[Jesus of Nazareth|Jesus]]'s actual birth. If Bethlehem were truly Jesus's birthplace, this absence is striking.[^3]
 
 > **Evidence rating:** Primary (textual). The distribution of "Bethlehem" in the NT is limited to the two nativity accounts and John 7:42 (which only references the prophecy, not Jesus's birth).
 
