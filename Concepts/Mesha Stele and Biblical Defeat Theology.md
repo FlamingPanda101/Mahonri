@@ -9,11 +9,11 @@ tags:
 # Mesha Stele and Biblical Defeat Theology
 
 ## The Claim
-The Mesha Stele (or Moabite Stone, c. 840 BCE) — a victory monument of King Mesha of Moab — provides a crucial parallel that illuminates what is unique about the Bible's treatment of defeat. Both the Mesha Stele and the Bible attribute military defeat to divine anger ("Chemosh/Kos was angry with his land"), but they move in opposite directions: the Mesha Stele uses defeat as backstory for present triumph, while the Bible makes defeat the *center* of an ongoing, monumental reflection — because the biblical authors are a defeated people, not a palace celebrating victory.[^1]
+The Mesha Stele (or Moabite Stone, c. 840 BCE) — a victory monument of King [[Mesha]] of Moab — provides a crucial parallel that illuminates what is unique about the Bible's treatment of defeat. Both the Mesha Stele and the Bible attribute military defeat to divine anger ("Chemosh/Kos was angry with his land"), but they move in opposite directions: the Mesha Stele uses defeat as backstory for present triumph, while the Bible makes defeat the *center* of an ongoing, monumental reflection — because the biblical authors are a defeated people, not a palace celebrating victory.[^1]
 
 ## Supporting Evidence
 
-1. **The Parallel:** King Mesha of Moab explains why Israel was able to subjugate Moab by writing: "Chemosh was angry with his land." This is the same theological move the Bible makes — defeat is explained as divine punishment. "This was so groundbreaking when scholars said 'oh my God, literally, how has Mesha picked up biblical theology?'"[^2]
+1. **The Parallel:** King [[Mesha]] of Moab explains why Israel was able to subjugate Moab by writing: "Chemosh was angry with his land." This is the same theological move the Bible makes — defeat is explained as divine punishment. "This was so groundbreaking when scholars said 'oh my God, literally, how has Mesha picked up biblical theology?'"[^2]
 
 2. **The Divergence:** The Mesha Stele tells about defeat in the past and then "moves to the present of triumph." The Bible "flips that on its head." The triumph — Exodus, David, Solomon — comes *first*, and then the narrative "goes down." It's "as if Mesha talked about 'we used to have a great kingdom but now we're defeated — the end' — and made a huge monument about that." That's what the Bible does — but on a much grander scale.[^3]
 
@@ -25,7 +25,7 @@ The Mesha Stele (or Moabite Stone, c. 840 BCE) — a victory monument of King Me
 
 ## Best Quote
 
-> "What makes the Bible different from the Mesha Stele is that Mesha tells that about the past and then he moves to the present of triumph — and the Bible flips that on its head. So the triumph begins with the Exodus, the salvation that Yahweh brings, but also David and Saul and Solomon and all the great kings — but it goes down. It's as if Mesha talked about 'we used to have a great kingdom but now we're defeated — the end' — and made a huge monument about that. But the Bible is not just that kind of monument — it's much more massive."[^3]
+> "What makes the Bible different from the Mesha Stele is that Mesha tells that about the past and then he moves to the present of triumph — and the Bible flips that on its head. So the triumph begins with the [[Exodus]], the salvation that Yahweh brings, but also David and Saul and Solomon and all the great kings — but it goes down. It's as if Mesha talked about 'we used to have a great kingdom but now we're defeated — the end' — and made a huge monument about that. But the Bible is not just that kind of monument — it's much more massive."[^3]
 > — [[Jacob Wright]], *Data Over Dogma* podcast
 
 ## Counter-Arguments

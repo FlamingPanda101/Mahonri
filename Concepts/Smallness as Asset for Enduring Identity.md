@@ -19,7 +19,7 @@ The diminutive size of Israel and Judah was an *asset* — not a liability — f
 
 3. **The David and Goliath Mentality:** "When you're small you already think of yourself in terms of the David-Goliath mentality — we are Davids, not Goliaths — and we have to prepare for the next day." This mentality is built into the biblical narrative itself.[^4]
 
-4. **Jeremiah's Pushback:** Wright sees this dynamic alive in the biblical text itself: "Jeremiah says Jerusalem was going to be destroyed, and he was put in jail for proclaiming heresy." There was pushback — people saying "our God is big, Jerusalem is big and never going to be destroyed" — and the biblical authors had to insist on vulnerability as reality. Wright notes this continues "into modern Israeli politics and Jewish politics around this fervency that there's something that's always going to save the day."[^5]
+4. **Jeremiah's Pushback:** Wright sees this dynamic alive in the biblical text itself: "[[Jeremiah]] says Jerusalem was going to be destroyed, and he was put in jail for proclaiming heresy." There was pushback — people saying "our God is big, Jerusalem is big and never going to be destroyed" — and the biblical authors had to insist on vulnerability as reality. Wright notes this continues "into modern Israeli politics and Jewish politics around this fervency that there's something that's always going to save the day."[^5]
 
 5. **Jews as the Ultimate Small People:** Wright frames Jewish history through this lens: "Jews are like 0.1% of the population. So any idea that we have something special on our side can get us into a lot of trouble." The biblical message — that survival comes from wisdom and text, not military exceptionalism — is directly relevant.[^5]
 

@@ -17,7 +17,7 @@ Without military defeat there is no Bible. The Babylonian destruction of Jerusal
 
 2. **The Bible Makes Defeat Central — Unlike Neighbors:** The Mesha Stele (Moab) attributes defeat to divine anger but then moves on to triumph. The Bible flips this: it makes defeat the center, "embellishes it and makes it grand," and creates "a great grand monument to defeat" — because the authors are a defeated people, not a palace celebrating victory.[^3]
 
-3. **Defeat as Ongoing, Not Single Event:** The book of Lamentations describes the devastation graphically, but some of it was written (and continued to be written) for centuries after the event. Why? Because the authors wanted readers to know "there was a beginning to something and an end to it — that was the kingdom. There's no going back." They made defeat central to force ongoing reflection on what comes *after* the state.[^4]
+3. **Defeat as Ongoing, Not Single Event:** The book of [[Lamentations]] describes the devastation graphically, but some of it was written (and continued to be written) for centuries after the event. Why? Because the authors wanted readers to know "there was a beginning to something and an end to it — that was the kingdom. There's no going back." They made defeat central to force ongoing reflection on what comes *after* the state.[^4]
 
 4. **Wright's Causal Formula:** Two factors were necessary — (a) military defeat (722 BCE for Israel, 586 BCE for Judah) and (b) the political division between Israel and Judah. "Defeat is essential but not sufficient." All kingdoms were defeated; only Israel/Judah produced a Bible. The difference is the North-South relationship.[^5]
 

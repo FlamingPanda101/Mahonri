@@ -16,3 +16,12 @@
   - [[Smallness as Asset for Enduring Identity]]
 - **People updated:** [[Dan McClellan]], [[Dan Beecher]] (added sections for this episode)
 - **Authority Ledger updated:** Added Jacob Wright (A) and Julius Wellhausen (A)
+
+## 2025-06-14 — Ingested Thoughtful Faith: Was Joseph Smith a Pedophile?
+- **Source:** `Thoughtful Faith - Was Joseph Smith a Pedophile.md` (video, C-tier, https://youtu.be/X3qYafvPYeM)
+- **People created:** [[Joseph Smith]], [[Helen Mar Kimball]], [[Edgar Allan Poe]], [[David Snell]]
+- **Concepts created (3):**
+  - [[Presentism in Historical Judgment]]
+  - [[Joseph Smith and Helen Mar Kimball Sealing]]
+  - [[Nineteenth-Century Marriage Age Norms]]
+- **Authority Ledger updated:** Added Thoughtful Faith (C)

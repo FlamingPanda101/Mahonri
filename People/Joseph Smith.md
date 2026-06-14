@@ -1,17 +1,27 @@
 ---
-aliases: ["Joseph Smith", "Joseph Smith Jr."]
-tags: [type/person, tradition/lds, role/prophet]
+aliases: ["Joseph Smith Jr.", "The Prophet Joseph"]
+tags:
+  - "#type/person"
+  - "#role/prophet"
+  - "#tradition/lds"
 ---
 
-# Joseph Smith (1805-1844)
+# Joseph Smith
 
-Founding prophet of the Church of Jesus Christ of Latter-day Saints; translated the Book of Mormon, which critics frequently frame as an illegitimate "addition" to the Bible.
+**Who:** Joseph Smith Jr. (1805–1844), founding prophet of The Church of Jesus Christ of Latter-day Saints (LDS Church). Translated the [[Book of Mormon]], received revelations collected in the [[Doctrine and Covenants]], and introduced practices including temple worship and plural marriage (polygamy). Killed by a mob in Carthage, Illinois, in 1844.
 
-## "Adding to the Bible" (Revelation 22)
-The stock argument — *Revelation forbids adding to the Bible, Joseph Smith added the Book of Mormon, therefore he is cursed* — is rebutted in [[Revelation 22 - Add or Take Away Rebutted]]: Revelation predates the compiled biblical canon, the warning is about the book of Revelation's prophecy, and the specific "plagues" threatened (blood, frogs, etc.) never befell Joseph Smith [^1].
+**Role:** Smith is the central prophetic figure of the Latter-day Saint tradition. His teachings and revelations form the doctrinal foundation of the LDS faith, and his character and actions are frequent subjects of both apologetic defense and critical attack.
 
-## References
-[^1]: [[WardRadio - Top 9 Misconstrued Scriptures|Ward Radio - Top 9 Misconstrued Scriptures]], [08:02], https://youtu.be/lkiUEqR5OBI
+## Helen Mar Kimball Sealing
+Smith was sealed to [[Helen Mar Kimball]] when she was "just shy of 15 years old" at her father [[Heber C. Kimball]]'s request. LDS apologetics argues this was a dynastic sealing to bind the Smith and Kimball families, not a sexual marriage. This sealing is a primary target for critics who accuse Smith of predatory behavior. See [[Joseph Smith and Helen Mar Kimball Sealing]].
 
+## Presentism Defense
+Critics who apply the label "pedophile" to Smith's marriage practices are argued to commit the fallacy of presentism — judging 19th-century figures by 21st-century norms without accounting for the vastly different economic, social, and cultural context of early America. See [[Presentism in Historical Judgment]], [[Nineteenth-Century Marriage Age Norms]].
+
+## Comparison with Contemporaries
+In the same era, literary figures like [[Edgar Allan Poe]] also married very young women (Poe's wife was 13 at marriage, he was 27) without public scandal, demonstrating that such age gaps were normalized in that period.
+
+## Sources
+- [[Thoughtful Faith - Was Joseph Smith a Pedophile]]
 ---
-See also: [[People]] · [[WardRadio - Top 9 Misconstrued Scriptures]]
+See also: [[People]] · [[Home]]

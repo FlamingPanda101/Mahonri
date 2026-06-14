@@ -9,13 +9,13 @@ tags:
 # People's History vs Palace History in the Bible
 
 ## The Claim
-The Hebrew Bible contains two distinct types of historical narrative that originated from the two different kingdoms: a "people's history" (Patriarchs, Exodus, wilderness — from northern Israelite tradition) and a "palace history" (Davidic stories, the book of Kings — from Judah). The final biblical form is a Judean product that incorporated and subordinated the northern people's history, bracketing the Davidic palace material behind an older, more universal narrative of liberation and peoplehood.[^1]
+The Hebrew Bible contains two distinct types of historical narrative that originated from the two different kingdoms: a "people's history" (Patriarchs, [[Exodus]], wilderness — from northern Israelite tradition) and a "palace history" (Davidic stories, the book of [[1 Kings|Kings]] — from Judah). The final biblical form is a Judean product that incorporated and subordinated the northern people's history, bracketing the [[David]]ic palace material behind an older, more universal narrative of liberation and peoplehood.[^1]
 
 ## Supporting Evidence
 
-1. **Two Narrative Streams:** Wright identifies a "large block of text" that is "people's history" — the Patriarchs and Matriarchs, the Exodus, the wilderness. This material "doesn't come from Judah" but from the older northern Israelite tradition. The Judean stories are "the Davidic stories and the stuff in the book of Kings" — the palace history.[^2]
+1. **Two Narrative Streams:** Wright identifies a "large block of text" that is "people's history" — the Patriarchs and Matriarchs, the [[Exodus]], the wilderness. This material "doesn't come from Judah" but from the older northern Israelite tradition. The Judean stories are "the Davidic stories and the stuff in the book of [[1 Kings|Kings]]" — the palace history.[^2]
 
-2. **Bracketing David:** If the Bible were purely a Judean product, Wright argues, "the Judean kingdom would have shaped it by beginning their narrative with David — David is the one who brought us to the land, David liberated us from bondage." Instead, David is "pushed back and bracketed" — the narrative begins with creation, the Patriarchs, and the Exodus. The Judean editors are "trying to think of their past without a monarchy, a native monarchy."[^3]
+2. **Bracketing David:** If the Bible were purely a Judean product, Wright argues, "the Judean kingdom would have shaped it by beginning their narrative with David — David is the one who brought us to the land, David liberated us from bondage." Instead, David is "pushed back and bracketed" — the narrative begins with creation, the Patriarchs, and the [[Exodus]]. The Judean editors are "trying to think of their past without a monarchy, a native monarchy."[^3]
 
 3. **Why This Matters:** By bracketing David behind the people's history, the final form of the Bible makes it possible to imagine "an enduring political community, some kind of identity that doesn't depend on our political power, it doesn't depend on the Davidic dynasty." Wright calls this "very much an Israelite Bible" — the Judeans picked up a project the northerners had begun 130 years earlier after their own defeat.[^4]
 
@@ -25,7 +25,7 @@ The Hebrew Bible contains two distinct types of historical narrative that origin
 
 ## Best Quote
 
-> "The biblical text that really — that we appreciate most, the stuff about the Patriarchs and the Matriarchs and the Exodus and so forth — doesn't come from Judah. That's the story. The Judean stories are the Davidic stories and the stuff in the book of Kings … the stuff that goes back to some older Israelite stuff is the stories of peoplehood, of liberation."[^2]
+> "The biblical text that really — that we appreciate most, the stuff about the Patriarchs and the Matriarchs and the [[Exodus]] and so forth — doesn't come from Judah. That's the story. The Judean stories are the Davidic stories and the stuff in the book of [[1 Kings|Kings]] … the stuff that goes back to some older Israelite stuff is the stories of peoplehood, of liberation."[^2]
 > — [[Jacob Wright]], *Data Over Dogma* podcast
 
 ## Counter-Arguments

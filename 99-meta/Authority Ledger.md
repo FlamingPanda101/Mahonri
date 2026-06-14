@@ -30,7 +30,8 @@ C = informed, cited commentary · D = opinion / uncited
 | [[James White]] | B | Prominent Reformed apologist; popular-level debate/apologetics. |
 | [[Dan McClellan]] | B | Ph.D. biblical studies; public scholar (*Data Over Dogma* podcast). Presents academic consensus; podcast format is popular-level. |
 | [[Daniel Wallace]] | B | Evangelical NT Greek grammarian (Dallas Theological Seminary); acknowledges qualitative *theos* in John 1:1c. |
-| Ward Radio (channel) | C | Informed LDS apologetic podcast; cites manuscript/scholarly evidence but is panel commentary, not peer-reviewed. |
+|| Ward Radio (channel) | C | Informed LDS apologetic podcast; cites manuscript/scholarly evidence but is panel commentary, not peer-reviewed. |
+|| Thoughtful Faith (channel) | C | Informed LDS apologetic channel; well-structured historical arguments with comparative examples but solo/short-form commentary, not peer-reviewed. |
 | The Council of Trent (Trent Horn podcast) | B | Catholic apologetics; heavily cited from magisterium + scholars. |
 | [[David Bentley Hart]] | A | Orthodox philosophical theologian; Yale UP author (*That All Shall Be Saved*); universalist. |
 | [[Jonathan Kvanvig]] | A | Analytic philosopher of religion; *The Problem of Hell* (Oxford UP). |
