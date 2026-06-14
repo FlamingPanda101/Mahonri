@@ -15,6 +15,7 @@ Isaiah 40-48 stages a **courtroom polemic** against the idols Israel kept "stash
 
 ## Used in
 - [[Isaiah 43-10 - No God Formed Before Me Rebutted]]
+- [[Deutero-Isaiah Theory]] — Isaiah 43 is part of Deutero-Isaiah (chs. 40–55), composed ~520 BCE. The strong monotheistic declarations (e.g., "before me there was no God formed, neither shall there be after me") are characteristic of this post-exilic layer.
 
 ---
 See also: [[Scriptures]] · [[WardRadio - Top 9 Misconstrued Scriptures]]

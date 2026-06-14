@@ -26,6 +26,8 @@ Dan McClellan argues that the Gospel of John does NOT teach that Jesus is the Go
 - [[John 10-33 - Making Yourself God (Missing Article)]]
 - [[John 20-28 - My Lord and My God (Divine Image)]]
 - [[Trinity - Historical Development]]
+- [[Consubstantiality]]
+- [[Council of Nicaea]]
 - [[Divine Name Theology]]
 - [[Hypostatic Union]]
 
