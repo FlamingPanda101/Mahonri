@@ -54,14 +54,14 @@ who were downplaying the discourse:
 > church of King Follett. We are not moving away from it. I will always be a
 > professor at the University of King Follett.'"[^4]
 
-Park notes this reveals "a divided sense — some who exalt in the radical unique
+[[Benjamin Park]] notes this reveals "a divided sense — some who exalt in the radical unique
 doctrines... the exceptionalism of Mormon theology, and others who wish that it
 weren't as central because they want to emphasize the connections of mainstream
 Christianity."[^5]
 
 ## The Current Settlement: Theosis Framing
 
-The modern LDS approach, per Park, is represented by the Church's Gospel Topics
+The modern LDS approach, per [[Benjamin Park]], is represented by the Church's Gospel Topics
 essay "Becoming Like God" (likely authored by [[Terrell Givens]]):
 
 > "This new train of thinking — well, maybe we can embrace the radical doctrines

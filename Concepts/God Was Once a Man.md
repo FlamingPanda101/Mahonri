@@ -39,7 +39,7 @@ embodied man — and that this was the "great secret" of Mormon theology.[^1]
 ## Supporting Evidence
 
 1. **Corporeal God:** Smith declared in Nauvoo that he had been teaching a corporeal
-   (embodied) God for "over a dozen years," though Benjamin Park notes the historical
+   (embodied) God for "over a dozen years," though [[Benjamin Park]] notes the historical
    record is "a bit more nuanced" — early revelations like the Book of Ether (Book of
    Mormon) and Book of Moses hint at embodiment, but may have used the language of
    "social trinitarianism" (common among evangelicals of the day) where God having

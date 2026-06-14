@@ -41,10 +41,10 @@ Creator God and created humanity, "blending those spheres together."[^2]
 
 1. **The Lorenzo Snow couplet:** [[Lorenzo Snow]], an apostle at the time, later
    captured the doctrine in the famous phrase: "As man is, God once was. As God
-   is, man may become" — a couplet that Park notes "has its own history within
+   is, man may become" — a couplet that [[Benjamin Park]] notes "has its own history within
    the broader culture."[^4]
 
-2. **Masonic framework:** Park argues the discourse directly draws from "Masonic
+2. **Masonic framework:** [[Benjamin Park]] argues the discourse directly draws from "Masonic
    ideas of advancement from stage to stage, from station to station, now placed
    on the eternities, given a sacred lineage within godhood."[^5]
 

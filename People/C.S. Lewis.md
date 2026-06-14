@@ -1,23 +1,53 @@
 ---
-aliases: ["C.S. Lewis", "Clive Staples Lewis"]
-tags: [type/person, tradition/anglican, role/scholar]
-authority: B
-authority_reason: "Oxford/Cambridge literary scholar and the 20th century's most influential lay Christian apologist (*Mere Christianity*). Anglican; quoted across traditions including LDS apologetics."
+aliases:
+  - "C.S. Lewis"
+  - "Clive Staples Lewis"
+tags:
+  - "#type/person"
+  - "#tradition/anglican"
+  - "#role/apologist"
+  - "#role/author"
 ---
 
-# C.S. Lewis (1898-1963)
+# C.S. Lewis
 
-Oxford and Cambridge literary scholar and the most widely read lay Christian apologist of the 20th century (*Mere Christianity*, *The Screwtape Letters*). Anglican, but quoted across Christian traditions.
+**Full Name:** Clive Staples Lewis
+**Era:** 1898–1963
+**Tradition:** Anglican (Church of England)
+**Role:** Literary scholar, Christian apologist, author
 
-## Faith and works
-Cited on Ward Radio for his image that arguing whether **faith or works** is more important is "like saying which one of the blades on a pair of scissors is more important" — both are needed together. See [[Faith and Works - Two Blades of the Scissors]] [^1].
+## Bio
 
-## Hell locked from the inside
-His line "the doors of hell are locked from the inside" anchors the free-will defense of hell (hell honors the damned's own choice), engaged in [[Hell - Free Will Defense Rebutted]] [^2].
+C.S. Lewis was a British writer, literary scholar, and lay theologian. He held
+academic positions at Oxford University (Magdalen College, 1925–1954) and later
+Cambridge University (Chair of Medieval and Renaissance Literature, 1954–1963).
+He is the author of *Mere Christianity*, *The Screwtape Letters*, *The Problem
+of Pain*, *Miracles*, and the *Chronicles of Narnia* series.
 
-## References
-[^1]: [[WardRadio - Top 9 Misconstrued Scriptures|Ward Radio - Top 9 Misconstrued Scriptures]], [44:30], https://youtu.be/lkiUEqR5OBI
-[^2]: [[All Those In Favor - Why Christianity is Probably Wrong about Hell|All Those In Favor - Why Christianity is Probably Wrong about Hell]], [18:30], https://youtu.be/PTzLAyoD9LY
+Lewis is widely regarded as the foremost 20th-century lay Christian apologist.
+His works remain influential across denominational lines.
 
----
-See also: [[People]] · [[Authority Ledger]]
+## Topics
+
+### The Sun Analogy (Presuppositional Apologetics)
+David Butler cites a Lewis analogy: "The reason I know Christianity is true
+isn't because I can see it. It's the same reason I know the sun is there at
+noon day when I'm looking out a window. You don't see at noon day. You can't see the
+sun when you're looking out of a window, but you can see everything else."[^1]
+
+The point: God may not be directly visible, but God's existence illuminates and
+makes sense of everything else — just as the sun, though not always directly
+visible through a window, is the light by which all other things are seen.
+
+This is a form of presuppositional or "inference to the best explanation"
+apologetics: theism is the axiom that makes the rest of reality coherent. See
+[[Presuppositional Apologetics - CS Lewis Sun Analogy]].
+
+### The Doors of Hell
+Lewis famously wrote that "the doors of hell are locked from the inside" —
+hell is a freely chosen state, not external punishment. This is cited in
+discussions of [[Hell - Free Will Defense Rebutted]].
+
+[^1]: [[Stick of Joseph - Atheism is Unreasonable and Stupid|Stick of Joseph
+- Atheism is Unreasonable and Stupid]], [46:31]–[47:00],
+https://youtu.be/aqOzROuIAHM

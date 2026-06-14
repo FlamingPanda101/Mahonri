@@ -35,7 +35,7 @@ From the King Follett Discourse:
 
 ## The Two Interpretations
 
-Benjamin Park frames this as a fundamental division:
+[[Benjamin Park]] frames this as a fundamental division:
 
 1. **Co-eternal spirits (Penrose view):** The spirits themselves — individual
    intelligences, the core "self" — are eternal with God. God did not create them;
@@ -65,7 +65,7 @@ This became a "crucial debate in LDS theological discussions for decades."[^4]
   about spirit birth and "correlated" the discussion "into the mainstream LDS
   teaching."[^7]
 - [[Bruce R. McConkie]] also disagreed with Roberts's footnotes on spirit birth.[^8]
-- Park notes this may seem "a bit trifling like determining how many angels can
+- [[Benjamin Park]] notes this may seem "a bit trifling like determining how many angels can
   dance on the head of a needle," but "this ends up being a crucial debate in LDS
   theological discussions for decades."[^9]
 
