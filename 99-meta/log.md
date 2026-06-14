@@ -1,5 +1,33 @@
 # Log
 
+## 2026-06-14 — Ingested Stick of Joseph: Atheism is Unreasonable and Stupid (Hayden Carroll)
+
+- **Source:** `Stick of Joseph - Atheism is Unreasonable and Stupid.md` (video, C-tier, https://youtu.be/aqOzROuIAHM, ~49:30)
+- **Host:** [[David Butler (Stick of Joseph)|David Butler]] | **Guest:** [[Hayden Carroll]]
+- **Source summary:** Hayden Carroll presents fine-tuning/teleological argument from Alma 30, argues atheism entails 4 bad implications (no free will, no morality, no consciousness, nihilism), and shows LDS theology uniquely solves these through co-eternality, eternal law, and pre-existence.
+- **People created:** [[Hayden Carroll]], [[David Butler (Stick of Joseph)]], [[Sam Harris]], [[Richard Dawkins]], [[Alex Rosenberg]], [[Daniel Dennett]], [[Friedrich Nietzsche]], [[Alex O'Connor]], [[Christopher Hitchens]], [[C.S. Lewis]], [[John Calvin]], [[Alma the Younger]]
+- **Scripture notes created:** [[Alma 30.44]], [[John 9.1-3]], [[Jeremiah 1.5]], [[D&C 130.20-21]]
+- **Concept notes created (17):**
+  - [[Fine-Tuning and the Teleological Argument from Alma 30]]
+  - [[Atheisms Four Bad Implications]]
+  - [[Free Will - Atheist Determinism vs LDS Co-Eternality]]
+  - [[Creation Ex Nihilo Leads to Determinism]]
+  - [[Calvinism Consistency with Atheism on Free Will]]
+  - [[Natural Selection Selects for Religiosity]]
+  - [[Homosexuality Problem for Atheistic Natural Selection]]
+  - [[Pre-Existence Implied by John 9]]
+  - [[Multiverse as Ad-Hoc Escape from Fine-Tuning]]
+  - [[Simulation Theory Aligns with LDS Second Estate]]
+  - [[Laundry Dryer Analogy for Design]]
+  - [[Moral Argument Against Atheism]]
+  - [[Nihilism as Logical Endpoint of Atheism]]
+  - [[Monopoly Analogy for Lifes Purpose]]
+  - [[Presuppositional Apologetics - CS Lewis Sun Analogy]]
+  - [[Consciousness and First Cause Problem for Atheism]]
+  - [[Fine-Tuning - Book of Mormon Anticipation of Modern Cosmology]]
+- **Existing notes updated:** [[Pre-Existence in Mainstream Christian Thought]] (added John 9 cross-ref), [[Consciousness Precedes Existence - Neuroscience and Pre-Existence]] (cross-linked to new consciousness note)
+- **Authority ratings:** Stick of Joseph → C (LDS apologetics, informed but not peer-reviewed). Hayden Carroll → C. Dawkins, Dennett, Rosenberg, Nietzsche, Harris → atheist primary sources quoted for concessions.
+
 ## 2025-06-14 — Ingested Benjamin Park: Did Joseph Smith Teach Men Can Become God?
 - **Source:** `Benjamin Park - Did Joseph Smith Teach Men Can Become God.md` (video, B-tier, https://youtu.be/sKQeEuCEgyY)
 - **People created:** [[Benjamin Park]] (B-tier, PhD historian), [[BH Roberts]], [[Lorenzo Snow]], [[Joseph F. Smith]], [[Charles Penrose]], [[Joseph Fielding Smith]], [[Bruce R. McConkie]], [[Wilford Woodruff]], [[Gordon B. Hinckley]], [[Brigham Young]], [[David Paulsen]], [[Terrell Givens]], [[William Law]], [[King Follett]], [[William Clayton]], [[Thomas Bullock]], [[Willard Richards]], [[Harold Bloom]], [[Alexander Campbell]], [[Jonathan Grimshaw]], [[Joseph Fielding]]

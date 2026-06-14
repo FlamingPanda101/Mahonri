@@ -34,6 +34,10 @@ A world-famous neuroscientist (unnamed in the source) has concluded that "consci
 - **Consciousness-precedes-matter ≠ individuated pre-mortal spirits:** Even if consciousness is fundamental to reality (as in panpsychism or idealism), this does not entail that *individual human persons* existed as discrete conscious agents before their biological birth. The jump from "consciousness is fundamental" to "you existed before you were born" is a non-sequitur without additional metaphysical premises.
 - **Materialism remains the dominant view:** The overwhelming consensus in neuroscience and philosophy of mind is that consciousness depends on brain function. One famous neuroscientist entertaining idealism does not overturn the mainstream view.
 
+## See Also
+
+- [[Consciousness and First Cause Problem for Atheism]] — [[Hayden Carroll]] argues atheism cannot account for consciousness from non-conscious origins; [[Daniel Dennett]] calls consciousness an illusion.
+
 ## References
 - [[Ward Radio - Is Mainstream Christianity Accidentally Becoming Mormon]]
 - [[Pre-Existence in Mainstream Christian Thought]]
