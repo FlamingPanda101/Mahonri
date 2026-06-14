@@ -1,19 +1,40 @@
 ---
-aliases: ["Thomas Aquinas", "St. Thomas Aquinas"]
-tags: [type/person, tradition/catholic, role/theologian]
-authority: A
-authority_reason: "Medieval Doctor of the Church; *Summa Theologiae* is a primary canonical theological source."
+aliases:
+  - "Thomas Aquinas"
+  - "St. Thomas Aquinas"
+tags:
+  - "#type/person"
+  - "#tradition/catholic"
+  - "#role/theologian"
+  - "#role/philosopher"
 ---
 
-# St. Thomas Aquinas (1225-1274)
+# Thomas Aquinas
 
-Medieval Dominican theologian and philosopher, author of the *Summa Theologiae*, a Doctor of the Church.
+**Full Name:** Thomas Aquinas
+**Era:** Medieval (1225–1274)
+**Tradition:** Roman Catholic (Dominican friar)
+**Role:** Theologian, philosopher, Doctor of the Church
 
-## The saints view the damned
-Cited (uncomfortably) for the claim that "in order that the happiness of the saints may be more delightful to them... they are allowed to see perfectly the sufferings of the damned" — used as an example of the "for God's glory" defense being morally troubling. See [[Hell - For Gods Glory Defense Rebutted]] [^1].
+## Bio
 
-## References
-[^1]: [[All Those In Favor - Why Christianity is Probably Wrong about Hell|All Those In Favor - Why Christianity is Probably Wrong about Hell]], [14:30], https://youtu.be/PTzLAyoD9LY
+Thomas Aquinas was a medieval Catholic theologian and philosopher whose work,
+particularly the *Summa Theologica* and *Summa Contra Gentiles*, synthesized
+Aristotelian philosophy with Christian theology. His "Five Ways" — five
+arguments for God's existence — include the teleological argument (the Fifth
+Way: argument from design / final causes). Aquinas argued that unintelligent
+natural bodies act toward ends, which requires an intelligent director — God.
 
----
-See also: [[People]] · [[Authority Ledger]]
+## Topics
+
+### Teleological Argument (Fifth Way)
+Aquinas's Fifth Way is a design argument based on the observation that natural
+things without intelligence act toward ends (teleology). [[David Butler]] and
+[[Hayden Carroll]] note that Alma 30:44 predates Aquinas's teleological
+argument by well over a millennium, making the Book of Mormon prophet [[Alma
+the Younger]] "the original teleological arguer" who anticipated the argument's
+structure.[^1] See [[Fine-Tuning and the Teleological Argument from Alma 30]].
+
+[^1]: [[Stick of Joseph - Atheism is Unreasonable and Stupid|Stick of Joseph
+- Atheism is Unreasonable and Stupid]], [34:00],
+https://youtu.be/aqOzROuIAHM

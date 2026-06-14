@@ -81,7 +81,7 @@ The LDS framework:
 - Individuals with same-sex attraction can exercise agency — choosing to live
   according to their inclinations or choosing to live according to religious
   covenants.
-- Carroll cites the example of Timber Harvard, an LDS man who experiences
+- Carroll cites the example of [[Timber Harvard]], an LDS man who experiences
   same-sex attraction but is married to a woman in the temple and has
   children.[^4]
 - The analogy: heterosexual married men are naturally inclined toward sexual

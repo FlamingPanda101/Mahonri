@@ -9,6 +9,8 @@ related:
   - "[[Nihilism as Logical Endpoint of Atheism]]"
   - "[[Atheisms Four Bad Implications]]"
   - "[[Presuppositional Apologetics - CS Lewis Sun Analogy]]"
+  - "[[2 Nephi 9.39|2 Nephi 9:39]]"
+  - "[[C.S. Lewis]]"
 sources:
   - "[[Stick of Joseph - Atheism is Unreasonable and Stupid]]"
 ---
@@ -72,8 +74,8 @@ Butler ties the analogy to the Book of Mormon:
 > we're doing in this world that doesn't have a greater purpose outside of
 > it."[^1]
 
-Reference: 2 Nephi 9:39 — "To be carnally-minded is death, and to be
-spiritually-minded is life eternal." The "carnal mind" is the person who only
+Reference: [[2 Nephi 9.39|2 Nephi 9:39]] — \"To be carnally-minded is death, and to be
+spiritually-minded is life eternal.\" The "carnal mind" is the person who only
 sees the game board — who treats temporal concerns as ultimate. The "spiritual
 mind" sees the meta-purpose — eternal joy, covenant relationships, returning to
 God.
@@ -170,6 +172,7 @@ counters the claim that eternal perspective breeds passivity.
 - [[David Butler (Stick of Joseph)|David Butler]]
 - [[Nihilism as Logical Endpoint of Atheism]]
 - [[Presuppositional Apologetics - CS Lewis Sun Analogy]]
+- [[2 Nephi 9.39|2 Nephi 9:39]]
 
 [^1]: [[Stick of Joseph - Atheism is Unreasonable and Stupid|Stick of Joseph
 - Atheism is Unreasonable and Stupid]], [42:30]–[43:31],

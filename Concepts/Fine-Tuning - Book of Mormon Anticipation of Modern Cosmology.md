@@ -75,7 +75,7 @@ of God in ways that align with modern discoveries.
 
 Carroll acknowledges that "there were pre-Joseph Smith theologians who were
 using the teleological argument" — but these were biological design arguments
-(William Paley's watchmaker, 1802; Thomas Aquinas's Fifth Way, 13th century).
+([[William Paley]]'s watchmaker, 1802; [[Thomas Aquinas]]'s Fifth Way, 13th century).
 They argued from the complexity of living organisms, not from cosmic
 fine-tuning.
 

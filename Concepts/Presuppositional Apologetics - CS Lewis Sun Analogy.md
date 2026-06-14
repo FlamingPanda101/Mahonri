@@ -52,7 +52,7 @@ hypothesis that, if true, makes the widest range of data coherent.
 
 ### 2. Russell Brunson's Geometry Analogy (Evidence Rating: Secondary — Illustrative)
 
-Butler references a conversation with Russell Brunson:
+Butler references a conversation with [[Russell Brunson]]:
 
 > "In geometry there are three constants that are unprovable and that's a
 > point, a line, and a plane. And I don't really understand how mathematic
