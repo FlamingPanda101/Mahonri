@@ -1,23 +1,25 @@
 ---
-aliases: ["Dan Beecher"]
-tags: [type/person, role/co-host, channel/data-over-dogma]
-authority: C
-authority_reason: "Data Over Dogma co-host; serves as the lay-audience interlocutor. Not a credentialed scholar; authority derives from facilitating the scholarly host."
+aliases:
+  - "Dan Beecher"
+tags:
+  - type/person
+  - tradition/academic-biblical-studies
+  - role/podcaster
+authority: B
+authority_reason: "Co-host of the Data Over Dogma podcast with Dan McClellan. Presents academic biblical scholarship in popular format."
 ---
 
 # Dan Beecher
 
-**Who:** Co-host of the *Data Over Dogma* podcast alongside [[Dan McClellan]]. Serves as the audience proxy — asking lay-level questions, role-playing apologetic objections, and providing comic relief.
+**Role:** Podcast co-host; public educator
+**Era:** Contemporary (active 2020s)
+**Tradition:** Academic biblical studies (popular-level)
 
-## Role on Data Over Dogma
+## Bio
 
-Beecher reads apologetic material (e.g., Answers in Genesis articles), raises common objections, and prompts McClellan to explain academic positions in accessible terms. In the nativity episode, he role-played apologetic rebuttals during the "Sorry Apologetics" segment. He also consults "Dr. Chat GPT" as a humorous foil — testing AI-generated claims against McClellan's expertise.[^1]
+Dan Beecher co-hosts the *Data Over Dogma* podcast with [[Dan McClellan]], presenting academic biblical scholarship to broad audiences in an accessible format. The podcast addresses common misconceptions about the Bible, contrasts academic and confessional approaches to scripture, and features discussions of biblical texts, history, and theology.
 
-## Notable Contributions
+## Key Topics
 
-- Flagged Tim Chaffy's "Dr." title as a potential red flag, noting James White's insistence on the title despite lacking a legitimate doctoral degree.[^2]
-- Raised the midrash question — whether Matthew's creative use of Hebrew Bible texts would have been understood as a legitimate Jewish interpretive practice.[^3]
-
-[^1]: [[Data Over Dogma - Prophecies Nativity and Sorry Apologetics|Data Over Dogma — Prophecies, Nativity, and Sorry Apologetics]], [18:00], https://youtu.be/VEfI1TgWVHY
-[^2]: [[Data Over Dogma - Prophecies Nativity and Sorry Apologetics|Data Over Dogma — Prophecies, Nativity, and Sorry Apologetics]], [04:30]-[05:33], https://youtu.be/VEfI1TgWVHY
-[^3]: [[Data Over Dogma - Prophecies Nativity and Sorry Apologetics|Data Over Dogma — Prophecies, Nativity, and Sorry Apologetics]], [20:00], https://youtu.be/VEfI1TgWVHY
+- [[Dan McClellan]] — co-host and primary scholarly voice
+- [[Dan McClellan - Wes Huff Creation Ex Nihilo Response]] — the podcast's approach exemplified in McClellan's public scholarship

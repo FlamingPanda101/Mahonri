@@ -66,7 +66,7 @@ McClellan notes: even this "more cautious" translation is "highly problematic" �
 
 ### 5. Pettinato's Translation as Norman Geisler's Pipeline
 
-McClellan observes that Huff's use of this specific Pettinato translation likely comes through Norman Geisler — one of the few published apologists who has deployed this exact Pettinato passage in defense of creation ex nihilo (and monotheism):[^3]
+McClellan observes that Huff's use of this specific Pettinato translation likely comes through [[Norman Geisler]] — one of the few published apologists who has deployed this exact Pettinato passage in defense of creation ex nihilo (and monotheism):[^3]
 
 > "This probably comes from Norman Geisler. That's the only other place I've seen someone actually publish this particular translation of Pettinato in defense of creation ex nihilo. And also it is frequently used to try to defend monotheism as well — which it doesn't do."[^3]
 
@@ -88,7 +88,7 @@ A defender might argue: Pettinato was the ORIGINAL epigrapher assigned to the Eb
 1. **"First access" does not confer accuracy.** Pettinato's sensationalism was fueled by his rush to publish apologetically-useful findings, not by superior epigraphic method. Archi, who had equal access and superior methodological rigor, systematically dismantled his readings.[^4]
 2. **The text is "quite incomprehensible" per the most cautious epigrapher.** This is not a matter of interpretive nuance — Archi states the text cannot be understood beyond the opening epithet.[^4]
 3. **Pettinato's track record is disqualifying.** When a translator claims to find Sodom, Gomorrah, Israelite kingship, Adonai, and monotheism in texts where no other scholar finds them, the pattern indicates motivated reasoning, not superior translation skill.
-4. **Huff's use of Pettinato is uncritical and secondhand.** Huff didn't cite Pettinato directly — he likely got it from Norman Geisler, a popular apologist, without engaging the scholarly critique.[^3]
+4. **Huff's use of Pettinato is uncritical and secondhand.** Huff didn't cite Pettinato directly — he likely got it from [[Norman Geisler]], a popular apologist, without engaging the scholarly critique.[^3]
 
 ## Best Quotes
 

@@ -1,19 +1,39 @@
 ---
-aliases: ["Norman Geisler", "Norm Geisler"]
-tags: [type/person, tradition/protestant, role/scholar]
-authority: B
-authority_reason: "Prolific Protestant (evangelical) theologian and apologist; influential popular/seminary-level author, not primarily peer-reviewed."
+aliases:
+  - "Norman Geisler"
+  - "Norman L. Geisler"
+tags:
+  - type/person
+  - tradition/evangelical
+  - role/apologist
+  - role/theologian
+authority: C
+authority_reason: "Evangelical apologist and prolific author. His systematic theology and apologetics works are popular-level secondary sources that circulate Pettinato's Ebla translations uncritically in defense of creation ex nihilo and monotheism."
 ---
 
-# Norman Geisler (1932-2019)
+# Norman Geisler
 
-Prolific American evangelical theologian and apologist.
+**Full name:** Norman Leo Geisler (1932–2019)
+**Role:** Evangelical theologian, apologist, and author
+**Era:** 20th–21st century
+**Tradition:** Evangelical Christianity
 
-## Sanctification by faith alone
-Cited as holding the strong view that "you are also being sanctified by faith alone," calling the contrary the "error of Galatianism." Trent Horn uses this as the position the Catholic view rejects — works *do* relate to our ongoing standing (short of the antinomian extreme). See [[Faith Alone but Never Alone]] [^1].
+## Bio
 
-## References
-[^1]: [[Council of Trent - James 2 Not By Faith Alone|Trent Horn - James 2]], [28:00], https://youtu.be/0LwEgFig00A
+Norman Geisler was one of the most prolific evangelical apologists of the late 20th century, authoring or co-authoring over 100 books. He served as president of Southern Evangelical Seminary and was a prominent voice in evangelical apologetics, particularly defending biblical inerrancy, creationism, and classical theism. His *Systematic Theology* (4 volumes) and *Baker Encyclopedia of Christian Apologetics* are widely used in evangelical circles.
 
----
-See also: [[People]] · [[Authority Ledger]]
+## Role in the Creation Ex Nihilo Debate
+
+Dan McClellan identifies Geisler as the likely pipeline through which [[Wes Huff]] encountered Giovanni Pettinato's discredited translation of the Ebla tablet TM.75.G1682 (which Huff misidentified as "EA 250" — see [[Wes Huff Misidentifies EA250 as Ebla Text]]):
+
+> "This probably comes from Norman Geisler. That's the only other place I've seen someone actually publish this particular translation of Pettinato in defense of creation ex nihilo. And also it is frequently used to try to defend monotheism as well — which it doesn't do."[^1]
+
+Geisler's apologetic works uncritically deploy Pettinato's translations — which were largely rejected by the scholarly community decades ago (see [[Pettinato Ebla Translation Unreliable]]) — without engaging the subsequent epigraphic refutation by [[Alfonso Archi]] or the broader scholarly consensus.
+
+## Key Topics
+
+- [[Ebla Archives Do Not Support Creation Ex Nihilo]]
+- [[Pettinato Ebla Translation Unreliable]]
+- [[Wes Huff Misidentifies EA250 as Ebla Text]]
+
+[^1]: [[Dan McClellan - Wes Huff Creation Ex Nihilo Response|Dan McClellan - Wes Huff Creation Ex Nihilo Response]], [09:31]-[10:00], https://youtu.be/VxpTLp6jCLI

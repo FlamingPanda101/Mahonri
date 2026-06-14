@@ -9,6 +9,8 @@ related:
   - "[[Free Will - Atheist Determinism vs LDS Co-Eternality]]"
   - "[[Calvinism Consistency with Atheism on Free Will]]"
   - "[[Atheisms Four Bad Implications]]"
+  - "[[Creation Ex Nihilo Originated Late 2nd Century CE]]"
+  - "[[Greco-Roman Jewish Creation View Was Material Substrate]]"
 sources:
   - "[[Stick of Joseph - Atheism is Unreasonable and Stupid]]"
 ---

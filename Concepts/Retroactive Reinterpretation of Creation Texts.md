@@ -70,8 +70,8 @@ McClellan identifies multiple texts that were retroactively reread:
 
 - **2 Maccabees 7:28** — from "not out of existing things" to "out of nothing"[^2]
 - **The Shepherd of Hermas** — from "out of non-being" (formless matter) to "out of nothing"[^6]
-- **Romans 4:17** — from "calls into existence things that do not exist" (covenantal promise context) to metaphysical creation ex nihilo[^2]
-- **Hebrews 11:3** — from "visible made from invisible" to creation from nothing[^2]
+- **[[Romans 4.17|Romans 4:17]]** — from "calls into existence things that do not exist" (covenantal promise context) to metaphysical creation ex nihilo[^2]
+- **[[Hebrews 11.3|Hebrews 11:3]]** — from "visible made from invisible" to creation from nothing[^2]
 - **Philo of Alexandria** — from Middle Platonic ordering of pre-existent matter to proto-ex-nihilo[^2]
 - **Genesis 1:1-2** — the *tohu wa-bohu* (formless and void) was original to the text, but later readers reinterpreted it as the initial state AFTER creation-from-nothing rather than the pre-existing chaos
 
@@ -87,7 +87,7 @@ A defender of Huff's position might argue: This "retroactive reinterpretation" f
 
 1. **Sensus plenior is a theological claim, not a historical one.** It may be true theologically that the "fuller sense" was always there — but historically, the texts meant what their authors and original audiences understood them to mean. And the original audiences of 2 Maccabees, Philo, Romans, and Hebrews lived in a world where "creation" meant ordering pre-existent matter.
 2. **The linguistic evidence is clear.** "Not out of things that exist" (οὐκ ἐξ ὄντων) and "out of things that are not" (ἐξ οὐκ ὄντων) are different formulations with different philosophical functions. Collapsing them into the same doctrine erases the actual historical development.
-3. **The Wisdom of Solomon 11:17 is the smoking gun.** Written roughly contemporaneously with 2 Maccabees, it explicitly says God created the world "out of formless matter" (ἐξ ἀμόρφου ὕλης). This is the standard Hellenistic Jewish view. It would be extraordinary for 2 Maccabees to teach creation ex nihilo while Wisdom of Solomon — from the same milieu — explicitly teaches creation from formless matter.
+3. **The Wisdom of Solomon 11:17 is the smoking gun.** Written roughly contemporaneously with 2 Maccabees, it explicitly says God created the world "out of formless matter" (ἐξ ἀμόρφου ὕλης). This is the standard Hellenistic Jewish view. It would be extraordinary for 2 Maccabees to teach creation ex nihilo while [[Wisdom 11.17|Wisdom of Solomon]] — from the same milieu — explicitly teaches creation from formless matter.
 4. **The development is traceable and fits the historical pressures.** The doctrine emerges exactly when and where we would expect given the Gnostic and philosophical debates of the late 2nd century. It doesn't "pop into existence" randomly — it emerges for specific, identifiable reasons that make sense of why earlier texts didn't teach it.[^7]
 
 ## Best Quotes

@@ -88,7 +88,7 @@ McClellan's gloss: "That's somebody who's coming to defend creation ex nihilo an
 
 The key phrase in 2 Maccabees 7:28 is οὐκ ἐξ ὄντων (*ouk ex ontōn*) — "not out of things that exist." In contemporary Greek philosophical usage, "non-being" (τὸ μὴ ὄν / *to mē on*) did not mean absolute nothingness. It referred to unformed, shapeless matter — the material substrate before it received form and function.
 
-Aristotle described creation as bringing things "from non-being into being" (*Physics* 1.8, 191b) and destruction as taking them "from being to non-being" — yet Aristotle categorically rejected creation ex nihilo. For Aristotle, "non-being" was the privation of form in pre-existing matter, not the absence of matter itself.[^10]
+Aristotle described creation as bringing things "from non-being into being" (*Physics* 1.8, 191b) and destruction as taking them "from being to non-being" — yet [[Aristotle]] categorically rejected creation ex nihilo. For Aristotle, "non-being" was the privation of form in pre-existing matter, not the absence of matter itself.[^10]
 
 McClellan explains:
 
@@ -109,8 +109,8 @@ The strongest case for reading 2 Maccabees 7:28 as creation ex nihilo: The text 
 ## Why the Steelman Fails
 
 1. **The womb analogy works against ex nihilo.** The mother says God formed her son in her womb — a process that clearly uses pre-existing biological material. If the cosmic creation parallels this (as the text's structure suggests), it too uses pre-existing substrate.[^7]
-2. **"Not out of things that existed" was standard philosophical idiom for ordering pre-existent matter.** Aristotle and other Greeks used "from non-being" language without meaning creation ex nihilo.[^10] The author of 2 Maccabees was philosophically literate and operating within this idiom.
-3. **Origen's 3rd-century reading is anachronistic.** Origen read the text AFTER Tatian, Theophilus, and Irenaeus had invented the doctrine of creation ex nihilo (late 2nd century) and retroactively imposed it on earlier texts. Origen was seeing the text through the lens they created.[^11]
+2. **"Not out of things that existed" was standard philosophical idiom for ordering pre-existent matter.** [[Aristotle]] and other Greeks used "from non-being" language without meaning creation ex nihilo.[^10] The author of 2 Maccabees was philosophically literate and operating within this idiom.
+3. **Origen's 3rd-century reading is anachronistic.** [[Origen]] read the text AFTER Tatian, Theophilus, and Irenaeus had invented the doctrine of creation ex nihilo (late 2nd century) and retroactively imposed it on earlier texts. Origen was seeing the text through the lens they created.[^11]
 4. **The consensus spans defenders and critics alike.** When scholars who WANT to find creation ex nihilo in 2 Maccabees (Goldstein, Anderson) nonetheless concede it's not clearly there, that's a powerful indicator.[^3][^9]
 5. **The text's own language parsed carefully.** "Not out of things that existed" (οὐκ ἐξ ὄντων) is NOT the same as "out of nothing" (ἐξ οὐκ ὄντων / ex ouk ontōn). The latter formulation — which WOULD explicitly state creation ex nihilo — only appears later, in Theophilus of Antioch and Irenaeus.[^12]
 

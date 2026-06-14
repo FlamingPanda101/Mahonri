@@ -55,7 +55,7 @@ McClellan uses this error as a diagnostic:
 
 > "Right off the bat, Wes is showing one, that he doesn't know the difference between EA and Amarna, and two, that he's just pulling uncritically from more than 50-year-old translations that have been widely panned and widely criticized by scholars as overly apologetic."[^4]
 
-The misidentification is not a trivial typo — it reveals that Huff is not working from primary epigraphic knowledge but is relying on secondhand apologetic sources (likely Norman Geisler)[^5] without verifying the underlying scholarship.
+The misidentification is not a trivial typo — it reveals that Huff is not working from primary epigraphic knowledge but is relying on secondhand apologetic sources (likely [[Norman Geisler]])[^5] without verifying the underlying scholarship.
 
 ### 4. The Ripple Effect
 

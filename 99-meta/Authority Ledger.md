@@ -41,7 +41,7 @@ C = informed, cited commentary · D = opinion / uncited
 | [[Jonathan Edwards]] | B | 18th-c. Puritan theologian (primary historical). |
 | [[William Wainwright]] | B | Philosopher of religion; "sin against an infinite being" argument. |
 | [[Ephrem the Syrian]] | B | 4th-c. Syriac church father; *Cave of Treasures* tradition (apocryphal in genre). |
-| [[Wes Huff]] | C | Christian apologist; here represents the "appeal to sinfulness" view (foil). |
+|| [[Wes Huff]] | C | Christian apologist; critiqued for reliance on discredited apologetic translations (Pettinato via Geisler) to defend creation ex nihilo. Popular-level, not peer-reviewed. |
 | [[Jonah (Plain and Precious Publishing)|Jonah]] | C | LDS author (Plain & Precious Publishing); compiles apocryphal sources, popular apologetics. |
 | [[Ted Patrick]] | D | Self-appointed 1970s "deprogrammer"; methods rejected by courts. Not an authority. |
 | [[Dan Beecher]] | C | *Data Over Dogma* co-host; lay-audience interlocutor, not a credentialed scholar. |
@@ -52,7 +52,20 @@ C = informed, cited commentary · D = opinion / uncited
 | [[Julius Wellhausen]] | A | Foundational German biblical scholar (1844–1918); Documentary Hypothesis (JEDP), *Prolegomena to the History of Israel*. |
 || *(example) Royal Skousen* | A | Book of Mormon textual criticism (BYU linguistics) |
 ||| Tim Chaffy | C | Answers in Genesis apologist; doctorate from accredited theological seminary. Writes popular apologetics for a young-earth creationist organization. |
-||| [[Benjamin Park]] | B | PhD historian; President of Mormon History Association; academic publications on Mormon history. Credentialed expert. |
+|| [[Benjamin Park]] | B | PhD historian; President of Mormon History Association; academic publications on Mormon history. Credentialed expert. |
+|| [[Gerhard May]] | A | Church historian; foundational study *Creatio Ex Nihilo* (German 1970s / English 1994). The standard reference on the doctrine's development. |
+|| [[David Winston]] | A | Philo of Alexandria scholar; demonstrated Philo taught creation from pre-existent matter (not ex nihilo). Peer-reviewed journal publications. |
+|| [[Jonathan Goldstein]] | A | Anchor Bible commentator (2 Maccabees, 1984); defended creation ex nihilo but conceded 2 Macc 7:28 does not teach it. Peer-reviewed. |
+|| [[Markus Bockmuehl]] | A | Professor at Oxford; co-editor of *Creation Ex Nihilo* (2018). Peer-reviewed university-press scholarship. |
+|| [[Gary Anderson]] | A | Co-editor of *Creation Ex Nihilo* (2018, with Bockmuehl); university-press publication. |
+|| [[Alfonso Archi]] | A | Second Ebla epigrapher; systematically refuted Pettinato's apologetic readings. Scholarly standard for Ebla studies. |
+|| [[James Hubler]] | B | Ph.D. dissertation (U. Penn, 1995) on creatio through Aquinas. Credentialed academic work; not yet published as monograph. |
+|| [[Philo of Alexandria]] | A | 1st-c. Hellenistic Jewish philosopher; primary source for Middle Platonic Judaism. Did NOT endorse creation ex nihilo. |
+|| [[Tatian]] | B | 2nd-c. Christian apologist; first known articulator of creation ex nihilo (c. 160 CE). Primary patristic source. |
+|| [[Theophilus of Antioch]] | B | 2nd-c. bishop; first explicit philosophical formulation of creation "out of things that are not" (c. 169 CE). Primary patristic source. |
+|| [[Irenaeus of Lyons]] | A | Late-2nd-c. church father; *Against Heresies* consolidated creation ex nihilo as anti-Gnostic polemic. Primary patristic source. |
+|| [[Giovanni Pettinato]] | C | Original Ebla epigrapher; apologetic translations widely discredited by subsequent scholarship (Archi, Chavalas). |
 
 ---
+
 See also: [[Home]]

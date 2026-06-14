@@ -52,7 +52,7 @@ McClellan explains why the doctrine emerged when it did:
 
 Key pressures that produced the doctrine:
 - **Gnostic dualism:** The Gnostic claim that matter is evil required an evil creator (demiurge) distinct from the good God. Creation ex nihilo undercut this by making the one good God the creator of matter itself.
-- **Resurrection debates:** Pagan critics like Celsus mocked the resurrection as impossible — reconstituting a body from scattered, decayed matter. Creation ex nihilo provided the theological counter: if God created matter from nothing originally, reassembling it at the resurrection is a lesser act.
+- **Resurrection debates:** Pagan critics like [[Celsus]] mocked the resurrection as impossible — reconstituting a body from scattered, decayed matter. Creation ex nihilo provided the theological counter: if God created matter from nothing originally, reassembling it at the resurrection is a lesser act.
 - **The *ex nihilo nihil fit* axiom:** Greco-Roman philosophy universally affirmed "nothing comes from nothing." To assert God's absolute sovereignty, Christian thinkers had to break this axiom — and they did.
 
 ### 5. The Pre-Existing Consensus: Creation from Material Substrate
@@ -65,8 +65,8 @@ This was the view found in:
 - 2 Maccabees 7:28 (see [[2 Maccabees 7.28 Does Not Teach Creation Ex Nihilo]])
 - The Shepherd of Hermas[^5]
 - Philo of Alexandria (see [[Philo Did Not Endorse Creation Ex Nihilo]])
-- Wisdom of Solomon 11:17 (God created the world "out of formless matter" — ἐξ ἀμόρφου ὕλης)
-- Romans 4:17 and Hebrews 11:3 (discussed below)
+- [[Wisdom 11.17|Wisdom of Solomon 11:17]] (God created the world "out of formless matter" — ἐξ ἀμόρφου ὕλης)
+- **[[Romans 4.17|Romans 4:17]]** and **[[Hebrews 11.3|Hebrews 11:3]]** (discussed below)
 
 ### 6. The Shepherd of Hermas Does Not Alter the Picture
 

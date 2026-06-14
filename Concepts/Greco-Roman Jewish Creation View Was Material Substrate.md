@@ -31,8 +31,8 @@ The conventional view across Greco-Roman period Judaism — and the broader Hell
 The principle that "nothing comes from nothing" was a bedrock of Greco-Roman thought:
 
 - **Parmenides (5th c. BCE):** "What is not" cannot be thought or spoken of; being is eternal and ungenerated. Nothing can come from nothing.
-- **Plato, *Timaeus*:** The Demiurge (divine craftsman) creates the world by looking to the eternal Forms and ordering the pre-existing "Receptacle" (χώρα / *chōra*) — chaotic, formless matter. Plato explicitly says the world "came into being" (γέγονεν), but from pre-existing principles, not from nothing.
-- **Aristotle, *Physics* 1.8–9:** Matter (ὕλη / *hylē*) is eternal. Creation is the actualization of potential in pre-existing matter, not generation from nothing. "Coming into being" is always from a substrate (ὑποκείμενον).
+- **[[Plato]], *Timaeus*:** The Demiurge (divine craftsman) creates the world by looking to the eternal Forms and ordering the pre-existing "Receptacle" (χώρα / *chōra*) — chaotic, formless matter. Plato explicitly says the world "came into being" (γέγονεν), but from pre-existing principles, not from nothing.
+- **[[Aristotle]], *Physics* 1.8–9:** Matter (ὕλη / *hylē*) is eternal. Creation is the actualization of potential in pre-existing matter, not generation from nothing. "Coming into being" is always from a substrate (ὑποκείμενον).
 - **Stoicism:** Two eternal principles — active (God/Logos) and passive (matter). God permeates and organizes matter but does not create it.
 - **Epicureanism:** Atoms are eternal; nothing comes from nothing, nothing returns to nothing.
 
@@ -50,7 +50,7 @@ In Aristotle's *Physics* 1.8 (191a–b), "non-being" (τὸ μὴ ὄν) is the 
 
 Perhaps the clearest statement of the Hellenistic Jewish view comes from the Wisdom of Solomon (c. 1st century BCE), roughly contemporary with 2 Maccabees:
 
-> "For your all-powerful hand, which created the world out of formless matter (ἐξ ἀμόρφου ὕλης / *ex amorphou hylēs*), did not lack the means to send upon them a multitude of bears or bold lions." (Wisdom 11:17, NRSV)
+> "For your all-powerful hand, which created the world out of formless matter (ἐξ ἀμόρφου ὕλης / *ex amorphou hylēs*), did not lack the means to send upon them a multitude of bears or bold lions." ([[Wisdom 11.17|Wisdom 11:17]], NRSV)
 
 This is the same authorial milieu as 2 Maccabees. The Greek phrase ἐξ ἀμόρφου ὕλης directly echoes Plato's *Timaeus* and explicitly affirms creation from pre-existent formless matter. If 2 Maccabees 7:28 were teaching creation ex nihilo, it would contradict this clear statement from a closely related text.
 
@@ -101,7 +101,7 @@ A traditional view might argue: Genesis 1:1 ("In the beginning, God created the 
 ## Why the Steelman Fails
 
 1. **_Bara_ does not entail creation from nothing.** The verb is used for God's creative acts within Genesis 1 that clearly involve pre-existing material (e.g., Genesis 1:21, God *bara* the sea creatures — from the waters that already existed; Genesis 1:27, God *bara* humanity — from the dust of the ground in Genesis 2:7). *Bara* means "to create" in the sense of bringing about something new through divine action, without specifying whether material was pre-existing.
-2. **Genesis 1:1 is grammatically ambiguous.** It can be read as a temporal clause ("When God began to create the heavens and the earth...") or a summary title. Many scholars (e.g., E.A. Speiser, *Anchor Bible Genesis*) argue the *tohu wa-bohu* of verse 2 is the starting condition, not something God created in verse 1 and then... left formless.
+2. **Genesis 1:1 is grammatically ambiguous.** It can be read as a temporal clause ("When God began to create the heavens and the earth...") or a summary title. Many scholars (e.g., [[E.A. Speiser]], *Anchor Bible Genesis*) argue the *tohu wa-bohu* of verse 2 is the starting condition, not something God created in verse 1 and then... left formless.
 3. **The consensus is not just "the world's opinion."** The material-substrate view was held by the biblical authors' own intellectual descendants (Philo, the author of Wisdom, the Maccabean author) in the very period when these texts were being written. This is not pagan opposition — it's the view of Hellenistic Judaism itself.
 4. **The development is historically traceable.** If creation ex nihilo were the Bible's own teaching, we would expect to find it articulated clearly somewhere in the pre-2nd-century Jewish or Christian corpus. Instead, we find Wisdom of Solomon explicitly teaching creation from formless matter, Philo teaching eternal passive matter, and 2 Maccabees using philosophical language consistent with the material-substrate view.
 

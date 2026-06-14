@@ -89,7 +89,7 @@ Philo read Genesis 1 through a Platonic lens. The "water, darkness, and chaos" (
 
 ## The Opposing View (Steelmanned)
 
-The strongest case that Philo taught creation ex nihilo: Philo repeatedly uses language of God creating "out of non-being" (ἐκ μὴ ὄντων / *ek mē ontōn*) and "calling the non-existent into existence." In *De Somniis* 1.76, Philo writes that God "created all things, bringing them into being from not-being." This sounds remarkably like later Christian formulations. Philo also emphasizes God's absolute sovereignty and the radical dependence of all creation on God in ways that strain the Platonic dualism of co-eternal matter. Some scholars (e.g., Harry Wolfson) have argued Philo effectively arrived at creation ex nihilo even if he didn't use the precise later terminology.
+The strongest case that Philo taught creation ex nihilo: Philo repeatedly uses language of God creating "out of non-being" (ἐκ μὴ ὄντων / *ek mē ontōn*) and "calling the non-existent into existence." In *De Somniis* 1.76, Philo writes that God "created all things, bringing them into being from not-being." This sounds remarkably like later Christian formulations. Philo also emphasizes God's absolute sovereignty and the radical dependence of all creation on God in ways that strain the Platonic dualism of co-eternal matter. Some scholars (e.g., [[Harry Wolfson]]) have argued Philo effectively arrived at creation ex nihilo even if he didn't use the precise later terminology.
 
 ## Why the Steelman Fails
 
@@ -98,7 +98,7 @@ The strongest case that Philo taught creation ex nihilo: Philo repeatedly uses l
 3. **Philo excludes matter from the things God created and praises.** The textual evidence from *Quis Rerum Divinarum Heres Sit* is hard to explain if Philo believed matter was created.[^4]
 4. **Philo's theodicy depends on uncreated matter.** Evil and difficulty come from the intractable, passive material principle — not from God. If God created everything from nothing, Philo's theodicy collapses.[^4]
 5. **Philo's Genesis exegesis treats "darkness, water, chaos" as pre-existent matter.** He reads Genesis 1:2 as depicting the passive principle awaiting divine ordering — not as describing an initial creation of matter.[^2]
-6. **The consensus is robust and long-standing.** Winston, May, Hubler, and the broader field of Philo studies agree Philo did not hold creation ex nihilo. The view that he did (e.g., Wolfson) is a minority position.
+6. **The consensus is robust and long-standing.** Winston, May, Hubler, and the broader field of Philo studies agree Philo did not hold creation ex nihilo. The view that he did (e.g., [[Harry Wolfson]]) is a minority position.
 
 ## Best Quotes
 
