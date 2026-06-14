@@ -25,3 +25,36 @@
   - [[Joseph Smith and Helen Mar Kimball Sealing]]
   - [[Nineteenth-Century Marriage Age Norms]]
 - **Authority Ledger updated:** Added Thoughtful Faith (C)
+
+## 2025-06-14 — Ingested Data Over Dogma: Prophecies, Nativity, and Sorry Apologetics
+- **Source:** `Data Over Dogma - Prophecies Nativity and Sorry Apologetics.md` (video, B-tier, https://youtu.be/VEfI1TgWVHY)
+- **People created:** [[Dan McClellan]] (B-tier, existing in Ledger), [[Dan Beecher]] (C-tier, new), [[Tim Chaffy]] (C-tier, new), [[Quirinius]] (historical figure)
+- **Scriptures created (6):** [[Isaiah 7.14]], [[Matthew 1.23]], [[Matthew 2.23]], [[Luke 2.2-3]], [[Luke 2.39]], [[Isaiah 11.1]]
+- **Concepts created — claims (6):**
+  - [[Isaiah 7.14 Virgin Birth Prophecy Is Mistranslated]]
+  - [[Virgin Birth Is a Later Development in the Jesus Tradition]]
+  - [[Matthews Nativity Contradicts Lukes Nativity]]
+  - [[Census of Quirinius Is Historically Unworkable]]
+  - [[Bethlehem Birth Is Likely an Invention to Fulfill Prophecy]]
+  - [[Nazarene Prophecy Has No Known Hebrew Bible Source]]
+- **Concepts created — objections/rebuttals (5):**
+  - [[Argument from Silence Is Not Always a Fallacy]]
+  - [[Matthew Does Not Explicitly Deny Nazareth as Home Town]]
+  - [[Luke Could Have Omitted the Flight to Egypt]]
+  - [[Prote Could Mean Before Quirinius]]
+  - [[Tacitus Cleitae Passage Does Not Support Roman Census of Client Kingdoms]]
+- **Authority Ledger updated:** Added Tim Chaffy (C)
+- **MOC updated:** Added Nativity & Prophecy domain to Apologetics MOC
+
+## 2025-06-14 — Ingested Ward Radio: Is Mainstream Christianity Accidentally Becoming Mormon?
+- **Source:** `Ward Radio - Is Mainstream Christianity Accidentally Becoming Mormon.md` (video, C-tier, https://youtu.be/kemS5Ql64EE)
+- **People created:** [[Terrell Given]] (B-tier, professor of religion)
+- **People updated:** [[David Bentley Hart]] (added Pre-existence section)
+- **Concepts created (6):**
+  - [[Convergence of Mainstream Christianity Toward LDS Doctrines]]
+  - [[Pre-Existence in Mainstream Christian Thought]]
+  - [[Embodied God in Christian Scholarship]]
+  - [[Feminine Divine in Ancient Near Eastern Worship]]
+  - [[LDS Theology as Restoration of Early Christianity]]
+  - [[Consciousness Precedes Existence - Neuroscience and Pre-Existence]]
+- **Authority Ledger updated:** Added Terrell Given (B)

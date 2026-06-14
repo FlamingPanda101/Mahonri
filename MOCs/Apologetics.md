@@ -15,7 +15,8 @@ Master map of the apologetics library. Repopulated as sources are ingested.
 | **NRM / Cult Scholarship** | Sociology of cults/new religious movements; brainwashing debunked |
 | **Catholic Justification** | James 2:24 vs *sola fide*; initial vs ongoing justification |
 | **Apocrypha & Canon** | Jesus's use of extra-biblical traditions; Deuteronomistic corruption |
-| **Problem of Hell** | Eternal conscious torment vs a loving Creator; degrees of glory |
+|| **Problem of Hell** | Eternal conscious torment vs a loving Creator; degrees of glory |
+|| **Nativity & Prophecy (Academic Critical)** | Nativity contradictions; Isaiah 7:14; virgin birth as later development; census of Quirinius |
 
 ## LDS Scripture Rebuttals
 
@@ -73,6 +74,39 @@ From [[WardRadio - Jesus Referenced the Apocrypha]] (with [[Jonah (Plain and Pre
 - [[Blood of Abel to Zechariah - Not A to Z]]
 - [[Deuteronomistic Corruption of the Old Testament]]
 - [[Multiple Attestation - Corroborating Apocryphal Sources]]
+
+## Nativity & Prophecy (Academic Critical)
+
+From [[Data Over Dogma - Prophecies Nativity and Sorry Apologetics]] (with [[Dan McClellan]], [[Dan Beecher]]):
+
+### Core Claims
+- [[Isaiah 7.14 Virgin Birth Prophecy Is Mistranslated]]
+- [[Virgin Birth Is a Later Development in the Jesus Tradition]]
+- [[Matthews Nativity Contradicts Lukes Nativity]]
+- [[Census of Quirinius Is Historically Unworkable]]
+- [[Bethlehem Birth Is Likely an Invention to Fulfill Prophecy]]
+- [[Nazarene Prophecy Has No Known Hebrew Bible Source]]
+
+### Apologetic Objections Rebutted
+- [[Argument from Silence Is Not Always a Fallacy]]
+- [[Matthew Does Not Explicitly Deny Nazareth as Home Town]]
+- [[Luke Could Have Omitted the Flight to Egypt]]
+- [[Prote Could Mean Before Quirinius]]
+- [[Tacitus Cleitae Passage Does Not Support Roman Census of Client Kingdoms]]
+
+### Key People
+- [[Dan McClellan]] — B-tier biblical scholar; public academic
+- [[Dan Beecher]] — C-tier co-host; lay interlocutor
+- [[Tim Chaffy]] — C-tier Answers in Genesis apologist
+- [[Quirinius]] — Roman governor of Syria (6 CE+)
+
+### Key Scriptures
+- [[Isaiah 7.14|Isaiah 7:14]] — *alma* (young woman) vs *parthenos* (virgin)
+- [[Matthew 1.23|Matthew 1:23]] — Matthew's altered quotation
+- [[Matthew 2.23|Matthew 2:23]] — the missing "Nazarene" prophecy
+- [[Luke 2.2-3|Luke 2:2-3]] — census under Quirinius
+- [[Luke 2.39|Luke 2:39]] — "their own city" Nazareth
+- [[Isaiah 11.1|Isaiah 11:1]] — *netzer* (branch) apologetic connection
 
 ## Problem of Hell
 

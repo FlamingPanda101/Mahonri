@@ -1,25 +1,23 @@
 ---
-tags:
-  - "#type/person"
-  - "#role/podcaster"
-  - "#tradition/academic-biblical-studies"
+aliases: ["Dan Beecher"]
+tags: [type/person, role/co-host, channel/data-over-dogma]
+authority: C
+authority_reason: "Data Over Dogma co-host; serves as the lay-audience interlocutor. Not a credentialed scholar; authority derives from facilitating the scholarly host."
 ---
 
 # Dan Beecher
 
-**Who:** Co-host of the *Data Over Dogma* podcast alongside [[Dan McClellan]]. Serves as the lay-audience interlocutor, asking clarifying questions that draw out McClellan's academic analysis.
+**Who:** Co-host of the *Data Over Dogma* podcast alongside [[Dan McClellan]]. Serves as the audience proxy — asking lay-level questions, role-playing apologetic objections, and providing comic relief.
 
-**Role:** In the podcast format, Beecher represents the curious non-specialist — he asks the "why did he kill a fig tree?" questions that prompt McClellan to explain scholarly frameworks in accessible terms.
+## Role on Data Over Dogma
 
-## Fig Tree Cursing
-Beecher expresses the common reader's confusion at the fig tree story: "I am wildly confused by this story ... vindictiveness against a tree is odd." His questions in [[Data Over Dogma - Fig Tree and Deutero-Isaiah]] draw out McClellan's metaphorical reading. See [[Fig Tree Cursing as Metaphor for Temple]].
+Beecher reads apologetic material (e.g., Answers in Genesis articles), raises common objections, and prompts McClellan to explain academic positions in accessible terms. In the nativity episode, he role-played apologetic rebuttals during the "Sorry Apologetics" segment. He also consults "Dr. Chat GPT" as a humorous foil — testing AI-generated claims against McClellan's expertise.[^1]
 
-## Deutero-Isaiah
-Beecher surfaces the gotquestions.org counter-claim (that multiple-Isaiah theories are "skepticism from those who want to call into question the Bible as God's inspired word"), allowing McClellan to address the apologetic framing directly. See [[Deutero-Isaiah Theory]], [[Apologetics vs Critical Scholarship]].
+## Notable Contributions
 
-## Bible as Project of Peoplehood (Jacob Wright Interview)
-Beecher co-hosted the interview with [[Jacob Wright]] on Wright's book *Why the Bible Began*. Beecher frames the conversation for a lay audience, draws Wright back to the "fifth-grade history" level when the scholarly discussion gets too technical, and raises the question of women's prominence in biblical narratives — prompting Wright's extended analysis of why female characters are central to the survival narrative of a defeated people. See [[Data Over Dogma - Why the Bible Began with Jacob Wright]], [[Women in Biblical Narrative as Survival Models]], [[Bible as Pedagogical Curriculum]].
+- Flagged Tim Chaffy's "Dr." title as a potential red flag, noting James White's insistence on the title despite lacking a legitimate doctoral degree.[^2]
+- Raised the midrash question — whether Matthew's creative use of Hebrew Bible texts would have been understood as a legitimate Jewish interpretive practice.[^3]
 
-## Sources
-- [[Data Over Dogma - Fig Tree and Deutero-Isaiah]]
-- [[Data Over Dogma - Why the Bible Began with Jacob Wright]]
+[^1]: [[Data Over Dogma - Prophecies Nativity and Sorry Apologetics|Data Over Dogma — Prophecies, Nativity, and Sorry Apologetics]], [18:00], https://youtu.be/VEfI1TgWVHY
+[^2]: [[Data Over Dogma - Prophecies Nativity and Sorry Apologetics|Data Over Dogma — Prophecies, Nativity, and Sorry Apologetics]], [04:30]-[05:33], https://youtu.be/VEfI1TgWVHY
+[^3]: [[Data Over Dogma - Prophecies Nativity and Sorry Apologetics|Data Over Dogma — Prophecies, Nativity, and Sorry Apologetics]], [20:00], https://youtu.be/VEfI1TgWVHY

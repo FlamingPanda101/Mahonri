@@ -44,7 +44,14 @@ C = informed, cited commentary · D = opinion / uncited
 | [[Wes Huff]] | C | Christian apologist; here represents the "appeal to sinfulness" view (foil). |
 | [[Jonah (Plain and Precious Publishing)|Jonah]] | C | LDS author (Plain & Precious Publishing); compiles apocryphal sources, popular apologetics. |
 | [[Ted Patrick]] | D | Self-appointed 1970s "deprogrammer"; methods rejected by courts. Not an authority. |
-|| [[Dan Beecher]] | C | *Data Over Dogma* co-host; lay-audience interlocutor, not a credentialed scholar. |\n|| [[Bernhard Duhm]] | A | German biblical scholar (1847–1928); 1892 commentary crystallized the three-author Isaiah theory. Foundational to OT scholarship. |\n|| [[Jacob Wright]] | A | Professor of Hebrew Bible, Emory University; Cambridge University Press author (*Why the Bible Began*). |\n|| [[Julius Wellhausen]] | A | Foundational German biblical scholar (1844–1918); Documentary Hypothesis (JEDP), *Prolegomena to the History of Israel*. |\n|| *(example) Royal Skousen* | A | Book of Mormon textual criticism (BYU linguistics) |
+| [[Dan Beecher]] | C | *Data Over Dogma* co-host; lay-audience interlocutor, not a credentialed scholar. |
+|| [[Terrell Given]] | B | Professor of religion; Latter-day Saint academic. Credentialed expert, LDS tradition perspective. |
+|| [[William Dever]] | B | Professor emeritus of Near Eastern archaeology, U. Arizona; *Did God Have a Wife?* (Eerdmans, 2005). Archaeologist, not a theologian. |
+| [[Bernhard Duhm]] | A | German biblical scholar (1847–1928); 1892 commentary crystallized the three-author Isaiah theory. Foundational to OT scholarship. |
+| [[Jacob Wright]] | A | Professor of Hebrew Bible, Emory University; Cambridge University Press author (*Why the Bible Began*). |
+| [[Julius Wellhausen]] | A | Foundational German biblical scholar (1844–1918); Documentary Hypothesis (JEDP), *Prolegomena to the History of Israel*. |
+|| *(example) Royal Skousen* | A | Book of Mormon textual criticism (BYU linguistics) |
+|| Tim Chaffy | C | Answers in Genesis apologist; doctorate from accredited theological seminary. Writes popular apologetics for a young-earth creationist organization. |
 
 ---
 See also: [[Home]]
