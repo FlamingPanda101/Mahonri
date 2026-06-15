@@ -2,8 +2,8 @@
 aliases:
   - "Did Joseph Smith Teach Men Can Become God?"
 tags:
-  - "#source/video"
-  - "#by/Benjamin Park"
+  - #source/video
+  - #by/benjamin-park
 date: 2026-02-09
 author: "[[Benjamin Park]]"
 url: "https://youtu.be/sKQeEuCEgyY"

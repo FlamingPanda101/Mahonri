@@ -3,13 +3,13 @@ aliases:
   - "Ward Radio - Brigham Young Character Interview"
 tags:
   - source/video
-  - by/Ward Radio
-  - by/Daniel Peterson
-  - topic/Brigham Young
+  - by/ward-radio
+  - by/daniel-peterson
+  - topic/brigham-young
   - topic/polygamy
-  - topic/priesthood ban
-  - topic/Adam-God
-  - topic/succession crisis
+  - topic/priesthood-ban
+  - topic/adam-god
+  - topic/succession-crisis
 url: "https://youtu.be/l7AlPFuK_cw"
 authority: C
 authority_reason: "Informed LDS apologetic podcast citing scholarly evidence (Peterson, Esplin, Kuth, Reeve). Panel commentary, not peer-reviewed. Guest Dan Peterson is Tier B individually."

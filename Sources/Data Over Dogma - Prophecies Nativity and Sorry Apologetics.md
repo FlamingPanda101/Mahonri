@@ -1,6 +1,6 @@
 ---
 aliases: ["Data Over Dogma - Prophecies, Nativity, and Sorry Apologetics"]
-tags: [source/video, by/Dan McClellan, by/Dan Beecher, channel/data-over-dogma, topic/nativity, topic/prophecy, topic/christmas]
+tags: [source/video, by/dan-mcclellan, by/dan-beecher, channel/data-over-dogma, topic/nativity, topic/prophecy, topic/christmas]
 date: 2025-12
 author: "Dan McClellan & Dan Beecher"
 url: https://youtu.be/VEfI1TgWVHY

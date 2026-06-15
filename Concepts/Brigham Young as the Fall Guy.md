@@ -9,7 +9,7 @@ sources:
   - "[[Lets Get Real - Why Its Easier to Flatten Brigham Young]]"
 tags:
   - apologetics
-  - topic/Brigham Young
+  - topic/brigham-young
   - tradition/lds
 ---
 #type/objection

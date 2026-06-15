@@ -8,7 +8,7 @@ sources:
   - "[[Lets Get Real - Why Its Easier to Flatten Brigham Young]]"
 tags:
   - apologetics
-  - topic/faith crisis
+  - topic/faith-crisis
   - topic/historiography
   - tradition/lds
 ---

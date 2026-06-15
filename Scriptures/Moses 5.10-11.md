@@ -4,8 +4,8 @@ aliases:
 tags:
   - type/scripture
   - testament/restoration
-  - topic/the Fall
-  - topic/learning by experience
+  - topic/the-fall
+  - topic/learning-by-experience
 ---
 
 # Moses 5.10-11

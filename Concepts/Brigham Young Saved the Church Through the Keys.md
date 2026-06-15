@@ -7,8 +7,8 @@ sources:
   - "[[Lets Get Real - Why Its Easier to Flatten Brigham Young]]"
 tags:
   - apologetics
-  - topic/succession crisis
-  - topic/priesthood keys
+  - topic/succession-crisis
+  - topic/priesthood-keys
   - tradition/lds
 ---
 #type/claim

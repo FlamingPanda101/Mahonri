@@ -3,7 +3,7 @@ aliases:
   - "Dan McClellan Responds to Wes Huff on Creation Ex Nihilo"
 tags:
   - source/video
-  - by/Dan McClellan
+  - by/dan-mcclellan
   - topic/creation-ex-nihilo
   - topic/creatio-ex-nihilo
 date: 2025-06-13

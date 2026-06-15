@@ -1,6 +1,6 @@
 ---
 aliases: ["Data Over Dogma - Left Behind: The Book of Enoch"]
-tags: [source/video, by/Dan McClellan, channel/data-over-dogma, topic/book-of-enoch, topic/pseudepigrapha, topic/canon, topic/apocalyptic-literature, topic/early-christology]
+tags: [source/video, by/dan-mcclellan, channel/data-over-dogma, topic/book-of-enoch, topic/pseudepigrapha, topic/canon, topic/apocalyptic-literature, topic/early-christology]
 date: 2025
 author: "Dan McClellan and Dan Beecher"
 url: https://youtu.be/zghJE1-ZCQw

@@ -7,8 +7,8 @@ sources:
   - "[[Lets Get Real - Why Its Easier to Flatten Brigham Young]]"
 tags:
   - apologetics
-  - topic/slavery in Utah
-  - topic/Native American history
+  - topic/slavery-in-utah
+  - topic/native-american-history
   - tradition/lds
 ---
 #type/rebuttal

@@ -4,8 +4,8 @@ aliases:
 tags:
   - type/scripture
   - testament/restoration
-  - topic/line upon line
-  - topic/prophetic fallibility
+  - topic/line-upon-line
+  - topic/prophetic-fallibility
 ---
 
 # 2 Nephi 28.30-32

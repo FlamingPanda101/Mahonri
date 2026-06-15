@@ -4,15 +4,15 @@ aliases:
   - "Dr. Dan Peterson E0051 - Flatten Brigham Young"
 tags:
   - source/video
-  - by/Daniel Peterson
-  - by/Stephen Jones
-  - channel/Lets Get Real
-  - topic/Brigham Young
-  - topic/prophetic fallibility
-  - topic/slavery in Utah
+  - by/daniel-peterson
+  - by/stephen-jones
+  - channel/lets-get-real
+  - topic/brigham-young
+  - topic/prophetic-fallibility
+  - topic/slavery-in-utah
   - topic/presentism
-  - topic/succession crisis
-  - topic/learning by experience
+  - topic/succession-crisis
+  - topic/learning-by-experience
 date: 2025
 author: Stephen Jones (host); Dr. Daniel C. Peterson (guest)
 url: "https://youtu.be/dssLIsMniWU"
