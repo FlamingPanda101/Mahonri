@@ -53,9 +53,20 @@ He defends a kenotic Christology (Christ's divine properties held "in potentiali
 - [[Worship of the Son Is Warranted Through Indwelling]]
 - [[Book of Mormon Father-and-Son Texts Resolve in Context]]
 
+## Spiritual Epistemology
+
+Ostler defends the **human heart (Hebrew *leb*) as the basis of religious knowledge** — a God-given faculty/"extra sense," with spiritual experience functioning as the interpretive *lens* rather than a piece of evidence. See:
+- [[Spiritual Experience Is the Lens Not the Picture]]
+- [[The Heart Is a God-Given Faculty for Knowing - Extra Sense Argument]]
+- [[Interpersonal Knowledge - Ginosko Not Just Propositions]]
+- [[Pragmatically Meaningful Knowledge vs Insane Certainty]]
+- [[Religious Inclusivism Answers the Pluralism Challenge]]
+- [[Reason Presupposes Emotion - The Neuroscience Reply to Materialism]]
+
 ## Key Sources
 
 - [[Thoughtful Faith - Blake Ostler on the Trinity]] (with Jacob Hansen)
+- [[Blake Ostler - The Heart as the Basis of Religious Knowledge]] (spiritual epistemology lecture)
 
 ## Sources
 [^1]: [[Thoughtful Faith - Blake Ostler on the Trinity|Thoughtful Faith - Blake Ostler on the Trinity]], [01:32]–[05:30], https://youtu.be/vR-gUV4t9m8
