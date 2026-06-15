@@ -5,7 +5,7 @@ tags: [moc]
 
 # Apologetics — Map of Content
 
-Auto-generated index. **93 sources** ingested. Browse Concepts / Scriptures / People folders or the graph; author tiers in [[Authority Ledger]]; channels in [[Sources Index]].
+Auto-generated index. **95 sources** ingested. Browse Concepts / Scriptures / People folders or the graph; author tiers in [[Authority Ledger]]; channels in [[Sources Index]].
 
 ## Sources Ingested
 
@@ -56,6 +56,7 @@ Auto-generated index. **93 sources** ingested. Browse Concepts / Scriptures / Pe
 | [[Lets Talk - Apologetics Course How to Talk to Protestants and Evangelicals]] | C | authority, canon, method, presuppositional-apologetics, sola-scriptura, trinity |
 | [[Lets Talk w Hayden Carroll - Is the Bible the Final Authority Debate]] | C | authority, canon, sola-scriptura |
 | [[Lets Talk w Hayden Carroll - Triune God Is Omnibenevolent Debate]] | C | creation, omnibenevolence, problem-of-hell, theodicy, trinity |
+| [[Life After Life - Raymond Moody]] | C | afterlife, consciousness, near-death-experience |
 | [[McClellan - The Fundamental Contradiction of the Trinity]] | B | divine-mediation, godhead, trinity |
 | [[Mormon Book Reviews - 40 Questions about Mormonism with Kyle Beshears]] | C | are-mormons-christian, book-of-mormon, countercult |
 | [[Mormonism with the Murf - Joseph Smith's Top 20 Fulfilled Prophecies]] | C | joseph-smith, prophecy |
@@ -71,6 +72,7 @@ Auto-generated index. **93 sources** ingested. Browse Concepts / Scriptures / Pe
 | [[Stick of Joseph - Did Muhammad Undercut Joseph Smith with Dan Peterson]] | B | book-of-mormon, doctrine-and-covenants, islam, jihad, joseph-smith, muhammad, prophets, quran |
 | [[Stick of Joseph - God Logic Trinity Debate Recap]] | C | trinity |
 | [[The Holy Rebellion - The Problem With Calling Joseph Smith a Con Man]] | C | folk-magic, joseph-smith-1826-trial, seer-stones, treasure-hunting |
+| [[The Scientific Case for Intelligent Design]] | C | existence-of-god, intelligent-design |
 | [[Thoughtful Faith - Apologetics Course Overview]] | C | apologetics-method |
 | [[Thoughtful Faith - Blake Ostler on the Trinity]] | B | divine-name, trinity |
 | [[Thoughtful Faith - Collective Witness Epistemology]] | C | epistemology |

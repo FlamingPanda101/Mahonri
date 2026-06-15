@@ -1,23 +1,28 @@
 # Consolidation Report
 
-*Scanned 2026-06-15 00:09 — 1107 concept notes.*
+*Scanned 2026-06-15 07:08 — 1248 concept notes.*
 
 Auto-detected. **Nothing was changed** — review and merge via Mahonri (tell it: merge note X into note Y) or by hand.
 
-## Likely duplicate concepts (11)
+## Likely duplicate concepts (16)
 - `The Canon Question Has No Objectively Correct Answer` ↔ `The Translation Question Has No Objectively Correct Answer`  (similarity 0.93)
 - `Humanity Created Before Animals in Genesis 2` ↔ `Humanity Created Before Plants in Genesis 2`  (similarity 0.92)
 - `The Word of God Is Not Confined to the Written Word` ↔ `The Word of God Was Never Confined to the Written Word`  (similarity 0.91)
+- `Pharmacological Explanation of NDEs Rebutted` ↔ `Psychological Explanations of NDEs Rebutted`  (similarity 0.9)
 - `The Judas Argument - Better Never to Have Been Born` ↔ `The Judas Problem - Better Never to Have Been Born`  (similarity 0.89)
 - `Same-Species-as-God as the Core LDS Distinctive in Theosis` ↔ `Same-Species-as-God as the Core LDS Distinctive`  (similarity 0.89)
+- `Neurological Explanations of NDEs Rebutted` ↔ `Psychological Explanations of NDEs Rebutted`  (similarity 0.89)
+- `Neurological Explanations of NDEs Rebutted` ↔ `Pharmacological Explanation of NDEs Rebutted`  (similarity 0.88)
 - `The Fourfold Medieval Sense of Scripture` ↔ `The Fourfold Sense of Scripture`  (similarity 0.87)
+- `Physiological Anoxia Explanation of NDEs Rebutted` ↔ `Psychological Explanations of NDEs Rebutted`  (similarity 0.85)
 - `Pre-Existence Solves the Problem of Evil` ↔ `Pre-Mortal Existence Dissolves the Problem of Hell`  (similarity 0.84)
+- `Pharmacological Explanation of NDEs Rebutted` ↔ `Physiological Anoxia Explanation of NDEs Rebutted`  (similarity 0.84)
 - `Appeal to Mystery Empties the Word Good` ↔ `The Appeal to Mystery Empties the Word Good of Meaning`  (similarity 0.84)
 - `Brethren Chiasmus in Alma 24` ↔ `Stain Chiasmus in Alma 24`  (similarity 0.83)
 - `Josiah Stowell Defends Joseph Smith` ↔ `Josiah Stowell Hires Joseph Smith 1825`  (similarity 0.82)
 - `Abolition Tracks Material Conditions Not Christian Conviction` ↔ `Feminism Tracks Material Conditions Not Christian Doctrine`  (similarity 0.82)
 
-## Broken wiki-links (436)
+## Broken wiki-links (458)
 - in **log.md** → `[[Alex O'Connor]]` (no such note)
 - in **A Parallel List Without Textual Analysis Carries No Burden.md** → `[[Book of Mormon]]` (no such note)
 - in **A Parallel List Without Textual Analysis Carries No Burden.md** → `[[Book of Mormon]]` (no such note)
@@ -29,6 +34,8 @@ Auto-detected. **Nothing was changed** — review and merge via Mahonri (tell it
   Hitchens]]` (no such note)
 - in **Atheisms Four Bad Implications.md** → `[[Alex O'Connor]]` (no such note)
 - in **Atheisms Four Bad Implications.md** → `[[Alex O'Connor]]` (no such note)
+- in **Athens Versus Jerusalem on the Worth of Human Life.md** → `[[The Value of Human Life Is a Faith
+   Claim Not a Rational One]]` (no such note)
 - in **Bishops Consolidated Patronage and Displaced Women Patrons.md** → `[[Latter-day Saints]]` (no such note)
 - in **Book of Enoch - 364 Day Solar Calendar.md** → `[[Qumran - Calendar Controversy]]` (no such note)
 - in **Book of Enoch - Dead Sea Scrolls Attestation.md** → `[[Dead Sea Scrolls]]` (no such note)
@@ -73,8 +80,6 @@ Historicity]]` (no such note)
 - in **Consubstantiality.md** → `[[Data Over Dogma - Is Jesus God in the Gospel of John?]]` (no such note)
 - in **Convergence Not Proof Is the Standard for Book of Mormon Historicity.md** → `[[Haplogroup X2A Is Not Valid Evidence for the
 Book of Mormon]]` (no such note)
-- in **Convergence Not Proof Is the Standard for Book of Mormon Historicity.md** → `[[Read the Book of Mormon as a Translated
-Ancient Text]]` (no such note)
 
 ## Orphan concepts — no links in or out (0)
 - none
