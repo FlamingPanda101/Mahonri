@@ -5,7 +5,7 @@ tags: [moc]
 
 # Apologetics — Map of Content
 
-Auto-generated index. **158 sources** ingested. Browse Concepts / Scriptures / People folders or the graph; author tiers in [[Authority Ledger]]; channels in [[Sources Index]].
+Auto-generated index. **160 sources** ingested. Browse Concepts / Scriptures / People folders or the graph; author tiers in [[Authority Ledger]]; channels in [[Sources Index]].
 
 ## Sources Ingested
 
@@ -60,6 +60,7 @@ Auto-generated index. **158 sources** ingested. Browse Concepts / Scriptures / P
 | [[Gavin Ortlund - Protestant and Mormon Discuss the Trinity]] | B | trinity |
 | [[Glenn L Pace Memo - The Mormon Satanic Panic]] | C | recovered-memory, ritual-abuse, satanic-panic, utah |
 | [[Glenn L Pace Memo - The Satanic Panic and False Memory]] | C | false-memory, satanic-panic |
+| [[Hayden Carroll - Ratio Christi Campus Talk]] | C | apologetics, book-of-mormon, grace, sola-scriptura |
 | [[Holy Rebellion - Anachronisms DNA and Archaeology in the Book of Mormon]] | B | anachronisms, archaeology, book-of-mormon, dna |
 | [[Hoover Institution - By Design - Behe Lennox and Meyer on the Evidence for a Creator]] | B | existence-of-god, intelligent-design |
 | [[Hoover Institution - Mathematical Challenges to Darwins Theory of Evolution]] | B | existence-of-god, intelligent-design |
@@ -84,6 +85,7 @@ Auto-generated index. **158 sources** ingested. Browse Concepts / Scriptures / P
 | [[Lets Talk w Hayden Carroll - Is the Bible the Final Authority Debate]] | C | authority, canon, sola-scriptura |
 | [[Lets Talk w Hayden Carroll - Triune God Is Omnibenevolent Debate]] | C | creation, omnibenevolence, problem-of-hell, theodicy, trinity |
 | [[Life After Life - Raymond Moody]] | C | afterlife, consciousness, near-death-experience |
+| [[Light and Truth - Saved by Grace or Works]] | C | apologetics, grace, soteriology |
 | [[Light and Truth Letter - Austin Fife]] | C | apologetics, ces-letter, challenges |
 | [[McClellan - The Fundamental Contradiction of the Trinity]] | B | divine-mediation, godhead, trinity |
 | [[Mormon Book Reviews - 40 Questions about Mormonism with Kyle Beshears]] | C | are-mormons-christian, book-of-mormon, countercult |

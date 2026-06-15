@@ -3,7 +3,7 @@
 State as of 2026-06-15. The vault is git-backed + auto-pushed by `sync-advocate-loop.ps1`. To continue in a NEW session, read this file first.
 
 ## Where things stand
-~158 sources, ~1,710 Concepts, ~425 Scriptures, ~612 People, 398-scholar Authority Ledger. Books ingested: *Ancient Christians*; all 6 TF Level-1 PDFs (Moody, Meyer, Harris, Ward, Turek, Feser); plus **Fife — *Light and Truth Letter*** (point-by-point CES-Letter rebuttal) and **BYU — *The Restored Gospel of Jesus Christ and Evolution*** (2025, edited volume). **TF L1 videos ~53/55** (`[MM:SS]`+url citations); **main-list videos (bucket C): 22/27 ingested** (2026-06-15). Course hub: [[Thoughtful Faith Apologetics Course]].
+~160 sources, ~1,720 Concepts, ~425 Scriptures, ~612 People, 398-scholar Authority Ledger. Books/docs ingested: *Ancient Christians*; all 6 TF Level-1 PDFs (Moody, Meyer, Harris, Ward, Turek, Feser); **Fife — *Light and Truth Letter***; **BYU — *The Restored Gospel of Jesus Christ and Evolution*** (2025); plus the **"Saved by Grace or Works?"** grace handout and **Hayden Carroll's Ratio Christi campus talk** (the latter also folded into his People note). **TF L1 videos ~53/55** (`[MM:SS]`+url citations); **main-list videos (bucket C): 22/27 ingested** (2026-06-15). Course hub: [[Thoughtful Faith Apologetics Course]].
 
 ## The pipeline (all reusable; scripts in `C:\Users\Josep\AppData\Local\hermes\scripts\`)
 Python venv: `C:\Users\Josep\AppData\Local\hermes\hermes-agent\venv\Scripts\python.exe`

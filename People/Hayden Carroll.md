@@ -36,7 +36,10 @@ Carroll's apologetic style combines:
 - Street-epistemology style Socratic questioning
 
 He appeared on the [[Stick of Joseph]] podcast with David Butler in February
-2026 to discuss his conversations with atheists on campus.
+2026 to discuss his conversations with atheists on campus. He has also delivered
+a prepared talk to a Ratio Christi (Evangelical campus apologetics) chapter
+presenting the Latter-day Saint case to a non-LDS Christian audience — see
+[[Hayden Carroll - Ratio Christi Campus Talk]].
 
 ## Topics
 
@@ -67,6 +70,13 @@ may have believed in pre-existence.[^6] See [[Pre-Existence Implied by John 9]].
 ### The Bible's Authority / Canon Debate
 In the moderated debate [[Lets Talk w Hayden Carroll - Is the Bible the Final Authority Debate|"Is the Bible the Final Authority?"]] (his own channel) Carroll argues the **negative** against the resolution that the 66-book Protestant canon is the *infallible and ultimate* authority. His signature move is the **authorization argument**: the affirmative must show a *public, unambiguous divine designation* of this specific canon, which he says has never been produced.[^7] Linked concepts: [[Authorization - Divine Designation Required for an Infallible Canon]], [[The Canon Question Is Logically Prior to Canon Authority]], [[Inspired vs Infallible vs Ultimate - A Distinction]], [[The Circularity Charge Against Self-Attesting Scripture]], [[No Final Interpreter - The Protestant Adjudication Problem]], [[The Church Once Accepted Books It Later Rejected]], [[The Compass Without a Calibrator]], [[LDS Reject the Song of Solomon as Inspired]]. His posture: concede the Bible is inspired/reliable/authoritative while denying infallibility/ultimacy — "sincerity is not the same as authorization."[^8]
 
+### Ratio Christi Campus Talk — Sola Scriptura, Grace, and the Book of Mormon
+Invited to address a Ratio Christi (Evangelical campus apologetics) chapter, Carroll gave a prepared talk to "get inside the head of a Latter-day Saint," distilling his apologetic into four moves [^9]:
+- **Grace first.** He opens on common ground — the Fall, the Atonement, and salvation by grace through faith manifested in works ("salvation caused by any human act... preaches blasphemy"), reading 2 Nephi 25:23 as [[After All We Can Do Means In Spite of All We Can Do|"in spite of all we can do"]]. Cf. [[LDS Salvation Is by Grace Not Earned by Works]] and the handout [[Light and Truth - Saved by Grace or Works]].
+- **Three problems with Sola Scriptura** — interpretation, logic, and canon — which he calls the root of nearly every Latter-day Saint vs. Protestant disagreement. See [[The Three Problems with Sola Scriptura - Interpretation Logic Canon]].
+- **A positive alternative:** God Himself (not any book) is the ultimate authority, revealed by the Spirit; he answers the "feelings alone" charge with five converging mediums of revelation; and he notes even [[James White]] grounds his assurance of salvation in the Spirit's witness, not the Bible. See [[God Himself Not a Book Is the Ultimate Authority]], [[Triangulating Truth - Five Mediums of Revelation]], [[James White Appeals to the Spirit Not the Bible for Assurance]].
+- **The keystone evidence:** if the Book of Mormon is authentic, the Restoration follows; the dictation feat is inexplicable given Joseph Smith's documented lack of education. See [[The Book of Mormon Keystone Argument]].[^10]
+
 [^1]: [[Stick of Joseph - Atheism is Unreasonable and Stupid|Stick of Joseph - Atheism is Unreasonable and Stupid]], [00:31]–[01:30],
 https://youtu.be/aqOzROuIAHM
 
@@ -88,3 +98,7 @@ https://youtu.be/aqOzROuIAHM
 [^7]: [[Lets Talk w Hayden Carroll - Is the Bible the Final Authority Debate|Let's Talk w/ Hayden Carroll - Is the Bible the Final Authority?]], [19:30], https://youtu.be/x5EbiJLb8U0
 
 [^8]: [[Lets Talk w Hayden Carroll - Is the Bible the Final Authority Debate|Let's Talk w/ Hayden Carroll - Is the Bible the Final Authority?]], [85:00], https://youtu.be/x5EbiJLb8U0
+
+[^9]: [[Hayden Carroll - Ratio Christi Campus Talk|Hayden Carroll, Ratio Christi Campus Talk]], pp.1-10.
+
+[^10]: [[Hayden Carroll - Ratio Christi Campus Talk|Hayden Carroll, Ratio Christi Campus Talk]], pp.10-12.

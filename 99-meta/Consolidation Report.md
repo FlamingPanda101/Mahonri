@@ -1,12 +1,13 @@
 # Consolidation Report
 
-*Scanned 2026-06-15 11:20 — 1714 concept notes.*
+*Scanned 2026-06-15 11:36 — 1723 concept notes.*
 
 Auto-detected. **Nothing was changed** — review and merge via Mahonri (tell it: merge note X into note Y) or by hand.
 
-## Likely duplicate concepts (17)
+## Likely duplicate concepts (18)
 - `The Canon Question Has No Objectively Correct Answer` ↔ `The Translation Question Has No Objectively Correct Answer`  (similarity 0.93)
 - `Humanity Created Before Animals in Genesis 2` ↔ `Humanity Created Before Plants in Genesis 2`  (similarity 0.92)
+- `After All We Can Do Means Despite All We Can Do` ↔ `After All We Can Do Means In Spite of All We Can Do`  (similarity 0.92)
 - `The Word of God Is Not Confined to the Written Word` ↔ `The Word of God Was Never Confined to the Written Word`  (similarity 0.91)
 - `Pharmacological Explanation of NDEs Rebutted` ↔ `Psychological Explanations of NDEs Rebutted`  (similarity 0.9)
 - `The Judas Argument - Better Never to Have Been Born` ↔ `The Judas Problem - Better Never to Have Been Born`  (similarity 0.89)
@@ -23,7 +24,7 @@ Auto-detected. **Nothing was changed** — review and merge via Mahonri (tell it
 - `Anthropic Fine-Tuning Points to a Designer` ↔ `Cosmic Fine-Tuning Points to a Designer (Turek)`  (similarity 0.82)
 - `Abolition Tracks Material Conditions Not Christian Conviction` ↔ `Feminism Tracks Material Conditions Not Christian Doctrine`  (similarity 0.82)
 
-## Broken wiki-links (184)
+## Broken wiki-links (187)
 - in **Accepting Evolution with Joy Is Possible.md** → `[[Henry Eyring]]` (no such note)
 - in **Anthropomorphic God in the Hebrew Bible.md** → `[[Exodus 33.11]]` (no such note)
 - in **Atheism Undercuts the Rationality Science Requires.md** → `[[D&C 131]]` (no such note)
@@ -72,8 +73,8 @@ Auto-detected. **Nothing was changed** — review and merge via Mahonri (tell it
 - in **Fig Tree Cursing as Metaphor for Temple.md** → `[[Cleansing of the Temple]]` (no such note)
 - in **Galatians 1-6 Marvel Ye Are So Soon Removed Early Apostasy.md** → `[[Great Apostasy and Need for Restoration]]` (no such note)
 - in **Galatians 1-6 Marvel Ye Are So Soon Removed Early Apostasy.md** → `[[Great Apostasy and Need for Restoration]]` (no such note)
-- in **Grace at Gunpoint Is Not Worship.md** → `[[Doctrine and Covenants 20.32-34]]` (no such note)
-- in **Holy Envy - What Latter-day Saints Can Learn from Islam.md** → `[[Word of Wisdom]]` (no such note)
+- in **God Himself Not a Book Is the Ultimate Authority.md** → `[[Fallible Humans Cannot Produce an Infallible Bible]]` (no such note)
+- in **God Himself Not a Book Is the Ultimate Authority.md** → `[[Fallible Humans Cannot Produce an Infallible Bible]]` (no such note)
 
 ## Orphan concepts — no links in or out (0)
 - none
