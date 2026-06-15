@@ -1,125 +1,52 @@
 ---
-title: "Apologetics"
+title: Apologetics
 tags: [moc]
 ---
 
 # Apologetics — Map of Content
 
-Master map of the apologetics library. Repopulated as sources are ingested.
+Auto-generated index. **36 sources** ingested. Browse the Concepts / Scriptures / People folders or the graph; author tiers in [[Authority Ledger]]; channels in [[Sources Index]].
 
-## Domains
+## Sources Ingested
 
-| Domain | Focus |
-|--------|-------|
-| **LDS Scripture Rebuttals** | Bible verses weaponized against the Church, read in context |
-| **NRM / Cult Scholarship** | Sociology of cults/new religious movements; brainwashing debunked |
-| **Catholic Justification** | James 2:24 vs *sola fide*; initial vs ongoing justification |
-| **Apocrypha & Canon** | Jesus's use of extra-biblical traditions; Deuteronomistic corruption |
-|| **Problem of Hell** | Eternal conscious torment vs a loving Creator; degrees of glory |
-|| **Nativity & Prophecy (Academic Critical)** | Nativity contradictions; Isaiah 7:14; virgin birth as later development; census of Quirinius |
-
-## LDS Scripture Rebuttals
-
-Nine commonly misconstrued verses (from [[WardRadio - Top 9 Misconstrued Scriptures]]):
-
-1. [[Revelation 22 - Add or Take Away Rebutted]] — canon / Book of Mormon
-2. [[Galatians 1-8 - Angel Preaching Another Gospel]] — angels / Judaizers
-3. [[John 10-30 - I and the Father Are One Rebutted]] — Trinity / oneness
-4. [[1 John 5-7 - Johannine Comma Interpolation]] — Trinity / textual criticism
-5. [[Isaiah 43-10 - No God Formed Before Me Rebutted]] — divine plurality
-6. [[Hebrews 1-1-2 - Jesus the Last Prophet Rebutted]] — continuing revelation
-7. [[Ephesians 2-8-9 - Saved by Grace Not Works Rebutted]] — grace vs works
-8. [[Matthew 22-30 - No Marriage in Resurrection Rebutted]] — eternal marriage
-9. [[John 4-24 - God Is Spirit Rebutted]] — embodiment of God
-
-### Cross-cutting themes
-- [[Definition of Gospel]]
-- [[Orthopraxy over Orthodoxy]]
-- [[Degrees of Glory vs Heaven]]
-- [[Faith and Works - Two Blades of the Scissors]]
-
-## NRM / Cult Scholarship
-
-From [[WardRadio - Lorne Dawson NRM Interview]] (with [[Lorne Dawson]]):
-
-- [[Cult - A Contaminated Pejorative Term]]
-- [[Church Sect Cult Distinction]]
-- [[Where Mormons Rank on the Church-Sect Continuum]]
-- [[Family Resemblance Definition of Cults]]
-- [[Christianity Began as a New Religious Movement]]
-- [[Brainwashing Does Not Exist]]
-- [[Why People Join New Religious Movements]]
-- [[Cult Accusation as Political Weapon]]
-
-## Catholic Justification
-
-From [[Council of Trent - James 2 Not By Faith Alone]] (with [[Trent Horn]]):
-
-- [[James 2-24 - Justified by Works Not Faith Alone]]
-- [[James - Different Kind of Faith Reply Rebutted]]
-- [[James - Justification Before Men Reply Rebutted]]
-- [[Initial vs Ongoing Justification]]
-- [[Faith Alone but Never Alone]]
-- [[Luther and the Epistle of Straw]]
-- [[Justification - Infusion vs Legal Fiction]]
-- [[Assurance of Salvation - Catholic vs Protestant]]
-
-## Apocrypha & Canon
-
-From [[WardRadio - Jesus Referenced the Apocrypha]] (with [[Jonah (Plain and Precious Publishing)|Jonah]]):
-
-- [[Jesus Referenced the Apocrypha]]
-- [[Blood of Abel - Unburiable Tradition]]
-- [[Blood of Zechariah - Perpetual Boiling Blood]]
-- [[Blood of Abel to Zechariah - Not A to Z]]
-- [[Deuteronomistic Corruption of the Old Testament]]
-- [[Multiple Attestation - Corroborating Apocryphal Sources]]
-
-## Nativity & Prophecy (Academic Critical)
-
-From [[Data Over Dogma - Prophecies Nativity and Sorry Apologetics]] (with [[Dan McClellan]], [[Dan Beecher]]):
-
-### Core Claims
-- [[Isaiah 7.14 Virgin Birth Prophecy Is Mistranslated]]
-- [[Virgin Birth Is a Later Development in the Jesus Tradition]]
-- [[Matthews Nativity Contradicts Lukes Nativity]]
-- [[Census of Quirinius Is Historically Unworkable]]
-- [[Bethlehem Birth Is Likely an Invention to Fulfill Prophecy]]
-- [[Nazarene Prophecy Has No Known Hebrew Bible Source]]
-
-### Apologetic Objections Rebutted
-- [[Argument from Silence Is Not Always a Fallacy]]
-- [[Matthew Does Not Explicitly Deny Nazareth as Home Town]]
-- [[Luke Could Have Omitted the Flight to Egypt]]
-- [[Prote Could Mean Before Quirinius]]
-- [[Tacitus Cleitae Passage Does Not Support Roman Census of Client Kingdoms]]
-
-### Key People
-- [[Dan McClellan]] — B-tier biblical scholar; public academic
-- [[Dan Beecher]] — C-tier co-host; lay interlocutor
-- [[Tim Chaffy]] — C-tier Answers in Genesis apologist
-- [[Quirinius]] — Roman governor of Syria (6 CE+)
-
-### Key Scriptures
-- [[Isaiah 7.14|Isaiah 7:14]] — *alma* (young woman) vs *parthenos* (virgin)
-- [[Matthew 1.23|Matthew 1:23]] — Matthew's altered quotation
-- [[Matthew 2.23|Matthew 2:23]] — the missing "Nazarene" prophecy
-- [[Luke 2.2-3|Luke 2:2-3]] — census under Quirinius
-- [[Luke 2.39|Luke 2:39]] — "their own city" Nazareth
-- [[Isaiah 11.1|Isaiah 11:1]] — *netzer* (branch) apologetic connection
-
-## Problem of Hell
-
-From [[All Those In Favor - Why Christianity is Probably Wrong about Hell]]:
-
-- [[Problem of Hell and Creation]]
-- [[Hell - Appeal to Sinfulness Rebutted]]
-- [[Hell - Finite Sin vs Infinite Punishment]]
-- [[Hell - Watchmaker Wind Up and Go Rebutted]]
-- [[Hell - For Gods Glory Defense Rebutted]]
-- [[Hell - Appeal to the Fall Rebutted]]
-- [[Hell - Free Will Defense Rebutted]]
-- [[LDS Afterlife - Degrees of Glory]]
+| Source | Tier | Topics |
+|--------|------|--------|
+| [[All Those In Favor - Why Christianity is Probably Wrong about Hell]] | C | problem-of-hell |
+| [[Benjamin Park - Did Joseph Smith Teach Men Can Become God]] | B |  |
+| [[Council of Trent - James 2 Not By Faith Alone]] | B | justification |
+| [[Council of Trent - The Self-Authenticating Canon Refuted]] | B | canon, self-authentication, sola-scriptura |
+| [[Council of Trent - The Word of God Fallacy]] | B | authority, biblical-theology, canon, church-fathers, sola-scriptura, word-of-god |
+| [[Dan McClellan - Apologetics Cannot Rescue Biblical Contradictions]] | B | apologetics-critique, biblical-contradictions, inerrancy |
+| [[Dan McClellan - Are There Contradictions in the Bible]] | B | biblical-contradictions, harmonization, inerrancy |
+| [[Dan McClellan - Biblical Slavery and the Reformation Red Pill Rebuttal]] | B | apologetics-critique, biblical-ethics, slavery |
+| [[Dan McClellan - Engaging Gavin Ortlund on Monotheism]] | B | divine-plurality, elohim, idol-polemic, monotheism |
+| [[Dan McClellan - Genesis 2 Is Not a Zoomed-In Sixth Day]] | B | apologetics-critique, biblical-contradictions, creation, documentary-hypothesis, genesis, source-criticism |
+| [[Dan McClellan - I and the Father Are One John 10 Trinity Rebuttal]] | B | christology, divine-council, divinization, trinity |
+| [[Dan McClellan - Wes Huff Creation Ex Nihilo Response]] | B | creatio-ex-nihilo, creation-ex-nihilo |
+| [[Dan McClellan - Why Did God Harden Pharaohs Heart]] | B | apologetics-critique, divine-determinism, exodus, free-will, pharaoh-hardened-heart |
+| [[Data Over Dogma - Fig Tree and Deutero-Isaiah]] | B |  |
+| [[Data Over Dogma - Is Jesus God in the Gospel of John]] | B |  |
+| [[Data Over Dogma - Left Behind The Book of Enoch]] | B | apocalyptic-literature, book-of-enoch, canon, early-christology, pseudepigrapha |
+| [[Data Over Dogma - Prophecies Nativity and Sorry Apologetics]] | B | christmas, nativity, prophecy |
+| [[Data Over Dogma - The Gospel of John A New History with Hugo Mendez]] | B | gospel-of-john, johannine-community, pseudepigraphy |
+| [[Data Over Dogma - Why the Bible Began with Jacob Wright]] | B |  |
+| [[Gavin Ortlund - Protestant and Mormon Discuss the Trinity]] | B | trinity |
+| [[Informed Saints - The Surprising REAL Reason People Are Leaving The Church]] | C | disaffiliation, high-demand-religion, mental-health, politics-and-religion, retention, secularization, suicide, well-being |
+| [[Keystone - LDS Scholar Debunks Myths About Declining Membership]] | B | religiosity-data, retention |
+| [[Lets Get Real - The Racial Curse in Abraham Isnt What You Think]] | C | abrahamic-covenant, binding-of-isaac, book-of-abraham, curse-of-canaan, curse-of-ham, historical-method, interracial-marriage, joseph-smith, presentism, priesthood-ban, prophetic-translation |
+| [[Lets Get Real - Why Its Easier to Flatten Brigham Young]] | C | brigham-young, learning-by-experience, presentism, prophetic-fallibility, slavery-in-utah, succession-crisis |
+| [[Lets Talk - Apologetics Course How to Talk to Protestants and Evangelicals]] | C | authority, canon, method, presuppositional-apologetics, sola-scriptura, trinity |
+| [[Lets Talk w Hayden Carroll - Is the Bible the Final Authority Debate]] | C | authority, canon, sola-scriptura |
+| [[McClellan - The Fundamental Contradiction of the Trinity]] | B | divine-mediation, godhead, trinity |
+| [[Stick of Joseph - Atheism is Unreasonable and Stupid]] | C |  |
+| [[The Holy Rebellion - The Problem With Calling Joseph Smith a Con Man]] | C | folk-magic, joseph-smith-1826-trial, seer-stones, treasure-hunting |
+| [[Thoughtful Faith - Was Joseph Smith a Pedophile]] | C |  |
+| [[Ward Radio - Brigham Youngs Character with Dan Peterson]] | C | adam-god, brigham-young, polygamy, priesthood-ban, succession-crisis |
+| [[Ward Radio - Is Mainstream Christianity Accidentally Becoming Mormon]] | C |  |
+| [[Ward Radio - The Impossible Science of Faking the Gold Plates]] | C | book-of-mormon, gold-plates, joseph-smith, reformed-egyptian, tumbaga, witnesses |
+| [[WardRadio - Jesus Referenced the Apocrypha]] | C | apocrypha |
+| [[WardRadio - Lorne Dawson NRM Interview]] | B | nrm |
+| [[WardRadio - Top 9 Misconstrued Scriptures]] | C |  |
 
 ---
-See also: [[Home]] · [[Sources Index]]
+See also: [[Home]] · [[Sources Index]] · [[Authority Ledger]]

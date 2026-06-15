@@ -1,89 +1,145 @@
 # Authority Ledger
 
-Joseph's vetted ratings of authors, scholars, and works. The Architect MUST check
-here FIRST when rating a source, and use the listed tier for a known author/work
-instead of guessing. Add entries as you vet people — this is how the library
-learns *your* judgment of who's authoritative.
+Vetted author/work ratings. **Auto-generated from each People note's YAML** (`authority:` + `authority_reason:`) — to change a tier, edit that person's note and rerun the regen. Source/channel tiers live in each Source note's YAML.
 
-**Tiers:** A = peer-reviewed / primary / university-press · B = credentialed expert ·
-C = informed, cited commentary · D = opinion / uncited
+**Tiers:** A = peer-reviewed / primary / university-press · B = credentialed expert · C = informed, cited commentary · D = opinion / uncited
 
 | Author / Work | Tier | Field / Notes |
-|---------------|------|---------------|
-| [[Lorne Dawson]] | A | Sociologist of NRMs & radicalization (emer., U. Waterloo); university-press author. |
-| [[Robert J. Lifton]] | A | Psychiatrist; foundational 1961 study of Chinese thought reform. |
-| [[Max Weber]] | A | Founding sociologist; church/sect typology. |
-| [[Ernst Troeltsch]] | A | Sociologist of religion; introduced the "cult" category. |
-| [[H. Richard Niebuhr]] | A | Theologian/sociologist; sect-to-church evolution. |
-| [[Ludwig Wittgenstein]] | A | Philosopher; "family resemblance" method for contested concepts. |
-| [[Scot McKnight]] | A | Protestant NT scholar; commentaries incl. James. |
-| [[Thomas Schreiner]] | A | Reformed NT scholar; concedes "before God, not men" on James. |
-| [[Ben Witherington]] | A | Protestant (Wesleyan) NT scholar; concedes ongoing justification. |
-| [[Paul Reeve]] | A | Simmons Professor of Mormon Studies, U. of Utah; co-author *This Abominable Slavery*. |
-| [[Daniel C. Peterson]] | B | PhD; emeritus prof. Islamic Studies/Arabic, BYU; founder, Interpreter Foundation. |
-| [[LaJean Carruth]] | B | 19th-c. Pitman shorthand specialist, Church History Dept; co-author *This Abominable Slavery*. |
-| [[Christopher Rich]] | B | Lawyer (former JAG) + history PhD candidate, U. of Utah; co-author *This Abominable Slavery*. |
-| [[Amy Tanner Thiriot]] | B | Historian; author *Slavery in Zion* (U. of Utah Press). |
-| [[Ron Esplin]] | B | Documentary historian, Joseph Smith Papers; 1844 succession-crisis expert. |
-| [[Michael Heiser]] | B | Ph.D. Hebrew Bible & Semitic langs; divine council scholarship (*The Unseen Realm*). Evangelical; cited in LDS apologetics on divine plurality. |
-| [[C.S. Lewis]] | B | Oxford/Cambridge literary scholar; foremost 20th-c. lay Christian apologist (*Mere Christianity*). Anglican. |
-| [[Trent Horn]] | B | Catholic Answers apologist; *The Case for Catholicism*; careful, heavily-cited. |
-| [[Jimmy Akin]] | B | Catholic Answers senior apologist; *The Drama of Salvation*. |
-| [[Pope Benedict XVI]] | B | Pope & theologian (Joseph Ratzinger); magisterial + scholarly weight. |
-| [[Martin Luther]] | B | Primary Reformation figure; *sola fide* originator (primary source). |
-| [[John Calvin]] | B | Primary Reformed figure; *Institutes* (primary source). |
-| [[John MacArthur]] | B | Prominent Reformed pastor/author; popular-level, not peer-reviewed. |
-| [[James White]] | B | Prominent Reformed apologist; popular-level debate/apologetics. |
-| [[Dan McClellan]] | B | Ph.D. biblical studies; public scholar (*Data Over Dogma* podcast). Presents academic consensus; podcast format is popular-level. |
-| [[Daniel Wallace]] | B | Evangelical NT Greek grammarian (Dallas Theological Seminary); acknowledges qualitative *theos* in John 1:1c. |
-|| Ward Radio (channel) | C | Informed LDS apologetic podcast; cites manuscript/scholarly evidence but is panel commentary, not peer-reviewed. |
-|| Thoughtful Faith (channel) | C | Informed LDS apologetic channel; well-structured historical arguments with comparative examples but solo/short-form commentary, not peer-reviewed. |
-| The Council of Trent (Trent Horn podcast) | B | Catholic apologetics; heavily cited from magisterium + scholars. |
-| [[David Bentley Hart]] | A | Orthodox philosophical theologian; Yale UP author (*That All Shall Be Saved*); universalist. |
-| [[Jonathan Kvanvig]] | A | Analytic philosopher of religion; *The Problem of Hell* (Oxford UP). |
-| [[Thomas Aquinas]] | A | Medieval Doctor of the Church; *Summa Theologiae* (primary). |
-| [[Isaac of Nineveh]] | B | 7th-c. Syriac church father; writings on divine mercy (primary patristic). |
-| [[Gregory of Nyssa]] | B | 4th-c. Cappadocian church father (primary patristic). |
-| [[Jonathan Edwards]] | B | 18th-c. Puritan theologian (primary historical). |
-| [[William Wainwright]] | B | Philosopher of religion; "sin against an infinite being" argument. |
-| [[Ephrem the Syrian]] | B | 4th-c. Syriac church father; *Cave of Treasures* tradition (apocryphal in genre). |
-|| [[Wes Huff]] | C | Christian apologist; critiqued for reliance on discredited apologetic translations (Pettinato via Geisler) to defend creation ex nihilo. Popular-level, not peer-reviewed. |
-| [[Jonah (Plain and Precious Publishing)|Jonah]] | C | LDS author (Plain & Precious Publishing); compiles apocryphal sources, popular apologetics. |
-| [[Ted Patrick]] | D | Self-appointed 1970s "deprogrammer"; methods rejected by courts. Not an authority. |
-| [[Dan Beecher]] | C | *Data Over Dogma* co-host; lay-audience interlocutor, not a credentialed scholar. |
-|| [[Terrell Given]] | B | Professor of religion; Latter-day Saint academic. Credentialed expert, LDS tradition perspective. |
-|| [[William Dever]] | B | Professor emeritus of Near Eastern archaeology, U. Arizona; *Did God Have a Wife?* (Eerdmans, 2005). Archaeologist, not a theologian. |
-| [[Bernhard Duhm]] | A | German biblical scholar (1847–1928); 1892 commentary crystallized the three-author Isaiah theory. Foundational to OT scholarship. |
-| [[Jacob Wright]] | A | Professor of Hebrew Bible, Emory University; Cambridge University Press author (*Why the Bible Began*). |
-| [[Julius Wellhausen]] | A | Foundational German biblical scholar (1844–1918); Documentary Hypothesis (JEDP), *Prolegomena to the History of Israel*. |
-|| *(example) Royal Skousen* | A | Book of Mormon textual criticism (BYU linguistics) |
-||| Tim Chaffy | C | Answers in Genesis apologist; doctorate from accredited theological seminary. Writes popular apologetics for a young-earth creationist organization. |
-|| [[Benjamin Park]] | B | PhD historian; President of Mormon History Association; academic publications on Mormon history. Credentialed expert. |
-|| [[Gerhard May]] | A | Church historian; foundational study *Creatio Ex Nihilo* (German 1970s / English 1994). The standard reference on the doctrine's development. |
-|| [[David Winston]] | A | Philo of Alexandria scholar; demonstrated Philo taught creation from pre-existent matter (not ex nihilo). Peer-reviewed journal publications. |
-|| [[Jonathan Goldstein]] | A | Anchor Bible commentator (2 Maccabees, 1984); defended creation ex nihilo but conceded 2 Macc 7:28 does not teach it. Peer-reviewed. |
-|| [[Markus Bockmuehl]] | A | Professor at Oxford; co-editor of *Creation Ex Nihilo* (2018). Peer-reviewed university-press scholarship. |
-|| [[Gary Anderson]] | A | Co-editor of *Creation Ex Nihilo* (2018, with Bockmuehl); university-press publication. |
-|| [[Alfonso Archi]] | A | Second Ebla epigrapher; systematically refuted Pettinato's apologetic readings. Scholarly standard for Ebla studies. |
-|| [[James Hubler]] | B | Ph.D. dissertation (U. Penn, 1995) on creatio through Aquinas. Credentialed academic work; not yet published as monograph. |
-|| [[Philo of Alexandria]] | A | 1st-c. Hellenistic Jewish philosopher; primary source for Middle Platonic Judaism. Did NOT endorse creation ex nihilo. |
-|| [[Tatian]] | B | 2nd-c. Christian apologist; first known articulator of creation ex nihilo (c. 160 CE). Primary patristic source. |
-|| [[Theophilus of Antioch]] | B | 2nd-c. bishop; first explicit philosophical formulation of creation "out of things that are not" (c. 169 CE). Primary patristic source. |
-|| [[Irenaeus of Lyons]] | A | Late-2nd-c. church father; *Against Heresies* consolidated creation ex nihilo as anti-Gnostic polemic. Primary patristic source. |
-||| [[Giovanni Pettinato]] | C | Original Ebla epigrapher; apologetic translations widely discredited by subsequent scholarship (Archi, Chavalas). |
-||| [[Benjamin Sommer]] | A | Professor of Bible at Jewish Theological Seminary; author of *The Bodies of God in the World of Ancient Israel* (Cambridge UP, 2008). Foundational on divine corporeality in the Hebrew Bible. |
-||| [[Brittany Wilson]] | A | New Testament scholar; author of *The Embodied God: Seeing the Divine in Luke-Acts and the Early Church* (Oxford UP). Specializes in divine visibility in the NT. |
-||| [[Esther Hamori]] | A | Professor of Hebrew Bible at Union Theological Seminary; author of *When Gods Were Men: The Embodied God in Biblical and Near Eastern Literature* (de Gruyter). |
-||| [[David Carr]] | A | Professor of OT at Union Theological Seminary; author of *Reading the Fractures of Genesis* (foundational on Genesis source criticism) and multiple university-press works. |
-||| [[Jan Christian Gertz]] | A | Professor of OT at U. Heidelberg; author of Genesis 1–11 commentary (HCOT series). Leading German source critic. |
-||| [[Ron Hendel]] | A | Professor of Hebrew Bible at UC Berkeley; author of Anchor Yale Bible commentary on Genesis 1–11 (2024). |
-||| [[Bill Arnold]] | B | Professor of OT at Asbury Theological Seminary; author of Cambridge Bible Commentary volume on Genesis. Confessional context but academic-press scholarship. |
-||| [[Claus Westermann]] | A | Major 20th-c. German OT scholar; Genesis 1–11 commentary is a standard source-critical reference (BKAT). Foundational. |
-||| [[Christoph Markschies]] | A | Professor of Ancient Christianity at Humboldt U. Berlin; author of *God's Body* (Baylor UP, 2019). |
-||| [[Luke Irwin]] | A | NT scholar; author of *Jesus and the Visibility of God: Sight and Belief in the Fourth Gospel* (Cambridge UP). |
-||| [[Andreas Wagner]] | A | Professor of OT at U. Bern; author of *God's Body: The Anthropomorphic God in the Old Testament* (Bloomsbury T&T Clark). |
-||| *(video) Dan McClellan — Apologetics Cannot Rescue Biblical Contradictions* | B | Dan McClellan (B per ledger); popular-level video but densely sourced from A-tier scholarship. |
+|---|------|---------------|
+| [[Alfonso Archi]] | A | Second epigrapher assigned to the Ebla tablets; systematically refuted Pettinato's apologetic readings. His epigraphic work on Ebla is the scholarly standard. |
+| [[Andreas Wagner]] | A | Professor of Old Testament at University of Bern; author of 'God's Body: The Anthropomorphic God in the Old Testament' (English translation of German original). University-press scholarship cited as part of the scholarly consensus on divine corporeality. |
+| [[Anselm of Canterbury]] | A | Primary historical source — foundational medieval theologian and philosopher (1033–1109), Archbishop of Canterbury, Doctor of the Church. Author of standard primary texts (Proslogion, Cur Deus Homo) studied in peer-reviewed scholarship. |
+| [[Aristotle]] | A | Primary philosophical source (4th century BCE). His Physics is foundational for understanding the pre-ex-nihilo consensus on creation from pre-existent matter. |
+| [[Augustine]] | A | Primary patristic source (354–430 AD); Bishop of Hippo and Doctor of the Church. His *On Christian Doctrine* is a primary historical witness to how the early church determined the canon. Cited directly as primary evidence. |
+| [[Ben Witherington]] | A | Protestant (Wesleyan) New Testament scholar (Ph.D., Durham); prolific academic commentator. Cited conceding the 'ongoing justification' point. |
+| [[Benjamin Sommer]] | A | Professor of Bible at Jewish Theological Seminary; author of 'The Bodies of God in the World of Ancient Israel' (Cambridge University Press, 2008) — a 'phenomenally influential' university-press monograph cited as authoritative on divine corporeality in the Hebrew Bible. |
+| [[Brittany Wilson]] | A | New Testament scholar; author of 'The Embodied God: Seeing the Divine in Luke-Acts and the Early Church' (Oxford University Press). Specializes in divine embodiment and visibility in the New Testament. |
+| [[Christoph Markschies]] | A | Professor of Ancient Christianity at Humboldt University of Berlin; author of 'God's Body: Jewish, Christian, and Pagan Images of God' — a university-press work described by Dan McClellan as 'a very philosophical, very erudite discussion' of divine corporeality. |
+| [[Claus Westermann]] | A | Major 20th-century German Old Testament scholar; his Genesis 1–11 commentary (BKAT/English translation) is a standard reference in source criticism of the Primeval History. Foundational to the scholarly consensus on multiple sources in Genesis. |
+| [[David Bentley Hart]] | A | Eastern Orthodox philosophical theologian; university-press author (Yale UP, *That All Shall Be Saved*). Prominent academic universalist. |
+| [[David Carr]] | A | Professor of Old Testament at Union Theological Seminary; author of 'Reading the Fractures of Genesis' (foundational work on source criticism of Genesis) and multiple university-press publications including 'The Formation of Genesis 1–11' and a Kohlhammer Genesis commentary. |
+| [[David Hume]] | A | Major Enlightenment philosopher; primary source for the standard philosophical formulation of the argument against miracles (*An Enquiry Concerning Human Understanding*, Section X). |
+| [[David Petersen]] | A | Franklin N. Parker Professor Emeritus of Old Testament at Candler School of Theology, Emory University; author of the Genesis volume in the Old Testament Library (2025) and a long record of university-press Hebrew Bible scholarship. |
+| [[David Winston]] | A | Leading Philo of Alexandria scholar; published in peer-reviewed journals (Journal of Jewish Studies) and academic volumes. His work on Philo's cosmogony is the standard reference. |
+| [[E.A. Speiser]] | A | Leading 20th-century Assyriologist and biblical scholar. His Anchor Bible commentary on Genesis (1964) is a standard reference, including the influential argument that Genesis 1:1 is a temporal clause. |
+| [[Ernst Troeltsch]] | A | German theologian and sociologist of religion; introduced the 'cult' category into the church/sect typology. Canonical scholarship. |
+| [[Esther Hamori]] | A | Professor of Hebrew Bible at Union Theological Seminary; author of 'When Gods Were Men: The Embodied God in Biblical and Near Eastern Literature' — a university-press work cited by Dan McClellan as part of the scholarly consensus on divine corporeality. |
+| [[Frederick Douglass]] | A | Primary-source eyewitness: formerly enslaved man whose autobiographical Narrative is a first-hand documentary account of antebellum American slavery, widely used as primary evidence by historians. |
+| [[Gary Anderson]] | A | Co-editor of Creation Ex Nihilo: Origins, Development, Contemporary Challenges (2018, with Markus Bockmuehl). Peer-reviewed university-press publication. |
+| [[George Nickelsburg]] | A | Co-author of the definitive 2-volume Hermeneia commentary on 1 Enoch (Fortress Press, 2001/2012); emeritus professor of religion at University of Iowa; major figure in Second Temple Jewish studies |
+| [[Gerhard May]] | A | Author of the standard scholarly reference on the development of creation ex nihilo (*Creatio Ex Nihilo*, German original mid-1970s, English translation 1994). University-press level scholarship; the foundational work in the field. |
+| [[H. Richard Niebuhr]] | A | American theologian, historian, and sociologist of religion; classic analysis of how sects evolve into churches. University-press scholarship. |
+| [[Harry Wolfson]] | A | Leading historian of philosophy at Harvard; major work on Philo of Alexandria (1947). His argument that Philo effectively taught creation ex nihilo represents a minority scholarly position, against the consensus represented by Winston, May, and Hubler. |
+| [[Ignatius of Antioch]] | A | Primary patristic source (c. 35–108 AD); Bishop of Antioch and apostolic father whose seven letters are among the earliest post-apostolic Christian writings. Cited as a chronological marker for early NT citation patterns. |
+| [[Irenaeus of Lyons]] | A | Late-2nd-century bishop, theologian, and primary patristic source. His Against Heresies is one of the most important early Christian theological works; he consolidated the doctrine of creation ex nihilo as anti-Gnostic polemic. |
+| [[James VanderKam]] | A | Co-author of the definitive 2-volume Hermeneia commentary on 1 Enoch; John A. O'Brien Professor of Hebrew Scriptures emeritus at University of Notre Dame; leading Dead Sea Scrolls and Enoch scholar |
+| [[Jan Christian Gertz]] | A | Professor of Old Testament at the University of Heidelberg; author of Genesis 1–11 commentary in the Historical Commentary on the Old Testament series. Leading contemporary German source critic. |
+| [[Jerome]] | A | Primary patristic source (c. 342–420 AD); Doctor of the Church and translator of the Latin Vulgate. His views on the Deuterocanon are a primary historical datum in canon debates. Cited directly. |
+| [[Jonathan Goldstein]] | A | Anchor Bible commentator on 2 Maccabees (1984); published in Journal of Jewish Studies. Peer-reviewed university-press scholarship. |
+| [[Jonathan Kvanvig]] | A | Analytic philosopher of religion; author of *The Problem of Hell* (Oxford UP). University-press/peer-reviewed. |
+| [[Joseph Milik]] | A | Member of the original Dead Sea Scrolls editorial team; published the critical edition of all Qumran Enoch fragments in Discoveries in the Judean Desert (1976); foundational publication for Enoch studies |
+| [[Kerry Sonia]] | A | Assistant Professor of Religious Studies (Colby College); author of the peer-reviewed monograph 'Caring for the Dead in Ancient Israel' (SBL Press, 2020), a specialist study of Israelite mortuary practice and ancestor veneration. |
+| [[Larry Hurtado]] | A | Late Emeritus Professor of New Testament Language, Literature and Theology at the University of Edinburgh; a leading authority on early Christology and Second Temple Jewish monotheism (author of 'One God, One Lord' and 'Lord Jesus Christ'). |
+| [[Lee Martin McDonald]] | A | Baptist New Testament scholar specializing in the canon; author of *The Formation of the Christian Biblical Canon* and editor (with James Sanders) of *The Canon Debate*. Peer-reviewed academic authority on canon history; quoted directly here. |
+| [[Lorne Dawson]] | A | Academic sociologist of new religious movements and radicalization (emeritus, University of Waterloo); peer-reviewed, university-press author. A leading figure of the 'classical period' of NRM scholarship (1980s-2000s). |
+| [[Ludwig Wittgenstein]] | A | Major 20th-century philosopher; the 'family resemblance' concept is canonical in philosophy of language. |
+| [[Luke Irwin]] | A | New Testament scholar; author of 'Jesus and the Visibility of God: Sight and Belief in the Fourth Gospel' — recent academic publication on divine visibility in John. Cited by Dan McClellan alongside university-press authors. |
+| [[Mark Chavalas]] | A | Professor of history, published peer-reviewed survey of Ebla scholarship in Mesopotamia and the Bible: Comparative Explorations (2003/2004). Scholarly consensus articulation. |
+| [[Markus Bockmuehl]] | A | Professor at Oxford University; co-editor of Creation Ex Nihilo: Origins, Development, Contemporary Challenges (2018). Peer-reviewed university-press scholarship. |
+| [[Matthew Lynch]] | A | Old Testament scholar (Regent College) and author of peer-reviewed work on monotheism, including the article 'Mapping Monotheism: Modes of Monotheistic Rhetoric in the Hebrew Bible' (Interpretation, 2014). |
+| [[Max Weber]] | A | Founding figure of sociology; his church/sect typology is canonical, university-press scholarship. |
+| [[N.T. Wright]] | A | Leading New Testament scholar; former Bishop of Durham; research professor of New Testament and Early Christianity (St Andrews/Oxford); author of the peer-reviewed *Christian Origins and the Question of God* series. Primary academic authority on Pauline and early-Christian studies. |
+| [[Nathan McDonald]] | A | Professor of the Hebrew Bible / Old Testament at the University of Cambridge; author of the peer-reviewed monograph 'Deuteronomy and the Meaning of Monotheism' (Mohr Siebeck), a standard scholarly treatment cited approvingly across the field. |
+| [[Origen]] | A | Major 3rd-century church father and primary patristic source. His reading of 2 Maccabees 7:28 as creation ex nihilo was historically influential but, per scholarly consensus, anachronistic — he read the text through the lens created by Tatian/Theophilus/Irenaeus. |
+| [[Parmenides]] | A | Primary philosophical source (5th century BCE). Formulated the axiom ex nihilo nihil fit ('nothing comes from nothing'), which governed virtually all Greco-Roman thought until the late 2nd century CE. |
+| [[Paul Reeve]] | A | Academic historian; Simmons Professor of Mormon Studies at the University of Utah; author of peer-reviewed/university-press work on race and Mormonism. Co-author of *This Abominable Slavery*, a primary-document scholarly study. |
+| [[Paula Fredriksen]] | A | Aurelio Professor of Scripture emerita (Boston University) and Distinguished Visiting Professor at the Hebrew University of Jerusalem; leading historian of ancient Christianity, Paul, and Greco-Roman religion (peer-reviewed). |
+| [[Philo of Alexandria]] | A | Primary source for Hellenistic Judaism (c. 20 BCE – 50 CE). His extensive corpus is the most important witness to the fusion of Jewish theology with Greek (especially Middle Platonic and Stoic) philosophy in the 1st century. |
+| [[Plato]] | A | Primary philosophical source (5th–4th century BCE). His Timaeus is the foundational text for the Greco-Roman concept of creation as ordering of pre-existent matter by a divine craftsman. |
+| [[Richard Bauckham]] | A | Peer-reviewed New Testament scholar; Emeritus Professor of New Testament Studies (University of St Andrews), Fellow of the British Academy. Author of standard academic works (Jesus and the God of Israel; God Crucified) cited across the field. |
+| [[Robert J. Lifton]] | A | American psychiatrist and academic; author of the foundational 1961 study of Chinese 'thought reform.' University-press / peer-reviewed. |
+| [[Robert Putnam]] | A | Harvard political scientist and one of the most-cited social scientists of his generation; author of the peer-reviewed/landmark study Bowling Alone on American social capital. Cited here as a primary authority on social-connectedness trends, not on LDS theology. |
+| [[Ron Hendel]] | A | Professor of Hebrew Bible at UC Berkeley; author of Anchor Yale Bible commentary on Genesis 1–11 (2024). Leading contemporary source critic. |
+| [[Ryan Burge]] | A | Quantitative political scientist of American religion (longtime professor at Eastern Illinois University) and one of the most-cited public scholars of religious demography; peer-reviewed researcher and author of data-driven books on the religiously unaffiliated ('the nones'). Cited here as the source of the large-sample dataset under analysis. |
+| [[Scot McKnight]] | A | Protestant New Testament scholar (Ph.D.); university-press/academic commentaries, incl. on James. Cited here against his own tradition's reading. |
+| [[Thomas Schreiner]] | A | Reformed New Testament scholar (Ph.D., Southern Baptist Theological Seminary); university-press/academic commentaries. Cited here conceding against the Protestant reading. |
+| [[A.T. Robertson]] | B | Southern Baptist New Testament and Greek scholar (1863–1934); author of the standard *A Grammar of the Greek New Testament in the Light of Historical Research*. A primary Protestant authority on NT Greek; cited here as commentary. |
+| [[Adele Reinhartz]] | B | Distinguished New Testament scholar (University of Ottawa), prominent specialist on the Gospel of John and Jewish-Christian relations; cited by Méndez on the prologue/Logos hymn as a hermeneutical key. Credentialed academic referenced via the interview. |
+| [[Amy Tanner Thiriot]] | B | Independent historian; author of *Slavery in Zion: A Documentary and Genealogical History of Black Lives and Black Servitude in Utah Territory* (University of Utah Press). University-press monograph author. |
+| [[Basil the Great]] | B | Fourth-century church father (c. 330–379), Bishop of Caesarea, one of the Cappadocian Fathers; a primary patristic source. Cited here as a historical witness. |
+| [[Bill Arnold]] | B | Professor of Old Testament at Asbury Theological Seminary; author of New Cambridge Bible Commentary volume on Genesis. Credentialed scholar in a confessional institution; commentary series is academic-press level. |
+| [[Celsus]] | B | 2nd-century pagan philosopher and critic of Christianity. His True Discourse (c. 175 CE) is preserved in Origen's Contra Celsum. His critiques, including mockery of the resurrection, were among the pressures that drove the development of creation ex nihilo. |
+| [[Christopher Rich]] | B | Lawyer (former JAG officer) and PhD candidate in history at the University of Utah; co-author of *This Abominable Slavery*. Legal-historical expertise on the 1852 statute; credentialed but PhD in progress. |
+| [[Clement of Rome]] | B | Late first-century bishop of Rome and Apostolic Father; author of *1 Clement*, one of the earliest extra-canonical Christian writings. A primary patristic source cited here as historical witness. |
+| [[Cornelius Van Til]] | B | Credentialed Reformed theologian (Ph.D. Princeton; longtime professor at Westminster Theological Seminary); founder of presuppositional apologetics. Influential within Reformed circles; tier B credentialed expert. |
+| [[D. Michael Quinn]] | B | Yale-trained historian (PhD), former BYU professor and one of the 'September Six.' His Early Mormonism and the Magic World View is the standard scholarly compilation on early Mormon folk-magic claims. Credentialed academic historian; treated as the definitive cataloging source even where his interpretations are contested. |
+| [[Dan Beecher]] | B | Co-host of the Data Over Dogma podcast with Dan McClellan. Presents academic biblical scholarship in popular format. |
+| [[Dan McClellan]] | B | Ph.D. in biblical studies; presents academic consensus as a public scholar (Data Over Dogma podcast). Format is popular-level but heavily sourced from peer-reviewed scholarship. |
+| [[Dan Vogel]] | B | Independent historian and the foremost editor of early Mormon documents (the five-volume Early Mormon Documents). Not academically degreed in the conventional sense but recognized across the field — including by believing LDS historians — as the leading documentary expert on the 1820s. Credentialed-expert-tier for documentary history of early Mormonism. |
+| [[Daniel C. Peterson]] | B | PhD; emeritus professor of Islamic Studies and Arabic at Brigham Young University; founder of the Interpreter Foundation and producer of the Becoming Brigham / Six Days in August projects. Credentialed academic; in apologetic media he functions as an informed expert synthesizing primary and peer-reviewed research. |
+| [[Don Benjamin]] | B | Co-author of Old Testament Parallels: Laws and Stories from the Ancient Near East with Victor Matthews. Credentialed scholar but the work is a textbook anthology, not original epigraphic research. |
+| [[Don Bradley]] | B | Credentialed historian — MA in history (Utah State University), specializing in early LDS history and the Joseph Smith translation projects. Author of the award-winning *The Lost 116 Pages: Reconstructing the Book of Mormon's Missing Stories* (Greg Kofford Books, 2019) and a documentary researcher. Works with primary sources (Joseph Smith Papers, Kirtland Egyptian Papers). Rated B as a working scholar; his apologetic podcast appearances are unrefereed (Tier C as a format), so cite him directly or the primary documents for B-level claims. |
+| [[Ephrem the Syrian]] | B | 4th-c. Syriac church father and theologian-poet; a primary patristic source. Authoritative for early Christian/Syriac tradition, though the *Cave of Treasures* attributed to his tradition is legendary in genre. |
+| [[Gavin Ortlund]] | B | Ph.D. in historical theology (Fuller Theological Seminary); published academic author (IVP, Baker, Crossway) and credentialed expert. Operates as a public apologist on the Truth Unites channel; this dialogue is expert commentary, not peer-reviewed, so rated B. |
+| [[Greg Bahnsen]] | B | Credentialed Reformed philosopher-apologist (Ph.D. in philosophy, USC); leading systematizer of presuppositional apologetics after Van Til. Influential within his school but not peer-reviewed mainstream scholarship; tier B credentialed expert. |
+| [[Gregory of Nyssa]] | B | 4th-c. Cappadocian church father, major patristic theologian; associated with universalist (apokatastasis) themes. |
+| [[Hugo Mendez]] | B | Associate professor of religious studies, University of North Carolina at Chapel Hill; New Testament scholar specializing in the Gospel and letters of John. Author of the peer-reviewed article 'Did the Johannine Community Exist?' (2020) and the monograph 'The Gospel of John: A New History.' Identifies as a Christian; argues from the historical-critical method. |
+| [[Isaac of Nineveh]] | B | 7th-c. Syriac bishop and ascetic writer; revered church father, primary patristic source. |
+| [[James Barker]] | B | New Testament scholar; author of 'Writing and Rewriting the Gospels,' cited by Méndez for the argument that the Gospels were composed in drafts/stages and that John knew the Synoptics. Credentialed academic discussing his own published work secondhand via the interview. |
+| [[James Hubler]] | B | Ph.D. dissertation at University of Pennsylvania (1995) on creatio ex nihilo through Aquinas. Credentialed academic work, though a dissertation has less weight than published peer-reviewed monograph. |
+| [[James White]] | B | Prominent Reformed Baptist apologist (Alpha & Omega Ministries); author on justification. Popular-level apologetics/debate, not peer-reviewed. |
+| [[Jerome Kodell]] | B | Benedictine biblical scholar (abbot, Subiaco Abbey); author of studies on Luke–Acts including work on the 'word of God' theme. Credentialed Scripture scholar cited for exegesis of Lukan usage. |
+| [[Jerry Grover]] | B | Licensed geologist and engineer; author of a 2015 technical book on the gold plates applying engineering analysis to their physical parameters. Credentialed in the relevant technical domain. |
+| [[Jimmy Akin]] | B | Catholic Answers senior apologist; author of *The Drama of Salvation*. Careful, widely-cited Catholic apologetics. |
+| [[Joe Heschmeyer]] | B | Catholic Answers apologist; host of the Shameless Popery podcast; former seminarian; author of *The Early Church Was the Catholic Church* and *Pope Peter*. Careful, primary-source-driven apologetics; not peer-reviewed scholarship. |
+| [[Johannes Dillinger]] | B | European academic historian with no connection to or interest in Mormonism, author of a scholarly monograph on treasure hunting in Europe and North America over the last half millennium. Credentialed-expert tier; valued precisely because of his disinterested, non-LDS vantage on the broader cultural phenomenon. |
+| [[John C. Poirier]] | B | Biblical scholar who has published on the New Testament's use of 'word of God' terminology; cited here as the principal scholarly source behind Trent Horn's lexical argument. Credentialed but engaged at the level of cited commentary. |
+| [[John MacArthur]] | B | Prominent Reformed/Calvinist pastor and author (*The MacArthur Study Bible*); influential but popular-level, not peer-reviewed scholarship. |
+| [[Jonathan Edwards]] | B | 18th-c. Puritan theologian and philosopher (*Sinners in the Hands of an Angry God*); primary historical source for Reformed thought on hell. |
+| [[Justin Dyer]] | B | Credentialed social scientist: professor of religious education at BYU, PhD in human and community development (University of Illinois Urbana-Champaign), Wheatley Institute fellow, editor of BYU Studies, 80+ peer-reviewed articles cited 3,000+ times. Speaks within his discipline (religion, family, statistics). Faith-affiliated, so framing on LDS topics carries an institutional viewpoint. |
+| [[LaJean Carruth]] | B | Specialist in 19th-century Pitman shorthand at the Church History Department in Salt Lake City; transcribes original sermon shorthand back to source. Credentialed primary-source expert; her transcription work is foundational to *This Abominable Slavery*. |
+| [[Mark (Holy Rebellion)]] | B | Self-identified historian with a PhD in history who states he has worked on the Joseph Smith Papers for ~24 years and studied Joseph Smith professionally; demonstrates command of the historiography (Vogel, Quinn, Dillinger) and primary-source method. Credentialed-expert tier as an interview subject; surname not stated in the source, so identity is recorded only as given. |
+| [[Mark Goodacre]] | B | New Testament scholar (Duke University), known for synoptic-problem work (the Farrer hypothesis, against Q); cited by Méndez as author of the forthcoming 'The Fourth Synoptic Gospel,' arguing John knew the Synoptics. Credentialed academic referenced via the interview. |
+| [[Martin Luther]] | B | Primary historical figure of the Protestant Reformation; his writings are primary sources for Reformation theology. |
+| [[Michael Heiser]] | B | Ph.D. Hebrew Bible & Semitic languages (Univ. of Wisconsin-Madison); published academic on Israelite religion and the divine council. Evangelical, not LDS, but his scholarship is frequently marshaled in LDS apologetics on divine plurality. |
+| [[Michael Krueger]] | B | President and Samuel C. Patterson Professor of New Testament at Reformed Theological Seminary (Charlotte); Ph.D. Edinburgh; published academically on the NT canon (*Canon Revisited*, *The Question of Canon*). Credentialed expert; cited here as the leading modern defender of canonical self-authentication. |
+| [[Neal Rappleye]] | B | LDS scholar; research associate with Scripture Central; author of the chapter 'Written Upon Gold Plates' in *Defending the Book of Mormon* (FAIR). Publishes citation-heavy research on Book of Mormon historicity and ancient metallurgy/epigraphy. |
+| [[Pat Madrid]] | B | Catholic apologist, radio host, and author of numerous apologetics works; debated James White on sola scriptura in 1993. Credentialed apologist, not peer-reviewed scholar; cited here for his debate argument. |
+| [[Pope Benedict XVI]] | B | Pope and theologian (Joseph Ratzinger); magisterial and scholarly weight within Catholicism. |
+| [[R.C. Sproul]] | B | Influential Reformed theologian (1939–2017); founder of Ligonier Ministries; author of numerous works of popular Reformed theology. Credentialed teacher and apologist; cited here for his famous formulation about the canon. |
+| [[R.H. Charles]] | B | Early 20th-century scholar; translation of 1 Enoch (1906) was the standard for nearly a century but is now superseded by the Nickelsburg-VanderKam Hermeneia translation; his Apocrypha and Pseudepigrapha edition (1913) remains a reference work |
+| [[Robert Godfrey]] | B | Reformed church historian; president emeritus and professor of church history at Westminster Seminary California. Credentialed expert; cited here as a Protestant proponent of canonical self-authentication via the 1995 anthology *Sola Scriptura!* |
+| [[Robin Faith Walsh]] | B | New Testament scholar (University of Miami); author of 'The Origins of Early Christian Literature,' arguing early Christian texts arose among educated literary networks rather than faith communities. Doctoral student of Stanley Stowers. Credentialed academic referenced via the interview. |
+| [[Ron Esplin]] | B | Premier Latter-day Saint historian and longtime leader of the Joseph Smith Papers Project; expert on the 1844 succession crisis. Credentialed documentary historian. |
+| [[Sonia Hazard]] | B | Academic scholar of American religious history (religious-studies professor) who published a peer-reviewed article proposing a naturalistic 'printing plates' origin for the gold plates. Credentialed expert presenting a critical hypothesis. |
+| [[Stanley Stowers]] | B | Emeritus professor of religious studies (Brown University); influential New Testament scholar on Paul and on the social/literary location of early Christian texts; doctoral adviser of Robin Faith Walsh. Credentialed academic referenced via the interview. |
+| [[Tatian]] | B | 2nd-century Christian apologist and primary source; his Oration to the Greeks contains the first known articulation of creation ex nihilo (c. 160 CE). |
+| [[Terrell Given]] | B | Professor of religion; a fairly well-known Latter-day Saint academic. Credentialed expert, LDS tradition perspective. Guest on Be Faithful podcast. |
+| [[Tertullian]] | B | Early Latin church father (c. 155–c. 220), prolific North African theologian and apologist; a primary patristic source. Cited here as historical witness, not modern peer-reviewed scholarship. |
+| [[Theophilus of Antioch]] | B | 2nd-century bishop and apologist; his Ad Autolycum (c. 169 CE) contains the first explicit formulation of creation 'out of things that are not' (ἐξ οὐκ ὄντων), a key text in the development of creation ex nihilo. |
+| [[Trent Horn]] | B | Catholic Answers apologist; author of *The Case for Catholicism*; host of The Council of Trent podcast. Careful, heavily-cited apologetics. |
+| [[Victor Matthews]] | B | Co-author of Old Testament Parallels: Laws and Stories from the Ancient Near East, a widely-used textbook. Credentialed scholar but the work is a textbook anthology, not original epigraphic research. |
+| [[William Dever]] | B | Professor emeritus of Near Eastern archaeology, University of Arizona; author of *Did God Have a Wife?* (Eerdmans, 2005) and *Who Were the Early Israelites?* (Eerdmans, 2003). Credentialed expert in Syro-Palestinian archaeology; university-press author bridging archaeology and biblical studies. Not a theologian — an archaeologist. |
+| [[William Wainwright]] | B | Philosopher of religion; academic author. Cited for the 'sin against an infinite being' argument. |
+| [[Athanasius]] | C | 4th-century bishop of Alexandria and the leading defender of Nicene (pro-Trinitarian) theology against Arianism; a primary patristic author. Listed C here as a historical theological figure cited in the interview, not a modern peer-reviewed source. |
+| [[Daniel Constantino]] | C | Former Reformed Baptist / Calvinist apologist (associated with Apologia-style ministry) who, per Hayden Carroll, later left Christianity. Popular-level apologetics; tier C cited commentary/apologist. |
+| [[Frank Turek]] | C | Evangelical Christian apologist, author, and debater (Cross Examined). Popular-level apologetics; the cited claim is an off-the-cuff debate remark, not scholarly work. |
+| [[Giovanni Pettinato]] | C | Original epigrapher of the Ebla tablets whose translations were driven by an apologetic agenda to link Ebla to the Old Testament. His sensationalist claims were systematically rejected by subsequent scholarship (notably Alfonso Archi). His work is cited in apologetics but discredited in the academic mainstream. |
+| [[Informed Saints]] | C | Faithful Latter-day Saint podcast/YouTube channel ('study deeply and believe boldly') that interviews scholars and discusses LDS apologetics. Commentary and curation tier; authority of any given episode rises or falls with the guest cited. |
+| [[Jacob Hansen]] | C | Prominent Latter-day Saint apologist and content creator (Thoughtful Faith). Engages scholarship and philosophy at a popular level; cited-commentary tier, not a credentialed academic in the relevant field. |
+| [[Jeff Durbin]] | C | Reformed Baptist pastor (Apologia Church, Tempe AZ) and street/presuppositional apologist; popular-level ministry and debate, not peer-reviewed scholarship. Tier C cited commentary/apologist. |
+| [[Jonah (Plain and Precious Publishing)]] | C | LDS author/researcher (Plain & Precious Publishing); compiles and cites a wide range of apocryphal sources but writes popular apologetics, not peer-reviewed scholarship. |
+| [[Josh Coats]] | C | LDS researcher who published a paper in *Interpreter* and presented at the FAIR conference applying a combinatorial / 'translation density' model to the gold-plates capacity question, plus garage experiments measuring void space between metal discs. Technical lay-research, not peer-reviewed in a mainstream venue. |
+| [[Kelly (Brain Perspective)]] | C | Evangelical 'born-again' lay apologist and host of the YouTube channel 'Brain Perspective'; references a master's-level Bible course but is presented as a debater, not a credentialed scholar. Tier C cited-commentary/apologist. |
+| [[Mark Driscoll]] | C | Evangelical megachurch pastor (formerly Mars Hill; now Trinity Church). Popular-level preaching/commentary, not peer-reviewed scholarship. Tier C cited commentary/apologist. |
+| [[Norman Geisler]] | C | Evangelical apologist and prolific author. His systematic theology and apologetics works are popular-level secondary sources that circulate Pettinato's Ebla translations uncritically in defense of creation ex nihilo and monotheism. |
+| [[Polybius]] | C | 2nd-century BCE Greek historian (author of 'The Histories'); cited in the interview as a comparative example of an ancient narrator shifting between he/we/I when referring to himself. Historical primary author referenced via the interview. |
+| [[Tim Chaffy]] | C | Holds a doctorate from an accredited theological seminary; writes apologetics for Answers in Genesis, a young-earth creationist organization. Popular-level apologetics, not peer-reviewed scholarship. |
+| [[Travis Anderson]] | C | Latter-day Saint apologist/content creator (associated with 'Restored Truth'); popular-level apologetics, not peer-reviewed scholarship. Tier C cited commentary/apologist. |
+| [[Wes Huff]] | C | Christian apologist; represents common apologetic arguments (here critiqued as foil). Not peer-reviewed scholarship. |
+| [[Ben Shapiro]] | D | Political commentator and media personality (The Daily Wire); Harvard Law graduate but not a theologian or biblical scholar. Cited here only for a rhetorical point about argument from authority. Tier D opinion/commentary. |
+| [[Joshua HS]] | D | Self-styled (per McClellan) failed church planter and pastor; podcaster with no demonstrated scholarly training in biblical languages or history. McClellan documents repeated factual errors, misattributed citations, and hallucinated passages. Opinion-tier apologetics, not credentialed scholarship. |
+| [[Ted Patrick]] | D | Self-appointed 'deprogrammer,' not a scholar; his methods (forcible abduction and confinement) were later rejected by courts. Listed as a historical figure, not an authority. |
 
 ---
-
 See also: [[Home]]
