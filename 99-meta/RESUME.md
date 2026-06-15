@@ -1,6 +1,14 @@
 # RESUME — Apologetics Library Build (handoff for a fresh session)
 
-State as of 2026-06-15. The vault is git-backed + auto-pushed by `sync-advocate-loop.ps1`. To continue in a NEW session, read this file first.
+State as of 2026-06-15. The vault is git-backed + auto-pushed by `sync-advocate-loop.ps1`. To continue in a NEW session, read this file first. (Portable copy: `C:\Users\Josep\Downloads\Apologetics-Library-RESUME.md`.)
+
+## ▶ PICK UP HERE (next session)
+Buckets **A (books), B (TF L1 videos), C (main-list videos) are DONE**, and the broken-link cleanup is done. Remaining work, in suggested order:
+1. **Bucket D — write the 3 debate maps** (NO internet/VPN needed): `Concepts\Debate - Book of Mormon Historicity.md`, `Debate - BoM Witnesses.md`, `Debate - Problem of Hell.md`. Method: read the relevant existing Concepts and write a Debate-map note pairing claim⇄counter + authority tiers (same format as the done ones: Trinity, Sola Scriptura, Joseph Smith). **← good no-VPN task to start with.**
+2. **Bucket E quality pass** (no VPN): run `analyze-broken-links.py` and *write* the recurring forward-link concepts it lists (Book-of-Enoch cluster, "Great Apostasy and Need for Restoration", etc.); dedup/merge near-duplicate concepts (see `Consolidation Report.md`); **normalize split channel tags** (`stick-of-joseph`↔`the-stick-of-joseph`, `moronis-standard`↔`moroni-standard`); build domain sub-MOCs.
+3. **(Optional) 7 caption-less videos** — transcript API returns none; need yt-dlp auto-subs or skip. TF L1: `vybNvc6mxMo`, `xCwY36a19aQ`. Bucket C: `mg_8axJgE_4`, `t5vt7CsNQMQ`, `QM7WXa-KWKM`, `7sQ218Eeho8`, `jmOPO_gB00M`.
+4. **Restart the apologist gateway** (see "Also pending").
+5. **TF Levels 2–4** — blocked on content from Joseph.
 
 ## Where things stand
 ~160 sources, ~1,720 Concepts, ~425 Scriptures, ~612 People, 398-scholar Authority Ledger. Books/docs ingested: *Ancient Christians*; all 6 TF Level-1 PDFs (Moody, Meyer, Harris, Ward, Turek, Feser); **Fife — *Light and Truth Letter***; **BYU — *The Restored Gospel of Jesus Christ and Evolution*** (2025); plus the **"Saved by Grace or Works?"** grace handout and **Hayden Carroll's Ratio Christi campus talk** (the latter also folded into his People note). **TF L1 videos ~53/55** (`[MM:SS]`+url citations); **main-list videos (bucket C): 22/27 ingested** (2026-06-15). Course hub: [[Thoughtful Faith Apologetics Course]].
