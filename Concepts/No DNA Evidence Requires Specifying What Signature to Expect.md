@@ -41,9 +41,7 @@ marker.) So "we'd expect Jewish DNA and don't find it" is not a coherent expecta
 
 ### 3. Absence of evidence is not disproof
 
-Given the founder effect, drift, and host-population admixture (see [[Founder Effect
-and Genetic Drift Erase a Small Founding Signal]] and [[The Philistine DNA Study
-Shows Genetic Signals Vanish into Host Populations]]), we should not expect a
+Given the founder effect, drift, and host-population admixture (see [[Founder Effect and Genetic Drift Erase a Small Founding Signal]] and [[The Philistine DNA Study Shows Genetic Signals Vanish into Host Populations]]), we should not expect a
 detectable signal. The absence of expected evidence does not disprove the claim; the
 better response is to ask the objector what evidence they expect and where they would
 look.[^4]

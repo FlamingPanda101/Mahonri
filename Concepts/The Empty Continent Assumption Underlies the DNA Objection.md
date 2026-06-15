@@ -39,8 +39,7 @@ heritage" shows European origin myths (Germans, Anglo-Saxons) portray isolated
 conquest, while genetics reveals admixture. The stories are not false — just narrow.
 The Israelite story traces through Abraham → Isaac → Jacob, yet by the monarchy
 Israel numbered tens or hundreds of thousands; Abraham is one covenant ancestor among
-many, not the only one. See [[Mormon Is an Ethnocentric Redactor Focused on the
-Witness of Christ]].[^3]
+many, not the only one. See [[Mormon Is an Ethnocentric Redactor Focused on the Witness of Christ]].[^3]
 
 > **Evidence rating:** Strong (named source + a clean genealogical analogy).
 

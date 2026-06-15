@@ -37,16 +37,13 @@ implications of atheism:
 > pitiless indifference."[^1]
 
 [[Hayden Carroll]] uses this quote to demonstrate that consistent atheism leads
-to moral nihilism — the absence of objective moral distinctions. See [[Moral
-Argument Against Atheism]].
+to moral nihilism — the absence of objective moral distinctions. See [[Moral Argument Against Atheism]].
 
 ### Design Argument
 Dawkins' *The Blind Watchmaker* argues that natural selection can produce the
 appearance of design without a designer — the central atheist response to the
-teleological argument. Carroll's [[Fine-Tuning and the Teleological Argument
-from Alma 30]] directly engages this line of reasoning.
+teleological argument. Carroll's [[Fine-Tuning and the Teleological Argument from Alma 30]] directly engages this line of reasoning.
 
-[^1]: [[Stick of Joseph - Atheism is Unreasonable and Stupid|Stick of Joseph
-- Atheism is Unreasonable and Stupid]], [40:01]–[40:31],
+[^1]: [[Stick of Joseph - Atheism is Unreasonable and Stupid|Stick of Joseph - Atheism is Unreasonable and Stupid]], [40:01]–[40:31],
 https://youtu.be/aqOzROuIAHM. Quote from Dawkins' *River Out of Eden* (1995),
 p. 133.

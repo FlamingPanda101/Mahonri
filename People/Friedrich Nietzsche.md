@@ -45,16 +45,13 @@ However, Nietzsche did not advocate nihilism as a resting place; he sought to
 a potential counterpoint: Nietzsche diagnosed nihilism as a transitional
 illness, not a final destination.[^3]
 
-See: [[Nihilism as Logical Endpoint of Atheism]], [[Atheism's Four Bad
-Implications]].
+See: [[Nihilism as Logical Endpoint of Atheism]], [[Atheisms Four Bad Implications]].
 
-[^1]: [[Stick of Joseph - Atheism is Unreasonable and Stupid|Stick of Joseph
-- Atheism is Unreasonable and Stupid]], [41:31]–[42:01],
+[^1]: [[Stick of Joseph - Atheism is Unreasonable and Stupid|Stick of Joseph - Atheism is Unreasonable and Stupid]], [41:31]–[42:01],
 https://youtu.be/aqOzROuIAHM. Quote from Nietzsche's *The Will to Power*, Book
 1, §12 (posthumously compiled from notebooks 1883–1888).
 
-[^2]: [[Stick of Joseph - Atheism is Unreasonable and Stupid|Stick of Joseph
-- Atheism is Unreasonable and Stupid]], [42:01],
+[^2]: [[Stick of Joseph - Atheism is Unreasonable and Stupid|Stick of Joseph - Atheism is Unreasonable and Stupid]], [42:01],
 https://youtu.be/aqOzROuIAHM
 
 [^3]: Nietzsche's concept of the Ubermensch was precisely a response *to*

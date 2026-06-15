@@ -34,9 +34,7 @@ libertarian free will:
 > they all agree that yeah, we actually don't have free will. If atheism is a
 > correct description of reality."[^1]
 
-See: [[Free Will - Atheist Determinism vs LDS Co-Eternality]], [[Atheism's
-Four Bad Implications]].
+See: [[Free Will - Atheist Determinism vs LDS Co-Eternality]], [[Atheisms Four Bad Implications]].
 
-[^1]: [[Stick of Joseph - Atheism is Unreasonable and Stupid|Stick of Joseph
-- Atheism is Unreasonable and Stupid]], [03:01]–[03:31],
+[^1]: [[Stick of Joseph - Atheism is Unreasonable and Stupid|Stick of Joseph - Atheism is Unreasonable and Stupid]], [03:01]–[03:31],
 https://youtu.be/aqOzROuIAHM

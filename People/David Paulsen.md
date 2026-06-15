@@ -21,8 +21,7 @@ against colleagues who sought to downplay it.
 ## "The Church of King Follett"
 
 At an interfaith gathering between BYU professors and evangelical professors in
-Nauvoo, Paulsen was "alarmed" at colleagues like [[Steven Robinson]] and [[Robert
-Millet]] who were downplaying the discourse as "fringe doctrines" or questioning
+Nauvoo, Paulsen was "alarmed" at colleagues like [[Steven Robinson]] and [[Robert Millet]] who were downplaying the discourse as "fringe doctrines" or questioning
 whether it was "fully canonized."[^1]
 
 Paulsen's response became legendary in LDS academic circles:

@@ -1,3 +1,7 @@
+---
+aliases: ["Sources"]
+---
+
 # Sources Index
 
 Channels and creators being audited for the apologetics library. When feeding a

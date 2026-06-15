@@ -32,9 +32,7 @@ attraction determines identity and destiny within a deterministic framework:
 wife — in the temple. He has kids."[^1] Carroll acknowledges the controversy:
 "A lot of people hate him or hate on him rather because they would say, 'Oh,
 you can't love your wife. You can't have a fulfilling marriage because you're
-denying yourself of what your inclinations are.'"[^1] See [[Homosexuality
-Problem for Atheistic Natural Selection]].
+denying yourself of what your inclinations are.'"[^1] See [[Homosexuality Problem for Atheistic Natural Selection]].
 
-[^1]: [[Stick of Joseph - Atheism is Unreasonable and Stupid|Stick of Joseph
-- Atheism is Unreasonable and Stupid]], [14:02]–[15:00],
+[^1]: [[Stick of Joseph - Atheism is Unreasonable and Stupid|Stick of Joseph - Atheism is Unreasonable and Stupid]], [14:02]–[15:00],
 https://youtu.be/aqOzROuIAHM

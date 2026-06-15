@@ -196,22 +196,17 @@ The debate is live.
 - [[Free Will - Atheist Determinism vs LDS Co-Eternality]]
 - [[Hayden Carroll]]
 
-[^1]: [[Stick of Joseph - Atheism is Unreasonable and Stupid|Stick of Joseph
-- Atheism is Unreasonable and Stupid]], [37:01]–[37:31],
+[^1]: [[Stick of Joseph - Atheism is Unreasonable and Stupid|Stick of Joseph - Atheism is Unreasonable and Stupid]], [37:01]–[37:31],
 https://youtu.be/aqOzROuIAHM
 
-[^2]: [[Stick of Joseph - Atheism is Unreasonable and Stupid|Stick of Joseph
-- Atheism is Unreasonable and Stupid]], [37:31]–[38:30],
+[^2]: [[Stick of Joseph - Atheism is Unreasonable and Stupid|Stick of Joseph - Atheism is Unreasonable and Stupid]], [37:31]–[38:30],
 https://youtu.be/aqOzROuIAHM
 
-[^3]: [[Stick of Joseph - Atheism is Unreasonable and Stupid|Stick of Joseph
-- Atheism is Unreasonable and Stupid]], [39:01],
+[^3]: [[Stick of Joseph - Atheism is Unreasonable and Stupid|Stick of Joseph - Atheism is Unreasonable and Stupid]], [39:01],
 https://youtu.be/aqOzROuIAHM
 
-[^4]: [[Stick of Joseph - Atheism is Unreasonable and Stupid|Stick of Joseph
-- Atheism is Unreasonable and Stupid]], [06:30]–[07:00],
+[^4]: [[Stick of Joseph - Atheism is Unreasonable and Stupid|Stick of Joseph - Atheism is Unreasonable and Stupid]], [06:30]–[07:00],
 https://youtu.be/aqOzROuIAHM
 
-[^5]: [[Stick of Joseph - Atheism is Unreasonable and Stupid|Stick of Joseph
-- Atheism is Unreasonable and Stupid]], [29:01]–[30:01],
+[^5]: [[Stick of Joseph - Atheism is Unreasonable and Stupid|Stick of Joseph - Atheism is Unreasonable and Stupid]], [29:01]–[30:01],
 https://youtu.be/aqOzROuIAHM

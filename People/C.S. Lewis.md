@@ -48,6 +48,5 @@ Lewis famously wrote that "the doors of hell are locked from the inside" —
 hell is a freely chosen state, not external punishment. This is cited in
 discussions of [[Hell - Free Will Defense Rebutted]].
 
-[^1]: [[Stick of Joseph - Atheism is Unreasonable and Stupid|Stick of Joseph
-- Atheism is Unreasonable and Stupid]], [46:31]–[47:00],
+[^1]: [[Stick of Joseph - Atheism is Unreasonable and Stupid|Stick of Joseph - Atheism is Unreasonable and Stupid]], [46:31]–[47:00],
 https://youtu.be/aqOzROuIAHM

@@ -108,8 +108,7 @@ information. The atheist makes a singular exception for the universe itself
 > they were nicely folded... Has that ever happened to you before?"
 > — [[Hayden Carroll]][^1]
 
-> "There is no place where causes happen without a causer." — [[David Butler
-> (Stick of Joseph)|David Butler]][^2]
+> "There is no place where causes happen without a causer." — [[David Butler (Stick of Joseph)|David Butler]][^2]
 
 > "Show me a building that was not built by an intelligent mind."
 > — [[David Butler (Stick of Joseph)|David Butler]][^4]
@@ -165,18 +164,14 @@ personal religious experience, etc.) that Carroll addresses elsewhere.
 - [[Hayden Carroll]]
 - [[David Butler (Stick of Joseph)|David Butler]]
 
-[^1]: [[Stick of Joseph - Atheism is Unreasonable and Stupid|Stick of Joseph
-- Atheism is Unreasonable and Stupid]], [25:30]–[26:01],
+[^1]: [[Stick of Joseph - Atheism is Unreasonable and Stupid|Stick of Joseph - Atheism is Unreasonable and Stupid]], [25:30]–[26:01],
 https://youtu.be/aqOzROuIAHM
 
-[^2]: [[Stick of Joseph - Atheism is Unreasonable and Stupid|Stick of Joseph
-- Atheism is Unreasonable and Stupid]], [26:30]–[27:00],
+[^2]: [[Stick of Joseph - Atheism is Unreasonable and Stupid|Stick of Joseph - Atheism is Unreasonable and Stupid]], [26:30]–[27:00],
 https://youtu.be/aqOzROuIAHM
 
-[^3]: [[Stick of Joseph - Atheism is Unreasonable and Stupid|Stick of Joseph
-- Atheism is Unreasonable and Stupid]], [27:30]–[28:02],
+[^3]: [[Stick of Joseph - Atheism is Unreasonable and Stupid|Stick of Joseph - Atheism is Unreasonable and Stupid]], [27:30]–[28:02],
 https://youtu.be/aqOzROuIAHM
 
-[^4]: [[Stick of Joseph - Atheism is Unreasonable and Stupid|Stick of Joseph
-- Atheism is Unreasonable and Stupid]], [28:02]–[28:31],
+[^4]: [[Stick of Joseph - Atheism is Unreasonable and Stupid|Stick of Joseph - Atheism is Unreasonable and Stupid]], [28:02]–[28:31],
 https://youtu.be/aqOzROuIAHM

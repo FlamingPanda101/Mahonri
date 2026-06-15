@@ -26,8 +26,7 @@ chance, and atheism is "stupid" (lacking common sense) because it entails four
 unwelcome implications: no free will, no objective morality, no genuine
 consciousness, and nihilistic purposelessness. The conversation also explores
 how LDS theology uniquely resolves these problems through co-eternality, eternal
-law, and pre-existence. Key atheist thinkers ([[Sam Harris]], [[Richard
-Dawkins]], [[Daniel Dennett]], [[Alex Rosenberg]]) are quoted conceding these
+law, and pre-existence. Key atheist thinkers ([[Sam Harris]], [[Richard Dawkins]], [[Daniel Dennett]], [[Alex Rosenberg]]) are quoted conceding these
 implications.
 
 ## Key Arguments Covered
@@ -35,7 +34,7 @@ implications.
 1. [[Fine-Tuning and the Teleological Argument from Alma 30]] — Alma's
    cosmic design argument predates Aquinas; physical constants demand a
    designer.
-2. [[Atheism's Four Bad Implications]] — No free will, no morality, no
+2. [[Atheisms Four Bad Implications]] — No free will, no morality, no
    consciousness, nihilism.
 3. [[Free Will - Atheist Determinism vs LDS Co-Eternality]] — Materialism
    entails determinism; LDS co-eternality escapes it.
@@ -55,11 +54,10 @@ implications.
     embrace simulation theory are unknowingly affirming LDS cosmology.
 11. [[Laundry Dryer Analogy for Design]] — The odds of chance folding your
     laundry vs. intelligent action.
-12. [[Moral Argument Against Atheism]] — [[Richard Dawkins]] and [[Alex
-    Rosenberg]] concede no objective morality under atheism.
+12. [[Moral Argument Against Atheism]] — [[Richard Dawkins]] and [[Alex Rosenberg]] concede no objective morality under atheism.
 13. [[Nihilism as Logical Endpoint of Atheism]] — [[Friedrich Nietzsche]]
     and the impossibility of purpose without God.
-14. [[Monopoly Analogy for Life's Purpose]] — Temporal concerns vs.
+14. [[Monopoly Analogy for Lifes Purpose]] — Temporal concerns vs.
     eternal purpose.
 15. [[Presuppositional Apologetics - CS Lewis Sun Analogy]] — Starting
     axioms that make everything else coherent.

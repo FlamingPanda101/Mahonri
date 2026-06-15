@@ -35,8 +35,7 @@ letstalk channel, which is outward-facing campus evangelism.
 Butler hosted [[Hayden Carroll]] for a discussion on atheism and the
 fine-tuning argument, contributing LDS doctrinal insights including the
 connection between [[D&C 130.20-21]] (law irrevocably decreed in heaven) and
-physical constants.[^2] See [[Fine-Tuning and the Teleological Argument from
-Alma 30]].
+physical constants.[^2] See [[Fine-Tuning and the Teleological Argument from Alma 30]].
 
 ### Presuppositional Apologetics
 Butler articulates a presuppositional approach: "We will never be able to prove
@@ -49,18 +48,14 @@ Butler argues that naturalistic explanations of the Book of Mormon require "you
 have to ignore history to do that... and you have to accept these wild and
 insane probabilities to make it's conspiracy theory."[^4]
 
-[^1]: [[Stick of Joseph - Atheism is Unreasonable and Stupid|Stick of Joseph
-- Atheism is Unreasonable and Stupid]], [49:01]–[49:30],
+[^1]: [[Stick of Joseph - Atheism is Unreasonable and Stupid|Stick of Joseph - Atheism is Unreasonable and Stupid]], [49:01]–[49:30],
 https://youtu.be/aqOzROuIAHM
 
-[^2]: [[Stick of Joseph - Atheism is Unreasonable and Stupid|Stick of Joseph
-- Atheism is Unreasonable and Stupid]], [31:30]–[32:30],
+[^2]: [[Stick of Joseph - Atheism is Unreasonable and Stupid|Stick of Joseph - Atheism is Unreasonable and Stupid]], [31:30]–[32:30],
 https://youtu.be/aqOzROuIAHM
 
-[^3]: [[Stick of Joseph - Atheism is Unreasonable and Stupid|Stick of Joseph
-- Atheism is Unreasonable and Stupid]], [47:00]–[48:00],
+[^3]: [[Stick of Joseph - Atheism is Unreasonable and Stupid|Stick of Joseph - Atheism is Unreasonable and Stupid]], [47:00]–[48:00],
 https://youtu.be/aqOzROuIAHM
 
-[^4]: [[Stick of Joseph - Atheism is Unreasonable and Stupid|Stick of Joseph
-- Atheism is Unreasonable and Stupid]], [23:30]–[24:00],
+[^4]: [[Stick of Joseph - Atheism is Unreasonable and Stupid|Stick of Joseph - Atheism is Unreasonable and Stupid]], [23:30]–[24:00],
 https://youtu.be/aqOzROuIAHM

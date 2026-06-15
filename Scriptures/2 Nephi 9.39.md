@@ -49,6 +49,5 @@ realities.
   (cf. Romans 8:6-7), but without the LDS framework of eternal progression and
   pre-mortal existence.
 
-[^1]: [[Stick of Joseph - Atheism is Unreasonable and Stupid|Stick of Joseph
-- Atheism is Unreasonable and Stupid]], [43:01]–[43:31],
+[^1]: [[Stick of Joseph - Atheism is Unreasonable and Stupid|Stick of Joseph - Atheism is Unreasonable and Stupid]], [43:01]–[43:31],
 https://youtu.be/aqOzROuIAHM

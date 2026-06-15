@@ -110,8 +110,7 @@ box and nothing mattered. As Butler says: "We forget why we're here."[^4]
 > — [[David Butler (Stick of Joseph)|David Butler]][^1]
 
 > "If you take it seriously and the whole purpose, right, is to get all the
-> things, you will ruin all your relationships." — [[David Butler (Stick of
-> Joseph)|David Butler]][^2]
+> things, you will ruin all your relationships." — [[David Butler (Stick of Joseph)|David Butler]][^2]
 
 > "You're not playing Monopoly to play Monopoly. You're playing Monopoly to be
 > happy and to build relationships. And that's what this is — a covenant
@@ -174,18 +173,14 @@ counters the claim that eternal perspective breeds passivity.
 - [[Presuppositional Apologetics - CS Lewis Sun Analogy]]
 - [[2 Nephi 9.39|2 Nephi 9:39]]
 
-[^1]: [[Stick of Joseph - Atheism is Unreasonable and Stupid|Stick of Joseph
-- Atheism is Unreasonable and Stupid]], [42:30]–[43:31],
+[^1]: [[Stick of Joseph - Atheism is Unreasonable and Stupid|Stick of Joseph - Atheism is Unreasonable and Stupid]], [42:30]–[43:31],
 https://youtu.be/aqOzROuIAHM
 
-[^2]: [[Stick of Joseph - Atheism is Unreasonable and Stupid|Stick of Joseph
-- Atheism is Unreasonable and Stupid]], [43:31]–[44:00],
+[^2]: [[Stick of Joseph - Atheism is Unreasonable and Stupid|Stick of Joseph - Atheism is Unreasonable and Stupid]], [43:31]–[44:00],
 https://youtu.be/aqOzROuIAHM
 
-[^3]: [[Stick of Joseph - Atheism is Unreasonable and Stupid|Stick of Joseph
-- Atheism is Unreasonable and Stupid]], [45:31]–[46:01],
+[^3]: [[Stick of Joseph - Atheism is Unreasonable and Stupid|Stick of Joseph - Atheism is Unreasonable and Stupid]], [45:31]–[46:01],
 https://youtu.be/aqOzROuIAHM
 
-[^4]: [[Stick of Joseph - Atheism is Unreasonable and Stupid|Stick of Joseph
-- Atheism is Unreasonable and Stupid]], [43:31],
+[^4]: [[Stick of Joseph - Atheism is Unreasonable and Stupid|Stick of Joseph - Atheism is Unreasonable and Stupid]], [43:31],
 https://youtu.be/aqOzROuIAHM

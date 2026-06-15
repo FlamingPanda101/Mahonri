@@ -43,9 +43,7 @@ order:
 
 [[Hayden Carroll]] and [[David Butler]] note that this is "the original
 teleological arguer way before St. Aquinas or any of the other early church
-fathers who used it."[^1] See [[Fine-Tuning and the Teleological Argument from
-Alma 30]] and [[Fine-Tuning - Book of Mormon Anticipation of Modern
-Cosmology]].
+fathers who used it."[^1] See [[Fine-Tuning and the Teleological Argument from Alma 30]] and [[Fine-Tuning - Book of Mormon Anticipation of Modern Cosmology]].
 
 ### The Nature of Unbelief
 Alma's exchange with Korihor is a case study in the psychology of atheism in
@@ -58,10 +56,7 @@ reasoning.
 
 ### Faith as Experiment
 Alma 32 contains the famous discourse comparing faith to a seed that must be
-planted and nurtured — an experiential epistemology that [[David Butler (Stick
-of Joseph)|David Butler]] connects to [[Presuppositional Apologetics - CS Lewis
-Sun Analogy]].
+planted and nurtured — an experiential epistemology that [[David Butler (Stick of Joseph)|David Butler]] connects to [[Presuppositional Apologetics - CS Lewis Sun Analogy]].
 
-[^1]: [[Stick of Joseph - Atheism is Unreasonable and Stupid|Stick of Joseph
-- Atheism is Unreasonable and Stupid]], [34:00],
+[^1]: [[Stick of Joseph - Atheism is Unreasonable and Stupid|Stick of Joseph - Atheism is Unreasonable and Stupid]], [34:00],
 https://youtu.be/aqOzROuIAHM

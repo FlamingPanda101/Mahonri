@@ -26,8 +26,7 @@ about AD 900 — roughly 500 years too late for the Book of Mormon's narrative w
 
 Continued research pushed the onset of Mesoamerican metallurgy from AD 900 back to
 about AD 600 — much closer to Book of Mormon times. This is classified as
-"trending," not yet settled. See [[The Anachronism List Is Trending Toward the Book
-of Mormon]].[^2]
+"trending," not yet settled. See [[The Anachronism List Is Trending Toward the Book of Mormon]].[^2]
 
 > **Evidence rating:** Moderate-to-strong (a real revision in the consensus date).
 

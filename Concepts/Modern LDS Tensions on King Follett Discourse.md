@@ -45,8 +45,7 @@ awkwardness."[^3]
 
 ## The David Paulsen Anecdote
 
-At a gathering between BYU professors and evangelical professors in Nauvoo, [[David
-Paulsen]] was "alarmed" at colleagues like [[Steven Robinson]] and [[Robert Millet]]
+At a gathering between BYU professors and evangelical professors in Nauvoo, [[David Paulsen]] was "alarmed" at colleagues like [[Steven Robinson]] and [[Robert Millet]]
 who were downplaying the discourse:
 
 > "'Oh, that might be just some fringe doctrines. I don't know if it's fully

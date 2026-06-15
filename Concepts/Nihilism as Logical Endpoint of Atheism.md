@@ -37,8 +37,7 @@ actually live with.
 > first when we have sought a meaning in all events that is not there. So the
 > seeker eventually becomes discouraged. Nihilism then is the recognition of
 > the long waste of strength, the agony of the in vain insecurity, the lack of
-> any opportunity to recover or to regain composure." — [[Friedrich
-> Nietzsche]], *The Will to Power*[^1]
+> any opportunity to recover or to regain composure." — [[Friedrich Nietzsche]], *The Will to Power*[^1]
 
 Carroll uses Nietzsche to show that nihilism isn't a theistic caricature — it's
 a diagnosis from one of atheism's intellectual forebears. Nietzsche saw that
@@ -93,8 +92,7 @@ conclusion is a worldview worth rejecting.
 
 > "Nihilism as a psychological state will have to be reached... the recognition
 > of the long waste of strength, the agony of the in vain insecurity, the lack
-> of any opportunity to recover or to regain composure." — [[Friedrich
-> Nietzsche]][^1]
+> of any opportunity to recover or to regain composure." — [[Friedrich Nietzsche]][^1]
 
 > "If you don't believe in free will, like it's not you choosing. You're not
 > creating anything. You're just living out what your chemicals are making you
@@ -156,18 +154,14 @@ contingent on feeling purposeful.
 - [[Atheisms Four Bad Implications]]
 - [[Monopoly Analogy for Lifes Purpose]]
 
-[^1]: [[Stick of Joseph - Atheism is Unreasonable and Stupid|Stick of Joseph
-- Atheism is Unreasonable and Stupid]], [41:31]–[42:01],
+[^1]: [[Stick of Joseph - Atheism is Unreasonable and Stupid|Stick of Joseph - Atheism is Unreasonable and Stupid]], [41:31]–[42:01],
 https://youtu.be/aqOzROuIAHM
 
-[^2]: [[Stick of Joseph - Atheism is Unreasonable and Stupid|Stick of Joseph
-- Atheism is Unreasonable and Stupid]], [42:01]–[42:30],
+[^2]: [[Stick of Joseph - Atheism is Unreasonable and Stupid|Stick of Joseph - Atheism is Unreasonable and Stupid]], [42:01]–[42:30],
 https://youtu.be/aqOzROuIAHM
 
-[^3]: [[Stick of Joseph - Atheism is Unreasonable and Stupid|Stick of Joseph
-- Atheism is Unreasonable and Stupid]], [40:31]–[41:01],
+[^3]: [[Stick of Joseph - Atheism is Unreasonable and Stupid|Stick of Joseph - Atheism is Unreasonable and Stupid]], [40:31]–[41:01],
 https://youtu.be/aqOzROuIAHM
 
-[^4]: [[Stick of Joseph - Atheism is Unreasonable and Stupid|Stick of Joseph
-- Atheism is Unreasonable and Stupid]], [41:30]–[42:01],
+[^4]: [[Stick of Joseph - Atheism is Unreasonable and Stupid|Stick of Joseph - Atheism is Unreasonable and Stupid]], [41:30]–[42:01],
 https://youtu.be/aqOzROuIAHM

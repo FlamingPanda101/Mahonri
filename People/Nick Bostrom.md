@@ -31,9 +31,7 @@ naturalistic alternative to theism. [[David Butler]] notes the irony: LDS
 theology already describes mortal life as a "second estate" — a probationary
 state away from "base reality" (God's presence). Atheists who find Bostrom's
 simulation plausible have conceded the conceptual framework of a created,
-non-ultimate reality with a higher intelligence behind it.[^1] See [[Simulation
-Theory Aligns with LDS Second Estate]].
+non-ultimate reality with a higher intelligence behind it.[^1] See [[Simulation Theory Aligns with LDS Second Estate]].
 
-[^1]: [[Stick of Joseph - Atheism is Unreasonable and Stupid|Stick of Joseph
-- Atheism is Unreasonable and Stupid]], [34:00]–[35:02],
+[^1]: [[Stick of Joseph - Atheism is Unreasonable and Stupid|Stick of Joseph - Atheism is Unreasonable and Stupid]], [34:00]–[35:02],
 https://youtu.be/aqOzROuIAHM

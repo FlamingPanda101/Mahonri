@@ -32,8 +32,7 @@ which supports LDS truth claims against naturalistic critiques.
 
 ### 1. Alma 30:44 Anticipates the Structure of Fine-Tuning Arguments (Evidence Rating: Primary — Scriptural)
 
-The full argument is developed in [[Fine-Tuning and the Teleological Argument
-from Alma 30]]. The key textual features:
+The full argument is developed in [[Fine-Tuning and the Teleological Argument from Alma 30]]. The key textual features:
 
 - **"Its motion":** The earth is described as being in motion — not stationary.
   Ancient and medieval cosmologies typically placed the earth at the center,
@@ -116,12 +115,10 @@ and govern the universe's formation.
 
 > "First of all, Joseph Smith, if he wrote the Book of Mormon, he didn't know
 > about the fine-tuning argument. The fine-tuning argument was not — as far as
-> the initial conditions and the constants — didn't exist." — [[Hayden
-> Carroll]][^3]
+> the initial conditions and the constants — didn't exist." — [[Hayden Carroll]][^3]
 
 > "Alma is the original teleological arguer way before St. Aquinas or any of
-> the other early church fathers who used it." — [[David Butler (Stick of
-> Joseph)|David Butler]][^2]
+> the other early church fathers who used it." — [[David Butler (Stick of Joseph)|David Butler]][^2]
 
 ## Counter-Arguments / Steelmanning
 
@@ -134,8 +131,7 @@ adapted biblical design language. There's nothing specifically "fine-tuning"
 about "the planets move in regular form" — that's observable by anyone who
 looks at the night sky over time.
 
-**Response:** See the discussion in [[Fine-Tuning and the Teleological Argument
-from Alma 30]]. The claim is not that Alma 30:44 contains technical fine-tuning
+**Response:** See the discussion in [[Fine-Tuning and the Teleological Argument from Alma 30]]. The claim is not that Alma 30:44 contains technical fine-tuning
 parameters, but that (a) its cosmic-scale framing (planets, earth's motion,
 regular form) is more aligned with modern cosmological design arguments than
 with Paley-style biological arguments, and (b) Joseph Smith, if fabricating,
@@ -183,18 +179,14 @@ moral law, the principle generalizes.
 - [[Hayden Carroll]]
 - [[David Butler (Stick of Joseph)|David Butler]]
 
-[^1]: [[Stick of Joseph - Atheism is Unreasonable and Stupid|Stick of Joseph
-- Atheism is Unreasonable and Stupid]], [33:00]–[33:31],
+[^1]: [[Stick of Joseph - Atheism is Unreasonable and Stupid|Stick of Joseph - Atheism is Unreasonable and Stupid]], [33:00]–[33:31],
 https://youtu.be/aqOzROuIAHM
 
-[^2]: [[Stick of Joseph - Atheism is Unreasonable and Stupid|Stick of Joseph
-- Atheism is Unreasonable and Stupid]], [34:00],
+[^2]: [[Stick of Joseph - Atheism is Unreasonable and Stupid|Stick of Joseph - Atheism is Unreasonable and Stupid]], [34:00],
 https://youtu.be/aqOzROuIAHM
 
-[^3]: [[Stick of Joseph - Atheism is Unreasonable and Stupid|Stick of Joseph
-- Atheism is Unreasonable and Stupid]], [32:30]–[33:00],
+[^3]: [[Stick of Joseph - Atheism is Unreasonable and Stupid|Stick of Joseph - Atheism is Unreasonable and Stupid]], [32:30]–[33:00],
 https://youtu.be/aqOzROuIAHM
 
-[^4]: [[Stick of Joseph - Atheism is Unreasonable and Stupid|Stick of Joseph
-- Atheism is Unreasonable and Stupid]], [31:30]–[32:01],
+[^4]: [[Stick of Joseph - Atheism is Unreasonable and Stupid|Stick of Joseph - Atheism is Unreasonable and Stupid]], [31:30]–[32:01],
 https://youtu.be/aqOzROuIAHM

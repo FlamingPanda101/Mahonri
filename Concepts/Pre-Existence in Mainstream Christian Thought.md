@@ -47,11 +47,9 @@
 
 ## See Also (from [[Stick of Joseph - Atheism is Unreasonable and Stupid]])
 
-- [[Pre-Existence Implied by John 9]] — [[Hayden Carroll]] and [[David Butler
-  (Stick of Joseph)|David Butler]] argue that John 9:1-3 presupposes
+- [[Pre-Existence Implied by John 9]] — [[Hayden Carroll]] and [[David Butler (Stick of Joseph)|David Butler]] argue that John 9:1-3 presupposes
   pre-existence, as the disciples' question about the man born blind only makes
   sense if he could have sinned before birth.[^8]
 
-[^8]: [[Stick of Joseph - Atheism is Unreasonable and Stupid|Stick of Joseph
-- Atheism is Unreasonable and Stupid]], [15:30]–[17:01],
+[^8]: [[Stick of Joseph - Atheism is Unreasonable and Stupid|Stick of Joseph - Atheism is Unreasonable and Stupid]], [15:30]–[17:01],
 https://youtu.be/aqOzROuIAHM

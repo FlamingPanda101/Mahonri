@@ -46,13 +46,10 @@ However, Carroll also identifies an inconsistency: Calvinists claim we have a
 whether this distinction survives scrutiny given that God predetermined
 everything, including who is enslaved to whom.[^2]
 
-See: [[Calvinism Consistency with Atheism on Free Will]], [[Free Will - Atheist
-Determinism vs LDS Co-Eternality]].
+See: [[Calvinism Consistency with Atheism on Free Will]], [[Free Will - Atheist Determinism vs LDS Co-Eternality]].
 
-[^1]: [[Stick of Joseph - Atheism is Unreasonable and Stupid|Stick of Joseph
-- Atheism is Unreasonable and Stupid]], [08:00]–[08:30],
+[^1]: [[Stick of Joseph - Atheism is Unreasonable and Stupid|Stick of Joseph - Atheism is Unreasonable and Stupid]], [08:00]–[08:30],
 https://youtu.be/aqOzROuIAHM
 
-[^2]: [[Stick of Joseph - Atheism is Unreasonable and Stupid|Stick of Joseph
-- Atheism is Unreasonable and Stupid]], [09:01]–[09:30],
+[^2]: [[Stick of Joseph - Atheism is Unreasonable and Stupid|Stick of Joseph - Atheism is Unreasonable and Stupid]], [09:01]–[09:30],
 https://youtu.be/aqOzROuIAHM

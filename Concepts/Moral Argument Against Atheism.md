@@ -145,8 +145,7 @@ can access it directly. Either way, God is not necessary for morality.
 
 **Response:** LDS theology has a distinctive answer: morality is grounded in
 *eternal law* that is co-eternal with God. God does not invent morality; He
-perfectly embodies and administers eternal moral law (see [[D&C
-130.20-21|D&C 130:20-21]]). This is neither horn of Euthyphro: morality is
+perfectly embodies and administers eternal moral law (see [[D&C 130.20-21|D&C 130:20-21]]). This is neither horn of Euthyphro: morality is
 neither arbitrary divine command nor independent of God in a way that makes God
 irrelevant — rather, God is the perfect moral agent who reveals and administers
 eternal law. This LDS solution is arguably more philosophically robust than
@@ -175,18 +174,14 @@ want from morality: real right and wrong, not just preferences.
 - [[Alex Rosenberg]]
 - [[Alex O'Connor]]
 
-[^1]: [[Stick of Joseph - Atheism is Unreasonable and Stupid|Stick of Joseph
-- Atheism is Unreasonable and Stupid]], [40:01]–[40:31],
+[^1]: [[Stick of Joseph - Atheism is Unreasonable and Stupid|Stick of Joseph - Atheism is Unreasonable and Stupid]], [40:01]–[40:31],
 https://youtu.be/aqOzROuIAHM
 
-[^2]: [[Stick of Joseph - Atheism is Unreasonable and Stupid|Stick of Joseph
-- Atheism is Unreasonable and Stupid]], [40:31]–[41:01],
+[^2]: [[Stick of Joseph - Atheism is Unreasonable and Stupid|Stick of Joseph - Atheism is Unreasonable and Stupid]], [40:31]–[41:01],
 https://youtu.be/aqOzROuIAHM
 
-[^3]: [[Stick of Joseph - Atheism is Unreasonable and Stupid|Stick of Joseph
-- Atheism is Unreasonable and Stupid]], [36:31],
+[^3]: [[Stick of Joseph - Atheism is Unreasonable and Stupid|Stick of Joseph - Atheism is Unreasonable and Stupid]], [36:31],
 https://youtu.be/aqOzROuIAHM
 
-[^4]: [[Stick of Joseph - Atheism is Unreasonable and Stupid|Stick of Joseph
-- Atheism is Unreasonable and Stupid]], [39:01]–[40:01],
+[^4]: [[Stick of Joseph - Atheism is Unreasonable and Stupid|Stick of Joseph - Atheism is Unreasonable and Stupid]], [39:01]–[40:01],
 https://youtu.be/aqOzROuIAHM

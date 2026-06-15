@@ -32,6 +32,5 @@ analogy: "We will never be able to prove the existence of God... But if you
 accept those three proofs, everything else will be in harmony. Zion will be
 built."[^1] See [[Presuppositional Apologetics - CS Lewis Sun Analogy]].
 
-[^1]: [[Stick of Joseph - Atheism is Unreasonable and Stupid|Stick of Joseph
-- Atheism is Unreasonable and Stupid]], [47:00]–[48:00],
+[^1]: [[Stick of Joseph - Atheism is Unreasonable and Stupid|Stick of Joseph - Atheism is Unreasonable and Stupid]], [47:00]–[48:00],
 https://youtu.be/aqOzROuIAHM

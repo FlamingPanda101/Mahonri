@@ -108,8 +108,7 @@ lacks.
 ## Best Quotes
 
 > "As Latter-day Saints we would say that we are actually not caused, right?
-> Because we're eternal beings... we're co-eternal with God." — [[Hayden
-> Carroll]][^4]
+> Because we're eternal beings... we're co-eternal with God." — [[Hayden Carroll]][^4]
 
 > "Sam Harris, Christopher Hitchens, Alex O'Connor, they all agree that yeah,
 > we actually don't have free will. If atheism is a correct description of
@@ -175,26 +174,20 @@ discourse, and the very concept of "you" as an agent.
 - [[Joseph Smith]]
 - [[D&C 130.20-21|D&C 130:20-21]]
 
-[^1]: [[Stick of Joseph - Atheism is Unreasonable and Stupid|Stick of Joseph
-- Atheism is Unreasonable and Stupid]], [06:02]–[06:30],
+[^1]: [[Stick of Joseph - Atheism is Unreasonable and Stupid|Stick of Joseph - Atheism is Unreasonable and Stupid]], [06:02]–[06:30],
 https://youtu.be/aqOzROuIAHM
 
-[^2]: [[Stick of Joseph - Atheism is Unreasonable and Stupid|Stick of Joseph
-- Atheism is Unreasonable and Stupid]], [06:02],
+[^2]: [[Stick of Joseph - Atheism is Unreasonable and Stupid|Stick of Joseph - Atheism is Unreasonable and Stupid]], [06:02],
 https://youtu.be/aqOzROuIAHM
 
-[^3]: [[Stick of Joseph - Atheism is Unreasonable and Stupid|Stick of Joseph
-- Atheism is Unreasonable and Stupid]], [03:01]–[03:31],
+[^3]: [[Stick of Joseph - Atheism is Unreasonable and Stupid|Stick of Joseph - Atheism is Unreasonable and Stupid]], [03:01]–[03:31],
 https://youtu.be/aqOzROuIAHM
 
-[^4]: [[Stick of Joseph - Atheism is Unreasonable and Stupid|Stick of Joseph
-- Atheism is Unreasonable and Stupid]], [06:30]–[07:00],
+[^4]: [[Stick of Joseph - Atheism is Unreasonable and Stupid|Stick of Joseph - Atheism is Unreasonable and Stupid]], [06:30]–[07:00],
 https://youtu.be/aqOzROuIAHM
 
-[^5]: [[Stick of Joseph - Atheism is Unreasonable and Stupid|Stick of Joseph
-- Atheism is Unreasonable and Stupid]], [31:30]–[32:30],
+[^5]: [[Stick of Joseph - Atheism is Unreasonable and Stupid|Stick of Joseph - Atheism is Unreasonable and Stupid]], [31:30]–[32:30],
 https://youtu.be/aqOzROuIAHM
 
-[^6]: [[Stick of Joseph - Atheism is Unreasonable and Stupid|Stick of Joseph
-- Atheism is Unreasonable and Stupid]], [29:01],
+[^6]: [[Stick of Joseph - Atheism is Unreasonable and Stupid|Stick of Joseph - Atheism is Unreasonable and Stupid]], [29:01],
 https://youtu.be/aqOzROuIAHM

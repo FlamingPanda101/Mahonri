@@ -50,48 +50,39 @@ presents a teleological argument centuries before Aquinas.[^3] See
 ### Atheism's Implications
 Carroll argues that consistent atheism entails four unpalatable implications:
 no free will, no objective morality, no genuine consciousness, and nihilism. He
-quotes prominent atheists ([[Sam Harris]], [[Richard Dawkins]], [[Daniel
-Dennett]], [[Alex Rosenberg]]) who concede these implications.[^4] See
-[[Atheism's Four Bad Implications]].
+quotes prominent atheists ([[Sam Harris]], [[Richard Dawkins]], [[Daniel Dennett]], [[Alex Rosenberg]]) who concede these implications.[^4] See
+[[Atheisms Four Bad Implications]].
 
 ### Free Will and Co-Eternality
 Carroll argues that LDS doctrine of co-eternality — that human intelligences
 are uncreated and co-eternal with God — uniquely resolves the determinism
 problem that plagues both atheism and mainstream Christianity's doctrine of
-creation *ex nihilo*.[^5] See [[Free Will - Atheist Determinism vs LDS
-Co-Eternality]].
+creation *ex nihilo*.[^5] See [[Free Will - Atheist Determinism vs LDS Co-Eternality]].
 
 ### Pre-Existence and John 9
 Carroll points to John 9:1-3, where the apostles ask Jesus whether a man born
 blind sinned (implying pre-mortal existence), as evidence that early Christians
-may have believed in pre-existence.[^6] See [[Pre-Existence Implied by John
-9]].
+may have believed in pre-existence.[^6] See [[Pre-Existence Implied by John 9]].
 
 ### The Bible's Authority / Canon Debate
 In the moderated debate [[Lets Talk w Hayden Carroll - Is the Bible the Final Authority Debate|"Is the Bible the Final Authority?"]] (his own channel) Carroll argues the **negative** against the resolution that the 66-book Protestant canon is the *infallible and ultimate* authority. His signature move is the **authorization argument**: the affirmative must show a *public, unambiguous divine designation* of this specific canon, which he says has never been produced.[^7] Linked concepts: [[Authorization - Divine Designation Required for an Infallible Canon]], [[The Canon Question Is Logically Prior to Canon Authority]], [[Inspired vs Infallible vs Ultimate - A Distinction]], [[The Circularity Charge Against Self-Attesting Scripture]], [[No Final Interpreter - The Protestant Adjudication Problem]], [[The Church Once Accepted Books It Later Rejected]], [[The Compass Without a Calibrator]], [[LDS Reject the Song of Solomon as Inspired]]. His posture: concede the Bible is inspired/reliable/authoritative while denying infallibility/ultimacy — "sincerity is not the same as authorization."[^8]
 
-[^1]: [[Stick of Joseph - Atheism is Unreasonable and Stupid|Stick of Joseph
-- Atheism is Unreasonable and Stupid]], [00:31]–[01:30],
+[^1]: [[Stick of Joseph - Atheism is Unreasonable and Stupid|Stick of Joseph - Atheism is Unreasonable and Stupid]], [00:31]–[01:30],
 https://youtu.be/aqOzROuIAHM
 
-[^2]: [[Stick of Joseph - Atheism is Unreasonable and Stupid|Stick of Joseph
-- Atheism is Unreasonable and Stupid]], [04:01]–[04:30],
+[^2]: [[Stick of Joseph - Atheism is Unreasonable and Stupid|Stick of Joseph - Atheism is Unreasonable and Stupid]], [04:01]–[04:30],
 https://youtu.be/aqOzROuIAHM
 
-[^3]: [[Stick of Joseph - Atheism is Unreasonable and Stupid|Stick of Joseph
-- Atheism is Unreasonable and Stupid]], [32:30]–[34:00],
+[^3]: [[Stick of Joseph - Atheism is Unreasonable and Stupid|Stick of Joseph - Atheism is Unreasonable and Stupid]], [32:30]–[34:00],
 https://youtu.be/aqOzROuIAHM
 
-[^4]: [[Stick of Joseph - Atheism is Unreasonable and Stupid|Stick of Joseph
-- Atheism is Unreasonable and Stupid]], [36:01]–[41:30],
+[^4]: [[Stick of Joseph - Atheism is Unreasonable and Stupid|Stick of Joseph - Atheism is Unreasonable and Stupid]], [36:01]–[41:30],
 https://youtu.be/aqOzROuIAHM
 
-[^5]: [[Stick of Joseph - Atheism is Unreasonable and Stupid|Stick of Joseph
-- Atheism is Unreasonable and Stupid]], [06:02]–[07:30],
+[^5]: [[Stick of Joseph - Atheism is Unreasonable and Stupid|Stick of Joseph - Atheism is Unreasonable and Stupid]], [06:02]–[07:30],
 https://youtu.be/aqOzROuIAHM
 
-[^6]: [[Stick of Joseph - Atheism is Unreasonable and Stupid|Stick of Joseph
-- Atheism is Unreasonable and Stupid]], [15:30]–[17:01],
+[^6]: [[Stick of Joseph - Atheism is Unreasonable and Stupid|Stick of Joseph - Atheism is Unreasonable and Stupid]], [15:30]–[17:01],
 https://youtu.be/aqOzROuIAHM
 
 [^7]: [[Lets Talk w Hayden Carroll - Is the Bible the Final Authority Debate|Let's Talk w/ Hayden Carroll - Is the Bible the Final Authority?]], [19:30], https://youtu.be/x5EbiJLb8U0

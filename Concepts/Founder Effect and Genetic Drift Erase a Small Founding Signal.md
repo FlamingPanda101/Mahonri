@@ -44,8 +44,7 @@ in China and drifting from the broader American gene pool.[^3]
 
 Lehi is identified only as of the tribe of Manasseh, and there is no isolable
 "Manassite DNA" to search for. Without knowing the expected signature, "no DNA
-evidence" is not a meaningful test — see [[No DNA Evidence Requires Specifying What
-Signature to Expect]].[^4]
+evidence" is not a meaningful test — see [[No DNA Evidence Requires Specifying What Signature to Expect]].[^4]
 
 > **Evidence rating:** Moderate-to-strong (a genuine methodological gap).
 

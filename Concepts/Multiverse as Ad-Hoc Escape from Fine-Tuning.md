@@ -77,8 +77,7 @@ resolve fine-tuning.
 
 ### 4. Constants Don't Change (Evidence Rating: Primary — Definitional)
 
-Related argument from [[Fine-Tuning and the Teleological Argument from Alma
-30]]:
+Related argument from [[Fine-Tuning and the Teleological Argument from Alma 30]]:
 
 > "A lot of them will say, 'Well, if we have infinite amount of time, then
 > eventually the constants are going to align. The dials are going to align.'
@@ -98,8 +97,7 @@ constants. But this just relocates the improbability.
 > and they don't have any evidence for it.'" — [[Hayden Carroll]][^3]
 
 > "If we have infinite amount of time, then eventually the constants are going
-> to align. That's an oxymoron. A constant does not change." — [[Hayden
-> Carroll]][^4]
+> to align. That's an oxymoron. A constant does not change." — [[Hayden Carroll]][^4]
 
 ## Counter-Arguments / Steelmanning
 
@@ -157,18 +155,14 @@ folded it."
 - [[Fine-Tuning and the Teleological Argument from Alma 30]]
 - [[Hayden Carroll]]
 
-[^1]: [[Stick of Joseph - Atheism is Unreasonable and Stupid|Stick of Joseph
-- Atheism is Unreasonable and Stupid]], [31:01],
+[^1]: [[Stick of Joseph - Atheism is Unreasonable and Stupid|Stick of Joseph - Atheism is Unreasonable and Stupid]], [31:01],
 https://youtu.be/aqOzROuIAHM
 
-[^2]: [[Stick of Joseph - Atheism is Unreasonable and Stupid|Stick of Joseph
-- Atheism is Unreasonable and Stupid]], [31:01]–[31:30],
+[^2]: [[Stick of Joseph - Atheism is Unreasonable and Stupid|Stick of Joseph - Atheism is Unreasonable and Stupid]], [31:01]–[31:30],
 https://youtu.be/aqOzROuIAHM
 
-[^3]: [[Stick of Joseph - Atheism is Unreasonable and Stupid|Stick of Joseph
-- Atheism is Unreasonable and Stupid]], [31:01]–[31:30],
+[^3]: [[Stick of Joseph - Atheism is Unreasonable and Stupid|Stick of Joseph - Atheism is Unreasonable and Stupid]], [31:01]–[31:30],
 https://youtu.be/aqOzROuIAHM
 
-[^4]: [[Stick of Joseph - Atheism is Unreasonable and Stupid|Stick of Joseph
-- Atheism is Unreasonable and Stupid]], [28:31],
+[^4]: [[Stick of Joseph - Atheism is Unreasonable and Stupid|Stick of Joseph - Atheism is Unreasonable and Stupid]], [28:31],
 https://youtu.be/aqOzROuIAHM

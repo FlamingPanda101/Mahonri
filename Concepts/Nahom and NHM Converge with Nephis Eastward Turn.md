@@ -38,8 +38,7 @@ is closer. Inscriptions referring to "Nehemites" go back to the **7th century BC
 Objection: "NHM is a tribe, not a place." Reply: Yemeni tribes are tightly tied to
 their territory; ancient South Arabian inscriptions use tribal names as place names,
 and scholars reading "so-and-so was a Nehemite" debate whether it means the *region*
-or the *tribe* — because the two are integrated. Rappleye published on this in [[BYU
-Studies]].[^3]
+or the *tribe* — because the two are integrated. Rappleye published on this in [[BYU Studies]].[^3]
 
 > **Evidence rating:** Strong (cited inscriptions + a peer-reviewed paper answering the objection).
 

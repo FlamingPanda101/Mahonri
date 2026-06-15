@@ -31,8 +31,7 @@ the natural world itself.
 1. **Teleological Argument:** Alma's appeal is a classic design argument — the
    order and regularity of the cosmos (earth, its motion, planets in their
    "regular form") witness to a "Supreme Creator." This predates the
-   teleological arguments of [[Thomas Aquinas]] (13th century) and [[William
-   Paley]] (19th century) by well over a millennium.
+   teleological arguments of [[Thomas Aquinas]] (13th century) and [[William Paley]] (19th century) by well over a millennium.
 
 2. **"Motion" and "Regular Form":** [[David Butler]] and [[Hayden Carroll]]
    note that references to the earth's "motion" and planets moving in "regular
@@ -65,6 +64,5 @@ the natural world itself.
   natural theology into a fictional ancient text, not as actual pre-Columbian
   cosmology.
 
-[^1]: [[Stick of Joseph - Atheism is Unreasonable and Stupid|Stick of Joseph
-- Atheism is Unreasonable and Stupid]], [33:00]–[34:00],
+[^1]: [[Stick of Joseph - Atheism is Unreasonable and Stupid|Stick of Joseph - Atheism is Unreasonable and Stupid]], [33:00]–[34:00],
 https://youtu.be/aqOzROuIAHM

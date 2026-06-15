@@ -37,14 +37,11 @@ nihilism, agreeing that atheism "essentially leads logically leads you to it"
 — a concession from a prominent atheist philosopher that atheism entails moral
 nihilism.[^2]
 
-See: [[Moral Argument Against Atheism]], [[Nihilism as Logical Endpoint of
-Atheism]], [[Atheism's Four Bad Implications]].
+See: [[Moral Argument Against Atheism]], [[Nihilism as Logical Endpoint of Atheism]], [[Atheisms Four Bad Implications]].
 
-[^1]: [[Stick of Joseph - Atheism is Unreasonable and Stupid|Stick of Joseph
-- Atheism is Unreasonable and Stupid]], [40:31]–[41:01],
+[^1]: [[Stick of Joseph - Atheism is Unreasonable and Stupid|Stick of Joseph - Atheism is Unreasonable and Stupid]], [40:31]–[41:01],
 https://youtu.be/aqOzROuIAHM. Quote from Rosenberg's *The Atheist's Guide to
 Reality* (2011).
 
-[^2]: [[Stick of Joseph - Atheism is Unreasonable and Stupid|Stick of Joseph
-- Atheism is Unreasonable and Stupid]], [40:31]–[41:01],
+[^2]: [[Stick of Joseph - Atheism is Unreasonable and Stupid|Stick of Joseph - Atheism is Unreasonable and Stupid]], [40:31]–[41:01],
 https://youtu.be/aqOzROuIAHM

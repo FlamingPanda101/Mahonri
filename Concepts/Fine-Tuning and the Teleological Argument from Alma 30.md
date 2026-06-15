@@ -141,17 +141,14 @@ struggle with.
 > — [[Alma 30.44|Alma 30:44]][^3]
 
 > "Alma is the original teleological arguer way before St. Aquinas or any of
-> the other early church fathers who used it." — [[David Butler (Stick of
-> Joseph)|David Butler]][^4]
+> the other early church fathers who used it." — [[David Butler (Stick of Joseph)|David Butler]][^4]
 
 > "First of all, Joseph Smith, if he wrote the Book of Mormon, he didn't know
 > about the fine-tuning argument. The fine-tuning argument was not — as far as
-> the initial conditions and the constants — didn't exist." — [[Hayden
-> Carroll]][^6]
+> the initial conditions and the constants — didn't exist." — [[Hayden Carroll]][^6]
 
 > "There is a law, irrevocably decreed in heaven before the foundations of this
-> world, upon which all blessings are predicated." — [[D&C
-> 130.20-21|D&C 130:20-21]][^5]
+> world, upon which all blessings are predicated." — [[D&C 130.20-21|D&C 130:20-21]][^5]
 
 ## Counter-Arguments / Steelmanning
 
@@ -165,8 +162,7 @@ universe with observers must have life-permitting parameters.
 **Response:** The weak anthropic principle does not *explain* why the constants
 have the values they do; it merely notes that *if* they were different, we
 wouldn't be here to notice. This is a selection effect, not a causal
-explanation. As Carroll argues with the laundry analogy (see [[Laundry Dryer
-Analogy for Design]]), improbability still demands an explanation — "there is a
+explanation. As Carroll argues with the laundry analogy (see [[Laundry Dryer Analogy for Design]]), improbability still demands an explanation — "there is a
 chance" is not the same as "this is the more reasonable explanation." The
 strong anthropic principle (the universe *must* have these properties) is
 teleological and arguably theistic.
@@ -204,31 +200,24 @@ level — what fine-tuned the multiverse-generating mechanism?
 - [[Hayden Carroll]]
 - [[David Butler (Stick of Joseph)|David Butler]]
 
-[^1]: [[Stick of Joseph - Atheism is Unreasonable and Stupid|Stick of Joseph
-- Atheism is Unreasonable and Stupid]], [36:01]–[36:31],
+[^1]: [[Stick of Joseph - Atheism is Unreasonable and Stupid|Stick of Joseph - Atheism is Unreasonable and Stupid]], [36:01]–[36:31],
 https://youtu.be/aqOzROuIAHM
 
-[^2]: [[Stick of Joseph - Atheism is Unreasonable and Stupid|Stick of Joseph
-- Atheism is Unreasonable and Stupid]], [33:31],
+[^2]: [[Stick of Joseph - Atheism is Unreasonable and Stupid|Stick of Joseph - Atheism is Unreasonable and Stupid]], [33:31],
 https://youtu.be/aqOzROuIAHM. Butler mentions the "Goldilocks zone" and earth's
 tilt.
 
-[^3]: [[Stick of Joseph - Atheism is Unreasonable and Stupid|Stick of Joseph
-- Atheism is Unreasonable and Stupid]], [33:00]–[33:31],
+[^3]: [[Stick of Joseph - Atheism is Unreasonable and Stupid|Stick of Joseph - Atheism is Unreasonable and Stupid]], [33:00]–[33:31],
 https://youtu.be/aqOzROuIAHM. Quoting [[Alma 30.44|Alma 30:44]].
 
-[^4]: [[Stick of Joseph - Atheism is Unreasonable and Stupid|Stick of Joseph
-- Atheism is Unreasonable and Stupid]], [34:00],
+[^4]: [[Stick of Joseph - Atheism is Unreasonable and Stupid|Stick of Joseph - Atheism is Unreasonable and Stupid]], [34:00],
 https://youtu.be/aqOzROuIAHM
 
-[^5]: [[Stick of Joseph - Atheism is Unreasonable and Stupid|Stick of Joseph
-- Atheism is Unreasonable and Stupid]], [31:30]–[32:01],
+[^5]: [[Stick of Joseph - Atheism is Unreasonable and Stupid|Stick of Joseph - Atheism is Unreasonable and Stupid]], [31:30]–[32:01],
 https://youtu.be/aqOzROuIAHM
 
-[^6]: [[Stick of Joseph - Atheism is Unreasonable and Stupid|Stick of Joseph
-- Atheism is Unreasonable and Stupid]], [32:30]–[33:00],
+[^6]: [[Stick of Joseph - Atheism is Unreasonable and Stupid|Stick of Joseph - Atheism is Unreasonable and Stupid]], [32:30]–[33:00],
 https://youtu.be/aqOzROuIAHM
 
-[^7]: [[Stick of Joseph - Atheism is Unreasonable and Stupid|Stick of Joseph
-- Atheism is Unreasonable and Stupid]], [28:31]–[29:01],
+[^7]: [[Stick of Joseph - Atheism is Unreasonable and Stupid|Stick of Joseph - Atheism is Unreasonable and Stupid]], [28:31]–[29:01],
 https://youtu.be/aqOzROuIAHM

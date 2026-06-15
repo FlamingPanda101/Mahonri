@@ -92,8 +92,7 @@ He doesn't cannot match. This aligns with Alma 32's "experiment upon the word"
 
 Butler is careful to distinguish this from fideism (blind faith without
 evidence). The point is not that there's NO evidence — there's plenty (see
-[[Fine-Tuning and the Teleological Argument from Alma 30]], [[Moral Argument
-Against Atheism]], etc.). The point is that evidence alone doesn't compel
+[[Fine-Tuning and the Teleological Argument from Alma 30]], [[Moral Argument Against Atheism]], etc.). The point is that evidence alone doesn't compel
 belief — at some point, you must accept the axiom. Even [[Alex O'Connor]]
 concedes: "I think it would take a personal experience with God" for him to
 believe.[^3]
@@ -172,22 +171,17 @@ flourishing regardless of belief.[^5] The pragmatic fruits of LDS living
 - [[Hayden Carroll]]
 - [[Fine-Tuning and the Teleological Argument from Alma 30]]
 
-[^1]: [[Stick of Joseph - Atheism is Unreasonable and Stupid|Stick of Joseph
-- Atheism is Unreasonable and Stupid]], [46:31]–[47:00],
+[^1]: [[Stick of Joseph - Atheism is Unreasonable and Stupid|Stick of Joseph - Atheism is Unreasonable and Stupid]], [46:31]–[47:00],
 https://youtu.be/aqOzROuIAHM
 
-[^2]: [[Stick of Joseph - Atheism is Unreasonable and Stupid|Stick of Joseph
-- Atheism is Unreasonable and Stupid]], [47:00]–[48:00],
+[^2]: [[Stick of Joseph - Atheism is Unreasonable and Stupid|Stick of Joseph - Atheism is Unreasonable and Stupid]], [47:00]–[48:00],
 https://youtu.be/aqOzROuIAHM
 
-[^3]: [[Stick of Joseph - Atheism is Unreasonable and Stupid|Stick of Joseph
-- Atheism is Unreasonable and Stupid]], [48:00]–[48:30],
+[^3]: [[Stick of Joseph - Atheism is Unreasonable and Stupid|Stick of Joseph - Atheism is Unreasonable and Stupid]], [48:00]–[48:30],
 https://youtu.be/aqOzROuIAHM
 
-[^4]: [[Stick of Joseph - Atheism is Unreasonable and Stupid|Stick of Joseph
-- Atheism is Unreasonable and Stupid]], [48:30],
+[^4]: [[Stick of Joseph - Atheism is Unreasonable and Stupid|Stick of Joseph - Atheism is Unreasonable and Stupid]], [48:30],
 https://youtu.be/aqOzROuIAHM
 
-[^5]: [[Stick of Joseph - Atheism is Unreasonable and Stupid|Stick of Joseph
-- Atheism is Unreasonable and Stupid]], [44:30]–[45:01],
+[^5]: [[Stick of Joseph - Atheism is Unreasonable and Stupid|Stick of Joseph - Atheism is Unreasonable and Stupid]], [44:30]–[45:01],
 https://youtu.be/aqOzROuIAHM

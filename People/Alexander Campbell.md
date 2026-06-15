@@ -19,8 +19,7 @@ critique of the Book of Mormon.
 
 ## Referenced in the King Follett Discourse
 
-[[Joseph Smith]] specifically cited Campbell by name during the [[King Follett
-Discourse]], calling out "the learned men and the doctors and lawyers of scripture"
+[[Joseph Smith]] specifically cited Campbell by name during the [[King Follett Discourse]], calling out "the learned men and the doctors and lawyers of scripture"
 — with Campbell as a specific target.[^1] This was part of Smith's broader challenge
 to Christian orthodoxy and learned scriptural interpretation.
 

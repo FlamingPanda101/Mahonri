@@ -33,8 +33,7 @@ all the contextual details" — material culture, demographics, neighboring peop
 
 ### 2. The redactor's goal is the testimony of Christ
 
-As with the translator (see [[Translation Introduces Anachronism Even in Divine
-Translation]]), the compiler's goal governs the content. Mormon does not aim to give
+As with the translator (see [[Translation Introduces Anachronism Even in Divine Translation]]), the compiler's goal governs the content. Mormon does not aim to give
 an anthropological guide to the Nephites; he includes a story only if it serves his
 theological point. So the absence of pots, demographics, or neighbor-ethnographies is
 by design, not because they did not exist.[^3]

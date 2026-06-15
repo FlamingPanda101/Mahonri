@@ -18,8 +18,7 @@ sources:
 ## The Claim
 
 The disciples' question to Jesus about the man born blind — "Master, who did
-sin, this man, or his parents, that he was born blind?" ([[John 9.1-3|John
-9:2]]) — only makes sense if the disciples presupposed some form of pre-mortal
+sin, this man, or his parents, that he was born blind?" ([[John 9.1-3|John 9:2]]) — only makes sense if the disciples presupposed some form of pre-mortal
 existence in which the man could have sinned before birth. Jesus's response
 ("Neither hath this man sinned, nor his parents") does not correct the premise
 of the question, suggesting He found it intelligible even if He rejected its
@@ -166,18 +165,14 @@ cumulative case.
 - [[Hayden Carroll]]
 - [[David Butler (Stick of Joseph)|David Butler]]
 
-[^1]: [[Stick of Joseph - Atheism is Unreasonable and Stupid|Stick of Joseph
-- Atheism is Unreasonable and Stupid]], [15:30]–[16:30],
+[^1]: [[Stick of Joseph - Atheism is Unreasonable and Stupid|Stick of Joseph - Atheism is Unreasonable and Stupid]], [15:30]–[16:30],
 https://youtu.be/aqOzROuIAHM
 
-[^2]: [[Stick of Joseph - Atheism is Unreasonable and Stupid|Stick of Joseph
-- Atheism is Unreasonable and Stupid]], [16:00]–[16:30],
+[^2]: [[Stick of Joseph - Atheism is Unreasonable and Stupid|Stick of Joseph - Atheism is Unreasonable and Stupid]], [16:00]–[16:30],
 https://youtu.be/aqOzROuIAHM
 
-[^3]: [[Stick of Joseph - Atheism is Unreasonable and Stupid|Stick of Joseph
-- Atheism is Unreasonable and Stupid]], [16:30]–[17:01],
+[^3]: [[Stick of Joseph - Atheism is Unreasonable and Stupid|Stick of Joseph - Atheism is Unreasonable and Stupid]], [16:30]–[17:01],
 https://youtu.be/aqOzROuIAHM
 
-[^4]: [[Stick of Joseph - Atheism is Unreasonable and Stupid|Stick of Joseph
-- Atheism is Unreasonable and Stupid]], [16:01]–[16:30],
+[^4]: [[Stick of Joseph - Atheism is Unreasonable and Stupid|Stick of Joseph - Atheism is Unreasonable and Stupid]], [16:01]–[16:30],
 https://youtu.be/aqOzROuIAHM

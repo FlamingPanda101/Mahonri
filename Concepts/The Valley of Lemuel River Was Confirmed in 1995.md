@@ -16,8 +16,7 @@ tags: [apologetics, book-of-mormon, archaeology, valley-of-lemuel, arabia, red-s
 ## The Claim
 
 Nephi describes a valley with a continually flowing river emptying into the Red Sea,
-three days' travel south of the Red Sea (the Valley of Lemuel, [[1 Nephi 2.6|1 Nephi
-2:6]]). A river matching the description was discovered in 1995 — over 160 years after
+three days' travel south of the Red Sea (the Valley of Lemuel, [[1 Nephi 2.6|1 Nephi 2:6]]). A river matching the description was discovered in 1995 — over 160 years after
 Joseph Smith dictated the text and after a 1980s survey had reported *no* rivers
 reaching the Red Sea along the Arabian coast.[^1]
 
@@ -46,8 +45,7 @@ directions require.[^3]
 
 Like Nahom and Bountiful, this is a fixed geological feature — its location cannot be
 adjusted to match an interpretation. The improbability lies in a unique river falling
-in exactly the narrow band the text demands. See [[Convergence Not Proof Is the
-Standard for Book of Mormon Historicity]].[^4]
+in exactly the narrow band the text demands. See [[Convergence Not Proof Is the Standard for Book of Mormon Historicity]].[^4]
 
 > **Evidence rating:** Moderate-to-strong (the "anchor point" argument; strength depends on the directional reading).
 

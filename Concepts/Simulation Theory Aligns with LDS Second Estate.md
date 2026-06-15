@@ -55,8 +55,7 @@ LDS Plan of Salvation:
    we are separated from direct knowledge of base reality by the \"veil of
    forgetfulness.\"
 3. **Purpose:** \"We will prove them herewith, to see if they will do all things
-   whatsoever the Lord their God shall command them\" ([[Abraham 3.25|Abraham
-   3:25]]).[^2]
+   whatsoever the Lord their God shall command them\" ([[Abraham 3.25|Abraham 3:25]]).[^2]
 4. **Exit:** Death, resurrection, judgment, and return to God's presence (or
    assignment to a kingdom of glory).
 
@@ -155,8 +154,7 @@ purpose, missing entirely why the game was set up in the first place.[^5]
 > probation. And we're put in right now. We are not in — we are in a state that
 > is away from base [reality]. Like we've left base reality and come here in
 > our second estate — and then we are going to return back to base reality.
-> Reality is eternal life with God.\" — [[David Butler (Stick of
-> Joseph)|David Butler]][^1]
+> Reality is eternal life with God.\" — [[David Butler (Stick of Joseph)|David Butler]][^1]
 
 > \"AI is obviously huge here and it has a form of godliness but denies the
 > power thereof... There is no way that out there in the universe, atoms are
@@ -269,22 +267,17 @@ standalone proof.
 - [[Fine-Tuning and the Teleological Argument from Alma 30]]
 - [[Monopoly Analogy for Lifes Purpose]]
 
-[^1]: [[Stick of Joseph - Atheism is Unreasonable and Stupid|Stick of Joseph
-- Atheism is Unreasonable and Stupid]], [34:00]–[35:02],
+[^1]: [[Stick of Joseph - Atheism is Unreasonable and Stupid|Stick of Joseph - Atheism is Unreasonable and Stupid]], [34:00]–[35:02],
 https://youtu.be/aqOzROuIAHM
 
-[^2]: [[Stick of Joseph - Atheism is Unreasonable and Stupid|Stick of Joseph
-- Atheism is Unreasonable and Stupid]], [34:00]–[35:02],
+[^2]: [[Stick of Joseph - Atheism is Unreasonable and Stupid|Stick of Joseph - Atheism is Unreasonable and Stupid]], [34:00]–[35:02],
 https://youtu.be/aqOzROuIAHM. Butler paraphrases [[Abraham 3.25|Abraham 3:25]].
 
-[^3]: [[Stick of Joseph - Atheism is Unreasonable and Stupid|Stick of Joseph
-- Atheism is Unreasonable and Stupid]], [29:01]–[30:01],
+[^3]: [[Stick of Joseph - Atheism is Unreasonable and Stupid|Stick of Joseph - Atheism is Unreasonable and Stupid]], [29:01]–[30:01],
 https://youtu.be/aqOzROuIAHM
 
-[^4]: [[Stick of Joseph - Atheism is Unreasonable and Stupid|Stick of Joseph
-- Atheism is Unreasonable and Stupid]], [35:02]–[35:30],
+[^4]: [[Stick of Joseph - Atheism is Unreasonable and Stupid|Stick of Joseph - Atheism is Unreasonable and Stupid]], [35:02]–[35:30],
 https://youtu.be/aqOzROuIAHM. Alex O'Connor on LDS consistency.
 
-[^5]: [[Stick of Joseph - Atheism is Unreasonable and Stupid|Stick of Joseph
-- Atheism is Unreasonable and Stupid]], [42:30]–[46:31],
+[^5]: [[Stick of Joseph - Atheism is Unreasonable and Stupid|Stick of Joseph - Atheism is Unreasonable and Stupid]], [42:30]–[46:31],
 https://youtu.be/aqOzROuIAHM

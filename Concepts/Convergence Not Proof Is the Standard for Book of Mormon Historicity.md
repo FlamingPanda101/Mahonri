@@ -37,8 +37,7 @@ flame. See [[Nahom and NHM Converge with Nephis Eastward Turn]].[^2]
 Because his faith does not hang on the evidence, Rappleye feels free to *reject* weak
 evidence (Haplogroup X2A) and evaluate each claim on its merits. Spiritual conviction
 makes him open to the book being true without being "so desperate to need the evidence"
-that he clings to bad arguments. See [[Haplogroup X2A Is Not Valid Evidence for the
-Book of Mormon]].[^3]
+that he clings to bad arguments. See [[Haplogroup X2A Is Not Valid Evidence for the Book of Mormon]].[^3]
 
 > **Evidence rating:** Moderate (a stance on the faith-evidence relationship; coherent and self-disciplining).
 
@@ -47,8 +46,7 @@ Book of Mormon]].[^3]
 There is no historical period or document about which all questions are settled;
 unresolved questions are normal to historical study, not evidence of fabrication. The
 remaining anachronisms and unanswered questions are puzzles to explore within the
-ancient-text paradigm, not defeaters. See [[Read the Book of Mormon as a Translated
-Ancient Text]].[^4]
+ancient-text paradigm, not defeaters. See [[Read the Book of Mormon as a Translated Ancient Text]].[^4]
 
 > **Evidence rating:** Strong (an accurate generalization about historiography).
 

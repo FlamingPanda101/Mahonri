@@ -52,8 +52,7 @@ meaning.
 Carroll's argument draws much of its force from the fact that prominent atheist
 intellectuals *agree* with these implications:
 
-- **No Free Will:** "The real strong hitters... [[Sam Harris]], [[Christopher
-  Hitchens]], [[Alex O'Connor]], they all agree that yeah, we actually don't
+- **No Free Will:** "The real strong hitters... [[Sam Harris]], [[Christopher Hitchens]], [[Alex O'Connor]], they all agree that yeah, we actually don't
   have free will. If atheism is a correct description of reality."[^3]
 - **No Morality:** [[Richard Dawkins]]: "The universe we observe has precisely
   the properties we should expect if there is at bottom no design, no purpose,
@@ -164,34 +163,26 @@ people.
 - [[Christopher Hitchens]]
 - [[Alex O'Connor]]
 
-[^1]: [[Stick of Joseph - Atheism is Unreasonable and Stupid|Stick of Joseph
-- Atheism is Unreasonable and Stupid]], [40:01]–[40:31],
+[^1]: [[Stick of Joseph - Atheism is Unreasonable and Stupid|Stick of Joseph - Atheism is Unreasonable and Stupid]], [40:01]–[40:31],
 https://youtu.be/aqOzROuIAHM
 
-[^2]: [[Stick of Joseph - Atheism is Unreasonable and Stupid|Stick of Joseph
-- Atheism is Unreasonable and Stupid]], [02:30]–[03:01],
+[^2]: [[Stick of Joseph - Atheism is Unreasonable and Stupid|Stick of Joseph - Atheism is Unreasonable and Stupid]], [02:30]–[03:01],
 https://youtu.be/aqOzROuIAHM
 
-[^3]: [[Stick of Joseph - Atheism is Unreasonable and Stupid|Stick of Joseph
-- Atheism is Unreasonable and Stupid]], [03:01]–[03:31],
+[^3]: [[Stick of Joseph - Atheism is Unreasonable and Stupid|Stick of Joseph - Atheism is Unreasonable and Stupid]], [03:01]–[03:31],
 https://youtu.be/aqOzROuIAHM
 
-[^4]: [[Stick of Joseph - Atheism is Unreasonable and Stupid|Stick of Joseph
-- Atheism is Unreasonable and Stupid]], [40:31]–[41:01],
+[^4]: [[Stick of Joseph - Atheism is Unreasonable and Stupid|Stick of Joseph - Atheism is Unreasonable and Stupid]], [40:31]–[41:01],
 https://youtu.be/aqOzROuIAHM
 
-[^5]: [[Stick of Joseph - Atheism is Unreasonable and Stupid|Stick of Joseph
-- Atheism is Unreasonable and Stupid]], [37:31]–[38:30],
+[^5]: [[Stick of Joseph - Atheism is Unreasonable and Stupid|Stick of Joseph - Atheism is Unreasonable and Stupid]], [37:31]–[38:30],
 https://youtu.be/aqOzROuIAHM
 
-[^6]: [[Stick of Joseph - Atheism is Unreasonable and Stupid|Stick of Joseph
-- Atheism is Unreasonable and Stupid]], [41:31]–[42:01],
+[^6]: [[Stick of Joseph - Atheism is Unreasonable and Stupid|Stick of Joseph - Atheism is Unreasonable and Stupid]], [41:31]–[42:01],
 https://youtu.be/aqOzROuIAHM
 
-[^7]: [[Stick of Joseph - Atheism is Unreasonable and Stupid|Stick of Joseph
-- Atheism is Unreasonable and Stupid]], [36:01]–[39:01],
+[^7]: [[Stick of Joseph - Atheism is Unreasonable and Stupid|Stick of Joseph - Atheism is Unreasonable and Stupid]], [36:01]–[39:01],
 https://youtu.be/aqOzROuIAHM
 
-[^8]: [[Stick of Joseph - Atheism is Unreasonable and Stupid|Stick of Joseph
-- Atheism is Unreasonable and Stupid]], [05:01],
+[^8]: [[Stick of Joseph - Atheism is Unreasonable and Stupid|Stick of Joseph - Atheism is Unreasonable and Stupid]], [05:01],
 https://youtu.be/aqOzROuIAHM

@@ -32,6 +32,5 @@ the conceptual framework of a created, non-ultimate reality with a higher
 intelligence behind it — the same structure as the LDS plan of salvation's
 \"second estate.\"[^1] See [[Simulation Theory Aligns with LDS Second Estate]].
 
-[^1]: [[Stick of Joseph - Atheism is Unreasonable and Stupid|Stick of Joseph
-- Atheism is Unreasonable and Stupid]], [34:00]–[35:02],
+[^1]: [[Stick of Joseph - Atheism is Unreasonable and Stupid|Stick of Joseph - Atheism is Unreasonable and Stupid]], [34:00]–[35:02],
 https://youtu.be/aqOzROuIAHM

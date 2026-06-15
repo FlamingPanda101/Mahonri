@@ -58,8 +58,7 @@ simpler), compounding the required expertise.[^5]
 
 The honest concession: it is not strictly *impossible*. The panel explicitly
 refuses to say "no" outright — "is it hypothetically possible? Yes" — to avoid
-mirroring [[Trent Horns Word-Count Argument Uses Wrong Parameters|Trent Horn's
-overreach]] in the other direction. A determined skeptic could posit a hidden
+mirroring [[Trent Horns Word-Count Argument Uses Wrong Parameters|Trent Horn's overreach]] in the other direction. A determined skeptic could posit a hidden
 apprenticeship and undocumented absences. The argument is therefore about
 *plausibility / best explanation*, not metaphysical impossibility — leading
 directly to [[Humes Maxim Applied to the Gold Plates]].

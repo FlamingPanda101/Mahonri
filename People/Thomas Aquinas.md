@@ -31,10 +31,8 @@ natural bodies act toward ends, which requires an intelligent director — God.
 Aquinas's Fifth Way is a design argument based on the observation that natural
 things without intelligence act toward ends (teleology). [[David Butler]] and
 [[Hayden Carroll]] note that Alma 30:44 predates Aquinas's teleological
-argument by well over a millennium, making the Book of Mormon prophet [[Alma
-the Younger]] "the original teleological arguer" who anticipated the argument's
+argument by well over a millennium, making the Book of Mormon prophet [[Alma the Younger]] "the original teleological arguer" who anticipated the argument's
 structure.[^1] See [[Fine-Tuning and the Teleological Argument from Alma 30]].
 
-[^1]: [[Stick of Joseph - Atheism is Unreasonable and Stupid|Stick of Joseph
-- Atheism is Unreasonable and Stupid]], [34:00],
+[^1]: [[Stick of Joseph - Atheism is Unreasonable and Stupid|Stick of Joseph - Atheism is Unreasonable and Stupid]], [34:00],
 https://youtu.be/aqOzROuIAHM

@@ -24,8 +24,7 @@ probation.
 
 - **"We will prove them herewith":** Mortality is a test — a probationary
   state. This directly parallels simulation theory's concept of a constructed
-  reality designed to test or observe subjects. [[David Butler (Stick of
-  Joseph)|David Butler]] draws the connection: "We actually believe in the
+  reality designed to test or observe subjects. [[David Butler (Stick of Joseph)|David Butler]] draws the connection: "We actually believe in the
   simulation. There was a time given to men of probation."[^1]
 - **"To see if they will do":** The test is genuinely open — preserving the
   reality of agency and choice. The outcome is not predetermined, distinguishing
@@ -43,6 +42,5 @@ probation.
 - **Non-LDS Christian:** Not recognized as scripture; the Book of Abraham is
   unique to the LDS canon.
 
-[^1]: [[Stick of Joseph - Atheism is Unreasonable and Stupid|Stick of Joseph
-- Atheism is Unreasonable and Stupid]], [34:00]–[35:02],
+[^1]: [[Stick of Joseph - Atheism is Unreasonable and Stupid|Stick of Joseph - Atheism is Unreasonable and Stupid]], [34:00]–[35:02],
 https://youtu.be/aqOzROuIAHM

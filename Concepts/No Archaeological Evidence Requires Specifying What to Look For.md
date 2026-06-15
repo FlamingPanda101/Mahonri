@@ -28,8 +28,7 @@ standard met by virtually no ancient civilization.[^1]
 What critics implicitly want is a stela saying "Welcome to Zarahemla, 100 BC" or "I am
 the king of the Lamanites." Almost no ancient people left self-labeling artifacts of
 that kind; most archaeology is potsherds, and Mormon never describes Nephite pots — so
-we do not even know what a "Nephite potsherd" looks like. See [[Mormon Is an
-Ethnocentric Redactor Focused on the Witness of Christ]].[^2]
+we do not even know what a "Nephite potsherd" looks like. See [[Mormon Is an Ethnocentric Redactor Focused on the Witness of Christ]].[^2]
 
 > **Evidence rating:** Strong (an accurate point about how archaeology actually works).
 
@@ -46,8 +45,7 @@ the text. (Compounded by [[Only Two Percent of the Americas Has Been Excavated]]
 Properly correlating a written record with the archaeology of a region is a scholarly
 method, not a hunt for a single proof-artifact. Where Rappleye applies it to the Old
 World setting (7th-century BC Jerusalem; the Arabian journey), much "lines up really
-well" — most strikingly **Nahom**. See [[Nahom and NHM Converge with Nephis Eastward
-Turn]].[^4]
+well" — most strikingly **Nahom**. See [[Nahom and NHM Converge with Nephis Eastward Turn]].[^4]
 
 > **Evidence rating:** Moderate-to-strong (method is sound; Old World convergence is the strongest case).
 

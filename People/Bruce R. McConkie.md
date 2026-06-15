@@ -37,8 +37,7 @@ of BH Roberts's footnotes regarding the King Follett Discourse because they
 disagreed both on the infant exaltation and the spirit birth."[^2]
 
 This continued the pattern: even the discourse's greatest champions edited or
-critiqued its most controversial elements — [[Infant Exaltation]] and [[Spirit
-Birth and Intelligences]].[^2]
+critiqued its most controversial elements — [[Infant Exaltation]] and [[Spirit Birth and Intelligences]].[^2]
 
 [^1]: [[Benjamin Park - Did Joseph Smith Teach Men Can Become God|Benjamin Park - Did Joseph Smith Teach Men Can Become God?]], [20:01-20:31], https://youtu.be/sKQeEuCEgyY
 [^2]: [[Benjamin Park - Did Joseph Smith Teach Men Can Become God|Benjamin Park - Did Joseph Smith Teach Men Can Become God?]], [20:31], https://youtu.be/sKQeEuCEgyY

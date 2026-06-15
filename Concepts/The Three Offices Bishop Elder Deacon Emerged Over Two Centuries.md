@@ -3,7 +3,7 @@ title: "The Three Offices Bishop Elder Deacon Emerged Over Two Centuries"
 related:
   - "[[Apostle and Deacon Were Fluid Undefined Titles in Paul's Day]]"
   - "[[Tertullian Reframed Church Office as Roman Legal Privilege]]"
-  - "[[The Rise of the Monarchical Bishop]]"
+  - "[[Rise of the Monarchical Bishop]]"
 scripture:
   - "[[1 Timothy 3.15|1 Timothy 3]]"
 sources:

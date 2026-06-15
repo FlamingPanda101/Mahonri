@@ -102,8 +102,7 @@ Position LDS theology as the unique resolution.
 > caused you." — [[Hayden Carroll]][^1]
 
 > "At the end of the day the atheist worldview of no free will and those who
-> believe in *ex nihilo* creation, they align perfectly." — [[Hayden
-> Carroll]][^3]
+> believe in *ex nihilo* creation, they align perfectly." — [[Hayden Carroll]][^3]
 
 > "When you ask a Christian... they won't say that they believe that, because
 > they don't believe it, right? But they're not thinking about the logical
@@ -168,14 +167,11 @@ resolves the determinism problem is debated even within LDS thought.
 - [[Calvinism Consistency with Atheism on Free Will]]
 - [[Hayden Carroll]]
 
-[^1]: [[Stick of Joseph - Atheism is Unreasonable and Stupid|Stick of Joseph
-- Atheism is Unreasonable and Stupid]], [07:00]–[07:30],
+[^1]: [[Stick of Joseph - Atheism is Unreasonable and Stupid|Stick of Joseph - Atheism is Unreasonable and Stupid]], [07:00]–[07:30],
 https://youtu.be/aqOzROuIAHM
 
-[^2]: [[Stick of Joseph - Atheism is Unreasonable and Stupid|Stick of Joseph
-- Atheism is Unreasonable and Stupid]], [08:00]–[08:30],
+[^2]: [[Stick of Joseph - Atheism is Unreasonable and Stupid|Stick of Joseph - Atheism is Unreasonable and Stupid]], [08:00]–[08:30],
 https://youtu.be/aqOzROuIAHM
 
-[^3]: [[Stick of Joseph - Atheism is Unreasonable and Stupid|Stick of Joseph
-- Atheism is Unreasonable and Stupid]], [07:30]–[08:00],
+[^3]: [[Stick of Joseph - Atheism is Unreasonable and Stupid|Stick of Joseph - Atheism is Unreasonable and Stupid]], [07:30]–[08:00],
 https://youtu.be/aqOzROuIAHM

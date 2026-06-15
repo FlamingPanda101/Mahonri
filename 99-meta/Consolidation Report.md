@@ -1,6 +1,6 @@
 # Consolidation Report
 
-*Scanned 2026-06-15 08:11 — 1398 concept notes.*
+*Scanned 2026-06-15 08:28 — 1398 concept notes.*
 
 Auto-detected. **Nothing was changed** — review and merge via Mahonri (tell it: merge note X into note Y) or by hand.
 
@@ -23,21 +23,8 @@ Auto-detected. **Nothing was changed** — review and merge via Mahonri (tell it
 - `Anthropic Fine-Tuning Points to a Designer` ↔ `Cosmic Fine-Tuning Points to a Designer (Turek)`  (similarity 0.82)
 - `Abolition Tracks Material Conditions Not Christian Conviction` ↔ `Feminism Tracks Material Conditions Not Christian Doctrine`  (similarity 0.82)
 
-## Broken wiki-links (463)
-- in **log.md** → `[[Alex O'Connor]]` (no such note)
-- in **A Parallel List Without Textual Analysis Carries No Burden.md** → `[[Book of Mormon]]` (no such note)
-- in **A Parallel List Without Textual Analysis Carries No Burden.md** → `[[Book of Mormon]]` (no such note)
-- in **Abraham as a Backstory to Genesis.md** → `[[Book of Abraham]]` (no such note)
-- in **An Open Canon Allows Unbounded Ecclesiastical Authority.md** → `[[Latter-day Saints]]` (no such note)
+## Broken wiki-links (111)
 - in **Anthropomorphic God in the Hebrew Bible.md** → `[[Exodus 33.11]]` (no such note)
-- in **Apostle and Deacon Were Fluid Undefined Titles in Paul's Day.md** → `[[Latter-day Saints]]` (no such note)
-- in **Atheisms Four Bad Implications.md** → `[[Christopher
-  Hitchens]]` (no such note)
-- in **Atheisms Four Bad Implications.md** → `[[Alex O'Connor]]` (no such note)
-- in **Atheisms Four Bad Implications.md** → `[[Alex O'Connor]]` (no such note)
-- in **Athens Versus Jerusalem on the Worth of Human Life.md** → `[[The Value of Human Life Is a Faith
-   Claim Not a Rational One]]` (no such note)
-- in **Bishops Consolidated Patronage and Displaced Women Patrons.md** → `[[Latter-day Saints]]` (no such note)
 - in **Book of Enoch - 364 Day Solar Calendar.md** → `[[Qumran - Calendar Controversy]]` (no such note)
 - in **Book of Enoch - Dead Sea Scrolls Attestation.md** → `[[Dead Sea Scrolls]]` (no such note)
 - in **Book of Enoch - Enoch as the Son of Man.md** → `[[Son of Man - Development of the Title]]` (no such note)
@@ -51,36 +38,42 @@ Auto-detected. **Nothing was changed** — review and merge via Mahonri (tell it
 - in **Book of Enoch - Pseudepigrapha and Late Composition.md** → `[[Pseudepigrapha and Authority]]` (no such note)
 - in **Book of Enoch - Quoted as Scripture in Jude.md** → `[[Canon - Early Fluidity and Debate]]` (no such note)
 - in **Book of Enoch - The Watchers and Genesis 6 Expansion.md** → `[[Book of Enoch - Cosmetic Arts as Angelic Corruption]]` (no such note)
-- in **Book of Mormon Lacks the Hebrew Markers View of the Hebrews Uses.md** → `[[Book of Mormon]]` (no such note)
-- in **Book of Mormon Lacks the Hebrew Markers View of the Hebrews Uses.md** → `[[Book of Mormon]]` (no such note)
-- in **Bountiful Lies Due East of Nahom.md** → `[[Nahom
-and NHM Converge with Nephis Eastward Turn]]` (no such note)
-- in **Bountiful Lies Due East of Nahom.md** → `[[Convergence Not Proof Is the Standard for Book of Mormon
-Historicity]]` (no such note)
-- in **Brigham Young Will Preside Over the Church Prophecy.md** → `[[Sidney Rigdon]]` (no such note)
-- in **BYU Published View of the Hebrews.md** → `[[Book of Mormon]]` (no such note)
 - in **Calling Scripture the Word of God Is a Late Patristic Development.md** → `[[Epistle of Barnabas]]` (no such note)
-- in **Calvinism Consistency with Atheism on Free Will.md** → `[[Calvinism]]` (no such note)
-- in **Calvinism Consistency with Atheism on Free Will.md** → `[[Hayden
-> Carroll]]` (no such note)
-- in **Calvinism Consistency with Atheism on Free Will.md** → `[[David
-> Butler (Stick of Joseph)]]` (no such note)
-- in **Canon Began as a Rule of Faith Not a List of Books.md** → `[[Latter-day Saints]]` (no such note)
-- in **Canon Formation Was a Power Struggle Over Authority.md** → `[[Latter-day Saints]]` (no such note)
-- in **Chiasmus as Evidence of Ancient Authorship in the Book of Mormon.md** → `[[Alma 36]]` (no such note)
 - in **Christianity Inherited Jewish Day-of-the-Lord Eschatology.md** → `[[Zechariah 8.4-5]]` (no such note)
 - in **Christianity Inherited Jewish Day-of-the-Lord Eschatology.md** → `[[Ezekiel 47.8]]` (no such note)
 - in **Christus Victor and the Ransom by Deception.md** → `[[1 Corinthians 15.55]]` (no such note)
-- in **Closing the Canon Was Used to Declare Prophecy Ended.md** → `[[Latter-day Saints]]` (no such note)
-- in **Conflicting Traditions on Seeing Gods Face.md** → `[[Masoretes]]` (no such note)
-- in **Consubstantiality.md** → `[[Data Over Dogma - Is Jesus God in the Gospel of John?]]` (no such note)
-- in **Consubstantiality.md** → `[[Data Over Dogma - Is Jesus God in the Gospel of John?]]` (no such note)
-- in **Consubstantiality.md** → `[[Data Over Dogma - Is Jesus God in the Gospel of John?]]` (no such note)
-- in **Consubstantiality.md** → `[[Data Over Dogma - Is Jesus God in the Gospel of John?]]` (no such note)
-- in **Consubstantiality.md** → `[[Data Over Dogma - Is Jesus God in the Gospel of John?]]` (no such note)
-- in **Consubstantiality.md** → `[[Data Over Dogma - Is Jesus God in the Gospel of John?]]` (no such note)
-- in **Convergence Not Proof Is the Standard for Book of Mormon Historicity.md** → `[[Haplogroup X2A Is Not Valid Evidence for the
-Book of Mormon]]` (no such note)
+- in **Creedalism Replaced Relationship With Theology.md** → `[[The Self-Authenticating Canon Refuted]]` (no such note)
+- in **De Facto Aniconism Mettinger.md** → `[[Yahweh and His Asherah Inscriptions]]` (no such note)
+- in **De Facto Aniconism Mettinger.md** → `[[Bes]]` (no such note)
+- in **Deuteronomistic Reform Explains the Book of Mormon Theology.md** → `[[1 Nephi 1.8-19]]` (no such note)
+- in **Deuteronomistic Reform Explains the Book of Mormon Theology.md** → `[[Laman]]` (no such note)
+- in **Early Christian Prayer and the Orant Posture.md** → `[[1 Timothy 2.8]]` (no such note)
+- in **Early Christian Prayer and the Orant Posture.md** → `[[1 Timothy 2.8]]` (no such note)
+- in **Ebla Archives Do Not Support Creation Ex Nihilo.md** → `[[TM.75.G1682]]` (no such note)
+- in **Fig Tree Cursing as Metaphor for Temple.md** → `[[Cleansing of the Temple]]` (no such note)
+- in **Galatians 1-6 Marvel Ye Are So Soon Removed Early Apostasy.md** → `[[Great Apostasy and Need for Restoration]]` (no such note)
+- in **Galatians 1-6 Marvel Ye Are So Soon Removed Early Apostasy.md** → `[[Great Apostasy and Need for Restoration]]` (no such note)
+- in **Holy Envy - What Latter-day Saints Can Learn from Islam.md** → `[[Word of Wisdom]]` (no such note)
+- in **Homoousios Means Same Essence Which Mormons Extend to All Humanity.md** → `[[Theosis]]` (no such note)
+- in **Israelite Aniconism Was Later Development.md** → `[[Yahweh and His Asherah Inscriptions]]` (no such note)
+- in **Israelite Aniconism Was Later Development.md** → `[[Bes]]` (no such note)
+- in **Joseph Smith Lacked the Metallurgical Skill and Time.md** → `[[Kinderhook plates]]` (no such note)
+- in **Joseph Smith Was Sincere Not a Fraud.md** → `[[The Problem With Calling Joseph Smith a Con Man]]` (no such note)
+- in **Judge the Book of Abraham by Its Fruits.md** → `[[Binding of Isaac]]` (no such note)
+- in **Lamp Lighting and Evening Prayer.md** → `[[John 8.12]]` (no such note)
+- in **Lamp Lighting and Evening Prayer.md** → `[[John 8.12]]` (no such note)
+- in **Melammu - Divine Radiance in Ancient Near East.md** → `[[Moses Veil and Divine Radiance]]` (no such note)
+- in **Nahom and NHM Converge with Nephis Eastward Turn.md** → `[[BYU Studies]]` (no such note)
+- in **Natural Selection Selects for Religiosity.md** → `[[Pascal's Wager]]` (no such note)
+- in **NDE - The Dark Tunnel.md** → `[[Psalm 23.4]]` (no such note)
+- in **NDE - The Life Review.md** → `[[D&C 130.18-19]]` (no such note)
+- in **Nicaea Did Not Settle the Trinity.md** → `[[How the Trinity Was Invented]]` (no such note)
+- in **Pre-Incarnate Christ Theophany Rationalization Rebutted.md** → `[[Jesus as Divine Image in John's Gospel]]` (no such note)
+- in **Presuppositional Apologetics - CS Lewis Sun Analogy.md** → `[[Alma 32]]` (no such note)
+- in **Refusing the Pious Fraud Category.md** → `[[The Problem With Calling Joseph Smith a Con Man]]` (no such note)
+- in **Rejecting Biblical Inerrancy Solves the Moral Contradiction Problem.md** → `[[Canaanites]]` (no such note)
+- in **Shared Biblical Sources Are Not Plagiarism.md** → `[[Ether 2]]` (no such note)
+- in **The Curse as Division of Labor Not Punishment.md** → `[[curse of Canaan]]` (no such note)
 
 ## Orphan concepts — no links in or out (0)
 - none

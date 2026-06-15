@@ -36,8 +36,7 @@ critical attack.
 
 ## Preaching Style and Theological Development
 
-Smith was not initially known as an orator. In the 1830s, his counselor [[Sydney
-Rigdon]] "often delivered the most popular and famous addresses." When Smith spoke
+Smith was not initially known as an orator. In the 1830s, his counselor [[Sydney Rigdon]] "often delivered the most popular and famous addresses." When Smith spoke
 at important occasions like the Kirtland Temple dedicatory prayer, he read from
 remarks co-authored in advance. It was not until after the trauma of Missouri
 that Smith "seems to have found his voice and was much more comfortable in
@@ -49,8 +48,7 @@ spirits) — challenged traditional Christian dogma.[^2]
 
 ## The King Follett Discourse
 
-Smith delivered his most famous and controversial sermon — the [[King Follett
-Discourse]] — at the April 1844 general conference in Nauvoo, just months before
+Smith delivered his most famous and controversial sermon — the [[King Follett Discourse]] — at the April 1844 general conference in Nauvoo, just months before
 his death. Its key teachings include:
 
 - [[God Was Once a Man]] — that God is an exalted man, once mortal, now enthroned
@@ -82,8 +80,7 @@ See [[Joseph Smith and Helen Mar Kimball Sealing]].
 Critics who apply the label "pedophile" to Smith's marriage practices are argued
 to commit the fallacy of presentism — judging 19th-century figures by 21st-century
 norms without accounting for the vastly different economic, social, and cultural
-context of early America. See [[Presentism in Historical Judgment]], [[Nineteenth-Century
-Marriage Age Norms]].
+context of early America. See [[Presentism in Historical Judgment]], [[Nineteenth-Century Marriage Age Norms]].
 
 ## Comparison with Contemporaries
 

@@ -44,9 +44,7 @@ claiming it emerges from non-conscious matter.[^1]
 Atheists who reject Dennett's eliminativism are, on Carroll's view,
 inconsistent: they want consciousness without a conscious first cause.
 
-See: [[Atheism's Four Bad Implications]], [[Consciousness and First Cause
-Problem for Atheism]].
+See: [[Atheisms Four Bad Implications]], [[Consciousness and First Cause Problem for Atheism]].
 
-[^1]: [[Stick of Joseph - Atheism is Unreasonable and Stupid|Stick of Joseph
-- Atheism is Unreasonable and Stupid]], [37:31]–[38:01],
+[^1]: [[Stick of Joseph - Atheism is Unreasonable and Stupid|Stick of Joseph - Atheism is Unreasonable and Stupid]], [37:31]–[38:01],
 https://youtu.be/aqOzROuIAHM

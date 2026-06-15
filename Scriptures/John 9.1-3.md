@@ -68,10 +68,8 @@ Alternative Christian interpretations:
 - [[Pre-Existence Implied by John 9]]
 - [[Pre-Existence in Mainstream Christian Thought]]
 
-[^1]: [[Stick of Joseph - Atheism is Unreasonable and Stupid|Stick of Joseph
-- Atheism is Unreasonable and Stupid]], [15:30]–[16:30],
+[^1]: [[Stick of Joseph - Atheism is Unreasonable and Stupid|Stick of Joseph - Atheism is Unreasonable and Stupid]], [15:30]–[16:30],
 https://youtu.be/aqOzROuIAHM
 
-[^2]: [[Stick of Joseph - Atheism is Unreasonable and Stupid|Stick of Joseph
-- Atheism is Unreasonable and Stupid]], [16:30]–[17:01],
+[^2]: [[Stick of Joseph - Atheism is Unreasonable and Stupid|Stick of Joseph - Atheism is Unreasonable and Stupid]], [16:30]–[17:01],
 https://youtu.be/aqOzROuIAHM

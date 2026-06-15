@@ -27,8 +27,7 @@ tags:
 ## Exegetical Significance
 
 The verse states that God *knew*, *sanctified*, and *ordained* Jeremiah
-*before* his physical formation in the womb began. This is cited in [[Stick of
-Joseph - Atheism is Unreasonable and Stupid]] as part of a broader scriptural
+*before* his physical formation in the womb began. This is cited in [[Stick of Joseph - Atheism is Unreasonable and Stupid]] as part of a broader scriptural
 pattern indicating pre-mortal existence:[^1]
 
 - God's knowledge of Jeremiah is personal and specific ("thee" — singular),
@@ -59,6 +58,5 @@ pattern indicating pre-mortal existence:[^1]
 - [[Pre-Existence in Mainstream Christian Thought]]
 - [[Free Will - Atheist Determinism vs LDS Co-Eternality]]
 
-[^1]: [[Stick of Joseph - Atheism is Unreasonable and Stupid|Stick of Joseph
-- Atheism is Unreasonable and Stupid]], [16:01]–[16:30],
+[^1]: [[Stick of Joseph - Atheism is Unreasonable and Stupid|Stick of Joseph - Atheism is Unreasonable and Stupid]], [16:01]–[16:30],
 https://youtu.be/aqOzROuIAHM

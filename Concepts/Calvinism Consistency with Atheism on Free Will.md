@@ -91,12 +91,10 @@ but at the cost of making human action purely instrumental.
 > "There is one group of Christians who do agree with the atheists and it's the
 > Calvinists... They're very consistent." — [[Hayden Carroll]][^1]
 
-> "They're in the atheist camp as far as free will goes." — [[Hayden
-> Carroll]][^1]
+> "They're in the atheist camp as far as free will goes." — [[Hayden Carroll]][^1]
 
 > "What's the point of any of this? It's all very performative their preaching
-> and stuff because... God created them. This is what God wanted." — [[David
-> Butler (Stick of Joseph)|David Butler]][^1]
+> and stuff because... God created them. This is what God wanted." — [[David Butler (Stick of Joseph)|David Butler]][^1]
 
 ## Counter-Arguments / Steelmanning
 
@@ -138,14 +136,11 @@ ultimate moral responsibility.
 - [[Free Will - Atheist Determinism vs LDS Co-Eternality]]
 - [[Creation Ex Nihilo Leads to Determinism]]
 
-[^1]: [[Stick of Joseph - Atheism is Unreasonable and Stupid|Stick of Joseph
-- Atheism is Unreasonable and Stupid]], [08:00]–[08:30],
+[^1]: [[Stick of Joseph - Atheism is Unreasonable and Stupid|Stick of Joseph - Atheism is Unreasonable and Stupid]], [08:00]–[08:30],
 https://youtu.be/aqOzROuIAHM
 
-[^2]: [[Stick of Joseph - Atheism is Unreasonable and Stupid|Stick of Joseph
-- Atheism is Unreasonable and Stupid]], [08:30],
+[^2]: [[Stick of Joseph - Atheism is Unreasonable and Stupid|Stick of Joseph - Atheism is Unreasonable and Stupid]], [08:30],
 https://youtu.be/aqOzROuIAHM
 
-[^3]: [[Stick of Joseph - Atheism is Unreasonable and Stupid|Stick of Joseph
-- Atheism is Unreasonable and Stupid]], [09:01]–[09:30],
+[^3]: [[Stick of Joseph - Atheism is Unreasonable and Stupid|Stick of Joseph - Atheism is Unreasonable and Stupid]], [09:01]–[09:30],
 https://youtu.be/aqOzROuIAHM

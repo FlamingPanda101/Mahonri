@@ -42,8 +42,7 @@ Bering land bridge.[^3]
 
 ### 3. The qualified LDS geneticists decline to use it
 
-[[Ugo Perego]] (population geneticist specializing in Native American DNA) and [[John
-Butler (DNA scientist)]] — people with every motive to cite it if it were valid —
+[[Ugo Perego]] (population geneticist specializing in Native American DNA) and [[John Butler (DNA scientist)]] — people with every motive to cite it if it were valid —
 explicitly say it cannot be used. Rappleye recounts intervening to stop a promoter
 from advancing it as bad science: "We don't need to use bad junk data, junk science,
 junk arguments to support the Book of Mormon."[^4]

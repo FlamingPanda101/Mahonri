@@ -17,8 +17,7 @@ tags: [apologetics, book-of-mormon, archaeology, ishmael, nahom, epigraphy, arab
 
 A funerary stela bearing the name **Yasmaʿil** — the South Arabian form of **Ishmael**
 — dating to roughly the 6th century BC and originating from the Wadi Jawf / Nahom
-region, fits the profile of the Book of Mormon's Ishmael, who is buried at Nahom ([[1
-Nephi 16.34|1 Nephi 16:34]]).[^1]
+region, fits the profile of the Book of Mormon's Ishmael, who is buried at Nahom ([[1 Nephi 16.34|1 Nephi 16:34]]).[^1]
 
 ## Supporting Evidence
 
@@ -56,8 +55,7 @@ Rappleye himself supplies the strongest caveats: the stela was **looted**, so it
 findspot is unknown — it cannot be pinned inside NHM tribal territory, only to that
 vicinity; the South Arabian script does not prove the person was Hebrew/foreign; and
 even granting all of it, "we can't say *that* was the Book of Mormon's Ishmael." It is
-one corroborating data point, not proof — see [[Convergence Not Proof Is the Standard
-for Book of Mormon Historicity]].
+one corroborating data point, not proof — see [[Convergence Not Proof Is the Standard for Book of Mormon Historicity]].
 
 ## Best Quotes
 

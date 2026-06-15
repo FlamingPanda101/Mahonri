@@ -27,12 +27,10 @@ the problem of evil, and the evolutionary argument against naturalism.
 
 ### Problem of Divine Freedom
 Plantinga has written extensively on the challenge that divine foreknowledge and
-creation pose to human freedom — the "problem of divine freedom." [[Hayden
-Carroll]]'s argument in [[Creation Ex Nihilo Leads to Determinism]] engages the
+creation pose to human freedom — the "problem of divine freedom." [[Hayden Carroll]]'s argument in [[Creation Ex Nihilo Leads to Determinism]] engages the
 same problem: if God creates beings *ex nihilo*, their choices are ultimately
 traceable to God. Carroll cites Plantinga as acknowledging this as a serious
 challenge that LDS co-eternality uniquely resolves.[^1]
 
-[^1]: [[Stick of Joseph - Atheism is Unreasonable and Stupid|Stick of Joseph
-- Atheism is Unreasonable and Stupid]], referenced at [07:00]–[07:30] via
+[^1]: [[Stick of Joseph - Atheism is Unreasonable and Stupid|Stick of Joseph - Atheism is Unreasonable and Stupid]], referenced at [07:00]–[07:30] via
 [[Creation Ex Nihilo Leads to Determinism]]

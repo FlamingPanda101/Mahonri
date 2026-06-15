@@ -22,8 +22,7 @@ tags:
 
 The source lists "the rods that Moses and Aaron used" among Old Testament
 instruments of divine power, alongside the [[Exodus 28.30|Urim and Thummim]],
-Joseph of Egypt's divining cup, and Aaron's budding rod ([[Numbers 17|Numbers
-17]]).[^1] These precedents support the argument that [[Joseph Smith]]'s seer
+Joseph of Egypt's divining cup, and Aaron's budding rod ([[Numbers 17|Numbers 17]]).[^1] These precedents support the argument that [[Joseph Smith]]'s seer
 stones and [[Oliver Cowdery]]'s rod are God-ordained "means" in continuity with
 scripture, not folk magic.[^2]
 

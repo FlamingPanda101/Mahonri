@@ -32,8 +32,7 @@ every life is thus an inheritance from faith, not from reason.
    babies alive" [^1].
 3. So on the concrete test case of vulnerable infants, reason and faith diverge,
    and it is faith that produced the humane answer.
-4. This grounds the broader claim (see [[The Value of Human Life Is a Faith
-   Claim Not a Rational One]]) that the preciousness of human life is a
+4. This grounds the broader claim (see [[The Value of Human Life Is a Faith Claim Not a Rational One]]) that the preciousness of human life is a
    faith-based belief, not a deliverance of reason.
 5. (Steelman of the opposing view.) A critic notes the framing is a simplified
    trope: Greek thinkers also produced humane ethics (Stoic cosmopolitanism), and

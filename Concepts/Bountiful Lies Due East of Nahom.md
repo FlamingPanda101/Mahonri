@@ -15,8 +15,7 @@ tags: [apologetics, book-of-mormon, archaeology, bountiful, arabia, dhofar, oman
 
 ## The Claim
 
-After turning east at Nahom, Nephi's party reaches **Bountiful** ([[1 Nephi 17.5|1
-Nephi 17:5]]) — a fertile coastal place with trees, fruit, and honey (hence bees and
+After turning east at Nahom, Nephi's party reaches **Bountiful** ([[1 Nephi 17.5|1 Nephi 17:5]]) — a fertile coastal place with trees, fruit, and honey (hence bees and
 flowers) where they build a ship. Such a place exists in the **Dhofar region of Oman**,
 roughly 700 miles almost exactly due east of the Nahom/Wadi Jawf turn — locking the
 eastward leg into place.[^1]
@@ -37,8 +36,7 @@ the text implies.[^2]
 
 Bountiful lies roughly 700 miles and nearly due east of the Nahom turn — consistent
 with Nephi's report that after Ishmael's burial they traveled "nearly eastward." This
-is the natural terminus of the eastward trails that branch at Wadi Jawf. See [[Nahom
-and NHM Converge with Nephis Eastward Turn]].[^3]
+is the natural terminus of the eastward trails that branch at Wadi Jawf. See [[Nahom and NHM Converge with Nephis Eastward Turn]].[^3]
 
 > **Evidence rating:** Strong (directional + distance correspondence chaining off the Nahom anchor).
 
@@ -47,8 +45,7 @@ and NHM Converge with Nephis Eastward Turn]].[^3]
 The location of trees and lush fertility on the Arabian coast is a geographic given,
 not something an apologist can position to fit. Combined with the Valley of Lemuel
 river and Nahom, Bountiful is a third independent anchor — three convergent fixed
-points, not one. See [[Convergence Not Proof Is the Standard for Book of Mormon
-Historicity]].[^4]
+points, not one. See [[Convergence Not Proof Is the Standard for Book of Mormon Historicity]].[^4]
 
 > **Evidence rating:** Moderate-to-strong (the anchor-point logic; strength rests on the chained directional reading).
 

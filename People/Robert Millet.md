@@ -27,7 +27,6 @@ it."[^1]
 
 This exchange reveals the enduring tension in LDS intellectual circles between
 those who exalt in Mormonism's radical distinctiveness and those who seek to
-emphasize common ground with mainstream Christianity (see [[Modern LDS Tensions on
-King Follett Discourse]]).
+emphasize common ground with mainstream Christianity (see [[Modern LDS Tensions on King Follett Discourse]]).
 
 [^1]: [[Benjamin Park - Did Joseph Smith Teach Men Can Become God|Benjamin Park - Did Joseph Smith Teach Men Can Become God?]], [22:01-22:31], https://youtu.be/sKQeEuCEgyY

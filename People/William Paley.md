@@ -31,9 +31,7 @@ exhibit design and therefore require a designer. This argument was famously
 challenged by Darwin's theory of natural selection (1859). [[Hayden Carroll]]
 distinguishes Paley's biological design from the cosmological fine-tuning
 argument: "The physical constants, the scientific ones, the theologians didn't
-know."[^1] See [[Fine-Tuning - Book of Mormon Anticipation of Modern
-Cosmology]] and [[Fine-Tuning and the Teleological Argument from Alma 30]].
+know."[^1] See [[Fine-Tuning - Book of Mormon Anticipation of Modern Cosmology]] and [[Fine-Tuning and the Teleological Argument from Alma 30]].
 
-[^1]: [[Stick of Joseph - Atheism is Unreasonable and Stupid|Stick of Joseph
-- Atheism is Unreasonable and Stupid]], [32:30]–[33:00],
+[^1]: [[Stick of Joseph - Atheism is Unreasonable and Stupid|Stick of Joseph - Atheism is Unreasonable and Stupid]], [32:30]–[33:00],
 https://youtu.be/aqOzROuIAHM

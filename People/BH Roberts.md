@@ -47,9 +47,7 @@ comfortable suppressing Roberts's version.
 
 ## Later Critique
 
-Later champions of the discourse like [[Joseph Fielding Smith]] and [[Bruce R.
-McConkie]] disagreed with Roberts's footnotes and interpretations on [[Infant
-Exaltation]] and [[Spirit Birth and Intelligences]].[^5]
+Later champions of the discourse like [[Joseph Fielding Smith]] and [[Bruce R. McConkie]] disagreed with Roberts's footnotes and interpretations on [[Infant Exaltation]] and [[Spirit Birth and Intelligences]].[^5]
 
 [^1]: [[Benjamin Park - Did Joseph Smith Teach Men Can Become God|Benjamin Park - Did Joseph Smith Teach Men Can Become God?]], [17:01-17:31], https://youtu.be/sKQeEuCEgyY
 [^2]: [[Benjamin Park - Did Joseph Smith Teach Men Can Become God|Benjamin Park - Did Joseph Smith Teach Men Can Become God?]], [18:00-19:00], https://youtu.be/sKQeEuCEgyY

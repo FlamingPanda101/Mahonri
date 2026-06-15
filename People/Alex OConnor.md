@@ -23,8 +23,7 @@ Alex O'Connor (known online as CosmicSkeptic) is a British YouTuber and public
 philosopher who studied philosophy and theology at St John's College, Oxford.
 His channel, with over 1 million subscribers, features discussions on
 philosophy, religion, and atheism. He has debated prominent Christian
-apologists including [[William Lane Craig]], [[Trent Horn]], and [[Frank
-Turek]].
+apologists including [[William Lane Craig]], [[Trent Horn]], and [[Frank Turek]].
 
 ## Topics
 
@@ -52,14 +51,11 @@ experience with God" — essentially a Road to Damascus conversion experience.
 Carroll and Butler note this as a sincere admission that evidence alone may not
 suffice without personal revelation.[^3]
 
-[^1]: [[Stick of Joseph - Atheism is Unreasonable and Stupid|Stick of Joseph
-- Atheism is Unreasonable and Stupid]], [35:02]–[35:30],
+[^1]: [[Stick of Joseph - Atheism is Unreasonable and Stupid|Stick of Joseph - Atheism is Unreasonable and Stupid]], [35:02]–[35:30],
 https://youtu.be/aqOzROuIAHM
 
-[^2]: [[Stick of Joseph - Atheism is Unreasonable and Stupid|Stick of Joseph
-- Atheism is Unreasonable and Stupid]], [36:31],
+[^2]: [[Stick of Joseph - Atheism is Unreasonable and Stupid|Stick of Joseph - Atheism is Unreasonable and Stupid]], [36:31],
 https://youtu.be/aqOzROuIAHM
 
-[^3]: [[Stick of Joseph - Atheism is Unreasonable and Stupid|Stick of Joseph
-- Atheism is Unreasonable and Stupid]], [48:00]–[48:30],
+[^3]: [[Stick of Joseph - Atheism is Unreasonable and Stupid|Stick of Joseph - Atheism is Unreasonable and Stupid]], [48:00]–[48:30],
 https://youtu.be/aqOzROuIAHM

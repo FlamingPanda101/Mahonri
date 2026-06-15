@@ -59,8 +59,7 @@ A critic can note the Philistine analogy cuts both ways: the study *detected* th
 incoming Greek signal in the first generation, so given stratified Book of Mormon-era
 remains we might expect to catch a transient Near-Eastern signal too — yet none has
 been found. The reply: we have no securely dated, securely located first-generation
-Nephite remains to test (we do not know where Lehi landed — see [[No Archaeological
-Evidence Requires Specifying What to Look For]]), so the absence reflects the missing
+Nephite remains to test (we do not know where Lehi landed — see [[No Archaeological Evidence Requires Specifying What to Look For]]), so the absence reflects the missing
 sample, not a failed prediction.
 
 ## Best Quotes
