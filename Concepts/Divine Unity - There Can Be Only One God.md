@@ -32,11 +32,11 @@ Feser opens the systematic treatment of the divine attributes with God's *unity*
 Feser is right that the five proofs aim at a single ultimate, and Latter-day Saints are robust monotheists in worship: they worship the Father, in the name of the Son, through the Spirit, and no other. Where the divergence opens is in *why* and *how* God is one. Feser grounds uniqueness in **divine simplicity** — God cannot be one of a kind because He has no genus/species composition and no potentiality (see [[Divine Simplicity - God Has No Parts of Any Kind]] and [[Divine Attributes Follow From Pure Actuality]]). The Restoration instead teaches that God the Father is a perfected, embodied person who shares a *kind* with His children — "God and man are the same species" (see [[God and Man Are the Same Species]]) — and that the divine is a relational fellowship (the Godhead of Father, Son, and Holy Ghost as three persons "one in purpose"). On Feser's terms that very claim makes the Father "a member of a pantheon" or "a superangel"; on the Restoration's terms, Feser has purchased uniqueness at the price of the personal, familial God of scripture. The honest fork: Feser's argument is valid *given* that pure actuality is the right description of the first cause, so the LDS reply must contest that metaphysical step (see [[The Absolutely Simple Source - Why the Regress of Composers Must End in the One]]) rather than the logic — and can note that biblical "monotheism" coexists with a heavenly council and plural *elohim* language (see [[Contingency Argument Permits Plural Elohim]]).
 
 ## References
-[^1]: [[Five Proofs of the Existence of God - Edward Feser|Five Proofs (Feser, 2017)]], p.184
-[^2]: [[Five Proofs of the Existence of God - Edward Feser|Five Proofs (Feser, 2017)]], p.186
-[^3]: [[Five Proofs of the Existence of God - Edward Feser|Five Proofs (Feser, 2017)]], p.187
-[^4]: [[Five Proofs of the Existence of God - Edward Feser|Five Proofs (Feser, 2017)]], p.189
-[^5]: [[Five Proofs of the Existence of God - Edward Feser|Five Proofs (Feser, 2017)]], p.189
+[^1]: [[Five Proofs of the Existence of God - Edward Feser|Five Proofs (Feser, 2017)]], p.187
+[^2]: [[Five Proofs of the Existence of God - Edward Feser|Five Proofs (Feser, 2017)]], p.189
+[^3]: [[Five Proofs of the Existence of God - Edward Feser|Five Proofs (Feser, 2017)]], p.190
+[^4]: [[Five Proofs of the Existence of God - Edward Feser|Five Proofs (Feser, 2017)]], p.192
+[^5]: [[Five Proofs of the Existence of God - Edward Feser|Five Proofs (Feser, 2017)]], p.192
 
 ---
 See also: [[Concepts]] · [[Five Proofs of the Existence of God - Edward Feser]]
