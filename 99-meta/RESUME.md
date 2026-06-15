@@ -3,7 +3,7 @@
 State as of 2026-06-15. The vault is git-backed + auto-pushed by `sync-advocate-loop.ps1`. To continue in a NEW session, read this file first.
 
 ## Where things stand
-~95 sources, ~1,250 Concepts, ~424 Scriptures, ~564 People, 351-scholar Authority Ledger. Books fully ingested: *Ancient Christians*; *Life After Life* (Moody — NDEs); Meyer's *Scientific Case for Intelligent Design*. Thoughtful Faith course: hub built ([[Thoughtful Faith Apologetics Course]]); 18/55 Level-1 videos done.
+~99 sources, ~1,400 Concepts, ~424 Scriptures, ~567 People, 354-scholar Authority Ledger. Books fully ingested: *Ancient Christians*; and **all 6 TF Level-1 PDFs** — Moody *Life After Life* (NDEs), Meyer *Scientific Case for ID*, Harris *The Moral Landscape* (ethics foil), Ward *After Humanity* (Lewis's *Abolition of Man*), Turek *Stealing from God*, Feser *Five Proofs*. Thoughtful Faith course: hub built ([[Thoughtful Faith Apologetics Course]]); 18/55 Level-1 videos done.
 
 ## The pipeline (all reusable; scripts in `C:\Users\Josep\AppData\Local\hermes\scripts\`)
 Python venv: `C:\Users\Josep\AppData\Local\hermes\hermes-agent\venv\Scripts\python.exe`
@@ -13,11 +13,9 @@ Python venv: `C:\Users\Josep\AppData\Local\hermes\hermes-agent\venv\Scripts\pyth
 4. **Housekeeping each wave:** `regen-index.py` (rebuilds Authority Ledger from People-note YAML + MOC sources index); recompute the queue (drop any vid whose Source note already exists); `consolidation-scan.py` (broken-link/dupe report — note: scripture links with dots are fine). Sync loop auto-commits+pushes.
 
 ## PENDING WORK
-**A. 4 PDF books remaining** (in `C:\Users\Josep\Downloads\`, NO internet needed — do these first in a fresh session). ✅ DONE 2026-06-15 (pilot wave): Meyer *Scientific Case for ID* (1 agent) + Moody *Life After Life* (5 chapter agents). Reusable book-cache slices live in `scripts\bookcache\`.
-- `The_Moral_Landscape__How_Science_Can_Determine_Human_Values.pdf` (231pp) → tag course/tf-level-1, topic/ethics (Harris)
-- `_OceanofPDF.com_After_Humanity_-_Michael_Ward.pdf` (318pp) → course/tf-level-1, topic/ethics (Ward, on Lewis's *Abolition of Man*)
-- `_OceanofPDF.com_Stealing_from_God_-_Frank_Turek.pdf` (291pp) → course/tf-level-1, topic/existence-of-god
-- `_OceanofPDF.com_Five_Proofs_of_the_Existence_of_God_-_Edward_Feser.pdf` (338pp) → course/tf-level-1, topic/existence-of-god
+**A. ✅ COMPLETE (2026-06-15) — all 6 PDF books ingested.** Pilot wave: Meyer (1 agent), Moody *Life After Life* (5). Main wave: Harris *Moral Landscape* (4), Ward *After Humanity* (7), Turek *Stealing from God* (8), Feser *Five Proofs* (10). Each = a Source note (+ author People note) authored up front, then chapter agents writing Concept/Scripture/People notes citing it. Reusable book-cache slices live in `scripts\bookcache\` (book-*-FULL.txt + per-chapter slices).
+  - NOTE (no silent caps): Ward pp.~164–217 are **image-only** in the OceanofPDF file — a watermark-only facsimile, almost certainly Lewis's original *Abolition of Man* reproduced as page images. Skipped (not text-extractable). Ward's own line-by-line commentary on all three Lewis chapters + Appendix WAS ingested, so no argument is lost; if the primary-text facsimile is wanted, it needs OCR.
+  - Harris note: he's the naturalist FOIL — his book notes carry an `## Apologetic Engagement` section (theistic/LDS response); Feser/Turek/Ward are linked there as grounding counters.
 
 **B. 37 Thoughtful Faith Level-1 videos** — `course-l1-queue.txt` (rest of Ethics 1.3, all of God 1.4, Meaning 1.5, Challenges 1.6). Needs fresh IP. Tag `course/tf-level-1` + topic/<ethics|existence-of-god|meaning|challenges>.
 **C. 27 main-list videos** — `ingest-queue.txt`. (2 have captions disabled: WGzDRhLaBf4, cMOJ9Gfjq_4 — skip.)

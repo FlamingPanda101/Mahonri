@@ -5,12 +5,13 @@ tags: [moc]
 
 # Apologetics — Map of Content
 
-Auto-generated index. **95 sources** ingested. Browse Concepts / Scriptures / People folders or the graph; author tiers in [[Authority Ledger]]; channels in [[Sources Index]].
+Auto-generated index. **99 sources** ingested. Browse Concepts / Scriptures / People folders or the graph; author tiers in [[Authority Ledger]]; channels in [[Sources Index]].
 
 ## Sources Ingested
 
 | Source | Tier | Topics |
 |--------|------|--------|
+| [[After Humanity - Michael Ward]] | B | abolition-of-man, ethics, natural-law, objective-morality |
 | [[All Those In Favor - The Button and the Five Contradictory Attributes of God]] | C | problem-of-hell, trinity |
 | [[All Those In Favor - Why Christianity is Probably Wrong about Hell]] | C | problem-of-hell |
 | [[Ancient Christians - An Introduction for Latter-day Saints]] | B | early-christianity, great-apostasy, patristics |
@@ -41,6 +42,7 @@ Auto-generated index. **95 sources** ingested. Browse Concepts / Scriptures / Pe
 | [[Data Over Dogma - There Is No Such Thing as The Bible]] | B | bible, canon, textual-criticism, translation |
 | [[Data Over Dogma - Why the Bible Began with Jacob Wright]] | B |  |
 | [[David Snell - Is Joseph Smith a Fraud (with Kyle Beshears)]] | C | anti-mormonism, are-mormons-christian, book-of-mormon-witnesses, joseph-smith |
+| [[Five Proofs of the Existence of God - Edward Feser]] | B | classical-theism, existence-of-god, natural-theology |
 | [[Gavin Ortlund - Protestant and Mormon Discuss the Trinity]] | B | trinity |
 | [[Glenn L Pace Memo - The Mormon Satanic Panic]] | C | recovered-memory, ritual-abuse, satanic-panic, utah |
 | [[Glenn L Pace Memo - The Satanic Panic and False Memory]] | C | false-memory, satanic-panic |
@@ -68,10 +70,12 @@ Auto-generated index. **95 sources** ingested. Browse Concepts / Scriptures / Pe
 | [[PragerU - Reason Is Not Enough to Make Us Good]] | C | ethics, morality, reason |
 | [[Saints Unscripted - Responding to 5 Changes to the Book of Mormon]] | C | book-of-mormon, christology, joseph-smith, revelation, textual-criticism, translation |
 | [[Stand Firm - Three Holes in Creedal Christianity the Restored Gospel Fills]] | C | atheism, biblical-inerrancy, divine-omnipotence, fine-tuning, personal-revelation |
+| [[Stealing from God - Frank Turek]] | C | apologetics, atheism, existence-of-god |
 | [[Stick of Joseph - Atheism is Unreasonable and Stupid]] | C |  |
 | [[Stick of Joseph - Did Muhammad Undercut Joseph Smith with Dan Peterson]] | B | book-of-mormon, doctrine-and-covenants, islam, jihad, joseph-smith, muhammad, prophets, quran |
 | [[Stick of Joseph - God Logic Trinity Debate Recap]] | C | trinity |
 | [[The Holy Rebellion - The Problem With Calling Joseph Smith a Con Man]] | C | folk-magic, joseph-smith-1826-trial, seer-stones, treasure-hunting |
+| [[The Moral Landscape - Sam Harris]] | C | ethics, metaethics, morality |
 | [[The Scientific Case for Intelligent Design]] | C | existence-of-god, intelligent-design |
 | [[Thoughtful Faith - Apologetics Course Overview]] | C | apologetics-method |
 | [[Thoughtful Faith - Blake Ostler on the Trinity]] | B | divine-name, trinity |
