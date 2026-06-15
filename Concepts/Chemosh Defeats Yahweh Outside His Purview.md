@@ -7,8 +7,11 @@ related:
   - "[[Elijah Contest Is About Territorial Storm-Deity Purview]]"
   - "[[Mesha Stele and Biblical Defeat Theology]]"
   - "[[Military Defeat as Catalyst for Bible Formation]]"
+  - "[[2 Kings 3 Mirrors Sennacherib in Reverse]]"
+  - "[[Qetzef Gadol Is Always Divine Fury in Hebrew Narrative]]"
 sources:
   - "[[Dan McClellan - Engaging Gavin Ortlund on Monotheism]]"
+  - "[[Dan McClellan - The One Where God Lost to Another God]]"
 tags:
   - topic/purview
   - topic/divine-plurality
@@ -44,7 +47,10 @@ What happened to Sennacherib when he invaded Yahweh's purview (defeat by Yahweh'
 ### 4. Grounded in the inheritance theology of Deut 32:8–9 (rating: strong)
 The territorial logic is the allotment of nations among the sons of God in [[Deuteronomy 32.8-9|Deut 32:8–9]], with Israel as Yahweh's portion. See [[Mesha Stele and Biblical Defeat Theology]] for the extra-biblical Moabite counterpart (the Mesha Stele has Chemosh "angry with his land," then delivering Moab).
 
-### 5. Steelman of the opposing view
+### 5. Corroborated and deepened in McClellan's dedicated 2 Kings 3 video (rating: strong)
+McClellan's standalone treatment, [[Dan McClellan - The One Where God Lost to Another God]], makes the same case in fuller detail and adds two supports developed here as their own notes: (a) the **lexical** point that the "great fury" is *qetzef gadol*, and *qetzef* in historical-narrative prose denotes *only* divine fury — see [[Qetzef Gadol Is Always Divine Fury in Hebrew Narrative]]; and (b) the **structural** point that the episode is the deliberate reverse-image of the Sennacherib deliverance (shared retreat-verbs, parallel intercession scene, invader fails at the final capital) — see [[2 Kings 3 Mirrors Sennacherib in Reverse]]. He restates the consensus that critical scholars "fairly widely agree... the sacrifice worked because it catalyzed the intervention of Moab's patron deity," concluding "Adonai left home court advantage and lost." [^5]
+
+### 6. Steelman of the opposing view
 A monotheist apologist would harmonize 2 Kings 3 by reading the "great wrath" as Yahweh's own wrath against Israel (e.g., for some unstated sin), or as the moral horror/dread provoked among the *Israelites* by witnessing the sacrifice, with no implication that Chemosh acted. The text does leave the agent of the "wrath" grammatically unspecified. McClellan's reply is that this requires importing content "to protect our dogmas" that the narrative does not supply, whereas the Chemosh reading follows the plain sequence and matches the Sennacherib parallel and ancient Near Eastern patron-deity theology.
 
 ## Best Quotes
@@ -58,6 +64,7 @@ A monotheist apologist would harmonize 2 Kings 3 by reading the "great wrath" as
 [^2]: [[Dan McClellan - Engaging Gavin Ortlund on Monotheism|Dan McClellan - Engaging Gavin Ortlund on Monotheism]], [25:01]–[25:30], https://youtu.be/LhL86fKYeAc
 [^3]: [[Dan McClellan - Engaging Gavin Ortlund on Monotheism|Dan McClellan - Engaging Gavin Ortlund on Monotheism]], [25:30]–[26:01], https://youtu.be/LhL86fKYeAc
 [^4]: [[Dan McClellan - Engaging Gavin Ortlund on Monotheism|Dan McClellan - Engaging Gavin Ortlund on Monotheism]], [24:01]–[24:30], https://youtu.be/LhL86fKYeAc
+[^5]: [[Dan McClellan - The One Where God Lost to Another God|McClellan - God Lost to Another God]], [05:30]–[06:30], https://youtu.be/VK2fwlTOXsQ
 
 ---
 See also: [[Dan McClellan]] · [[Mesha]] · [[Mesha Stele and Biblical Defeat Theology]]
