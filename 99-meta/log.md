@@ -1,5 +1,14 @@
 # Log
 
+## 2026-06-14 — Ingested Dan McClellan: Apologetics Cannot Rescue Biblical Contradictions
+
+- **Source:** `Dan McClellan - Apologetics Cannot Rescue Biblical Contradictions.md` (video, B-tier, https://youtu.be/58jtIUIRWGY, ~19:00)
+- **New Scripture notes (5):** `Genesis 32.30.md`, `Exodus 33.20-23.md`, `Genesis 6.19-20.md`, `Genesis 7.2-3.md`, `Genesis 7.8-9.md`
+- **New Concept notes (12):** God's Visibility contradiction + Limited Essence Theophany rebuttal + Pre-Incarnate Christ rebuttal; Noah's Ark Animal Count contradiction + Baseline Plus Extra rebuttal + Two Flood Accounts source criticism; Anthropomorphic God, Melammu, Greek Philosophy Overwrites, Rationalization C, Begging the Question, Apologetics as Identity Politics
+- **New People notes (11):** Benjamin Sommer, Brittany Wilson, Esther Hamori, David Carr, Jan Christian Gertz, Ron Hendel, Bill Arnold, Claus Westermann, Christoph Markschies, Luke Irwin, Andreas Wagner
+- **Updated notes (4):** `John 1.18.md` (added visibility contradiction section), `Dan McClellan.md` (added Bible Contradictions & Apologetics Critique section), `Embodied God in Christian Scholarship.md` (added 10-source scholarly bibliography), `E.A. Speiser.md` (added flood source criticism section)
+- **Authority Ledger:** Added 12 entries (11 scholars + the source video)
+
 ## 2026-06-14 — Ingested Stick of Joseph: Atheism is Unreasonable and Stupid (Hayden Carroll)
 
 - **Source:** `Stick of Joseph - Atheism is Unreasonable and Stupid.md` (video, C-tier, https://youtu.be/aqOzROuIAHM, ~49:30)

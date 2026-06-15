@@ -64,7 +64,19 @@ C = informed, cited commentary · D = opinion / uncited
 || [[Tatian]] | B | 2nd-c. Christian apologist; first known articulator of creation ex nihilo (c. 160 CE). Primary patristic source. |
 || [[Theophilus of Antioch]] | B | 2nd-c. bishop; first explicit philosophical formulation of creation "out of things that are not" (c. 169 CE). Primary patristic source. |
 || [[Irenaeus of Lyons]] | A | Late-2nd-c. church father; *Against Heresies* consolidated creation ex nihilo as anti-Gnostic polemic. Primary patristic source. |
-|| [[Giovanni Pettinato]] | C | Original Ebla epigrapher; apologetic translations widely discredited by subsequent scholarship (Archi, Chavalas). |
+||| [[Giovanni Pettinato]] | C | Original Ebla epigrapher; apologetic translations widely discredited by subsequent scholarship (Archi, Chavalas). |
+||| [[Benjamin Sommer]] | A | Professor of Bible at Jewish Theological Seminary; author of *The Bodies of God in the World of Ancient Israel* (Cambridge UP, 2008). Foundational on divine corporeality in the Hebrew Bible. |
+||| [[Brittany Wilson]] | A | New Testament scholar; author of *The Embodied God: Seeing the Divine in Luke-Acts and the Early Church* (Oxford UP). Specializes in divine visibility in the NT. |
+||| [[Esther Hamori]] | A | Professor of Hebrew Bible at Union Theological Seminary; author of *When Gods Were Men: The Embodied God in Biblical and Near Eastern Literature* (de Gruyter). |
+||| [[David Carr]] | A | Professor of OT at Union Theological Seminary; author of *Reading the Fractures of Genesis* (foundational on Genesis source criticism) and multiple university-press works. |
+||| [[Jan Christian Gertz]] | A | Professor of OT at U. Heidelberg; author of Genesis 1–11 commentary (HCOT series). Leading German source critic. |
+||| [[Ron Hendel]] | A | Professor of Hebrew Bible at UC Berkeley; author of Anchor Yale Bible commentary on Genesis 1–11 (2024). |
+||| [[Bill Arnold]] | B | Professor of OT at Asbury Theological Seminary; author of Cambridge Bible Commentary volume on Genesis. Confessional context but academic-press scholarship. |
+||| [[Claus Westermann]] | A | Major 20th-c. German OT scholar; Genesis 1–11 commentary is a standard source-critical reference (BKAT). Foundational. |
+||| [[Christoph Markschies]] | A | Professor of Ancient Christianity at Humboldt U. Berlin; author of *God's Body* (Baylor UP, 2019). |
+||| [[Luke Irwin]] | A | NT scholar; author of *Jesus and the Visibility of God: Sight and Belief in the Fourth Gospel* (Cambridge UP). |
+||| [[Andreas Wagner]] | A | Professor of OT at U. Bern; author of *God's Body: The Anthropomorphic God in the Old Testament* (Bloomsbury T&T Clark). |
+||| *(video) Dan McClellan — Apologetics Cannot Rescue Biblical Contradictions* | B | Dan McClellan (B per ledger); popular-level video but densely sourced from A-tier scholarship. |
 
 ---
 

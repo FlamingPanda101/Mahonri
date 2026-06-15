@@ -33,7 +33,19 @@ Speiser argued influentially that the Hebrew of [[Genesis 1.1|Genesis 1:1]] is p
 
 Speiser's grammatical argument supports the scholarly consensus that Genesis 1, in its original context, does not teach creation ex nihilo.
 
+## Genesis Flood Source Criticism
+
+Speiser's Anchor Bible commentary on Genesis (1964) also affirms the two-source flood hypothesis — that Genesis 6–9 weaves together the Priestly (P) and non-Priestly/Yahwist (J) flood accounts. Dan McClellan cites Speiser's commentary alongside six other major Genesis commentaries ([[David Carr]], [[Claus Westermann]], [[Ron Hendel]], [[Jan Christian Gertz]], [[Bill Arnold]], David Petersen) as part of the overwhelming scholarly consensus that the flood narrative comprises two originally separate, interwoven accounts. Speiser is the earliest in the recommended chronology (1964), demonstrating that this consensus spans over 60 years.[^2]
+
+The animal count discrepancy — P says two of every animal and bird ([[Genesis 6.19-20|Genesis 6:19-20]]); J says seven pairs of clean animals and all birds ([[Genesis 7.2-3|Genesis 7:2-3]]) — is one of the specific contradictions Speiser's source-critical analysis identifies.
+
+See [[Noahs Ark Source Criticism Two Flood Accounts]], [[Bible Contradiction - Noahs Ark Animal Count]].
+
 ## Key Topics
 
 - [[Greco-Roman Jewish Creation View Was Material Substrate]]
 - [[Genesis 1.1|Genesis 1:1]]
+- [[Noahs Ark Source Criticism Two Flood Accounts]]
+
+## Sources
+[^2]: [[Dan McClellan - Apologetics Cannot Rescue Biblical Contradictions|Dan McClellan — Apologetics Cannot Rescue Biblical Contradictions]], [16:03], https://youtu.be/58jtIUIRWGY

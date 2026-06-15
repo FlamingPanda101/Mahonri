@@ -37,6 +37,33 @@ In his response to [[Wes Huff]]'s claims about creation ex nihilo, McClellan mar
 - These originators retroactively reinterpreted earlier texts — see [[Retroactive Reinterpretation of Creation Texts]]
 - The conventional Greco-Roman Jewish view was creation from material substrate — see [[Greco-Roman Jewish Creation View Was Material Substrate]]
 
+## Bible Contradictions and Apologetics Critique
+
+In his video responding to a Christian apologist who claimed the Bible contains no contradictions, McClellan systematically dismantles two apologetic harmonizations:
+
+### God's Visibility (Gen 32:30 vs John 1:18)
+McClellan demonstrates that the contradiction between Jacob seeing God "face to face" ([[Genesis 32.30|Genesis 32:30]]) and John's statement that "no one has ever seen God" ([[John 1.18|John 1:18]]) is genuine. He shows that:
+- The Hebrew Bible presents God as anthropomorphic, corporeal, and visible
+- The common apologetic rationalizations (limited essence theophany, pre-incarnate Christ appearances) are circular — they presuppose inerrancy and invent a "third thing" not found in either text
+- The shift from visible to invisible God occurred under Greek philosophical influence
+- The scholarly consensus overwhelmingly affirms God had a body in the Hebrew Bible
+
+See [[Bible Contradiction - Gods Visibility Gen 32 vs John 1]], [[Limited Essence Theophany Rationalization Rebutted]], [[Pre-Incarnate Christ Theophany Rationalization Rebutted]], [[Anthropomorphic God in the Hebrew Bible]], [[Greek Philosophy Overwrites Hebrew Divine Corporeality]].
+
+### Noah's Ark Animal Count (Gen 6:19–20 vs Gen 7:2–3)
+McClellan demonstrates the contradiction in the flood narrative's animal count — one account says two of every animal, the other says seven pairs — is a result of two originally separate flood accounts (Priestly and non-Priestly) interwoven by a redactor. The apologetic "baseline plus extras for sacrifice" harmonization fails because both accounts specify ALL birds — one says two, the other says seven pairs, with no clean/unclean distinction among birds. He cites seven major Genesis commentaries (including [[David Carr]], [[Claus Westermann]], [[Ron Hendel]], and [[E.A. Speiser]]) that all affirm the two-source hypothesis.
+
+See [[Bible Contradiction - Noahs Ark Animal Count]], [[Noahs Ark Baseline Plus Extra Rationalization Rebutted]], [[Noahs Ark Source Criticism Two Flood Accounts]].
+
+### Meta-Critique of Apologetics
+McClellan develops a broader critique: apologetics operates by presupposing inerrancy, then inventing "Rationalization C" to harmonize contradictory texts A and B — a circular enterprise driven by identity politics, not evidence. "The apologetic endeavor is not about finding out what's true... It is about defending dogmas and making the people who accept those dogmas feel justified and validated." [^1]
+
+See [[Rationalization C - The Third Thing Harmonization]], [[Begging the Question in Biblical Inerrancy Apologetics]], [[Apologetics as Identity Politics Over Evidence]].
+
 ## Key Sources
 
 - [[Dan McClellan - Wes Huff Creation Ex Nihilo Response]] (YouTube, 2025)
+- [[Dan McClellan - Apologetics Cannot Rescue Biblical Contradictions]] (YouTube)
+
+## Sources
+[^1]: [[Dan McClellan - Apologetics Cannot Rescue Biblical Contradictions|Dan McClellan — Apologetics Cannot Rescue Biblical Contradictions]], [17:32]–[18:31], https://youtu.be/58jtIUIRWGY
