@@ -11,6 +11,7 @@ related:
   - "[[Doctrine and Covenants 132 Wordprint Analysis]]"
 sources:
   - "[[Ward Radio - Brigham Youngs Character with Dan Peterson]]"
+  - "[[Lets Get Real - Why Its Easier to Flatten Brigham Young]]"
 ---
 
 # Doctrine and Covenants 132
@@ -23,3 +24,6 @@ The revelation on celestial marriage, including plural marriage, recorded July 1
 
 - [[Polygamy Denialism]] — wordprint analysis shows Joseph Smith authorship, fatal to denialism
 - [[Succession Crisis of 1844]] — part of Joseph's "program" only the Twelve continued
+- [[Brigham Young as the Fall Guy]] — [[Daniel C. Peterson]] notes the Interpreter Foundation's wordprint/statistical analysis shows Section 132 was already in circulation while Joseph was alive and is "almost certainly impossible" to be a Brigham-era forgery — so plural marriage traces to Joseph, not Brigham.[^2]
+
+[^2]: [[Lets Get Real - Why Its Easier to Flatten Brigham Young|Let's Get Real - Why It's Easier to Flatten Brigham Young]], [14:30]–[15:31], https://youtu.be/dssLIsMniWU

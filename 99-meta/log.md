@@ -1,5 +1,11 @@
 # Log
 
+## 2026-06-14 — Claude parallel agents (batch A: 3 videos)
+
+- `Lets Talk w Hayden Carroll - Is the Bible the Final Authority Debate` (C, x5EbiJLb8U0) — 14 notes; sola scriptura debate (Kelly vs Hayden Carroll). Domain: Scripture & Authority.
+- `Lets Get Real - Why Its Easier to Flatten Brigham Young` (C; guest Dan Peterson, B) (dssLIsMniWU) — 28 notes; Brigham Young defense, 1852 servitude-vs-slavery, fallible prophets. Ledger += Reeve(A), D.C. Peterson/Carruth/Rich/Thiriot/Esplin(B).
+- `McClellan - The Fundamental Contradiction of the Trinity` (B, tYNRD2hC4yI) — 10 notes; Trinity logically incoherent, constructed 2nd–5th c. CE, divine-images model.
+
 ## 2026-06-14 — Ingested Dan McClellan: Apologetics Cannot Rescue Biblical Contradictions
 
 - **Source:** `Dan McClellan - Apologetics Cannot Rescue Biblical Contradictions.md` (video, B-tier, https://youtu.be/58jtIUIRWGY, ~19:00)

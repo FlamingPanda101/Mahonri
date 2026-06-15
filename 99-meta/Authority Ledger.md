@@ -19,6 +19,12 @@ C = informed, cited commentary · D = opinion / uncited
 | [[Scot McKnight]] | A | Protestant NT scholar; commentaries incl. James. |
 | [[Thomas Schreiner]] | A | Reformed NT scholar; concedes "before God, not men" on James. |
 | [[Ben Witherington]] | A | Protestant (Wesleyan) NT scholar; concedes ongoing justification. |
+| [[Paul Reeve]] | A | Simmons Professor of Mormon Studies, U. of Utah; co-author *This Abominable Slavery*. |
+| [[Daniel C. Peterson]] | B | PhD; emeritus prof. Islamic Studies/Arabic, BYU; founder, Interpreter Foundation. |
+| [[LaJean Carruth]] | B | 19th-c. Pitman shorthand specialist, Church History Dept; co-author *This Abominable Slavery*. |
+| [[Christopher Rich]] | B | Lawyer (former JAG) + history PhD candidate, U. of Utah; co-author *This Abominable Slavery*. |
+| [[Amy Tanner Thiriot]] | B | Historian; author *Slavery in Zion* (U. of Utah Press). |
+| [[Ron Esplin]] | B | Documentary historian, Joseph Smith Papers; 1844 succession-crisis expert. |
 | [[Michael Heiser]] | B | Ph.D. Hebrew Bible & Semitic langs; divine council scholarship (*The Unseen Realm*). Evangelical; cited in LDS apologetics on divine plurality. |
 | [[C.S. Lewis]] | B | Oxford/Cambridge literary scholar; foremost 20th-c. lay Christian apologist (*Mere Christianity*). Anglican. |
 | [[Trent Horn]] | B | Catholic Answers apologist; *The Case for Catholicism*; careful, heavily-cited. |

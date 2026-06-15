@@ -19,6 +19,9 @@ Galatians is **one undivided letter** whose driving crisis is the **Judaizers** 
 
 ## Used in
 - [[Galatians 1-8 - Angel Preaching Another Gospel]]
+- [[Scripture as the Test of Prophets and Revelation]] — Kelly cites this in the "Is the Bible the Final Authority?" debate as the scriptural test against any prophet (incl. an angelic visitor) preaching "another gospel."[^debate]
+
+[^debate]: [[Lets Talk w Hayden Carroll - Is the Bible the Final Authority Debate|Let's Talk w/ Hayden Carroll - Is the Bible the Final Authority?]], [79:30], https://youtu.be/x5EbiJLb8U0
 
 ---
-See also: [[Scriptures]] · [[WardRadio - Top 9 Misconstrued Scriptures]]
+See also: [[Scriptures]] · [[WardRadio - Top 9 Misconstrued Scriptures]] · [[Lets Talk w Hayden Carroll - Is the Bible the Final Authority Debate]]
