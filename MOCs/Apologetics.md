@@ -5,7 +5,7 @@ tags: [moc]
 
 # Apologetics — Map of Content
 
-Auto-generated index. **75 sources** ingested. Browse Concepts / Scriptures / People folders or the graph; author tiers in [[Authority Ledger]]; channels in [[Sources Index]].
+Auto-generated index. **93 sources** ingested. Browse Concepts / Scriptures / People folders or the graph; author tiers in [[Authority Ledger]]; channels in [[Sources Index]].
 
 ## Sources Ingested
 
@@ -15,6 +15,7 @@ Auto-generated index. **75 sources** ingested. Browse Concepts / Scriptures / Pe
 | [[All Those In Favor - Why Christianity is Probably Wrong about Hell]] | C | problem-of-hell |
 | [[Ancient Christians - An Introduction for Latter-day Saints]] | B | early-christianity, great-apostasy, patristics |
 | [[Benjamin Park - Did Joseph Smith Teach Men Can Become God]] | B |  |
+| [[Blake Ostler - The Heart as the Basis of Religious Knowledge]] | B | epistemology, spiritual-experience |
 | [[Council of Trent - James 2 Not By Faith Alone]] | B | justification |
 | [[Council of Trent - The Self-Authenticating Canon Refuted]] | B | canon, self-authentication, sola-scriptura |
 | [[Council of Trent - The Word of God Fallacy]] | B | authority, biblical-theology, canon, church-fathers, sola-scriptura, word-of-god |
@@ -46,6 +47,8 @@ Auto-generated index. **75 sources** ingested. Browse Concepts / Scriptures / Pe
 | [[Holy Rebellion - Anachronisms DNA and Archaeology in the Book of Mormon]] | B | anachronisms, archaeology, book-of-mormon, dna |
 | [[Informed Saints - Are Book of Mormon Names Real]] | B | book-of-mormon, onomastics |
 | [[Informed Saints - The Surprising REAL Reason People Are Leaving The Church]] | C | disaffiliation, high-demand-religion, mental-health, politics-and-religion, retention, secularization, suicide, well-being |
+| [[Jonathan Haidt - The Elephant the Rider and Epistemic Humility]] | B | epistemology, moral-psychology, persuasion |
+| [[Jordan Peterson - How the Brain Filters Reality (Perception and Attention)]] | C | epistemology |
 | [[Keystone - LDS Scholar Debunks Myths About Declining Membership]] | B | religiosity-data, retention |
 | [[Keystone - The King Follett Sermon (Casey Paul Griffiths)]] | B | exaltation, king-follett-discourse, nature-of-god |
 | [[Lets Get Real - The Racial Curse in Abraham Isnt What You Think]] | C | abrahamic-covenant, binding-of-isaac, book-of-abraham, curse-of-canaan, curse-of-ham, historical-method, interracial-marriage, joseph-smith, presentism, priesthood-ban, prophetic-translation |
@@ -57,16 +60,30 @@ Auto-generated index. **75 sources** ingested. Browse Concepts / Scriptures / Pe
 | [[Mormon Book Reviews - 40 Questions about Mormonism with Kyle Beshears]] | C | are-mormons-christian, book-of-mormon, countercult |
 | [[Mormonism with the Murf - Joseph Smith's Top 20 Fulfilled Prophecies]] | C | joseph-smith, prophecy |
 | [[Moroni Standard - The Evidence for the Book of Mormon]] | C | book-of-mormon |
+| [[Pangburn - Sam Harris and Jordan Peterson Vancouver Part 2]] | C | morality, preface, religion |
+| [[Pangburn Philosophy - Peterson vs Harris on God Morality and Religion (Vancouver Night 1)]] | C | dogmatism, metaethics, morality, preface |
+| [[Philosophy Explainer - I Think Therefore I Am (Cogito)]] | C | epistemology |
+| [[Philosophy Tube - Deduction and Induction]] | C | epistemology |
+| [[PragerU - Reason Is Not Enough to Make Us Good]] | C | ethics, morality, reason |
 | [[Saints Unscripted - Responding to 5 Changes to the Book of Mormon]] | C | book-of-mormon, christology, joseph-smith, revelation, textual-criticism, translation |
 | [[Stand Firm - Three Holes in Creedal Christianity the Restored Gospel Fills]] | C | atheism, biblical-inerrancy, divine-omnipotence, fine-tuning, personal-revelation |
 | [[Stick of Joseph - Atheism is Unreasonable and Stupid]] | C |  |
 | [[Stick of Joseph - Did Muhammad Undercut Joseph Smith with Dan Peterson]] | B | book-of-mormon, doctrine-and-covenants, islam, jihad, joseph-smith, muhammad, prophets, quran |
 | [[Stick of Joseph - God Logic Trinity Debate Recap]] | C | trinity |
 | [[The Holy Rebellion - The Problem With Calling Joseph Smith a Con Man]] | C | folk-magic, joseph-smith-1826-trial, seer-stones, treasure-hunting |
+| [[Thoughtful Faith - Apologetics Course Overview]] | C | apologetics-method |
 | [[Thoughtful Faith - Blake Ostler on the Trinity]] | B | divine-name, trinity |
+| [[Thoughtful Faith - Collective Witness Epistemology]] | C | epistemology |
+| [[Thoughtful Faith - Greek vs Hebrew Thinking]] | C | epistemology |
+| [[Thoughtful Faith - How Do I Know What I Know (Epistemology)]] | C | epistemology |
+| [[Thoughtful Faith - Is Reason Fundamental (Epistemology 1.1)]] | B | epistemology |
 | [[Thoughtful Faith - Is the Calvinist God a Moral Monster (Debate Prep with Blake Ostler)]] | B | calvinism, divine-command-theory, open-theism, problem-of-evil |
+| [[Thoughtful Faith - The Collective Witness Model (No Trump Card)]] | C | authority, epistemology, personal-revelation |
 | [[Thoughtful Faith - The LDS Godhead in the Bible (Response to Sam Shamoun)]] | C | divine-name, godhead, trinity |
+| [[Thoughtful Faith - The Nature of Morality from the Ground Up (Ethics)]] | C | ethics |
+| [[Thoughtful Faith - The Pragmatic Argument for Faith in God (Pascals Wager)]] | C | epistemology, existence-of-god |
 | [[Thoughtful Faith - The Trinity vs the Godhead Debate Prep]] | C | christology, godhead, monotheism, trinity |
+| [[Thoughtful Faith - The Witness of Authority (Knowledge by Degrees of Probability)]] | C | collective-witness, epistemology, probability, witness-of-authority |
 | [[Thoughtful Faith - Was Joseph Smith a Pedophile]] | C |  |
 | [[Uncommon Ground - Did Christianity Give Us Our Morality]] | C | dominion-thesis, morality |
 | [[Ward Radio - Brigham Youngs Character with Dan Peterson]] | C | adam-god, brigham-young, polygamy, priesthood-ban, succession-crisis |
@@ -86,6 +103,7 @@ Auto-generated index. **75 sources** ingested. Browse Concepts / Scriptures / Pe
 | [[WardRadio - Jesus Referenced the Apocrypha]] | C | apocrypha |
 | [[WardRadio - Lorne Dawson NRM Interview]] | B | nrm |
 | [[WardRadio - Top 9 Misconstrued Scriptures]] | C |  |
+| [[Wireless Philosophy - The Epistemic Regress Problem (Kevin McCain)]] | B | epistemology, justification |
 
 ---
 See also: [[Home]] · [[Sources Index]] · [[Authority Ledger]]
