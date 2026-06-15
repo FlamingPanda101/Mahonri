@@ -5,7 +5,7 @@ tags: [moc]
 
 # Apologetics — Map of Content
 
-Auto-generated index. **134 sources** ingested. Browse Concepts / Scriptures / People folders or the graph; author tiers in [[Authority Ledger]]; channels in [[Sources Index]].
+Auto-generated index. **158 sources** ingested. Browse Concepts / Scriptures / People folders or the graph; author tiers in [[Authority Ledger]]; channels in [[Sources Index]].
 
 ## Sources Ingested
 
@@ -13,8 +13,10 @@ Auto-generated index. **134 sources** ingested. Browse Concepts / Scriptures / P
 |--------|------|--------|
 | [[After Humanity - Michael Ward]] | B | abolition-of-man, ethics, natural-law, objective-morality |
 | [[Alex O'Connor - The Sophistry of Christopher Hitchens]] | C | challenges, existence-of-god |
+| [[All Those In Favor - Godlogics Trinitarian Heresies Explained]] | C | godhead, trinity |
 | [[All Those In Favor - The Button and the Five Contradictory Attributes of God]] | C | problem-of-hell, trinity |
 | [[All Those In Favor - Why Christianity is Probably Wrong about Hell]] | C | problem-of-hell |
+| [[Allie Beth Stuckey - Are Mormons Christians - Jacob Hansen Debate]] | C | are-mormons-christians, christology |
 | [[Ancient Christians - An Introduction for Latter-day Saints]] | B | early-christianity, great-apostasy, patristics |
 | [[Apologetics Canada - William Lane Craig QA - Neuroscience and Free Will]] | B | challenges, free-will |
 | [[Benjamin Park - Did Joseph Smith Teach Men Can Become God]] | B |  |
@@ -22,6 +24,7 @@ Auto-generated index. **134 sources** ingested. Browse Concepts / Scriptures / P
 | [[Council of Trent - James 2 Not By Faith Alone]] | B | justification |
 | [[Council of Trent - The Self-Authenticating Canon Refuted]] | B | canon, self-authentication, sola-scriptura |
 | [[Council of Trent - The Word of God Fallacy]] | B | authority, biblical-theology, canon, church-fathers, sola-scriptura, word-of-god |
+| [[Daily Dose of Wisdom - Stephen Meyer Reacts to Viral Science Lies]] | B | existence-of-god, intelligent-design |
 | [[Dan McClellan - Apologetics Cannot Rescue Biblical Contradictions]] | B | apologetics-critique, biblical-contradictions, inerrancy |
 | [[Dan McClellan - Are There Contradictions in the Bible]] | B | biblical-contradictions, harmonization, inerrancy |
 | [[Dan McClellan - Biblical Slavery and the Reformation Red Pill Rebuttal]] | B | apologetics-critique, biblical-ethics, slavery |
@@ -45,6 +48,7 @@ Auto-generated index. **134 sources** ingested. Browse Concepts / Scriptures / P
 | [[Data Over Dogma - Why the Bible Began with Jacob Wright]] | B |  |
 | [[David Snell - Is Joseph Smith a Fraud (with Kyle Beshears)]] | C | anti-mormonism, are-mormons-christian, book-of-mormon-witnesses, joseph-smith |
 | [[Dawkins vs Lennox - The God Delusion Debate]] | B | existence-of-god |
+| [[Discover the Book of Mormon - Are There Book of Mormon Artifacts (Casey Griffiths)]] | B | archaeology, book-of-mormon |
 | [[drcraigvideos - God and Mathematics]] | B | existence-of-god |
 | [[drcraigvideos - Is There Meaning to Life]] | B | meaning |
 | [[drcraigvideos - Leibniz Contingency Argument]] | B | existence-of-god |
@@ -61,23 +65,34 @@ Auto-generated index. **134 sources** ingested. Browse Concepts / Scriptures / P
 | [[Hoover Institution - Mathematical Challenges to Darwins Theory of Evolution]] | B | existence-of-god, intelligent-design |
 | [[Hoover Institution - Stephen Meyer on Intelligent Design and The Return of the God Hypothesis]] | B | existence-of-god, intelligent-design |
 | [[Informed Saints - Are Book of Mormon Names Real]] | B | book-of-mormon, onomastics |
+| [[Informed Saints - Scholar Debunks the Biggest Lies About Brigham Young]] | C | brigham-young, history |
 | [[Informed Saints - The Surprising REAL Reason People Are Leaving The Church]] | C | disaffiliation, high-demand-religion, mental-health, politics-and-religion, retention, secularization, suicide, well-being |
 | [[InspiringPhilosophy - Cosmic Conscious Argument for God's Existence]] | C | consciousness, existence-of-god |
 | [[InspiringPhilosophy - Divine Hiddenness - A Christian Response]] | C | challenges, divine-hiddenness |
 | [[Jonathan Haidt - The Elephant the Rider and Epistemic Humility]] | B | epistemology, moral-psychology, persuasion |
 | [[Jordan Peterson - How the Brain Filters Reality (Perception and Attention)]] | C | epistemology |
+| [[Keystone - How LDS Culture Is Hurting Faith]] | C | faith-crisis, retention |
 | [[Keystone - LDS Scholar Debunks Myths About Declining Membership]] | B | religiosity-data, retention |
 | [[Keystone - The King Follett Sermon (Casey Paul Griffiths)]] | B | exaltation, king-follett-discourse, nature-of-god |
+| [[Keystone - We Get This Wrong About Ancient Temples]] | C | ancient-temple, temples |
+| [[Latter Daily Saints - New Data Proves the Restored Gospel Works Ep 110]] | C | fruits, sociology |
+| [[Latter Daily Saints - The Mormon Church Profits from War Claim Ep 109]] | C | challenges, church-finances |
+| [[LDS Christian - Is the LDS Church True - Robert Gurr vs Bill Reel]] | C | challenges, truth-claims |
 | [[Lets Get Real - The Racial Curse in Abraham Isnt What You Think]] | C | abrahamic-covenant, binding-of-isaac, book-of-abraham, curse-of-canaan, curse-of-ham, historical-method, interracial-marriage, joseph-smith, presentism, priesthood-ban, prophetic-translation |
 | [[Lets Get Real - Why Its Easier to Flatten Brigham Young]] | C | brigham-young, learning-by-experience, presentism, prophetic-fallibility, slavery-in-utah, succession-crisis |
 | [[Lets Talk - Apologetics Course How to Talk to Protestants and Evangelicals]] | C | authority, canon, method, presuppositional-apologetics, sola-scriptura, trinity |
 | [[Lets Talk w Hayden Carroll - Is the Bible the Final Authority Debate]] | C | authority, canon, sola-scriptura |
 | [[Lets Talk w Hayden Carroll - Triune God Is Omnibenevolent Debate]] | C | creation, omnibenevolence, problem-of-hell, theodicy, trinity |
 | [[Life After Life - Raymond Moody]] | C | afterlife, consciousness, near-death-experience |
+| [[Light and Truth Letter - Austin Fife]] | C | apologetics, ces-letter, challenges |
 | [[McClellan - The Fundamental Contradiction of the Trinity]] | B | divine-mediation, godhead, trinity |
 | [[Mormon Book Reviews - 40 Questions about Mormonism with Kyle Beshears]] | C | are-mormons-christian, book-of-mormon, countercult |
 | [[Mormonism with the Murf - Joseph Smith's Top 20 Fulfilled Prophecies]] | C | joseph-smith, prophecy |
 | [[Moroni Standard - The Evidence for the Book of Mormon]] | C | book-of-mormon |
+| [[Moronis Standard - Modern Scholarship Confirms What Joseph Smith Said in 1844]] | C | joseph-smith, restoration |
+| [[Moronis Standard - Moses Never Attended a Synagogue]] | C | anachronism, book-of-mormon, synagogue |
+| [[Moronis Standard - The Book of Mormon Is an Israelite Record Not a Jewish One]] | C | book-of-mormon, israelite-origins |
+| [[Moronis Standard - These Philosophers Werent Looking for Mormonism]] | C | philosophy, restoration |
 | [[Pangburn - Sam Harris and Jordan Peterson Vancouver Part 2]] | C | morality, preface, religion |
 | [[Pangburn Philosophy - Peterson vs Harris on God Morality and Religion (Vancouver Night 1)]] | C | dogmatism, metaethics, morality, preface |
 | [[Philosophy Explainer - I Think Therefore I Am (Cogito)]] | C | epistemology |
@@ -93,7 +108,11 @@ Auto-generated index. **134 sources** ingested. Browse Concepts / Scriptures / P
 | [[Stick of Joseph - God Logic Trinity Debate Recap]] | C | trinity |
 | [[The Holy Rebellion - The Problem With Calling Joseph Smith a Con Man]] | C | folk-magic, joseph-smith-1826-trial, seer-stones, treasure-hunting |
 | [[The Moral Landscape - Sam Harris]] | C | ethics, metaethics, morality |
+| [[The Restored Gospel of Jesus Christ and Evolution]] | B | creation, evolution, science-and-religion |
 | [[The Scientific Case for Intelligent Design]] | C | existence-of-god, intelligent-design |
+| [[The Stick of Joseph - Are Christians Becoming Mormon with Brian Thomassen]] | C | convergence, restoration |
+| [[The Stick of Joseph - Debate Breakdown Jacob Hansen vs James White]] | C | calvinism, theology |
+| [[The Stick of Joseph - The Divine Feminine in the Torah with Mandy Green]] | C | divine-feminine, heavenly-mother |
 | [[Thoughtful Faith - A Mormon Debates Alex OConnor on Jubilee Media]] | C | challenges, existence-of-god |
 | [[Thoughtful Faith - Apologetics Course Overview]] | C | apologetics-method |
 | [[Thoughtful Faith - Are Human Beings Just Animals]] | C | human-nature, meaning |
@@ -110,6 +129,7 @@ Auto-generated index. **134 sources** ingested. Browse Concepts / Scriptures / P
 | [[Thoughtful Faith - Is Reason Fundamental (Epistemology 1.1)]] | B | epistemology |
 | [[Thoughtful Faith - Is Secular Humanism Just Bastardized Christianity]] | C | challenges, ethics |
 | [[Thoughtful Faith - Is the Calvinist God a Moral Monster (Debate Prep with Blake Ostler)]] | B | calvinism, divine-command-theory, open-theism, problem-of-evil |
+| [[Thoughtful Faith - James White vs Jacob Hansen - Is the God of Calvinism Morally Reprehensible (Debate)]] | C | calvinism, theology |
 | [[Thoughtful Faith - My Faith Crisis and a Message to Those Who Struggle]] | C | challenges, faith-crisis |
 | [[Thoughtful Faith - Stupid Arbitrary Standards - The Number 1 Mistake They Make]] | C | ethics, presuppositional-apologetics |
 | [[Thoughtful Faith - The Collective Witness Model (No Trump Card)]] | C | authority, epistemology, personal-revelation |
@@ -127,6 +147,7 @@ Auto-generated index. **134 sources** ingested. Browse Concepts / Scriptures / P
 | [[Thoughtful Faith - Where Will You Go - Confronting the Meaning Crisis and the Deconstruction of Belief]] | C | challenges, meaning |
 | [[Uncommon Ground - Did Christianity Give Us Our Morality]] | C | dominion-thesis, morality |
 | [[University of Notre Dame - The God Debate II - Harris vs Craig]] | B | ethics, existence-of-god |
+| [[Ward Radio - 3 Mormon Apologists Ask Them Anything]] | C | apologetics |
 | [[Ward Radio - Brigham Youngs Character with Dan Peterson]] | C | adam-god, brigham-young, polygamy, priesthood-ban, succession-crisis |
 | [[Ward Radio - Catholics Critique Mormonism on the Daily Wire]] | C | catholicism |
 | [[Ward Radio - Concentric Chiasmus in Alma 24]] | D | alma, book-of-mormon, chiasmus |
@@ -138,7 +159,10 @@ Auto-generated index. **134 sources** ingested. Browse Concepts / Scriptures / P
 | [[Ward Radio - The Hollow Faith of Pastor Grift]] | C | clergy-belief, survey-data |
 | [[Ward Radio - The Impossible Science of Faking the Gold Plates]] | C | book-of-mormon, gold-plates, joseph-smith, reformed-egyptian, tumbaga, witnesses |
 | [[Ward Radio - The Nicene Creed Is Not an Abomination]] | C |  |
+| [[Ward Radio - The Real Reason Why People Leave the Faith]] | C | disaffiliation, faith-crisis, retention |
+| [[Ward Radio - The Truth About Mormon Baptism at Age 8]] | C | baptism, practices |
 | [[Ward Radio - View of the Hebrews and the Book of Mormon]] | C | book-of-mormon, ces-letter, ethan-smith, hebraic-indian-theory, historical-method, joseph-smith, oliver-cowdery, parallelomania, plagiarism, view-of-the-hebrews |
+| [[Ward Radio - Was Joseph Smith a Trinitarian]] | C | godhead, joseph-smith |
 | [[WardRadio - Book of Mormon Witnesses Are Unimpeachable]] | C | book-of-mormon, witnesses |
 | [[WardRadio - Is Brigham Young a Heretic - Adam-God with Joe Heschmeyer]] | C | adam-god, brigham-young |
 | [[WardRadio - Jesus Referenced the Apocrypha]] | C | apocrypha |
