@@ -6,7 +6,8 @@ related:
   - "[[Pelagius]]"
   - "[[Ambrosiaster]]"
   - "[[Romans 5.12]]"
-  - "[[The Fall Has No Pre-Fifth-Century Doctrine of Inherited Corruption]]"
+  - "[[Irenaeus on the Fall as Childlike Growth Not Corruption]]"
+  - "[[2 Maccabees 7.28 Does Not Teach Creation Ex Nihilo]]"
 sources:
   - "[[Ancient Christians - An Introduction for Latter-day Saints]]"
 tags: [apologetics, church-history, original-sin, the-fall, augustine, human-nature]
