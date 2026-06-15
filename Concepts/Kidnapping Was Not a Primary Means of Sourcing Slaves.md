@@ -12,7 +12,7 @@ tags:
   - topic/slavery
   - topic/ancient-near-east
   - by/dan-mcclellan
-  - tradition/critical-scholarship
+  - tradition/academic-biblical-studies
 ---
 #type/claim
 

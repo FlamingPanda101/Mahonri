@@ -10,7 +10,7 @@ scripture:
   - "[[Jude 1.14-15|Jude 1:14-15]]"
 sources:
   - "[[Dan McClellan - Responding to Wes Huff on the Biblical Canon]]"
-tags: ["#apologetics/canon", "#tradition/critical-scholarship", "#type/claim"]
+tags: ["#apologetics/canon", "#tradition/academic-biblical-studies", "#type/claim"]
 ---
 
 # Scripture Was a Broader Category Than the Bible — The Anachronism of a Closed Canon

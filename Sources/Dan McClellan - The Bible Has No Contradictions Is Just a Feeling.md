@@ -2,7 +2,7 @@
 aliases:
   - "Dan McClellan - The Bible Has No Contradictions Is Just a Feeling"
   - "McClellan - Inerrancy Is a Feeling"
-tags: [source/video, by/dan-mcclellan, tradition/critical-scholarship, topic/inerrancy, topic/bible]
+tags: [source/video, by/dan-mcclellan, tradition/academic-biblical-studies, topic/inerrancy, topic/bible]
 date: ""
 author: "Dan McClellan"
 url: https://youtu.be/BHKpDrwTkJ0

@@ -10,7 +10,7 @@ sources:
   - "[[Data Over Dogma - Deuteronomys Secret Source]]"
 tags:
   - "#apologetics/old-testament"
-  - "#tradition/critical-scholarship"
+  - "#tradition/academic-biblical-studies"
   - "#type/claim"
 ---
 #type/claim
@@ -29,7 +29,7 @@ tags:
 6. **Mainstream, not fringe.** "Most critical scholars are in pretty widespread agreement that Deuteronomy is picking up a lot of inspiration from… the vassal treaty of Esarhaddon" — the same Documentary-Hypothesis milieu as the [[Wellhausen Thesis on Hebrew Bible Origins]].[^10]
 
 ## LDS Relevance
-This is the critical-scholarship sibling of the LDS Deuteronomistic-reform argument: both agree Deuteronomy is a 7th-century product of [[Josiah]]'s circle rather than a Mosaic original (see [[Hezekiah Josiah and the Deuteronomist Reforms]], [[Deuteronomistic Reform Explains the Book of Mormon Theology]]). LDS apologists welcome the late, redactional, reform-driven dating because it grounds the claim that a *pre-reform* First Temple theology was suppressed — the theology the Book of Mormon's Lehi is said to preserve (see [[The Book of Mormon Matches Pre-Reform First Temple Theology]]). The friction point is the *content*: McClellan's thesis says even the covenant frame is borrowed Assyrian imperial machinery (see [[The Covenant Idea Is Borrowed From Assyrian Vassalage]]), which presses on any reading that treats the Sinai/temple covenant as a self-standing divine institution rather than a culturally-mediated form — a tension the existing [[Ancient Covenant Pattern and the Blood of the Covenant]] already concedes by rooting the covenant template in ANE (incl. Assyrian) treaty practice.
+This is the academic-biblical-studies sibling of the LDS Deuteronomistic-reform argument: both agree Deuteronomy is a 7th-century product of [[Josiah]]'s circle rather than a Mosaic original (see [[Hezekiah Josiah and the Deuteronomist Reforms]], [[Deuteronomistic Reform Explains the Book of Mormon Theology]]). LDS apologists welcome the late, redactional, reform-driven dating because it grounds the claim that a *pre-reform* First Temple theology was suppressed — the theology the Book of Mormon's Lehi is said to preserve (see [[The Book of Mormon Matches Pre-Reform First Temple Theology]]). The friction point is the *content*: McClellan's thesis says even the covenant frame is borrowed Assyrian imperial machinery (see [[The Covenant Idea Is Borrowed From Assyrian Vassalage]]), which presses on any reading that treats the Sinai/temple covenant as a self-standing divine institution rather than a culturally-mediated form — a tension the existing [[Ancient Covenant Pattern and the Blood of the Covenant]] already concedes by rooting the covenant template in ANE (incl. Assyrian) treaty practice.
 
 ## Best Quotes
 > "A lot of critical scholars… have been convinced that the book of Deuteronomy was basically patterned after the vassal treaty of Esarhaddon… a lot of the segments kind of follow the same themes and even a lot of the language has a lot of significant overlap." [^1]

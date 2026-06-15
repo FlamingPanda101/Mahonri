@@ -13,7 +13,7 @@ tags:
   - topic/abolition
   - topic/history-of-interpretation
   - by/dan-mcclellan
-  - tradition/critical-scholarship
+  - tradition/academic-biblical-studies
 ---
 #type/claim
 

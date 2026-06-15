@@ -1,6 +1,6 @@
 ---
 aliases: ["Dan McClellan - Im Wrong Again", "McClellan - Wrong Again", "I'm wrong AGAIN?!?"]
-tags: [source/video, by/dan-mcclellan, tradition/critical-scholarship, topic/slavery, topic/translation-criticism, topic/biblical-ethics, topic/abolition]
+tags: [source/video, by/dan-mcclellan, tradition/academic-biblical-studies, topic/slavery, topic/translation-criticism, topic/biblical-ethics, topic/abolition]
 date: ""
 author: "Dan McClellan"
 url: https://youtu.be/8ffIkl3ayXo

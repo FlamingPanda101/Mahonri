@@ -4,7 +4,7 @@ tags:
   - "#source/video"
   - "#source/podcast"
   - "#by/data-over-dogma"
-  - "#tradition/critical-scholarship"
+  - "#tradition/academic-biblical-studies"
   - "#topic/mosaic-law"
   - "#topic/supersessionism"
   - "#topic/old-testament"

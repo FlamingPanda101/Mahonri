@@ -15,7 +15,7 @@ date: 2025
 author: "[[Dan McClellan]] and [[Dan Beecher]]"
 url: "https://youtu.be/VrJKlKmcHjE"
 authority: B
-authority_reason: "Popular-level Data Over Dogma 'What's That?' episode hosted by Dan McClellan (Ph.D. in biblical studies, presents critical-scholarship consensus) with lay co-host Dan Beecher. The historical narrative (Origen/Augustine, the fourfold sense, sola scriptura, the printing press, the Fundamentals, Scopes, the Chicago Statement) is mainstream in the academic study of religion but delivered conversationally without on-screen footnotes. Host rated B; format B."
+authority_reason: "Popular-level Data Over Dogma 'What's That?' episode hosted by Dan McClellan (Ph.D. in biblical studies, presents academic-biblical-studies consensus) with lay co-host Dan Beecher. The historical narrative (Origen/Augustine, the fourfold sense, sola scriptura, the printing press, the Fundamentals, Scopes, the Chicago Statement) is mainstream in the academic study of religion but delivered conversationally without on-screen footnotes. Host rated B; format B."
 ---
 
 # Data Over Dogma — Biblical Literalism What's That

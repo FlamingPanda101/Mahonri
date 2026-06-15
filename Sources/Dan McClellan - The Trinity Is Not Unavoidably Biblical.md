@@ -6,7 +6,7 @@ aliases:
 tags:
   - source/video
   - by/dan-mcclellan
-  - tradition/critical-scholarship
+  - tradition/academic-biblical-studies
   - topic/trinity
   - topic/christology
 date: ""
@@ -18,7 +18,7 @@ authority_reason: "PhD biblical studies (Exeter); credentialed-expert biblical s
 
 # Dan McClellan — The Trinity Is Not Unavoidably Biblical
 
-[[Dan McClellan]], a credentialed Hebrew Bible scholar working from [[Critical Scholarship|critical-scholarship]], does a point-by-point stitch-in response to a content creator who promises to prove "really quickly and very concisely that the Trinity is biblical and is unavoidably so." McClellan's thesis is that the Trinity is **a post-biblical philosophical framework imposed on the texts to unify them**, not a doctrine the biblical authors held — so calling it "unavoidable" begs the question. The biblical data are diverse and predominantly [[Subordination Within the New Testament|subordinationist]]; "unavoidability" is an artifact of having already decided the answer and then reading it back in.
+[[Dan McClellan]], a credentialed Hebrew Bible scholar working from [[Critical Scholarship|academic-biblical-studies]], does a point-by-point stitch-in response to a content creator who promises to prove "really quickly and very concisely that the Trinity is biblical and is unavoidably so." McClellan's thesis is that the Trinity is **a post-biblical philosophical framework imposed on the texts to unify them**, not a doctrine the biblical authors held — so calling it "unavoidable" begs the question. The biblical data are diverse and predominantly [[Subordination Within the New Testament|subordinationist]]; "unavoidability" is an artifact of having already decided the answer and then reading it back in.
 
 Because this video covers the very same terrain as the sibling [[Dan McClellan - Responding to Wes Huff on the Trinity]] from the same round, almost every individual move here is already documented in the Trinity cluster (see the wikilinks in the Summary). Its one distinctive contribution — repeated roughly half a dozen times as the through-line — is the explicit naming of the **editorial procedure** univocality forces: [[Univocality Forces Centering Aligned Texts and Marginalizing the Rest]].
 

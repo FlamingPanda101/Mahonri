@@ -5,7 +5,7 @@ related: ["Orthographic and Textual Variants Are Separate Lists in DJD 32", "Boo
 sources: ["Dan McClellan - Correcting Alex OConnor and Gavin Ortlund"]
 tags:
   - "#apologetics/textual-criticism"
-  - "#tradition/critical-scholarship"
+  - "#tradition/academic-biblical-studies"
   - "#type/claim"
   - "#topic/great-isaiah-scroll"
   - "#topic/dead-sea-scrolls"

@@ -7,7 +7,7 @@ tags:
   - source/video
   - by/dan-mcclellan
   - channel/dan-mcclellan
-  - tradition/critical-scholarship
+  - tradition/academic-biblical-studies
   - topic/apostles
   - topic/martyrdom
   - topic/resurrection
@@ -52,7 +52,7 @@ A duet-style response to a viral evangelistic video that narrates how each of th
 
 ## People Referenced
 
-- [[Dan McClellan]] (author; academic / critical-scholarship position)
+- [[Dan McClellan]] (author; academic / academic-biblical-studies position)
 - [[Peter]] (earliest death-notice in 1 Clement; upside-down crucifixion is from the *Acts of Peter*)
 - [[John the Evangelist]] (the John/Patmos/Zebedee identification McClellan rejects)
 - [[Matthew the Evangelist]] (martyrdom from the apocryphal *Acts of Matthew*)

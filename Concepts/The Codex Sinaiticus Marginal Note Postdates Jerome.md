@@ -8,7 +8,7 @@ related:
   - "[[Eusebius of Caesarea]]"
 sources:
   - "[[Dan McClellan - Responding to Wes Huff and John Meade on Isaiah 9-6]]"
-tags: ["#apologetics/messianic-prophecy", "#tradition/critical-scholarship", "#topic/textual-criticism", "#topic/septuagint", "#type/rebuttal", "#type/claim"]
+tags: ["#apologetics/messianic-prophecy", "#tradition/academic-biblical-studies", "#topic/textual-criticism", "#topic/septuagint", "#type/rebuttal", "#type/claim"]
 #type/claim
 ---
 

@@ -7,7 +7,7 @@ tags:
   - source/video
   - by/dan-mcclellan
   - channel/dan-mcclellan
-  - tradition/critical-scholarship
+  - tradition/academic-biblical-studies
   - topic/divine-council
   - topic/divine-plurality
   - topic/monotheism
@@ -49,7 +49,7 @@ A short video exegeting [[2 Kings 3.26-27|2 Kings 3:27]], where the Moabite king
 
 ## People Referenced
 
-- [[Dan McClellan]] (author; academic / critical-scholarship position)
+- [[Dan McClellan]] (author; academic / academic-biblical-studies position)
 - [[Mesha]] (king of Moab who offers the sacrifice)
 - Elisha (the Yahwistic prophet who delivers the victory prophecy)
 - [[Hezekiah]] (the Judahite king in the parallel deliverance of Jerusalem)

@@ -2,7 +2,7 @@
 aliases:
   - "Dan McClellan - David Didnt Kill Goliath"
   - "McClellan - David & Goliath"
-tags: [source/video, by/dan-mcclellan, tradition/critical-scholarship, topic/biblical-contradictions, topic/textual-criticism]
+tags: [source/video, by/dan-mcclellan, tradition/academic-biblical-studies, topic/biblical-contradictions, topic/textual-criticism]
 date: ""
 author: "Dan McClellan"
 url: https://youtu.be/fEBPkavnLGE

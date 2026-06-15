@@ -9,7 +9,7 @@ sources:
   - "[[Data Over Dogma - Deuteronomys Secret Source]]"
 tags:
   - "#apologetics/old-testament"
-  - "#tradition/critical-scholarship"
+  - "#tradition/academic-biblical-studies"
   - "#type/claim"
 ---
 #type/claim

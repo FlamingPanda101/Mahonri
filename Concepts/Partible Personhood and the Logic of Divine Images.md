@@ -12,7 +12,7 @@ sources:
   - "[[Dan McClellan - Responding to Wes Huff on the Trinity]]"
 tags:
   - "#apologetics/trinity"
-  - "#tradition/critical-scholarship"
+  - "#tradition/academic-biblical-studies"
   - "#type/claim"
 ---
 

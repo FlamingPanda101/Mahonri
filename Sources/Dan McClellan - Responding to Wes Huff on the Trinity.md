@@ -5,7 +5,7 @@ aliases:
 tags:
   - source/video
   - by/dan-mcclellan
-  - tradition/critical-scholarship
+  - tradition/academic-biblical-studies
   - topic/trinity
   - topic/christology
 date: ""
@@ -17,7 +17,7 @@ authority_reason: "PhD biblical studies (Exeter); credentialed-expert biblical s
 
 # Dan McClellan — Responding to Wes Huff on the Trinity
 
-[[Dan McClellan]], a credentialed Hebrew Bible scholar writing from [[Critical Scholarship|critical-scholarship]] rather than apologetics, responds point-by-point to Christian apologist [[Wes Huff]]'s claim that the Trinity is a biblical and coherent framework. McClellan's thesis is that the Trinity is a **post-biblical conceptual and philosophical framework** — articulated only in the 4th century CE — that is *imposed* on the biblical texts to unify them, rather than a doctrine the biblical authors held. Along the way he dismantles the apologetic "HANDS" argument (see [[The HANDS Acronym Does Not Prove Deity]]), substitutes the cognitive [[Partible Personhood and the Logic of Divine Images|logic of divine images]] for the Trinity as the better explanation of divine mediation, and rebuts Huff's "two Yahwehs" reading of [[Genesis 19.24|Genesis 19:24]].
+[[Dan McClellan]], a credentialed Hebrew Bible scholar writing from [[Critical Scholarship|academic-biblical-studies]] rather than apologetics, responds point-by-point to Christian apologist [[Wes Huff]]'s claim that the Trinity is a biblical and coherent framework. McClellan's thesis is that the Trinity is a **post-biblical conceptual and philosophical framework** — articulated only in the 4th century CE — that is *imposed* on the biblical texts to unify them, rather than a doctrine the biblical authors held. Along the way he dismantles the apologetic "HANDS" argument (see [[The HANDS Acronym Does Not Prove Deity]]), substitutes the cognitive [[Partible Personhood and the Logic of Divine Images|logic of divine images]] for the Trinity as the better explanation of divine mediation, and rebuts Huff's "two Yahwehs" reading of [[Genesis 19.24|Genesis 19:24]].
 
 His data is congenial to the LDS rejection of the creedal Trinity, though McClellan is not himself making an LDS argument. See also [[Subordination Within the New Testament]] and [[Trinity Built to Satisfy Greco-Roman Philosophy]].
 

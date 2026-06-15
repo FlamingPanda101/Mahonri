@@ -10,7 +10,7 @@ sources:
   - "[[Data Over Dogma - Sister Wives]]"
 tags:
   - "#apologetics/polygamy"
-  - "#tradition/critical-scholarship"
+  - "#tradition/academic-biblical-studies"
   - "#type/claim"
   - topic/documentary-hypothesis
   - topic/patriarchs

@@ -6,7 +6,7 @@ aliases:
 tags:
   - source/video
   - by/data-over-dogma
-  - tradition/critical-scholarship
+  - tradition/academic-biblical-studies
   - topic/polygamy
   - topic/hebrew-bible
   - topic/documentary-hypothesis

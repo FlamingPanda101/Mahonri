@@ -6,7 +6,7 @@ related:
   - "[[Sheol Was the Undifferentiated Realm of All the Dead]]"
 sources:
   - "[[Data Over Dogma - Is Hell Actually in the Bible|Data Over Dogma - Hell]]"
-tags: ["#apologetics/hell", "#tradition/critical-scholarship", "#type/claim"]
+tags: ["#apologetics/hell", "#tradition/academic-biblical-studies", "#type/claim"]
 #type/claim
 ---
 

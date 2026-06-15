@@ -5,7 +5,7 @@ aliases:
 tags:
   - source/video
   - by/dan-mcclellan
-  - tradition/critical-scholarship
+  - tradition/academic-biblical-studies
   - topic/trinity
 date: ""
 author: "Dan McClellan"

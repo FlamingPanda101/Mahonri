@@ -13,7 +13,7 @@ people:
   - "[[David]]"
 sources:
   - "[[Dan McClellan - David Didnt Kill Goliath]]"
-tags: ["#apologetics/biblical-contradictions", "#apologetics/textual-criticism", "#tradition/critical-scholarship", "#type/claim"]
+tags: ["#apologetics/biblical-contradictions", "#apologetics/textual-criticism", "#tradition/academic-biblical-studies", "#type/claim"]
 ---
 
 #type/claim

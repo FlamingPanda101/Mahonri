@@ -10,7 +10,7 @@ tags:
   - by/dan-mcclellan
   - by/dan-beecher
   - channel/data-over-dogma
-  - tradition/critical-scholarship
+  - tradition/academic-biblical-studies
   - topic/hell
   - topic/afterlife
   - topic/sheol

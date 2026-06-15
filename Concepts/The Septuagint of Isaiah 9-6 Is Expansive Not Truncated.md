@@ -10,7 +10,7 @@ related:
   - "[[Elohim Never Means Human Judges]]"
 sources:
   - "[[Dan McClellan - Responding to Wes Huff and John Meade on Isaiah 9-6]]"
-tags: ["#apologetics/messianic-prophecy", "#tradition/critical-scholarship", "#topic/septuagint", "#topic/mistranslation", "#type/rebuttal", "#type/claim"]
+tags: ["#apologetics/messianic-prophecy", "#tradition/academic-biblical-studies", "#topic/septuagint", "#topic/mistranslation", "#type/rebuttal", "#type/claim"]
 #type/claim
 ---
 

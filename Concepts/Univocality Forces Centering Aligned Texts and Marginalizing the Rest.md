@@ -10,7 +10,7 @@ related:
   - "[[Putting Dogma Over Data]]"
 sources:
   - "[[Dan McClellan - The Trinity Is Not Unavoidably Biblical]]"
-tags: ["#apologetics/trinity", "#tradition/critical-scholarship", "#type/claim"]
+tags: ["#apologetics/trinity", "#tradition/academic-biblical-studies", "#type/claim"]
 ---
 
 #type/claim

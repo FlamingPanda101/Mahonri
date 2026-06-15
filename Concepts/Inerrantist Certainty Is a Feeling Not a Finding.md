@@ -8,7 +8,7 @@ related:
   - "[[Bible Contradictions - McClellan Example Catalog]]"
 sources:
   - "[[Dan McClellan - The Bible Has No Contradictions Is Just a Feeling]]"
-tags: ["#apologetics/inerrancy", "#tradition/critical-scholarship", "#type/claim"]
+tags: ["#apologetics/inerrancy", "#tradition/academic-biblical-studies", "#type/claim"]
 ---
 
 # Inerrantist Certainty Is a Feeling Not a Finding

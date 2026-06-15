@@ -1,6 +1,6 @@
 # Consolidation Report
 
-*Scanned 2026-06-15 11:36 — 1723 concept notes.*
+*Scanned 2026-06-15 13:15 — 1905 concept notes.*
 
 Auto-detected. **Nothing was changed** — review and merge via Mahonri (tell it: merge note X into note Y) or by hand.
 
@@ -24,8 +24,9 @@ Auto-detected. **Nothing was changed** — review and merge via Mahonri (tell it
 - `Anthropic Fine-Tuning Points to a Designer` ↔ `Cosmic Fine-Tuning Points to a Designer (Turek)`  (similarity 0.82)
 - `Abolition Tracks Material Conditions Not Christian Conviction` ↔ `Feminism Tracks Material Conditions Not Christian Doctrine`  (similarity 0.82)
 
-## Broken wiki-links (187)
+## Broken wiki-links (212)
 - in **Accepting Evolution with Joy Is Possible.md** → `[[Henry Eyring]]` (no such note)
+- in **Alma 32 Light Alludes to Genesis 1 Creation.md** → `[[Kaden Alvie]]` (no such note)
 - in **Anthropomorphic God in the Hebrew Bible.md** → `[[Exodus 33.11]]` (no such note)
 - in **Atheism Undercuts the Rationality Science Requires.md** → `[[D&C 131]]` (no such note)
 - in **Book of Enoch - 364 Day Solar Calendar.md** → `[[Qumran - Calendar Controversy]]` (no such note)
@@ -60,7 +61,10 @@ Auto-detected. **Nothing was changed** — review and merge via Mahonri (tell it
 - in **Decentralize - Crop-Dusting vs Gardening in Member Retention.md** → `[[1 Corinthians 12.12-27]]` (no such note)
 - in **Deuteronomistic Reform Explains the Book of Mormon Theology.md** → `[[1 Nephi 1.8-19]]` (no such note)
 - in **Deuteronomistic Reform Explains the Book of Mormon Theology.md** → `[[Laman]]` (no such note)
+- in **Deuteronomy Was Patterned After the Vassal Treaty of Esarhaddon.md** → `[[Ashurbanipal]]` (no such note)
+- in **Deuteronomy Was Patterned After the Vassal Treaty of Esarhaddon.md** → `[[Deuteronomy 5.7]]` (no such note)
 - in **Divine Council and Deification Were Native to the Hebrew Bible.md** → `[[Josiah's Reform and the First Temple Make Restoration a Coherent Category]]` (no such note)
+- in **Divine Punishment in the Afterlife Emerged as Theodicy Under Imperial Oppression.md** → `[[Job]]` (no such note)
 - in **Doctrine of Divine Childhood Versus Total Depravity.md** → `[[Moroni 8.12-22]]` (no such note)
 - in **Doctrine of Divine Childhood Versus Total Depravity.md** → `[[Moroni 8.12-22]]` (no such note)
 - in **Doctrine of Divine Childhood Versus Total Depravity.md** → `[[Moses 1.10]]` (no such note)
@@ -68,13 +72,9 @@ Auto-detected. **Nothing was changed** — review and merge via Mahonri (tell it
 - in **Early Christian Prayer and the Orant Posture.md** → `[[1 Timothy 2.8]]` (no such note)
 - in **Early Christian Prayer and the Orant Posture.md** → `[[1 Timothy 2.8]]` (no such note)
 - in **Ebla Archives Do Not Support Creation Ex Nihilo.md** → `[[TM.75.G1682]]` (no such note)
+- in **English Bibles Flatten Four Distinct Words Into Hell.md** → `[[Dante]]` (no such note)
 - in **Evolutionary Biology at BYU Is an Academic Success Story.md** → `[[Duane Jeffrey]]` (no such note)
 - in **Faith Is Blind vs Faith Is Evidence-Based.md** → `[[Alma 32]]` (no such note)
-- in **Fig Tree Cursing as Metaphor for Temple.md** → `[[Cleansing of the Temple]]` (no such note)
-- in **Galatians 1-6 Marvel Ye Are So Soon Removed Early Apostasy.md** → `[[Great Apostasy and Need for Restoration]]` (no such note)
-- in **Galatians 1-6 Marvel Ye Are So Soon Removed Early Apostasy.md** → `[[Great Apostasy and Need for Restoration]]` (no such note)
-- in **God Himself Not a Book Is the Ultimate Authority.md** → `[[Fallible Humans Cannot Produce an Infallible Bible]]` (no such note)
-- in **God Himself Not a Book Is the Ultimate Authority.md** → `[[Fallible Humans Cannot Produce an Infallible Bible]]` (no such note)
 
 ## Orphan concepts — no links in or out (0)
 - none

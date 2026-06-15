@@ -14,7 +14,7 @@ tags:
   - topic/burden-of-proof
   - topic/israelite-religion
   - by/dan-mcclellan
-  - tradition/critical-scholarship
+  - tradition/academic-biblical-studies
 ---
 #type/claim
 

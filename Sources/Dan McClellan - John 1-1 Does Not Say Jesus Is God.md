@@ -1,6 +1,6 @@
 ---
 aliases: ["Dan McClellan - John 1:1 Does Not Say Jesus Is God", "Dan McClellan - Responding to Criticism of a Video of Mine (John 1:1)"]
-tags: [source/video, by/dan-mcclellan, channel/dan-mcclellan, tradition/critical-scholarship, topic/trinity, topic/christology, scripture/john-1, topic/logos, topic/creation]
+tags: [source/video, by/dan-mcclellan, channel/dan-mcclellan, tradition/academic-biblical-studies, topic/trinity, topic/christology, scripture/john-1, topic/logos, topic/creation]
 date: "2026"
 author: "Dan McClellan"
 url: https://youtu.be/1b0F2Uq7tsw

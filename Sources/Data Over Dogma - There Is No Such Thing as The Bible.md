@@ -14,7 +14,7 @@ date: 2025
 author: "[[Dan McClellan]] and [[Dan Beecher]]"
 url: "https://youtu.be/RetbNefMluQ"
 authority: B
-authority_reason: "Popular-level podcast (Data Over Dogma) hosted by Dan McClellan, who holds a Ph.D. in biblical studies and presents critical-scholarship consensus; co-host Dan Beecher is a lay interlocutor. Claims about canon, manuscripts, and translation are mainstream in academic biblical studies but delivered conversationally without footnotes. Host McClellan rated B; format B."
+authority_reason: "Popular-level podcast (Data Over Dogma) hosted by Dan McClellan, who holds a Ph.D. in biblical studies and presents academic-biblical-studies consensus; co-host Dan Beecher is a lay interlocutor. Claims about canon, manuscripts, and translation are mainstream in academic biblical studies but delivered conversationally without footnotes. Host McClellan rated B; format B."
 ---
 
 # Data Over Dogma — There Is No Such Thing as The Bible

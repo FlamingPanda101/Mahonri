@@ -8,7 +8,7 @@ related:
   - "[[Apologetics vs Critical Scholarship]]"
 sources:
   - "[[Council of Trent - The Self-Authenticating Canon Refuted]]"
-tags: [apologetics, canon, authorship, critical-scholarship, self-authentication, tradition/protestant]
+tags: [apologetics, canon, authorship, academic-biblical-studies, self-authentication, tradition/protestant]
 #type/rebuttal
 ---
 

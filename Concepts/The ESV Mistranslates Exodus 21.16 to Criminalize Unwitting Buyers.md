@@ -13,7 +13,7 @@ tags:
   - topic/translation-criticism
   - topic/biblical-hebrew
   - by/dan-mcclellan
-  - tradition/critical-scholarship
+  - tradition/academic-biblical-studies
 ---
 #type/claim
 

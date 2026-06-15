@@ -8,7 +8,7 @@ related:
 scripture: "[[Matthew 28.19|Matthew 28:19]]"
 sources:
   - "[[Dan McClellan - Responding to Wes Huff on the Trinity Part 2]]"
-tags: ["#apologetics/trinity", "#tradition/critical-scholarship", "#type/claim"]
+tags: ["#apologetics/trinity", "#tradition/academic-biblical-studies", "#type/claim"]
 ---
 
 # Prosopological Exegesis Evolved Into Hypostasis Over Centuries

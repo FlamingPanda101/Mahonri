@@ -3,14 +3,14 @@ aliases: ["Data Over Dogma - Deuteronomys Secret Source", "Data Over Dogma - Deu
 tags:
   - source/video
   - by/data-over-dogma
-  - tradition/critical-scholarship
+  - tradition/academic-biblical-studies
   - topic/documentary-hypothesis
   - topic/deuteronomy
 date: ""
 author: "Data Over Dogma (Dan McClellan & Dan Beecher)"
 url: "https://youtu.be/_XVqeML5RRg"
 authority: B
-authority_reason: "Popular-level What's That? episode of Data Over Dogma; host Dan McClellan holds a Ph.D. in biblical studies and presents the mainstream critical-scholarship consensus, co-host Dan Beecher is a lay interlocutor. The Esarhaddon–Deuteronomy parallel is widely held in academic biblical studies but delivered conversationally without footnotes. Host McClellan rated B; format B."
+authority_reason: "Popular-level What's That? episode of Data Over Dogma; host Dan McClellan holds a Ph.D. in biblical studies and presents the mainstream academic-biblical-studies consensus, co-host Dan Beecher is a lay interlocutor. The Esarhaddon–Deuteronomy parallel is widely held in academic biblical studies but delivered conversationally without footnotes. Host McClellan rated B; format B."
 ---
 
 # Data Over Dogma — Deuteronomy's Secret Source

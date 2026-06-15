@@ -7,7 +7,7 @@ related:
   - "[[The Trinity and Consubstantiality Are Not in the Bible]]"
 sources:
   - "[[Dan McClellan - John 1-1 Does Not Say Jesus Is God]]"
-tags: ["#apologetics/trinity", "#tradition/critical-scholarship", "#type/claim"]
+tags: ["#apologetics/trinity", "#tradition/academic-biblical-studies", "#type/claim"]
 ---
 
 # John 1:3 — The Logos Is the Intermediate Agent of Creation, Not the Originator

@@ -17,7 +17,7 @@ tags:
   - topic/deuteronomistic-reform
   - topic/dating-of-texts
   - by/dan-mcclellan
-  - tradition/critical-scholarship
+  - tradition/academic-biblical-studies
 ---
 #type/claim
 

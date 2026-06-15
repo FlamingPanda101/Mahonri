@@ -5,13 +5,13 @@ aliases:
 tags:
   - source/video
   - by/dan-mcclellan
-  - tradition/critical-scholarship
+  - tradition/academic-biblical-studies
   - topic/canon
 date: ""
 author: "Dan McClellan"
 url: https://youtu.be/iU7hKviVFw8
 authority: B
-authority_reason: "McClellan is a critical-scholarship biblical scholar (PhD, Oxford) summarizing mainstream historical consensus on canon formation; reliable on the descriptive history, though the framing is polemical (point-by-point rebuttal of an apologist) and the conclusions are deployed against a closed-canon apologetic."
+authority_reason: "McClellan is a academic-biblical-studies biblical scholar (PhD, Oxford) summarizing mainstream historical consensus on canon formation; reliable on the descriptive history, though the framing is polemical (point-by-point rebuttal of an apologist) and the conclusions are deployed against a closed-canon apologetic."
 ---
 
 [[Dan McClellan]] responds line-by-line to apologist [[Wes Huff]] (and the J.I. Packer / R.C. Sproul tradition Huff channels) on how the biblical canon formed. Huff's case is the standard evangelical one: the canon was *recognized*, not *created* — the church is a thermometer, not a thermostat ("the Bible made the church, the church didn't make the Bible"; "the church no more gave us the canon than Newton gave us gravity"). McClellan's counter is that this collapses two different things: the early existence of *inspired-scripture-as-a-concept* (true) and the existence of a *closed, delineated list* matching today's Bible (false until the late 4th century CE). He argues canon is by definition a **consensus** — an agreement about which texts count as inspired — and a consensus over disputed boundaries *requires* a centralized institution to facilitate, authorize, and enforce it. So the church genuinely did play a determinative role, not in *writing* scripture but in *bounding* it.

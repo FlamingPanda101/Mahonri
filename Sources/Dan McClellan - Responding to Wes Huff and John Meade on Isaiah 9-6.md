@@ -5,7 +5,7 @@ aliases:
 tags:
   - source/video
   - by/dan-mcclellan
-  - tradition/critical-scholarship
+  - tradition/academic-biblical-studies
   - topic/messianic-prophecy
   - topic/isaiah
 date: ""
@@ -17,7 +17,7 @@ authority_reason: "PhD biblical studies (Exeter); credentialed Hebrew Bible / Se
 
 # Dan McClellan — Responding to Wes Huff and John Meade on Isaiah 9:6
 
-[[Dan McClellan]], writing from [[Critical Scholarship|critical-scholarship]], responds to a ~45-minute video on [[Wes Huff]]'s channel in which Huff hosts the Old Testament / textual-criticism specialist [[John D. Meade]] arguing that [[Isaiah 9.6|Isaiah 9:6]] (and [[Isaiah 7.14|Isaiah 7:14]]) are prophecies of the birth of Jesus. McClellan confines himself to the **Isaiah 9:6 segment**, where Meade builds a case that — McClellan argues — "rests on a claim that is fundamentally misleading."[^1] The core charge is a **text-critical oversight**: Meade presents a marginal note in **Codex Sinaiticus** as if it were 4th-century evidence that Christians already cared about the Hebrew reading, when the note is a fifth-to-seventh-century correction that *postdates* Jerome's pivot to the Hebrew.[^2]
+[[Dan McClellan]], writing from [[Critical Scholarship|academic-biblical-studies]], responds to a ~45-minute video on [[Wes Huff]]'s channel in which Huff hosts the Old Testament / textual-criticism specialist [[John D. Meade]] arguing that [[Isaiah 9.6|Isaiah 9:6]] (and [[Isaiah 7.14|Isaiah 7:14]]) are prophecies of the birth of Jesus. McClellan confines himself to the **Isaiah 9:6 segment**, where Meade builds a case that — McClellan argues — "rests on a claim that is fundamentally misleading."[^1] The core charge is a **text-critical oversight**: Meade presents a marginal note in **Codex Sinaiticus** as if it were 4th-century evidence that Christians already cared about the Hebrew reading, when the note is a fifth-to-seventh-century correction that *postdates* Jerome's pivot to the Hebrew.[^2]
 
 Because Isaiah 9:6's titles ("Mighty God," "Everlasting Father") are central to Trinitarian and messianic apologetics, McClellan's data is congenial to the LDS critique of the creedal reading of these throne-names, though he is not himself making an LDS argument. The two new claims he develops are catalogued at [[The Septuagint of Isaiah 9-6 Is Expansive Not Truncated]] and [[The Codex Sinaiticus Marginal Note Postdates Jerome]]; the LXX-evasion point connects to the existing [[Septuagint Angelic Reinterpretation Is Anachronistic]].
 

@@ -7,7 +7,7 @@ tags:
   - source/video
   - by/dan-mcclellan
   - channel/dan-mcclellan
-  - tradition/critical-scholarship
+  - tradition/academic-biblical-studies
   - topic/asherah
   - topic/israelite-religion
   - topic/deuteronomistic-reform

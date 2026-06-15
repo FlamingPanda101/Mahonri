@@ -6,7 +6,7 @@ related:
   - "[[Divine Punishment in the Afterlife Emerged as Theodicy Under Imperial Oppression]]"
 sources:
   - "[[Data Over Dogma - Is Hell Actually in the Bible|Data Over Dogma - Hell]]"
-tags: ["#apologetics/hell", "#tradition/critical-scholarship", "#type/claim"]
+tags: ["#apologetics/hell", "#tradition/academic-biblical-studies", "#type/claim"]
 #type/claim
 ---
 

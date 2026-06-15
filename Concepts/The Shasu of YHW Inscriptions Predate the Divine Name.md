@@ -8,7 +8,7 @@ sources:
   - "[[Dan McClellan - Where Did the God of Israel Come From]]"
 tags:
   - "#apologetics/divine-council"
-  - "#tradition/critical-scholarship"
+  - "#tradition/academic-biblical-studies"
   - "#type/claim"
 ---
 

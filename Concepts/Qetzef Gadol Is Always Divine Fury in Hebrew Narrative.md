@@ -14,7 +14,7 @@ tags:
   - topic/chemosh
   - topic/hebrew-bible
   - by/dan-mcclellan
-  - tradition/critical-scholarship
+  - tradition/academic-biblical-studies
   - type/claim
 #type/claim
 ---

@@ -8,7 +8,7 @@ sources:
   - "[[Dan McClellan - Where Did the 12 Apostles Go]]"
 tags:
   - "#apologetics/historical-method"
-  - "#tradition/critical-scholarship"
+  - "#tradition/academic-biblical-studies"
   - "#topic/apostles"
   - "#topic/martyrdom"
   - "#type/claim"

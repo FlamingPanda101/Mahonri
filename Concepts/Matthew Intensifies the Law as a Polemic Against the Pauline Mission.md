@@ -11,7 +11,7 @@ sources:
   - "[[Data Over Dogma - Did Jesus Make the Old Testament Obsolete]]"
 tags:
   - "#apologetics/mosaic-law"
-  - "#tradition/critical-scholarship"
+  - "#tradition/academic-biblical-studies"
   - "#topic/supersessionism"
   - "#topic/judaizers"
   - "#type/claim"

@@ -10,7 +10,7 @@ related:
   - "[[The Bible Is a Library Not Univocal]]"
 sources:
   - "[[Dan McClellan - David Didnt Kill Goliath]]"
-tags: ["#apologetics/textual-criticism", "#apologetics/biblical-contradictions", "#tradition/critical-scholarship", "#type/claim"]
+tags: ["#apologetics/textual-criticism", "#apologetics/biblical-contradictions", "#tradition/academic-biblical-studies", "#type/claim"]
 ---
 
 #type/claim

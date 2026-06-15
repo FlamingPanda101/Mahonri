@@ -4,7 +4,7 @@ aliases:
   - "Francesca Stavrakopoulou-Petralia"
 tags:
   - type/person
-  - tradition/critical-scholarship
+  - tradition/academic-biblical-studies
   - role/scholar
   - role/biblical-scholar
 authority: A

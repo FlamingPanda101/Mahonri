@@ -5,7 +5,7 @@ related: ["1QIsaiah-a Aligns With the Masoretic Text Under 92.5 Percent", "Book 
 sources: ["Dan McClellan - Correcting Alex OConnor and Gavin Ortlund"]
 tags:
   - "#apologetics/textual-criticism"
-  - "#tradition/critical-scholarship"
+  - "#tradition/academic-biblical-studies"
   - "#type/claim"
   - "#topic/great-isaiah-scroll"
   - "#topic/dead-sea-scrolls"

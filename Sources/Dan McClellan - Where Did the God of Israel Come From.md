@@ -3,7 +3,7 @@ aliases: ["McClellan - Origin of Yahweh", "Where Did the God of Israel Come From
 tags:
   - source/video
   - by/dan-mcclellan
-  - tradition/critical-scholarship
+  - tradition/academic-biblical-studies
   - topic/divine-council
   - topic/yahweh
 date: ""

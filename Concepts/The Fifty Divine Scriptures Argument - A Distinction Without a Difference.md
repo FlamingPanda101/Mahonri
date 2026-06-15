@@ -9,7 +9,7 @@ scripture:
   - "[[2 Timothy 3.16-17|2 Timothy 3:16-17]]"
 sources:
   - "[[Dan McClellan - Responding to Wes Huff on the Biblical Canon]]"
-tags: ["#apologetics/canon", "#tradition/critical-scholarship", "#type/claim"]
+tags: ["#apologetics/canon", "#tradition/academic-biblical-studies", "#type/claim"]
 ---
 
 # The Fifty Divine Scriptures Argument — A Distinction Without a Difference
