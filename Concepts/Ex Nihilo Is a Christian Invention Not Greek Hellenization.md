@@ -70,7 +70,7 @@ The traditional reply: *ex nihilo* is not Greek *philosophy*, granted — but it
 
 [^1]: [[The Stick of Joseph - Joseph Smith Got Creation Right|Stick of Joseph - Creation]], [25:30], https://youtu.be/ZppJNUyHKvE
 [^2]: [[The Stick of Joseph - Joseph Smith Got Creation Right|Stick of Joseph - Creation]], [24:00], https://youtu.be/ZppJNUyHKvE
-[^3]: [[The Stick of Joseph - Joseph Smith Got Creation Right|Stick of Joseph - Creation]], [29:00], https://youtu.be/ZppJNUyHKvE
+[^3]: [[The Stick of Joseph - Joseph Smith Got Creation Right|Stick of Joseph - Creation]], [29:00]-[30:00], https://youtu.be/ZppJNUyHKvE
 [^4]: [[The Stick of Joseph - Joseph Smith Got Creation Right|Stick of Joseph - Creation]], [13:31], https://youtu.be/ZppJNUyHKvE
 [^5]: [[The Stick of Joseph - Joseph Smith Got Creation Right|Stick of Joseph - Creation]], [15:01], https://youtu.be/ZppJNUyHKvE
 [^6]: [[The Stick of Joseph - Joseph Smith Got Creation Right|Stick of Joseph - Creation]], [19:30], https://youtu.be/ZppJNUyHKvE
