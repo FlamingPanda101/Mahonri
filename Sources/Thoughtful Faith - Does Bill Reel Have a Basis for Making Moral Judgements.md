@@ -8,7 +8,7 @@ authority: C
 authority_reason: "Apologetics video by Jacob Hansen (Thoughtful Faith); informed commentary (C-tier)."
 ---
 # Does Bill Reel Have a Basis for Making Moral Judgements and Moral Truth Claims?
-In this recorded exchange [[Jacob Hansen]] cross-examines the critic Bill Reel, who levels objective moral charges against the Latter-day Saint Church (patriarchy, privilege, being "behind" on social issues) while holding a thoroughly naturalist worldview — Darwinian competition for resources, no human "rights," no free will, and [[Sam Harris]]-style "science can dictate morality." Hansen's tactic is not to defend the Church first but to ask whether Reel's own framework can *ground* the moral truth claims he is making: on a survival-of-the-fittest basis, eugenics and tribe-supremacy "make sense," and universal human dignity is shown to be a Judeo-Christian inheritance rather than a scientific fact. The interview dramatizes the "borrowing objective morality" move — a critic must steal a transcendent standard to condemn anything as genuinely wrong.
+In this recorded exchange [[Jacob Hansen]] cross-examines the critic [[Bill Reel]], who levels objective moral charges against the Latter-day Saint Church (patriarchy, privilege, being "behind" on social issues) while holding a thoroughly naturalist worldview — Darwinian competition for resources, no human "rights," no free will, and [[Sam Harris]]-style "science can dictate morality." Hansen's tactic is not to defend the Church first but to ask whether Reel's own framework can *ground* the moral truth claims he is making: on a survival-of-the-fittest basis, eugenics and tribe-supremacy "make sense," and universal human dignity is shown to be a Judeo-Christian inheritance rather than a scientific fact. The interview dramatizes the "borrowing objective morality" move — a critic must steal a transcendent standard to condemn anything as genuinely wrong.
 
 ## Summary
 - **The setup: a critic making objective moral claims on a naturalist basis.** Reel rejects collective-good utilitarianism because "we live in a patriarchy where certain groups of people have privilege" and offload their "trauma" onto others — an objective moral accusation — yet also denies that "people have rights," calling rights "a myth" as "Harari would say." [^1]
@@ -25,6 +25,7 @@ In this recorded exchange [[Jacob Hansen]] cross-examines the critic Bill Reel, 
 
 ## People
 - [[Jacob Hansen]]
+- [[Bill Reel]]
 - [[Sam Harris]]
 
 ## References
