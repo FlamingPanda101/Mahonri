@@ -15,4 +15,4 @@ This is the locus classicus for the **"explain it away as demonic"** maneuver: c
 - [[Not Even the Devil Can Raise the Dead - The Aquinas Falsifiability Defense]]
 
 ---
-See also: [[Scriptures]] · [[Matthew 12.32]] · [[John 8.48]]
+See also: [[Scriptures]] · [[Matthew 12.32]] · [[John 8.58]]

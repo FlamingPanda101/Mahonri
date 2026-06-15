@@ -1,7 +1,7 @@
 ---
 title: "True Prophets Cannot Be Theological Disasters"
 scripture:
-  - "[[Jonah 3.4-10|Jonah 3:4-10]]"
+  - "[[Jonah 3.4|Jonah 3:4]]"
 related:
   - "[[Prophets Are Fallible Not Divine]]"
   - "[[God Works Through Fallible Prophets]]"
