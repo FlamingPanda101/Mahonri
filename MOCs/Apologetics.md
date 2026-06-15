@@ -5,7 +5,7 @@ tags: [moc]
 
 # Apologetics — Map of Content
 
-Auto-generated index. **74 sources** ingested. Browse Concepts / Scriptures / People folders or the graph; author tiers in [[Authority Ledger]]; channels in [[Sources Index]].
+Auto-generated index. **75 sources** ingested. Browse Concepts / Scriptures / People folders or the graph; author tiers in [[Authority Ledger]]; channels in [[Sources Index]].
 
 ## Sources Ingested
 
@@ -13,6 +13,7 @@ Auto-generated index. **74 sources** ingested. Browse Concepts / Scriptures / Pe
 |--------|------|--------|
 | [[All Those In Favor - The Button and the Five Contradictory Attributes of God]] | C | problem-of-hell, trinity |
 | [[All Those In Favor - Why Christianity is Probably Wrong about Hell]] | C | problem-of-hell |
+| [[Ancient Christians - An Introduction for Latter-day Saints]] | B | early-christianity, great-apostasy, patristics |
 | [[Benjamin Park - Did Joseph Smith Teach Men Can Become God]] | B |  |
 | [[Council of Trent - James 2 Not By Faith Alone]] | B | justification |
 | [[Council of Trent - The Self-Authenticating Canon Refuted]] | B | canon, self-authentication, sola-scriptura |
