@@ -5,7 +5,7 @@ tags: [moc]
 
 # Apologetics — Map of Content
 
-Auto-generated index. **215 sources** ingested. Browse Concepts / Scriptures / People folders or the graph; author tiers in [[Authority Ledger]]; channels in [[Sources Index]].
+Auto-generated index. **217 sources** ingested. Browse Concepts / Scriptures / People folders or the graph; author tiers in [[Authority Ledger]]; channels in [[Sources Index]].
 
 ## Sources Ingested
 
@@ -122,6 +122,7 @@ Auto-generated index. **215 sources** ingested. Browse Concepts / Scriptures / P
 | [[Life After Life - Raymond Moody]] | C | afterlife, consciousness, near-death-experience |
 | [[Light and Truth - Saved by Grace or Works]] | C | apologetics, grace, soteriology |
 | [[Light and Truth Letter - Austin Fife]] | C | apologetics, ces-letter, challenges |
+| [[Line Upon Line - Come Follow Me Romans 1-6 Amazing Grace]] | C | come-follow-me, grace |
 | [[Maybe God Podcast - Christian vs Mormon Debate If They Believe in the Same God]] | C | nature-of-god, same-god, trinity |
 | [[McClellan - The Fundamental Contradiction of the Trinity]] | B | divine-mediation, godhead, trinity |
 | [[Mormon Book Reviews - 40 Questions about Mormonism with Kyle Beshears]] | C | are-mormons-christian, book-of-mormon, countercult |
@@ -211,6 +212,7 @@ Auto-generated index. **215 sources** ingested. Browse Concepts / Scriptures / P
 | [[Ward Radio - Sola Scriptura Debate Rogers vs Horn]] | C | authority, canon, perspicuity, sola-scriptura |
 | [[Ward Radio - The Best Temple Prep Class You Never Had]] | C | book-of-mormon, covenant, endowment, garment, ritual, temple |
 | [[Ward Radio - The Bibles Darkest Lie No One Noticed]] | C | interpolation, textual-criticism, trinity |
+| [[Ward Radio - The Book of Mormon Is Undebunkable]] | C | book-of-mormon, witnesses |
 | [[Ward Radio - The Creation Dilemma and the Three Facts About God]] | C | calvinism, creation-dilemma, creation-ex-nihilo, godhead, molinism, open-theism, orthopraxy, outer-darkness, predestination, problem-of-hell, trinity |
 | [[Ward Radio - The Great Apostasy Deep Dive with Mike Day and Dave Butler]] | C | biblical-canon, church-history, creeds, great-apostasy, priesthood-authority, trinity |
 | [[Ward Radio - The Hollow Faith of Pastor Grift]] | C | clergy-belief, survey-data |
