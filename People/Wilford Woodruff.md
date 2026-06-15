@@ -10,6 +10,7 @@ related:
   - "[[King Follett Discourse Publication History]]"
 sources:
   - "[[Benjamin Park - Did Joseph Smith Teach Men Can Become God]]"
+  - "[[Lets Get Real - Why Its Easier to Flatten Brigham Young]]"
 ---
 
 # Wilford Woodruff
@@ -36,7 +37,12 @@ theology after the sermon, saying that, well no, they'll eventually grow" —
 a revision of the infant exaltation teaching that became "a key point of debate
 with future interpreters."[^4]
 
+## On Prophetic Fallibility
+[[Daniel C. Peterson]] invokes Woodruff's well-known assurance that the Lord "will not allow" the President of the Church to lead the people astray — He would "remove the President of the Church rather than allow that" — as the boundary condition on prophetic fallibility: prophets can err in detail and in programs, but not in any "gross" way that leads the Church astray.[^5] Peterson also identifies Woodruff as the figure who, in *Six Days in August*, introduces Brigham to the audience ("That, my friend, was Brigham Young") after the tongues-and-oxen scene.[^6] See [[Prophets Are Fallible Today]] and [[Brigham Young as Spiritual Man Not Just Colonizer]].
+
 [^1]: [[Benjamin Park - Did Joseph Smith Teach Men Can Become God|Benjamin Park - Did Joseph Smith Teach Men Can Become God?]], [09:31], https://youtu.be/sKQeEuCEgyY
+[^5]: [[Lets Get Real - Why Its Easier to Flatten Brigham Young|Let's Get Real - Why It's Easier to Flatten Brigham Young]], [74:00]–[74:31], https://youtu.be/dssLIsMniWU
+[^6]: [[Lets Get Real - Why Its Easier to Flatten Brigham Young|Let's Get Real - Why It's Easier to Flatten Brigham Young]], [129:01]–[130:01], https://youtu.be/dssLIsMniWU
 [^2]: [[Benjamin Park - Did Joseph Smith Teach Men Can Become God|Benjamin Park - Did Joseph Smith Teach Men Can Become God?]], [13:30], https://youtu.be/sKQeEuCEgyY
 [^3]: [[Benjamin Park - Did Joseph Smith Teach Men Can Become God|Benjamin Park - Did Joseph Smith Teach Men Can Become God?]], [16:02-16:30], https://youtu.be/sKQeEuCEgyY
 [^4]: [[Benjamin Park - Did Joseph Smith Teach Men Can Become God|Benjamin Park - Did Joseph Smith Teach Men Can Become God?]], [13:30-14:01], https://youtu.be/sKQeEuCEgyY

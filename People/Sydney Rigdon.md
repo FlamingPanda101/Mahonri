@@ -23,6 +23,13 @@ Rigdon was a co-recipient with Joseph Smith of the 1832 revelation known as
 Terrestrial, Telestial) and laid early groundwork for the concept of exaltation
 that would later be developed fully in the [[King Follett Discourse]].
 
+## The 1844 Succession Crisis
+
+Per [[Daniel C. Peterson]] (citing historian [[Ron Esplin]]), Rigdon — as a surviving member of the First Presidency — had a plausible claim to lead after Joseph Smith's death, but he "apparently did not" hold the priesthood keys, which rested with the Quorum of the Twelve under [[Brigham Young]]. Peterson speculates that under Rigdon the Church would have become "a kind of odd Protestant church with an extra volume of scripture" — without temples or the westward migration (Rigdon went to Pennsylvania). Rigdon also objected when Brigham first spoke in tongues before Joseph, calling it gibberish, but Joseph affirmed it was from God.[^1] See [[Brigham Young Saved the Church Through the Keys]].
+
 ## Used in
 
 - [[D&C 76]] — co-recipient of the revelation
+- [[Brigham Young Saved the Church Through the Keys]]
+
+[^1]: [[Lets Get Real - Why Its Easier to Flatten Brigham Young|Let's Get Real - Why It's Easier to Flatten Brigham Young]], [21:02]–[21:32], https://youtu.be/dssLIsMniWU

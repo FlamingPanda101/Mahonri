@@ -60,10 +60,25 @@ McClellan develops a broader critique: apologetics operates by presupposing iner
 
 See [[Rationalization C - The Third Thing Harmonization]], [[Begging the Question in Biblical Inerrancy Apologetics]], [[Apologetics as Identity Politics Over Evidence]].
 
+## The Trinity Is Fundamentally Contradictory
+
+In a video laying out "the fundamental contradiction of the Trinity," McClellan argues that the doctrine amounts to asserting that **a square equals a circle** — a logically incoherent claim that one is required to accept arbitrarily in order to identify as Christian. He frames the dogma with a math problem (A=Father, B=Son, C=Spirit, G=God): the Trinity asserts A+B+C=G, and A=G, B=G, C=G, yet A≠B, A≠C, B≠C. He notes the technical resolution — A/B/C are *persons* (who) and G is *substance/ousia* (what) — but argues this "solution" requires "entirely novel and distinct conceptualizations of persons, of substance" that match neither how those words have ever been used nor reality. [^2]
+
+He further argues the doctrine was **constructed over time** (mid-2nd to 5th century CE) to satisfy two competing "terms" — strict monotheism and the manifest distinctness of Father/Son/Spirit — under the umbrella of **Middle/Neo-Platonic Greek philosophy**, as apologists shifted from persuading Jewish to Greco-Roman audiences. He proposes that the biblical authors actually explained Jesus' relationship to God through **divine mediation and the intuitive "logic of divine images,"** a model he develops in his open-access book *YHWH's Divine Images*. See:
+- [[Trinity Is Fundamentally Contradictory]]
+- [[Trinity Was Constructed Not Revealed]]
+- [[Trinity Built to Satisfy Greco-Roman Philosophy]]
+- [[Trinity as Identity Marker and Costly Signal]]
+- [[Divine Images Explain Jesus Relationship to God]]
+- [[Divine Mediation Predates the New Testament]]
+- [[Name-Bearing Agency in Exodus 23]]
+
 ## Key Sources
 
 - [[Dan McClellan - Wes Huff Creation Ex Nihilo Response]] (YouTube, 2025)
 - [[Dan McClellan - Apologetics Cannot Rescue Biblical Contradictions]] (YouTube)
+- [[McClellan - The Fundamental Contradiction of the Trinity]] (YouTube)
 
 ## Sources
 [^1]: [[Dan McClellan - Apologetics Cannot Rescue Biblical Contradictions|Dan McClellan — Apologetics Cannot Rescue Biblical Contradictions]], [17:32]–[18:31], https://youtu.be/58jtIUIRWGY
+[^2]: [[McClellan - The Fundamental Contradiction of the Trinity|Dan McClellan - The Fundamental Contradiction of the Trinity]], [00:30]–[01:33], https://youtu.be/tYNRD2hC4yI

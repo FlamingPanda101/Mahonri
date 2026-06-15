@@ -15,6 +15,10 @@ This clause (the **Comma Johanneum**) is **absent from the earliest Greek manusc
 
 ## Used in
 - [[1 John 5-7 - Johannine Comma Interpolation]]
+- [[Trinity Is Fundamentally Contradictory]] — the Trinity's only near-explicit biblical "proof text" is itself a later interpolation, consistent with McClellan's thesis that the doctrine was constructed over the 2nd–5th c. CE rather than found in scripture. [^1]
+
+## References
+[^1]: [[McClellan - The Fundamental Contradiction of the Trinity|Dan McClellan - The Fundamental Contradiction of the Trinity]], [03:00], https://youtu.be/tYNRD2hC4yI
 
 ---
 See also: [[Scriptures]] · [[WardRadio - Top 9 Misconstrued Scriptures]]

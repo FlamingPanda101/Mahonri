@@ -16,9 +16,12 @@ related:
   - "[[Joseph Smith and Helen Mar Kimball Sealing]]"
   - "[[Presentism in Historical Judgment]]"
   - "[[Nineteenth-Century Marriage Age Norms]]"
+  - "[[Brigham Young as the Fall Guy]]"
+  - "[[God Works Through Fallible Prophets]]"
 sources:
   - "[[Thoughtful Faith - Was Joseph Smith a Pedophile]]"
   - "[[Benjamin Park - Did Joseph Smith Teach Men Can Become God]]"
+  - "[[Lets Get Real - Why Its Easier to Flatten Brigham Young]]"
 ---
 
 # Joseph Smith
@@ -88,7 +91,15 @@ In the same era, literary figures like [[Edgar Allan Poe]] also married very you
 women (Poe's wife was 13 at marriage, he was 27) without public scandal,
 demonstrating that such age gaps were normalized in that period.
 
+## Blamed-vs-Preserved Dynamic and His Own Fallibility
+
+Per [[Daniel C. Peterson]], a key driver of anti-Brigham sentiment is the desire to keep Joseph "beyond reproach" while shifting polygamy, the race policy, and authoritarianism onto [[Brigham Young]] — even though things like plural marriage demonstrably trace to Joseph (e.g., wordprint analysis confirming [[Doctrine and Covenants 132]] as Joseph's).[^6] See [[Brigham Young as the Fall Guy]].
+
+Peterson also stresses that Joseph himself was fallible — slow to grasp his own [[D&C 76]] vision (taking ~7–8 years), losing the 116 pages after repeatedly pestering the Lord, and rebuked like Moses — as evidence that [[God Works Through Fallible Prophets]] deliberately, to let humans grow by experience.[^7]
+
 [^1]: [[Benjamin Park - Did Joseph Smith Teach Men Can Become God|Benjamin Park - Did Joseph Smith Teach Men Can Become God?]], [02:31-03:00], https://youtu.be/sKQeEuCEgyY
+[^6]: [[Lets Get Real - Why Its Easier to Flatten Brigham Young|Let's Get Real - Why It's Easier to Flatten Brigham Young]], [13:30]–[15:31], https://youtu.be/dssLIsMniWU
+[^7]: [[Lets Get Real - Why Its Easier to Flatten Brigham Young|Let's Get Real - Why It's Easier to Flatten Brigham Young]], [72:31]–[73:31], https://youtu.be/dssLIsMniWU
 [^2]: [[Benjamin Park - Did Joseph Smith Teach Men Can Become God|Benjamin Park - Did Joseph Smith Teach Men Can Become God?]], [03:00], https://youtu.be/sKQeEuCEgyY
 [^3]: [[Benjamin Park - Did Joseph Smith Teach Men Can Become God|Benjamin Park - Did Joseph Smith Teach Men Can Become God?]], [00:00-00:32], https://youtu.be/sKQeEuCEgyY
 [^4]: [[Benjamin Park - Did Joseph Smith Teach Men Can Become God|Benjamin Park - Did Joseph Smith Teach Men Can Become God?]], [15:43], https://youtu.be/sKQeEuCEgyY
