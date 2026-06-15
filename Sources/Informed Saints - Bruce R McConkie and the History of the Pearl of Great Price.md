@@ -19,11 +19,11 @@ runtime: "46:38"
 
 # Informed Saints - Bruce R McConkie and the History of the Pearl of Great Price
 
-Jasmine and Neil Raplee interview LDS scholar [[Steven Smoot]] about the publication history of the Pearl of Great Price, occasioned by Smoot's new *Pearl of Great Price* study edition (Interpreter Foundation / Scripture Central). Smoot walks his physical collection of editions to argue that the Pearl of Great Price is "the most unstable or in flux" volume of LDS scripture — assembled eclectically, repeatedly rearranged and re-canonized, and therefore a window into what an *open canon* actually means for Latter-day Saints. The headline is an unpublished artifact: a physical mock-up Pearl of Great Price compiled by apostle [[Bruce R. McConkie]] in the 1970s that proposed a radically expanded canon and was ultimately rejected by the First Presidency.
+Jasmine and Neil Raplee interview LDS scholar [[Stephen Smoot|Steven Smoot]] about the publication history of the Pearl of Great Price, occasioned by Smoot's new *Pearl of Great Price* study edition (Interpreter Foundation / Scripture Central). Smoot walks his physical collection of editions to argue that the Pearl of Great Price is "the most unstable or in flux" volume of LDS scripture — assembled eclectically, repeatedly rearranged and re-canonized, and therefore a window into what an *open canon* actually means for Latter-day Saints. The headline is an unpublished artifact: a physical mock-up Pearl of Great Price compiled by apostle [[Bruce R. McConkie]] in the 1970s that proposed a radically expanded canon and was ultimately rejected by the First Presidency.
 
 ## Summary
 
-- **Eclectic origins, not a single revelation.** The Pearl of Great Price mixes ancient scripture ([[Book of Moses]], Book of Abraham), church history (Joseph Smith—History), and the Articles of Faith (the LDS near-equivalent of a creed). [[Franklin D. Richards]], an apostle, first compiled it in **1851** in Liverpool as a *pamphlet* so British Saints could access Joseph Smith material otherwise scattered across newspapers like the *Times and Seasons* and *Millennial Star*. It was a distribution tool, **not canonized** scripture at that point [^1][^2][^3].
+- **Eclectic origins, not a single revelation.** The Pearl of Great Price mixes ancient scripture (the Book of Moses — e.g. [[Moses 7]] — and the Book of Abraham), church history (Joseph Smith—History), and the Articles of Faith (the LDS near-equivalent of a creed). [[Franklin D. Richards]], an apostle, first compiled it in **1851** in Liverpool as a *pamphlet* so British Saints could access Joseph Smith material otherwise scattered across newspapers like the *Times and Seasons* and *Millennial Star*. It was a distribution tool, **not canonized** scripture at that point [^1][^2][^3].
 - **The first edition contained more, arranged differently.** The 1851 edition opened with "extracts from the Prophecy of Enoch" (now Moses 7), included Doctrine and Covenants material, and ended with John Jaques's poem "O Say, What Is Truth?" Its table of contents looks unfamiliar even though most current content is present [^4][^5].
 - **Orson Pratt standardized the text (1878).** [[Orson Pratt]], commissioned in the Brigham Young era, produced the 1878 Salt Lake edition: he rearranged the Book of Moses into its modern form and conformed the text to the **RLDS-published Joseph Smith Translation (JST)**, correctly trusting that RLDS edition (printed in the 1860s from manuscripts Emma Smith retained) as an accurate witness to Joseph Smith's text. This edition was **canonized in October 1880** by sustaining vote in the same general conference that sustained John Taylor's First Presidency [^6][^7][^8].
 - **Moses 1 was a separate vision.** Smoot confirms the "Visions of Moses" (Moses 1) was a standalone revelation — Joseph Smith seeing Moses on the mountain — later *appended* to the JST of Genesis (Moses 2–8) to form the Book of Moses; it does not correspond to anything in Genesis [^9][^10].
@@ -39,7 +39,7 @@ Jasmine and Neil Raplee interview LDS scholar [[Steven Smoot]] about the publica
 - [[Canonization Is a Community Process Not a Unilateral Prophetic Act]] — sustaining votes and the chain of compilers
 
 ## Key People Referenced
-- [[Steven Smoot]], [[Franklin D. Richards]], [[Orson Pratt]], [[James Talmage]], [[Bruce R. McConkie]]
+- [[Stephen Smoot|Steven Smoot]], [[Franklin D. Richards]], [[Orson Pratt]], [[James Talmage]], [[Bruce R. McConkie]]
 - [[Joseph Smith]], [[Joseph F. Smith]], [[Joseph Fielding Smith]], [[BH Roberts]], [[Emma Smith]]
 
 ## Related Scriptures
@@ -71,4 +71,4 @@ Jasmine and Neil Raplee interview LDS scholar [[Steven Smoot]] about the publica
 [^23]: [[Informed Saints - Bruce R McConkie and the History of the Pearl of Great Price|Informed Saints - PoGP History]], [44:01], https://youtu.be/TMJvWn0ZFLw
 
 ---
-See also: [[Sources]] · [[Bruce R. McConkie]] · [[Steven Smoot]] · [[The Pearl of Great Price Is the Most Unstable Volume of LDS Scripture]]
+See also: [[Sources]] · [[Bruce R. McConkie]] · [[Stephen Smoot|Steven Smoot]] · [[The Pearl of Great Price Is the Most Unstable Volume of LDS Scripture]]

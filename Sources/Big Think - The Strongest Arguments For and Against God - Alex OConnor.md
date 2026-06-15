@@ -1,0 +1,40 @@
+---
+aliases:
+  - "Big Think - O'Connor on God"
+  - "The Strongest Arguments For and Against the Existence of God"
+tags: [source/video, by/big-think, tradition/atheist, topic/existence-of-god, topic/natural-theology]
+date: ""
+author: "Big Think (Alex O'Connor)"
+url: "https://youtu.be/aqWTlUOhowk"
+authority: C
+authority_reason: "Popular-level YouTube interview with an agnostic philosophy communicator (Oxford philosophy/theology) surveying classic arguments for and against God. Valuable as a clear, fair-minded statement of the skeptical case and of which theistic arguments a thoughtful agnostic finds strongest — but it is journalism/edutainment, not peer-reviewed scholarship, and O'Connor speaks loosely and conversationally."
+---
+
+In this full Big Think interview, [[Alex OConnor|Alex O'Connor]] (CosmicSkeptic) — a self-described agnostic and "former edgy atheist" — surveys what he regards as the **strongest argument for** God's existence and the **strongest argument against** it, then turns to nihilism, meaning, and his own metaethic of emotivism. Because O'Connor is a careful, charitable foil rather than a polemicist, the interview is unusually useful for steelmanning: he affirms the cosmological/first-cause argument, presses the problem of suffering, and grounds his position in agnosticism rather than dogmatic atheism. Most of the territory he covers is already mapped in the vault's cosmological, problem-of-evil, and metaethics clusters; this note captures the genuinely distinctive *framings* he adds and routes each to the existing apologetic engagement.
+
+## Summary
+
+**The strongest argument FOR God — hierarchical (not horizontal) causation.** O'Connor's headline claim is that the "first cause" argument is widely misunderstood because people imagine causation *backward in time* (dominoes, ancestors) when the powerful version is *hierarchical and present-tense*: a glass holds water only because a hand holds the glass, an arm the hand, and so on — each member's causal power is *borrowed* and instantly lost if the layer beneath is removed. Such a here-and-now dependency cannot regress infinitely, so it terminates in a "sustaining cause" giving life to the whole chain "right now." He explicitly credits [[Thomas Aquinas]] (the first three of the Five Ways) and [[Aristotle]] (act/potency, the "unactualized actualizer," pure act → immaterial, timeless, spaceless first cause), conceding it establishes only "some kind of fundamental sustaining principle," part of a *cumulative* case, not yet "capital-G God." See **[[Horizontal vs Hierarchical Causation - O'Connor's Sustaining-Cause Argument]]**, which links the vault's [[God as the Present Sustaining Cause - The Band Plays On]], [[Why a Hierarchical Series Cannot Regress to Infinity]], and [[From First Actualizer to Pure Actuality]].
+
+**This argument kills deism.** O'Connor stresses the same conclusion the vault reaches in [[Hell - Watchmaker Wind Up and Go Rebutted]]: a God who merely "knocked over the first domino and went away" is incoherent on the hierarchical picture, because the cause must be *sustaining the microphone above his head this instant* — "either there's no God at all, or there's a God who's still here right now holding it all in place." (Covered inside the causation concept.)
+
+**The strongest argument AGAINST God — the problem of *suffering*.** O'Connor deliberately renames the "problem of evil" the **"problem of suffering,"** pre-empting the theist's retort that an emotivist has no standard of "evil" — *fine, drop "evil," the suffering is undeniable.* His sharpest version is evolutionary: natural selection *is* "the destruction and death and suffering of the weakest," billions of years of "unfathomable" animal torment built into the very mechanism God allegedly chose to produce humans. He concedes this does not *disprove* God and only tells against a *good* God (some "will just say maybe God is evil"). See **[[The Problem of Suffering Reframed to Disarm the Standard-of-Evil Retort]]**, linking [[Animal Suffering Is the Hardest Test for Finite Theism]] (which already cites O'Connor), [[The Evil God Hypothesis Neutralizes the Argument from Suffering]], [[The Problem of Evil Does Not Disprove God]], and [[We Cannot Judge That God Lacks Reasons for Suffering]].
+
+**Nihilism, meaning, and the self-justifying terminus.** O'Connor defines meaning as *a reason to act/be*, notes every reason is *contingent* on a further reason, and argues objective meaning would require a **non-contingent, self-justifying** terminus where "why?" becomes inappropriate — structurally the very same regress as his first-cause argument, now applied to value. Most people's terminus (children, God, "big questions") is real but *subjective*. See **[[Objective Meaning Requires a Self-Justifying Non-Contingent Terminus]]**, linking [[The Absurdity of Life Without God]], [[Nihilism as Logical Endpoint of Atheism]], [[Evolution Points to Family as the Locus of Meaning]], and [[Heat Death of the Universe Voids Naturalistic Meaning]].
+
+**Ecclesiastes as the oldest nihilism — religion answers nihilism, not vice versa.** Against the common claim that nihilism is a modern *post*-religious phenomenon (Nietzsche → Camus/Sartre), O'Connor argues the reverse: "religions emerge as a *response* to nihilism." His exhibit is **[[Ecclesiastes]]** — *hebel* ("wind," "vapor," KJV "vanity," his preferred rendering "absurd") — whose Teacher (Qoheleth) anticipates Camus' *Myth of Sisyphus*, and whose tacked-on resolution ("fear God and keep his commandments") O'Connor finds unsatisfying because it supplies no *mechanism*. (New Scripture note created.)
+
+**Emotivism (already in the vault).** O'Connor re-explains his metaethic — "murder is wrong" is not the truth-apt report "I dislike murder" but the *expression* "Boo, murder!" (A.J. Ayer, *Language, Truth & Logic*, ch.7), a form of non-cognitivism — using fresh illustrations: the universal **incest taboo** (an emotional "disgust" reaction no secular ethicist grounds), homophobia's "it's disgusting" register, and the **Frege–Geach / embedding problem** as emotivism's "biggest problem." This is already captured in [[Ethical Emotivism as O'Connor's Metaethic]]; the apologetic counters are [[Shared Intuitions Despite Different Metaethics]], [[The Appeal to Mystery Empties the Word Good of Meaning]], and [[Borrowing Objective Morality to Condemn Evil]]. No duplicate concept created.
+
+**Tone and posture.** O'Connor repeatedly frames himself as "brutally agnostic," consoled precisely *by not knowing*, and warns that "our predisposition towards the world will influence the kind of philosophies which are attracted to us" — including a caution that *attractive* philosophies (theistic or nihilistic) deserve extra suspicion because "we are more likely to accept them on less evidence." A model of the intellectually honest foil.
+
+## References
+
+[^1]: [[Big Think - The Strongest Arguments For and Against God - Alex OConnor|Big Think - O'Connor on God]], [01:02]–[01:31], https://youtu.be/aqWTlUOhowk
+[^2]: [[Big Think - The Strongest Arguments For and Against God - Alex OConnor|Big Think - O'Connor on God]], [10:31]–[11:00], https://youtu.be/aqWTlUOhowk
+[^3]: [[Big Think - The Strongest Arguments For and Against God - Alex OConnor|Big Think - O'Connor on God]], [14:31]–[16:31], https://youtu.be/aqWTlUOhowk
+[^4]: [[Big Think - The Strongest Arguments For and Against God - Alex OConnor|Big Think - O'Connor on God]], [25:01]–[26:30], https://youtu.be/aqWTlUOhowk
+[^5]: [[Big Think - The Strongest Arguments For and Against God - Alex OConnor|Big Think - O'Connor on God]], [38:03]–[41:30], https://youtu.be/aqWTlUOhowk
+
+---
+See also: [[Concepts]] · [[People]] · [[Alex OConnor]] · [[Horizontal vs Hierarchical Causation - O'Connor's Sustaining-Cause Argument]] · [[The Problem of Suffering Reframed to Disarm the Standard-of-Evil Retort]] · [[Objective Meaning Requires a Self-Justifying Non-Contingent Terminus]] · [[Ecclesiastes]] · [[Ethical Emotivism as O'Connor's Metaethic]]
