@@ -73,8 +73,13 @@ He further argues the doctrine was **constructed over time** (mid-2nd to 5th cen
 - [[Divine Mediation Predates the New Testament]]
 - [[Name-Bearing Agency in Exodus 23]]
 
+## Genesis 1 vs Genesis 2 (The Word Room Response)
+
+Responding to apologist [[The Word Room]]'s defense of the unity of the two creation accounts, McClellan argues the "zoom-in" harmonization fails: *eretz* defaults to "earth" without localizing markers (see [[Eretz Defaults to Earth Without Contextual Markers]]); "every bird of the sky" in Genesis 2:19 cannot be localized to Eden and contradicts day five (see [[Every Bird of the Sky Contradicts Day Five]], [[Wayyiqtol Cannot Be Pluperfect Without Close Literary Context]]); and the *toledot* formula plus the 2:4 chiasm are redactional stitching, not unity, per five recent commentaries by [[David Peterson]], [[Ron Hendel]], [[Jan Christian Gertz]], [[David Carr]], and [[Bill Arnold]] (see [[Toledot Formula Is a Redactional Bridge Not a Summary]], [[The Genesis 2-4 Chiasm Indicates Stitching Not Single Authorship]], [[Source Criticism Is Not Reducible to the Documentary Hypothesis]], [[Apologists Engage Pre-Digested Caricatures of Critical Scholarship]]).
+
 ## Key Sources
 
+- [[Dan McClellan - The Word Room Genesis 1 and 2 Response]] (YouTube, 2026)
 - [[Dan McClellan - Wes Huff Creation Ex Nihilo Response]] (YouTube, 2025)
 - [[Dan McClellan - Apologetics Cannot Rescue Biblical Contradictions]] (YouTube)
 - [[McClellan - The Fundamental Contradiction of the Trinity]] (YouTube)
