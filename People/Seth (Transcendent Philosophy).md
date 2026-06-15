@@ -6,7 +6,7 @@ aliases:
 tags:
   - type/person
   - tradition/atheist
-  - role/interlocutor
+  - role/content-creator
   - role/public-educator
 authority: C
 authority_reason: "Atheist content creator and blogger (Transcendent Philosophy YouTube channel + blog). Argues philosophy of religion at a popular level as a debate interlocutor; cited-commentary tier, not a credentialed academic in the field."
