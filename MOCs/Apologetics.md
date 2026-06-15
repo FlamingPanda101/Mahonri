@@ -5,16 +5,18 @@ tags: [moc]
 
 # Apologetics — Map of Content
 
-Auto-generated index. **99 sources** ingested. Browse Concepts / Scriptures / People folders or the graph; author tiers in [[Authority Ledger]]; channels in [[Sources Index]].
+Auto-generated index. **134 sources** ingested. Browse Concepts / Scriptures / People folders or the graph; author tiers in [[Authority Ledger]]; channels in [[Sources Index]].
 
 ## Sources Ingested
 
 | Source | Tier | Topics |
 |--------|------|--------|
 | [[After Humanity - Michael Ward]] | B | abolition-of-man, ethics, natural-law, objective-morality |
+| [[Alex O'Connor - The Sophistry of Christopher Hitchens]] | C | challenges, existence-of-god |
 | [[All Those In Favor - The Button and the Five Contradictory Attributes of God]] | C | problem-of-hell, trinity |
 | [[All Those In Favor - Why Christianity is Probably Wrong about Hell]] | C | problem-of-hell |
 | [[Ancient Christians - An Introduction for Latter-day Saints]] | B | early-christianity, great-apostasy, patristics |
+| [[Apologetics Canada - William Lane Craig QA - Neuroscience and Free Will]] | B | challenges, free-will |
 | [[Benjamin Park - Did Joseph Smith Teach Men Can Become God]] | B |  |
 | [[Blake Ostler - The Heart as the Basis of Religious Knowledge]] | B | epistemology, spiritual-experience |
 | [[Council of Trent - James 2 Not By Faith Alone]] | B | justification |
@@ -42,13 +44,26 @@ Auto-generated index. **99 sources** ingested. Browse Concepts / Scriptures / Pe
 | [[Data Over Dogma - There Is No Such Thing as The Bible]] | B | bible, canon, textual-criticism, translation |
 | [[Data Over Dogma - Why the Bible Began with Jacob Wright]] | B |  |
 | [[David Snell - Is Joseph Smith a Fraud (with Kyle Beshears)]] | C | anti-mormonism, are-mormons-christian, book-of-mormon-witnesses, joseph-smith |
+| [[Dawkins vs Lennox - The God Delusion Debate]] | B | existence-of-god |
+| [[drcraigvideos - God and Mathematics]] | B | existence-of-god |
+| [[drcraigvideos - Is There Meaning to Life]] | B | meaning |
+| [[drcraigvideos - Leibniz Contingency Argument]] | B | existence-of-god |
+| [[drcraigvideos - Suffering and Evil - The Logical Problem]] | B | challenges, problem-of-evil |
+| [[drcraigvideos - Suffering and Evil - The Probability Version]] | B | challenges, problem-of-evil |
+| [[drcraigvideos - The Kalam Cosmological Argument - Part 1 Scientific]] | B | existence-of-god |
+| [[drcraigvideos - The Moral Argument]] | B | ethics, existence-of-god |
 | [[Five Proofs of the Existence of God - Edward Feser]] | B | classical-theism, existence-of-god, natural-theology |
 | [[Gavin Ortlund - Protestant and Mormon Discuss the Trinity]] | B | trinity |
 | [[Glenn L Pace Memo - The Mormon Satanic Panic]] | C | recovered-memory, ritual-abuse, satanic-panic, utah |
 | [[Glenn L Pace Memo - The Satanic Panic and False Memory]] | C | false-memory, satanic-panic |
 | [[Holy Rebellion - Anachronisms DNA and Archaeology in the Book of Mormon]] | B | anachronisms, archaeology, book-of-mormon, dna |
+| [[Hoover Institution - By Design - Behe Lennox and Meyer on the Evidence for a Creator]] | B | existence-of-god, intelligent-design |
+| [[Hoover Institution - Mathematical Challenges to Darwins Theory of Evolution]] | B | existence-of-god, intelligent-design |
+| [[Hoover Institution - Stephen Meyer on Intelligent Design and The Return of the God Hypothesis]] | B | existence-of-god, intelligent-design |
 | [[Informed Saints - Are Book of Mormon Names Real]] | B | book-of-mormon, onomastics |
 | [[Informed Saints - The Surprising REAL Reason People Are Leaving The Church]] | C | disaffiliation, high-demand-religion, mental-health, politics-and-religion, retention, secularization, suicide, well-being |
+| [[InspiringPhilosophy - Cosmic Conscious Argument for God's Existence]] | C | consciousness, existence-of-god |
+| [[InspiringPhilosophy - Divine Hiddenness - A Christian Response]] | C | challenges, divine-hiddenness |
 | [[Jonathan Haidt - The Elephant the Rider and Epistemic Humility]] | B | epistemology, moral-psychology, persuasion |
 | [[Jordan Peterson - How the Brain Filters Reality (Perception and Attention)]] | C | epistemology |
 | [[Keystone - LDS Scholar Debunks Myths About Declining Membership]] | B | religiosity-data, retention |
@@ -68,22 +83,35 @@ Auto-generated index. **99 sources** ingested. Browse Concepts / Scriptures / Pe
 | [[Philosophy Explainer - I Think Therefore I Am (Cogito)]] | C | epistemology |
 | [[Philosophy Tube - Deduction and Induction]] | C | epistemology |
 | [[PragerU - Reason Is Not Enough to Make Us Good]] | C | ethics, morality, reason |
+| [[ReasonableFaithOrg - Craig vs Hitchens - Does God Exist (Biola)]] | B | existence-of-god |
 | [[Saints Unscripted - Responding to 5 Changes to the Book of Mormon]] | C | book-of-mormon, christology, joseph-smith, revelation, textual-criticism, translation |
 | [[Stand Firm - Three Holes in Creedal Christianity the Restored Gospel Fills]] | C | atheism, biblical-inerrancy, divine-omnipotence, fine-tuning, personal-revelation |
 | [[Stealing from God - Frank Turek]] | C | apologetics, atheism, existence-of-god |
+| [[Stephen Meyer Debates Peter Atkins on Unbelievable]] | B | existence-of-god, intelligent-design |
 | [[Stick of Joseph - Atheism is Unreasonable and Stupid]] | C |  |
 | [[Stick of Joseph - Did Muhammad Undercut Joseph Smith with Dan Peterson]] | B | book-of-mormon, doctrine-and-covenants, islam, jihad, joseph-smith, muhammad, prophets, quran |
 | [[Stick of Joseph - God Logic Trinity Debate Recap]] | C | trinity |
 | [[The Holy Rebellion - The Problem With Calling Joseph Smith a Con Man]] | C | folk-magic, joseph-smith-1826-trial, seer-stones, treasure-hunting |
 | [[The Moral Landscape - Sam Harris]] | C | ethics, metaethics, morality |
 | [[The Scientific Case for Intelligent Design]] | C | existence-of-god, intelligent-design |
+| [[Thoughtful Faith - A Mormon Debates Alex OConnor on Jubilee Media]] | C | challenges, existence-of-god |
 | [[Thoughtful Faith - Apologetics Course Overview]] | C | apologetics-method |
+| [[Thoughtful Faith - Are Human Beings Just Animals]] | C | human-nature, meaning |
+| [[Thoughtful Faith - Are Pedophiles Morally Responsible for What They Do]] | C | ethics, moral-responsibility |
+| [[Thoughtful Faith - Blake Ostler - The Problem of Evil]] | B | challenges, problem-of-evil |
 | [[Thoughtful Faith - Blake Ostler on the Trinity]] | B | divine-name, trinity |
 | [[Thoughtful Faith - Collective Witness Epistemology]] | C | epistemology |
+| [[Thoughtful Faith - Does Bill Reel Have a Basis for Making Moral Judgements]] | C | ethics, metaethics |
+| [[Thoughtful Faith - Exposing the Incoherence of Critics Like Bill Reel]] | C | challenges, ethics |
 | [[Thoughtful Faith - Greek vs Hebrew Thinking]] | C | epistemology |
+| [[Thoughtful Faith - How Can We Tell If The Universe Was Designed]] | C | existence-of-god, fine-tuning |
 | [[Thoughtful Faith - How Do I Know What I Know (Epistemology)]] | C | epistemology |
+| [[Thoughtful Faith - How Evolution Might Show Us Purpose and Meaning]] | C | meaning |
 | [[Thoughtful Faith - Is Reason Fundamental (Epistemology 1.1)]] | B | epistemology |
+| [[Thoughtful Faith - Is Secular Humanism Just Bastardized Christianity]] | C | challenges, ethics |
 | [[Thoughtful Faith - Is the Calvinist God a Moral Monster (Debate Prep with Blake Ostler)]] | B | calvinism, divine-command-theory, open-theism, problem-of-evil |
+| [[Thoughtful Faith - My Faith Crisis and a Message to Those Who Struggle]] | C | challenges, faith-crisis |
+| [[Thoughtful Faith - Stupid Arbitrary Standards - The Number 1 Mistake They Make]] | C | ethics, presuppositional-apologetics |
 | [[Thoughtful Faith - The Collective Witness Model (No Trump Card)]] | C | authority, epistemology, personal-revelation |
 | [[Thoughtful Faith - The LDS Godhead in the Bible (Response to Sam Shamoun)]] | C | divine-name, godhead, trinity |
 | [[Thoughtful Faith - The Nature of Morality from the Ground Up (Ethics)]] | C | ethics |
@@ -91,7 +119,14 @@ Auto-generated index. **99 sources** ingested. Browse Concepts / Scriptures / Pe
 | [[Thoughtful Faith - The Trinity vs the Godhead Debate Prep]] | C | christology, godhead, monotheism, trinity |
 | [[Thoughtful Faith - The Witness of Authority (Knowledge by Degrees of Probability)]] | C | collective-witness, epistemology, probability, witness-of-authority |
 | [[Thoughtful Faith - Was Joseph Smith a Pedophile]] | C |  |
+| [[Thoughtful Faith - What Better Explains Reality - Atheism or Theism (Debate)]] | C | existence-of-god |
+| [[Thoughtful Faith - What Is Morality Part 2 - Is Morality Subjective]] | C | ethics, metaethics |
+| [[Thoughtful Faith - What Is Morality Part 3 - The Roots of Nearly All Disagreement]] | C | ethics, metaethics |
+| [[Thoughtful Faith - What Is Morality Part 4 - Is There Such a Thing as a Moral Absolute]] | C | ethics, metaethics |
+| [[Thoughtful Faith - What Serious Atheists Get Right and What They Miss]] | C | challenges, ethics |
+| [[Thoughtful Faith - Where Will You Go - Confronting the Meaning Crisis and the Deconstruction of Belief]] | C | challenges, meaning |
 | [[Uncommon Ground - Did Christianity Give Us Our Morality]] | C | dominion-thesis, morality |
+| [[University of Notre Dame - The God Debate II - Harris vs Craig]] | B | ethics, existence-of-god |
 | [[Ward Radio - Brigham Youngs Character with Dan Peterson]] | C | adam-god, brigham-young, polygamy, priesthood-ban, succession-crisis |
 | [[Ward Radio - Catholics Critique Mormonism on the Daily Wire]] | C | catholicism |
 | [[Ward Radio - Concentric Chiasmus in Alma 24]] | D | alma, book-of-mormon, chiasmus |

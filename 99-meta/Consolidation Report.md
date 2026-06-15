@@ -1,6 +1,6 @@
 # Consolidation Report
 
-*Scanned 2026-06-15 08:32 — 1398 concept notes.*
+*Scanned 2026-06-15 09:35 — 1546 concept notes.*
 
 Auto-detected. **Nothing was changed** — review and merge via Mahonri (tell it: merge note X into note Y) or by hand.
 
@@ -23,8 +23,9 @@ Auto-detected. **Nothing was changed** — review and merge via Mahonri (tell it
 - `Anthropic Fine-Tuning Points to a Designer` ↔ `Cosmic Fine-Tuning Points to a Designer (Turek)`  (similarity 0.82)
 - `Abolition Tracks Material Conditions Not Christian Conviction` ↔ `Feminism Tracks Material Conditions Not Christian Doctrine`  (similarity 0.82)
 
-## Broken wiki-links (111)
+## Broken wiki-links (114)
 - in **Anthropomorphic God in the Hebrew Bible.md** → `[[Exodus 33.11]]` (no such note)
+- in **Atheism Undercuts the Rationality Science Requires.md** → `[[D&C 131]]` (no such note)
 - in **Book of Enoch - 364 Day Solar Calendar.md** → `[[Qumran - Calendar Controversy]]` (no such note)
 - in **Book of Enoch - Dead Sea Scrolls Attestation.md** → `[[Dead Sea Scrolls]]` (no such note)
 - in **Book of Enoch - Enoch as the Son of Man.md** → `[[Son of Man - Development of the Title]]` (no such note)
@@ -50,6 +51,7 @@ Auto-detected. **Nothing was changed** — review and merge via Mahonri (tell it
 - in **Early Christian Prayer and the Orant Posture.md** → `[[1 Timothy 2.8]]` (no such note)
 - in **Early Christian Prayer and the Orant Posture.md** → `[[1 Timothy 2.8]]` (no such note)
 - in **Ebla Archives Do Not Support Creation Ex Nihilo.md** → `[[TM.75.G1682]]` (no such note)
+- in **Faith Is Blind vs Faith Is Evidence-Based.md** → `[[Alma 32]]` (no such note)
 - in **Fig Tree Cursing as Metaphor for Temple.md** → `[[Cleansing of the Temple]]` (no such note)
 - in **Galatians 1-6 Marvel Ye Are So Soon Removed Early Apostasy.md** → `[[Great Apostasy and Need for Restoration]]` (no such note)
 - in **Galatians 1-6 Marvel Ye Are So Soon Removed Early Apostasy.md** → `[[Great Apostasy and Need for Restoration]]` (no such note)
@@ -68,12 +70,10 @@ Auto-detected. **Nothing was changed** — review and merge via Mahonri (tell it
 - in **NDE - The Dark Tunnel.md** → `[[Psalm 23.4]]` (no such note)
 - in **NDE - The Life Review.md** → `[[D&C 130.18-19]]` (no such note)
 - in **Nicaea Did Not Settle the Trinity.md** → `[[How the Trinity Was Invented]]` (no such note)
+- in **No One Needs God to Be Moral - The Grounding Problem.md** → `[[Moroni 7]]` (no such note)
 - in **Pre-Incarnate Christ Theophany Rationalization Rebutted.md** → `[[Jesus as Divine Image in John's Gospel]]` (no such note)
 - in **Presuppositional Apologetics - CS Lewis Sun Analogy.md** → `[[Alma 32]]` (no such note)
 - in **Refusing the Pious Fraud Category.md** → `[[The Problem With Calling Joseph Smith a Con Man]]` (no such note)
-- in **Rejecting Biblical Inerrancy Solves the Moral Contradiction Problem.md** → `[[Canaanites]]` (no such note)
-- in **Shared Biblical Sources Are Not Plagiarism.md** → `[[Ether 2]]` (no such note)
-- in **The Curse as Division of Labor Not Punishment.md** → `[[curse of Canaan]]` (no such note)
 
 ## Orphan concepts — no links in or out (0)
 - none
