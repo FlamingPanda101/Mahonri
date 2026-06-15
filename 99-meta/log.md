@@ -1,5 +1,13 @@
 # Log
 
+## 2026-06-14 — Claude parallel agents (batch B: 20 spawned, 16 ok / 4 transcript-blocked)
+
+OK (16): McClellan-Monotheism/Ortlund (LhL86fKYeAc, 36) · McClellan-John10-Trinity (7Z1_HRuEIvo, 13) · Méndez-Gospel-of-John (6LXqyB1ZeLE, 29) · McClellan-Biblical-Slavery (9k9TOmOP5iQ, 28) · McClellan-Pharaohs-Heart (rXXy34nrnX0, 17) · InformedSaints-Why-People-Leave (7IMZGScnEok, 24) · LetsTalk-Apologetics-Course (L-lxxWjN8D4, 28) · HolyRebellion-Con-Man (ePeZwR5rsQc, 42) · Keystone-Membership-Myths (38Ev3VMr3Y0, 19) · CoT-Self-Authenticating-Canon (j0Tf_oWchsI, 27) · McClellan-Genesis-2 (f1s3esxR5mM, 15) · Ortlund-Mormon-Trinity (7Y9_unCe__M, 27) · LetsGetReal-Abraham-Curse/Don Bradley (sKcw1oy6zcM, 31) · WardRadio-Faking-Gold-Plates (2ZfA9RGzOpk, 20) · McClellan-Contradictions (coLuwirGLMA, 8) · CoT-Word-of-God-Fallacy (tr_NwgndUFk, 31).
+
+FAILED — YouTube 429 IP block on caption endpoint (re-queued for retry after cooldown): avv9JKaagSo (Ward Radio/Daily Wire, 2hr livestream) · RetbNefMluQ (DoD What IS the Bible) · 9OgkawwxnWw (Mormonism w/ the Murph) · -ZnVNM8lkGw (Alex O'Connor debate).
+
+New domains added: gospel-of-john, biblical-slavery, lds-retention-and-secularization, book-of-mormon-gold-plates. New scholars (tiers in their People-note YAML; Authority Ledger to be auto-regenerated at end): McDonald(N.)/Lynch/Hurtado/Bauckham/Fredriksen/Sonia/Méndez/Goodacre/Reinhartz/Walsh/Stowers/Vogel/Quinn/Dillinger/Bradley/Rappleye/Hazard/Grover/Kruger/L.McDonald/Godfrey/Sproul/Madrid/Heschmeyer/Augustine/Jerome/Ignatius/Anselm/Petersen/Putnam/Burge/Dyer/N.T.Wright/Tertullian/Basil/Clement/Poirier/A.T.Robertson/Bahnsen/VanTil/Ortlund/Hume/Douglass etc.
+
 ## 2026-06-14 — Claude parallel agents (batch A: 3 videos)
 
 - `Lets Talk w Hayden Carroll - Is the Bible the Final Authority Debate` (C, x5EbiJLb8U0) — 14 notes; sola scriptura debate (Kelly vs Hayden Carroll). Domain: Scripture & Authority.
