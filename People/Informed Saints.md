@@ -7,8 +7,10 @@ aliases:
   - "Informed Saints"
 related:
   - "[[Justin Dyer]]"
+  - "[[Grant Underwood]]"
 sources:
   - "[[Informed Saints - The Surprising REAL Reason People Are Leaving The Church]]"
+  - "[[Informed Saints - Do Mormons Believe in the Trinity]]"
 authority: C
 authority_reason: "Faithful Latter-day Saint podcast/YouTube channel ('study deeply and believe boldly') that interviews scholars and discusses LDS apologetics. Commentary and curation tier; authority of any given episode rises or falls with the guest cited."
 ---
