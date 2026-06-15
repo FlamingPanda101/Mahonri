@@ -18,7 +18,7 @@ tags: [apologetics, method, epistemology, restoration, tradition/evangelical, tr
 
 1. **The "could" question is unfalsifiable in both directions.** "You get into all sorts of problems like, well, God couldn't visit a boy in upstate New York in a vision — okay, well, let's talk about church history." [^2] *Rating: sound.* Conceding God *can* do anything settles nothing; the interesting question is whether He *did* / *would*.
 
-2. **Applied to the First Vision.** "Would God appear to Joseph Smith in 1820? Oh, he would, if the great apostasy is true and he desires to restore his church." [^3] *Rating: clarifying.* It exposes that the real load-bearing premise is the [[Great Apostasy]], not divine capability — relocating the debate to where the evidence actually lives.
+2. **Applied to the First Vision.** "Would God appear to Joseph Smith in 1820? Oh, he would, if the great apostasy is true and he desires to restore his church." [^3] *Rating: clarifying.* It exposes that the real load-bearing premise is the great apostasy, not divine capability — relocating the debate to where the evidence actually lives.
 
 3. **Applied to the apostasy itself.** "It's not could the church have failed during the great apostasy — would it have failed?" [^4] *Rating: a consistent application;* it turns a metaphysical possibility into a historical-theological question about God's covenant faithfulness.
 

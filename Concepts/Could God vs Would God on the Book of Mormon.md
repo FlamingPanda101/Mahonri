@@ -19,7 +19,7 @@ Host [[Steven Pynakker]] and [[Kyle Beshears]] agree that a *believer* cannot di
 
 1. **The consistency trap for believers.** A theist who affirms angels, visions, and revelation cannot rule the Book of Mormon out *a priori* on anti-supernatural grounds; that would be borrowing the atheist's premise. [^1] *Rating: a genuinely sharp point* — it forces the evangelical to argue on evidence rather than reflex.
 
-2. **Reframe to "would God."** Beshears applies his governing method (see [[Would God Not Could God]]): the question becomes not whether God *could* produce such a book but whether He *would*. [^2] *Rating: relocates the debate* to the prior question of the [[Great Apostasy]] and divine intent.
+2. **Reframe to "would God."** Beshears applies his governing method (see [[Would God Not Could God]]): the question becomes not whether God *could* produce such a book but whether He *would*. [^2] *Rating: relocates the debate* to the prior question of the great apostasy and divine intent.
 
 3. **The Book of Mormon's unique self-test.** Beshears notes [[Moroni 10.4-5|Moroni 10:4-5]]'s "unique call... to ask for a personal individual subjective confirmation of its veracity" is "very different than anything I've ever come across in any kind of religious text." [^3] *Rating: an honest acknowledgment* of the book's distinctive epistemology — even while he declines its claim.
 

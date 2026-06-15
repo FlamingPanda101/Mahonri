@@ -18,7 +18,7 @@ tags: [apologetics, history, eschatology, restoration, comparative-religion, tra
 
 1. **Evangelicals care about the doctrine, not the story.** Ask a conservative Presbyterian about John Calvin and "they're going to get the basics correct about when he lived... but tell me about the works John Calvin has created — now that's where the conversation's going to go." [^3] *Rating: a fair generalization* of the Reformed-evangelical relationship to tradition.
 
-2. **Latter-day Saints invert it.** They are "not a people of a historical theology. They're a people of a theological history that they see in the latter days... a theology unfolding before them" — the First Vision, the [[Great Apostasy]], a living "prophet, seer and revelator" anticipating the Second Coming. [^4] *Rating: a genuinely illuminating frame;* LDS identity is narrative and ongoing-revelatory.
+2. **Latter-day Saints invert it.** They are "not a people of a historical theology. They're a people of a theological history that they see in the latter days... a theology unfolding before them" — the First Vision, the great apostasy, a living "prophet, seer and revelator" anticipating the Second Coming. [^4] *Rating: a genuinely illuminating frame;* LDS identity is narrative and ongoing-revelatory.
 
 3. **Self-placement in the ongoing story.** "They see themselves as part of that narrative. Evangelicals don't see themselves as part of a church history narrative... We're very atomized. We're very individualistic. Latter-day Saints see their place in the next chapter of the latter days." [^5] *Rating: ties directly* to his communalism insight (see [[Saints Not Believers - LDS Communalism Lesson]]).
 
