@@ -5,7 +5,7 @@ tags: [moc]
 
 # Apologetics — Map of Content
 
-Auto-generated index. **326 sources** ingested. Browse Concepts / Scriptures / People folders or the graph; author tiers in [[Authority Ledger]]; channels in [[Sources Index]].
+Auto-generated index. **337 sources** ingested. Browse Concepts / Scriptures / People folders or the graph; author tiers in [[Authority Ledger]]; channels in [[Sources Index]].
 
 ## Sources Ingested
 
@@ -60,6 +60,7 @@ Auto-generated index. **326 sources** ingested. Browse Concepts / Scriptures / P
 | [[Dan McClellan - Responding to Wes Huff on the Trinity Part 2]] | B | trinity |
 | [[Dan McClellan - The Angel of Yahweh Divine Investiture vs Divine Images]] | B | angel-of-yahweh, christology, divine-images |
 | [[Dan McClellan - The Bible Has No Contradictions Is Just a Feeling]] | B | bible, inerrancy |
+| [[Dan McClellan - The Bible Says We Will Become Gods]] | B | deification, divine-council, monotheism, theosis |
 | [[Dan McClellan - The One Where God Lost to Another God]] | B | divine-council, divine-plurality, hebrew-bible, monotheism, purview |
 | [[Dan McClellan - The Trinity Is Not Unavoidably Biblical]] | B | christology, trinity |
 | [[Dan McClellan - The Word Room Genesis 1 and 2 Response]] | B | creation, genesis, source-criticism |
@@ -93,6 +94,7 @@ Auto-generated index. **326 sources** ingested. Browse Concepts / Scriptures / P
 | [[drcraigvideos - Suffering and Evil - The Logical Problem]] | B | challenges, problem-of-evil |
 | [[drcraigvideos - Suffering and Evil - The Probability Version]] | B | challenges, problem-of-evil |
 | [[drcraigvideos - The Kalam Cosmological Argument - Part 1 Scientific]] | B | existence-of-god |
+| [[drcraigvideos - The Kalam Cosmological Argument - Part 2 Philosophical]] | B | existence-of-god |
 | [[drcraigvideos - The Moral Argument]] | B | ethics, existence-of-god |
 | [[Ethers Elephant - Dont Listen to ExMormon Influencers]] | C | deconstruction, faith-crisis |
 | [[Ethers Elephant - When History Challenges Testimony Can Your Faith Survive]] | C | church-history, epistemology, faith-crisis |
@@ -123,6 +125,7 @@ Auto-generated index. **326 sources** ingested. Browse Concepts / Scriptures / P
 | [[Informed Saints - The Surprising REAL Reason People Are Leaving The Church]] | C | disaffiliation, high-demand-religion, mental-health, politics-and-religion, retention, secularization, suicide, well-being |
 | [[InspiringPhilosophy - Cosmic Conscious Argument for God's Existence]] | C | consciousness, existence-of-god |
 | [[InspiringPhilosophy - Divine Hiddenness - A Christian Response]] | C | challenges, divine-hiddenness |
+| [[InspiringPhilosophy - The Case for Free Will]] | C | agency, determinism, free-will |
 | [[John Anderson Media - Love Isnt Enough Gay Marriage Surrogacy and Divorce Katy Faust]] | C | family, marriage |
 | [[Jonathan Haidt - The Elephant the Rider and Epistemic Humility]] | B | epistemology, moral-psychology, persuasion |
 | [[Jordan Peterson - How the Brain Filters Reality (Perception and Attention)]] | C | epistemology |
@@ -130,6 +133,7 @@ Auto-generated index. **326 sources** ingested. Browse Concepts / Scriptures / P
 | [[Keystone - How LDS Culture Is Hurting Faith]] | C | faith-crisis, retention |
 | [[Keystone - LDS Historian Debunks Myths About Adam and Eve]] | C | adam-and-eve, fall |
 | [[Keystone - LDS Scholar Debunks Myths About Declining Membership]] | B | religiosity-data, retention |
+| [[Keystone - LDS Scholar This Is Where Christianity Went Wrong]] | C | classical-theism, creation-ex-nihilo, doctrine-of-god, great-apostasy, heavenly-mother, hellenization, impassibility, premortality, universalism |
 | [[Keystone - Polygamy Expert What Changed My Mind]] | C | joseph-smith, polygamy |
 | [[Keystone - The King Follett Sermon (Casey Paul Griffiths)]] | B | exaltation, king-follett-discourse, nature-of-god |
 | [[Keystone - This Is Why God Lets Prophets Mess Up]] | C | prophetic-fallibility, prophets |
@@ -184,12 +188,15 @@ Auto-generated index. **326 sources** ingested. Browse Concepts / Scriptures / P
 | [[Mormonism with the Murph - Theism Christianity and Sola Scriptura with Hayden Carroll]] | C | natural-theology, sola-scriptura |
 | [[Moroni Standard - The Evidence for the Book of Mormon]] | C | book-of-mormon |
 | [[Moronis Standard - Christianitys Creedal Doctrine Does Not Come From the Bible]] | C | creeds, hellenization, nicaea, trinity |
+| [[Moronis Standard - Luther Added a Word to the Bible]] | C | grace, justification, sola-fide, soteriology |
 | [[Moronis Standard - Modern Scholarship Confirms What Joseph Smith Said in 1844]] | C | joseph-smith, restoration |
 | [[Moronis Standard - Moses Never Attended a Synagogue]] | C | anachronism, book-of-mormon, synagogue |
 | [[Moronis Standard - The Book of Mormon Is an Israelite Record Not a Jewish One]] | C | book-of-mormon, israelite-origins |
 | [[Moronis Standard - The Book Too Messianic for Your Bible 1 Enoch]] | C | book-of-enoch, canon, messianic |
 | [[Moronis Standard - The Oldest Belief About God Was Not Monotheism]] | C | divine-council, monotheism |
+| [[Moronis Standard - The Temple Ceremony Was Destroyed Twice and Restored in 1842]] | C | endowment, first-temple, freemasonry, temple |
 | [[Moronis Standard - These Philosophers Werent Looking for Mormonism]] | C | philosophy, restoration |
+| [[Moronis Standard - Why Jews Didnt Recognize Their Messiah]] | C | canon, deuteronomistic-reform, messianic-prophecy, son-of-man, textual-criticism |
 | [[On Planks and Pieces - Are Mormons Christian w Luke Hanson]] | C | are-mormons-christian |
 | [[Pangburn - Alex OConnor Exposes Christianity and Dinesh DSouza]] | C | biblical-inerrancy, gospel-contradictions, hermeneutics, prophecy, revelation |
 | [[Pangburn - Sam Harris and Jordan Peterson Vancouver Part 2]] | C | morality, preface, religion |
@@ -317,10 +324,14 @@ Auto-generated index. **326 sources** ingested. Browse Concepts / Scriptures / P
 | [[Ward Radio - The Bibles Darkest Lie No One Noticed]] | C | interpolation, textual-criticism, trinity |
 | [[Ward Radio - The Book of Mormon Is Undebunkable]] | C | book-of-mormon, witnesses |
 | [[Ward Radio - The Creation Dilemma and the Three Facts About God]] | C | calvinism, creation-dilemma, creation-ex-nihilo, godhead, molinism, open-theism, orthopraxy, outer-darkness, predestination, problem-of-hell, trinity |
+| [[Ward Radio - The Fever Breaks]] | C | false-memory, recovered-memory, ritual-abuse, satanic-panic, utah |
+| [[Ward Radio - The Glenn L Pace Memo Debunked]] | C | recovered-memory, ritual-abuse, satanic-panic, utah |
 | [[Ward Radio - The Great Apostasy Deep Dive with Mike Day and Dave Butler]] | C | biblical-canon, church-history, creeds, great-apostasy, priesthood-authority, trinity |
 | [[Ward Radio - The Hollow Faith of Pastor Grift]] | C | clergy-belief, survey-data |
 | [[Ward Radio - The Identity of the Elect Lady of 2 John]] | C | 2-john, new-testament, textual-criticism |
 | [[Ward Radio - The Impossible Science of Faking the Gold Plates]] | C | book-of-mormon, gold-plates, joseph-smith, reformed-egyptian, tumbaga, witnesses |
+| [[Ward Radio - The LDS Spotlight Scandal Part 5]] | C | false-memory, recovered-memory, ritual-abuse, satanic-panic, utah |
+| [[Ward Radio - The LDS Spotlight Scandal Part 6]] | C | abuse, confessional-privilege, mandatory-reporting, utah |
 | [[Ward Radio - The Nicene Creed Is Not an Abomination]] | C |  |
 | [[Ward Radio - The Real Reason Why People Leave the Faith]] | C | disaffiliation, faith-crisis, retention |
 | [[Ward Radio - The Truth About Mormon Baptism at Age 8]] | C | baptism, practices |
