@@ -35,8 +35,7 @@ This rests on the same two-kingdoms history documented at [[Israel and Judah Nev
 ### 2. The LDS reading is a renegotiation — rate: strong
 "We have renegotiated our understanding in order to read into it something that makes it more relevant
 to us."[^1] McClellan frames the stick-as-books reading as a textbook instance of his broader thesis
-that [[We Negotiate With the Text - It Does Not Speak for Itself|communities read relevance into a
-text the plain sense does not support]]. The "polite giggle" signals that, unlike genuinely contested
+that [[We Negotiate With the Text - It Does Not Speak for Itself|communities read relevance into a text the plain sense does not support]]. The "polite giggle" signals that, unlike genuinely contested
 passages, this one is not a live scholarly debate.
 
 ### 3. Relation to the LDS channel framing — rate: contextual

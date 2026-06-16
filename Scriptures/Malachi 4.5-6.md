@@ -21,8 +21,7 @@ tags:
 The closing verses of the Old Testament. The prophecy of a forerunner — Elijah —
 sent before the "great and dreadful day of the LORD." In the New Testament this
 is partly applied to John the Baptist ([[Matthew 17.10-13|Matthew 17:11-13]];
-cf. Luke 1:17, "in the spirit and power of Elias"), yet [[Matthew 17.10-13|Matthew
-17:11]] still uses the future tense ("Elias truly shall come first and restore all
+cf. Luke 1:17, "in the spirit and power of Elias"), yet [[Matthew 17.10-13|Matthew 17:11]] still uses the future tense ("Elias truly shall come first and restore all
 things"), leaving a future forerunner open.
 
 ## Key Exegetical Points

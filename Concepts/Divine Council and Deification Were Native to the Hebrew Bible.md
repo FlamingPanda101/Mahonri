@@ -22,7 +22,7 @@ The [[King Follett Discourse]] and Lorenzo Snow's couplet ("As man now is, God o
 > "Psalm 82 has God standing in a divine assembly telling its members, 'You are gods, sons of the Most High.'" [^2]
 
 ## LDS Connection
-This is the Hebrew-Bible substrate for LDS [[Human Deification in Mormonism|deification]] and the [[Same-Species-as-God as the Core LDS Distinctive in Theosis|same-species]] reading of theosis. The Lorenzo Snow couplet ([[Lorenzo Snow]]) and Joseph's [[King Follett Discourse]] presuppose exactly the divine-family cosmos that, on Arnold's telling, the post-Nicene tradition filtered out and modern scholarship has recovered. The recovery dovetails with [[Josiah's Reform and the First Temple Make Restoration a Coherent Category]].
+This is the Hebrew-Bible substrate for LDS [[Human Deification in Mormonism|deification]] and the [[Same-Species-as-God as the Core LDS Distinctive in Theosis|same-species]] reading of theosis. The Lorenzo Snow couplet ([[Lorenzo Snow]]) and Joseph's [[King Follett Discourse]] presuppose exactly the divine-family cosmos that, on Arnold's telling, the post-Nicene tradition filtered out and modern scholarship has recovered. The recovery dovetails with [[Josiahs Reform and the First Temple Make Restoration a Coherent Category]].
 
 ## References
 [^1]: [[Moronis Standard - Modern Scholarship Confirms What Joseph Smith Said in 1844|Moroni's Standard — 1844 Confirmed]], [08:30], https://youtu.be/yIvildqmGTc

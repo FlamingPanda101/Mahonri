@@ -35,7 +35,7 @@ Auto-detected. **Nothing was changed** — review and merge via Mahonri (tell it
 - in **A Ritual Smiting of the Cheek Was a Lost Temple Ordinance.md** → `[[Helaman 4.12]]` (no such note)
 - in **A Ritual Smiting of the Cheek Was a Lost Temple Ordinance.md** → `[[Alma 14.14]]` (no such note)
 - in **A Ritual Smiting of the Cheek Was a Lost Temple Ordinance.md** → `[[Alma 12]]` (no such note)
-- in **Accepting Evolution with Joy Is Possible.md** → `[[Henry Eyring]]` (no such note)
+- in **Accepting Evolution with Joy Is Possible.md** → `[[Henry B. Eyring]]` (no such note)
 - in **Adherent Hypocrisy Does Not Disprove the Religions Historical Claim.md** → `[[Lets Talk w Hayden Carroll - Student on Protestant Teachings]]` (no such note)
 - in **Alma 32 Light Alludes to Genesis 1 Creation.md** → `[[Kaden Alvie]]` (no such note)
 - in **Anthropomorphic God in the Hebrew Bible.md** → `[[Exodus 33.11]]` (no such note)
@@ -73,7 +73,7 @@ Auto-detected. **Nothing was changed** — review and merge via Mahonri (tell it
 - in **Deuteronomistic Reform Explains the Book of Mormon Theology.md** → `[[Laman]]` (no such note)
 - in **Deuteronomy Was Patterned After the Vassal Treaty of Esarhaddon.md** → `[[Ashurbanipal]]` (no such note)
 - in **Deuteronomy Was Patterned After the Vassal Treaty of Esarhaddon.md** → `[[Deuteronomy 5.7]]` (no such note)
-- in **Divine Council and Deification Were Native to the Hebrew Bible.md** → `[[Josiah's Reform and the First Temple Make Restoration a Coherent Category]]` (no such note)
+- in **Divine Council and Deification Were Native to the Hebrew Bible.md** → `[[Josiahs Reform and the First Temple Make Restoration a Coherent Category]]` (no such note)
 - in **Divine Punishment in the Afterlife Emerged as Theodicy Under Imperial Oppression.md** → `[[Job]]` (no such note)
 
 ## Orphan concepts — no links in or out (0)

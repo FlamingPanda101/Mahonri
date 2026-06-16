@@ -17,7 +17,7 @@ authority_reason: "Informed LDS apologetic podcast citing scholarly evidence (Pe
 
 # Ward Radio - Brigham Young's Character with Dan Peterson
 
-**Host:** [[Greg Matson]] | **Guest:** Dr. [[Daniel Peterson]] | **Date:** ~2025 (post-August 2025 FAIR conference reference)
+**Host:** [[Greg Matsen]] | **Guest:** Dr. [[Daniel Peterson]] | **Date:** ~2025 (post-August 2025 FAIR conference reference)
 
 - Dr. Daniel Peterson defends Brigham Young as a good, sincere, loyal man whose rough edges were exaggerated by the [[Journal of Discourses]] and whose complex record on race, polygamy, and doctrine has been distorted by presentism and cherry-picking.
 - The same arguments against Brigham Young (character, polygamy, temple) were deployed in the 1850s by RLDS splinter groups and are now resurgent online, forming a "cycle" 160 years later.

@@ -29,8 +29,7 @@ so for generations.
 "*Bar elahin* is one, indefinite, and two, *elohim* is quite explicitly plural. It is a son of
 gods."[^1] Two independent grammatical features (the absence of a definite article and a plural
 noun) both cut against the Christological "the Son of God" reading retrojected by the KJV. Compare
-the LDS-friendly point that [[God Is a Multivalent Term in Latter-day Saint Scripture|"god/gods" is
-a multivalent term]].
+the LDS-friendly point that [[God Is a Multivalent Term in Latter-day Saint Scripture|"god/gods" is a multivalent term]].
 
 ### 2. The Portuguese-translation episode — rate: strong (first-hand)
 Supervising the church's 2015 Portuguese Bible, McClellan faced ecclesiastical reviewers who wanted
