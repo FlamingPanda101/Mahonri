@@ -13,6 +13,8 @@ After the Fall, Adam and Eve cover themselves with **fig leaves** (Gen 3:7) — 
 ## Used in
 - [[The Garment Is the Covering of Christ]]
 - [[Ward Radio - The Best Temple Prep Class You Never Had]]
+- [[The Garment Shares the Hebrew Word of the Priestly Vestments]] — *kothoneth* shared with the priestly vestments of Exodus 28
+- [[The First Temple Contained the Endowment Pattern Barker Reconstructed Independently]]
 
 ---
 See also: [[Scriptures]] · [[Genesis 3.14-19]] · [[The Garment Is the Covering of Christ]]

@@ -24,5 +24,7 @@ A short animated [[William Lane Craig|Craig]] explainer that lays out the Kalam 
 [^4]: [[drcraigvideos - The Kalam Cosmological Argument - Part 1 Scientific|Craig — Kalam (Scientific)]], [02:31], https://youtu.be/6CulBuMCLg0
 [^5]: [[drcraigvideos - The Kalam Cosmological Argument - Part 1 Scientific|Craig — Kalam (Scientific)]], [03:31], https://youtu.be/6CulBuMCLg0
 
+**Companion:** The philosophical case for the same second premise (Al-Ghazali's actual-infinite and successive-addition arguments) is covered in [[drcraigvideos - The Kalam Cosmological Argument - Part 2 Philosophical|Part 2 (Philosophical)]].
+
 ---
-See also: [[Sources Index]] · [[Apologetics]]
+See also: [[Sources Index]] · [[Apologetics]] · [[drcraigvideos - The Kalam Cosmological Argument - Part 2 Philosophical]]

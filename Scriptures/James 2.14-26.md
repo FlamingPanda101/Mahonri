@@ -19,6 +19,7 @@ Both LDS apologetics (faith + works) and Catholic apologetics (against *sola fid
 - [[James 2-24 - Justified by Works Not Faith Alone]]
 - [[James - Different Kind of Faith Reply Rebutted]]
 - [[James - Justification Before Men Reply Rebutted]]
+- [[Faith Alone Appears Once in Scripture and Is the Verse That Denies It]]
 
 ---
 See also: [[Scriptures]]

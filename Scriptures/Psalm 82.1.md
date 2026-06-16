@@ -17,3 +17,8 @@ tags:
 ## Used in
 - [[Septuagint Angelic Reinterpretation Is Anachronistic]]
 - [[Dan McClellan - Engaging Gavin Ortlund on Monotheism]]
+- [[The First Temple Contained the Endowment Pattern Barker Reconstructed Independently]] — the divine council as suppressed First-Temple theology
+- [[The Deuteronomists Edited Out the Pre-Existent Divine Messiah]]
+
+---
+See also: [[Scriptures]]

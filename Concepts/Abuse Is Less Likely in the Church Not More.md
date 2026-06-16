@@ -27,11 +27,16 @@ Critics charge that the Church of Jesus Christ of Latter-day Saints is *systemat
 ## LDS Connection
 Fife's argument is comparative and falsifiable: rather than denying that abuse ever occurs, he asks whether membership *raises or lowers* a child's risk relative to the alternatives — and answers that the Church's structure lowers it. This parallels his broader thesis (see [[Naturalistic Explanations Cannot Account for Collective Sacrifice]]) that critics consistently invert the Church's measurable strengths into alleged weaknesses. He grounds the moral stakes in Matthew 18:6 ("better for him that a millstone were hanged about his neck").[^4]
 
+## The same safeguards, contrasted with the celibate solo priest (Ward Radio Part 6)
+Ward Radio Part 6 makes the parallel structural argument while contrasting the LDS lay model with the Catholic *Spotlight* scandal: "Bishops must be married. Women staff half the leadership in a local ward. Interviews are always open to parents to attend. And clergy rotate every few years. There are no lifelong celibate single priests operating a solo diocese in the LDS Church." It adds that "kids are far more likely to be abused in public schools or scout troops or sports teams in locker rooms than they are in the LDS Church." See [[The Spotlight Analogy Equates a Celibate Cardinal With a Volunteer Bishop]], [[The Abuse Helpline Routes Bishops to Legal Compliance Not Cover-Up]], and [[The Reporting Catch-22 and the Johnson Case]].[^5][^6]
+
 ## References
 [^1]: [[Light and Truth Letter - Austin Fife|Light and Truth Letter (Fife, 2024)]], p.169.
 [^2]: [[Light and Truth Letter - Austin Fife|Light and Truth Letter (Fife, 2024)]], pp.169-170.
 [^3]: [[Light and Truth Letter - Austin Fife|Light and Truth Letter (Fife, 2024)]], pp.169-170.
 [^4]: [[Light and Truth Letter - Austin Fife|Light and Truth Letter (Fife, 2024)]], pp.170-171.
+[^5]: [[Ward Radio - The LDS Spotlight Scandal Part 6|WARD RADIO - The LDS Spotlight Scandal? (Part 6)]], [18:30]–[19:00], https://youtu.be/MFGNeNhl65s
+[^6]: [[Ward Radio - The LDS Spotlight Scandal Part 6|WARD RADIO - The LDS Spotlight Scandal? (Part 6)]], [19:00]–[19:30], https://youtu.be/MFGNeNhl65s
 
 ---
-See also: [[Concepts]] · [[Light and Truth Letter - Austin Fife]]
+See also: [[Concepts]] · [[Light and Truth Letter - Austin Fife]] · [[Ward Radio - The LDS Spotlight Scandal Part 6]]

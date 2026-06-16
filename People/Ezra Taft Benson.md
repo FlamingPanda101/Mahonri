@@ -32,10 +32,15 @@ deciding factor is not external proof but the book's transformative power, which
 the convergence evidence in its proper place. See
 [[Convergence Not Proof Is the Standard for Book of Mormon Historicity]].[^2]
 
+## Named in the SRA conspiracy roster (Ward Radio Part 5)
+
+Ward Radio Part 5 lists Benson as one of the LDS leaders the [[We Are the People Utah]] podcast accuses, without evidence, of involvement in satanic ritual abuse (alongside [[Russell M. Nelson]], [[Thomas Monson]], [[Gordon B. Hinckley]], and [[Neil A. Maxwell]]). See [[Accusations Cannot Transmute Into Evidence]].[^3]
+
 ## References
 
 [^1]: [[Holy Rebellion - Anachronisms DNA and Archaeology in the Book of Mormon|Holy Rebellion - Anachronisms DNA and Archaeology]], [120:00]-[120:31], https://youtu.be/J_bwYwApMfE
 [^2]: [[Holy Rebellion - Anachronisms DNA and Archaeology in the Book of Mormon|Holy Rebellion - Anachronisms DNA and Archaeology]], [120:00]-[120:31], https://youtu.be/J_bwYwApMfE
+[^3]: [[Ward Radio - The LDS Spotlight Scandal Part 5|WARD RADIO - The LDS Spotlight Scandal? (Part 5)]], [15:00]–[16:00], https://youtu.be/AgS48e3fTCc
 
 ---
 See also: [[People]] · [[Authority Ledger]]

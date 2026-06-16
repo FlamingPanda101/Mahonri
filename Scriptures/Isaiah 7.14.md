@@ -19,6 +19,7 @@ The prophecy was addressed to King Ahaz during a crisis: a coalition of northern
 
 - [[Isaiah 7.14 Virgin Birth Prophecy Is Mistranslated]]
 - [[Virgin Birth Is a Later Development in the Jesus Tradition]]
+- [[The Bible Was Transmitted and Canonized by Fallible Human Process]] — *alma*/*parthenos* as a theologically driven translation choice
 
 [^1]: [[Data Over Dogma - Prophecies Nativity and Sorry Apologetics|Data Over Dogma — Prophecies, Nativity, and Sorry Apologetics]], [11:00]-[11:30], https://youtu.be/VEfI1TgWVHY
 [^2]: [[Data Over Dogma - Prophecies Nativity and Sorry Apologetics|Data Over Dogma — Prophecies, Nativity, and Sorry Apologetics]], [11:30]-[12:03], https://youtu.be/VEfI1TgWVHY

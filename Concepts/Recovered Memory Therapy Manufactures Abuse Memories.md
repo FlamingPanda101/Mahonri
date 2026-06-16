@@ -6,6 +6,7 @@ related:
   - "[[Suggestive Interviewing Induces False Allegations]]"
 sources:
   - "[[Glenn L Pace Memo - The Satanic Panic and False Memory]]"
+  - "[[Ward Radio - The Fever Breaks]]"
 tags: [recovered-memory, false-memory, satanic-panic, psychology, tradition/lds]
 #type/rebuttal
 ---
@@ -32,6 +33,9 @@ Criminal psychologist [[Julia Shaw]] compares memory to artificial intelligence:
 ### 5. The technique became an industry then a tort (moderate)
 *Michelle Remembers* and Pazder's seminars trained police and social workers [^6]; today "false memory syndrome" (FMS) is grounds for malpractice lawsuits against therapists, cataloged by the FMS Foundation, with the list "growing every day" [^7].
 
+### 6. The method's own founder recanted (decisive — added from Part 4)
+Ward Radio Part 4 reports that [[Lawrence Pazder]] himself — who coined "satanic ritual abuse" — conceded in 1994 that the memories were "more an expression of the deep level of violation caused by abusive family members than actual accounts of satanic ritual abuse." The architect abandoning the literal claim is the strongest internal confirmation that the therapy manufactured rather than recovered. See [[Leading SRA Therapists Were Discredited Sued or Delicensed]] [^8].
+
 ## Best Quotes
 > "Memory is a reconstructive process that can be prone to errors or distortions during retrieval. False memories are not necessarily lies, and they aren't always intentionally produced." [^3]
 
@@ -47,6 +51,7 @@ Criminal psychologist [[Julia Shaw]] compares memory to artificial intelligence:
 [^5]: [[Glenn L Pace Memo - The Satanic Panic and False Memory|Glenn L Pace Memo - The Satanic Panic and False Memory]], [15:30], https://youtu.be/n6OilnPpBUA
 [^6]: [[Glenn L Pace Memo - The Satanic Panic and False Memory|Glenn L Pace Memo - The Satanic Panic and False Memory]], [08:00], https://youtu.be/n6OilnPpBUA
 [^7]: [[Glenn L Pace Memo - The Satanic Panic and False Memory|Glenn L Pace Memo - The Satanic Panic and False Memory]], [20:30], https://youtu.be/n6OilnPpBUA
+[^8]: [[Ward Radio - The Fever Breaks|WARD RADIO - The Fever Breaks]], [17:00]–[18:00], https://youtu.be/2UoN5ORSN20
 
 ---
-See also: [[Glenn L Pace Memo - The Satanic Panic and False Memory]] · [[Concepts]]
+See also: [[Glenn L Pace Memo - The Satanic Panic and False Memory]] · [[Ward Radio - The Fever Breaks]] · [[Concepts]]

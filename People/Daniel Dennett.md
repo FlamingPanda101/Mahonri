@@ -46,5 +46,9 @@ inconsistent: they want consciousness without a conscious first cause.
 
 See: [[Atheisms Four Bad Implications]], [[Consciousness and First Cause Problem for Atheism]].
 
+### The Universe Caused Itself (Rebutted)
+In [[William Lane Craig|Craig]]'s philosophical Kalam explainer, Dennett is cited as the atheist who answers "what caused the universe?" by saying the universe caused *itself*. Craig rebuts this as incoherent: "in order to cause itself to come into existence, the universe would have to exist before it existed."[^2] The cause must therefore be outside the universe — spaceless, timeless, immaterial, and powerful. See [[The Cause of the Universe Must Be Personal, Timeless, and Spaceless]].
+
 [^1]: [[Stick of Joseph - Atheism is Unreasonable and Stupid|Stick of Joseph - Atheism is Unreasonable and Stupid]], [37:31]–[38:01],
 https://youtu.be/aqOzROuIAHM
+[^2]: [[drcraigvideos - The Kalam Cosmological Argument - Part 2 Philosophical|Reasonable Faith - Kalam (Philosophical)]], [05:30], https://youtu.be/vybNvc6mxMo

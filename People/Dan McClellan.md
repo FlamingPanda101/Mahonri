@@ -73,6 +73,11 @@ He further argues the doctrine was **constructed over time** (mid-2nd to 5th cen
 - [[Divine Mediation Predates the New Testament]]
 - [[Name-Bearing Agency in Exodus 23]]
 
+## Deification — The Hansen vs. Stuckey Debate
+Reviewing the [[Allie Beth Stuckey - Are Mormons Christians - Jacob Hansen Debate|Stuckey vs. Hansen debate]] on whether the Bible teaches humans become gods, McClellan acts as a foil to *both* sides: he argues that deification is genuinely biblical (and more radical in the first century than in the creedal tradition), while faulting the evangelical for [[Putting Dogma Over Data|dogma over data]] on monotheism and the Latter-day Saint for arguing the way "Mormons talk to each other" rather than engaging the text. His distinctive contributions are a four-constellation method for sorting the debate, a warning that patristic theosis is a diluted version of the biblical doctrine, the advice to lead with John 10 rather than Revelation 3 or the fathers, and the Litwa case that created/non-creating gods were ordinary ancient theology.
+
+See [[The Four Constellations of Deification Belief]], [[Patristic Theosis Was Watered Down From the Biblical Version]], [[LDS Should Lead With John 10 Not Revelation 3 or Patristics]], and [[Created and Non-Creating Gods Were Staple Pre-Nicene Theology (Litwa)]]; source note [[Dan McClellan - The Bible Says We Will Become Gods]].
+
 ## Genesis 1 vs Genesis 2 (The Word Room Response)
 
 Responding to apologist [[The Word Room]]'s defense of the unity of the two creation accounts, McClellan argues the "zoom-in" harmonization fails: *eretz* defaults to "earth" without localizing markers (see [[Eretz Defaults to Earth Without Contextual Markers]]); "every bird of the sky" in Genesis 2:19 cannot be localized to Eden and contradicts day five (see [[Every Bird of the Sky Contradicts Day Five]], [[Wayyiqtol Cannot Be Pluperfect Without Close Literary Context]]); and the *toledot* formula plus the 2:4 chiasm are redactional stitching, not unity, per five recent commentaries by [[David Peterson]], [[Ron Hendel]], [[Jan Christian Gertz]], [[David Carr]], and [[Bill Arnold]] (see [[Toledot Formula Is a Redactional Bridge Not a Summary]], [[The Genesis 2-4 Chiasm Indicates Stitching Not Single Authorship]], [[Source Criticism Is Not Reducible to the Documentary Hypothesis]], [[Apologists Engage Pre-Digested Caricatures of Critical Scholarship]]).
@@ -83,6 +88,7 @@ Responding to apologist [[The Word Room]]'s defense of the unity of the two crea
 - [[Dan McClellan - Wes Huff Creation Ex Nihilo Response]] (YouTube, 2025)
 - [[Dan McClellan - Apologetics Cannot Rescue Biblical Contradictions]] (YouTube)
 - [[McClellan - The Fundamental Contradiction of the Trinity]] (YouTube)
+- [[Dan McClellan - The Bible Says We Will Become Gods]] (YouTube)
 
 ## Sources
 [^1]: [[Dan McClellan - Apologetics Cannot Rescue Biblical Contradictions|Dan McClellan — Apologetics Cannot Rescue Biblical Contradictions]], [17:32]–[18:31], https://youtu.be/58jtIUIRWGY

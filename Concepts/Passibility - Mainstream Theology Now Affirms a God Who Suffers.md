@@ -35,4 +35,4 @@ Latter-day Saint theology takes the biblical God's grief, anger, and compassion 
 [^8]: [[The Stick of Joseph - Are Christians Becoming Mormon with Brian Thomassen|Are Christians Becoming Mormon? (Thomassen)]], [25:30], https://youtu.be/x16lWOMXkYU
 
 ---
-See also: [[Concepts]] · [[The Stick of Joseph - Are Christians Becoming Mormon with Brian Thomassen]]
+See also: [[Concepts]] · [[The Stick of Joseph - Are Christians Becoming Mormon with Brian Thomassen]] · [[The Weeping God of Moses 7 Is Anthropocentric Not Theocentric]] · [[A Self-Limiting God - Reinterpreting Omniscience Omnipotence and Omnipresence]]

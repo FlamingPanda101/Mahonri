@@ -12,6 +12,9 @@ tags: [type/scripture, testament/new]
 ## Used in
 - [[Christ Became Man That We Might Become God - The Exchange Formula]] — listed among the seedbed deification texts
 - [[Theosis as Likeness and Union So Far as Possible]] — scriptural basis for the *theosis* tradition
+- [[LDS Should Lead With John 10 Not Revelation 3 or Patristics]] — McClellan calls this the defensible biblical proof text for deification
+- [[Created and Non-Creating Gods Were Staple Pre-Nicene Theology (Litwa)]] — Jesus' "you are gods" treated as data, not figure of speech
+- [[Patristic Theosis Was Watered Down From the Biblical Version]] — the radical 1st-century divinization here vs. the diluted patristic version
 
 ## References
 [^1]: [[Ancient Christians - An Introduction for Latter-day Saints|Ancient Christians (Maxwell Institute, 2022)]], pp. 373-374.

@@ -1,6 +1,6 @@
 ---
 title: "Sola Fide vs Faith Plus Ordinances"
-related: ["[[Priesthood Authority Is the Necessary But Not Sufficient Dividing Line]]", "[[Ephesians 2-8-9 - Saved by Grace Not Works Rebutted]]", "[[After All We Can Do Means Despite All We Can Do]]"]
+related: ["[[Priesthood Authority Is the Necessary But Not Sufficient Dividing Line]]", "[[Ephesians 2-8-9 - Saved by Grace Not Works Rebutted]]", "[[After All We Can Do Means In Spite of All We Can Do]]"]
 sources: ["[[Allie Beth Stuckey - Are Mormons Christians - Jacob Hansen Debate]]"]
 tags: [apologetics, christology, are-mormons-christians, topic/christology, grace]
 ---
@@ -12,7 +12,7 @@ tags: [apologetics, christology, are-mormons-christians, topic/christology, grac
 ## Evidence
 - Stuckey's exegesis is the classic *sola fide* reading of [[Ephesians 2-8-9 - Saved by Grace Not Works Rebutted|Ephesians 2:8-9]] plus total depravity (Ephesians 2:1-3): the dead cannot cooperate.
 - Hansen's reply is functionally Arminian on the human side — a freely accepted gift — which Stuckey notes "a lot of Protestants would believe," signaling the *real* divide is not Calvinism-vs-Arminianism but whether priesthood ordinances are *added* (see [[Priesthood Authority Is the Necessary But Not Sufficient Dividing Line]]).
-- The "after all we can do" rehabilitation in [[After All We Can Do Means Despite All We Can Do]] is Hansen's move to keep grace primary while preserving covenantal works.
+- The "after all we can do" rehabilitation in [[After All We Can Do Means In Spite of All We Can Do]] is Hansen's move to keep grace primary while preserving covenantal works.
 
 ## Best Quotes
 > "By grace through faith you have been saved, and this is not your own doing; it is a gift of God, not a result of works, so that no one can boast... Dead people can't reach." [^1]

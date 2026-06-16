@@ -2,7 +2,7 @@
 title: "Independent Justice Refutes Whatever God Does Is Good"
 related:
   - "[[The Euthyphro Dilemma Defeats Divine Command Theory]]"
-  - "[[Appeal to Mystery Empties the Word Good]]"
+  - "[[The Appeal to Mystery Empties the Word Good of Meaning]]"
   - "[[A Constrained God Solves the Problem of Evil Better Than Creedal Christianity]]"
 sources:
   - "[[The Stick of Joseph - Debate Breakdown Jacob Hansen vs James White]]"
@@ -17,7 +17,7 @@ The breakdown identifies the *load-bearing* disagreement of the whole debate: [[
 
 ## Evidence
 1. **White's position: God-defines-good by fiat.** "James White, he makes this case over and over and over again, that whatever God does is inherently good... If God does something unjust, well, now it's become just. It doesn't care. It's just the definition that you give it." [^1]
-2. **The empty-signifier diagnosis.** "Whatever God does by definition is good. It's an empty signifier... Put anything in that X." Once "good" means only "whatever God wills," moral language collapses and you "can't even talk about love cuz love is just anything God does." [^2] See [[Appeal to Mystery Empties the Word Good]].
+2. **The empty-signifier diagnosis.** "Whatever God does by definition is good. It's an empty signifier... Put anything in that X." Once "good" means only "whatever God wills," moral language collapses and you "can't even talk about love cuz love is just anything God does." [^2] See [[The Appeal to Mystery Empties the Word Good of Meaning]].
 3. **The LDS counter: justice is independent.** "The differentiation is justice exists outside of God. It's not just whatever God says is just... justice exists on an independent principle." The canon's repeated refrain — God "would cease to be God" if he destroyed justice ([[Alma 42.13|Alma 42]]) — only makes sense if justice is a standard God *conforms to*, not one he invents. [^3]
 4. **The room couldn't tolerate definitions.** Tellingly, the audience grew angry when Hansen simply *defined* a word (love, justice) without quoting a verse — revealing a framework in which words have no fixed meaning apart from proof-texts, the very move that lets "good" float free. [^4] See [[The Euthyphro Dilemma Defeats Divine Command Theory]].
 

@@ -20,6 +20,7 @@ Salvation is by grace **through faith** — and faith that is real *demonstrates
 ## Used in
 - [[Ephesians 2-8-9 - Saved by Grace Not Works Rebutted]]
 - [[Initial vs Ongoing Justification]] — Catholic reading (initial justification by grace alone)
+- [[Paul Read Whole Rejects the Law of Moses Not Good Works]] — LDS reading (read with v.10)
 
 ---
 See also: [[Scriptures]] · [[WardRadio - Top 9 Misconstrued Scriptures]]

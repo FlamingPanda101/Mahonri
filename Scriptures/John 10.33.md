@@ -21,6 +21,7 @@ This confirms the Jews are accusing Jesus of claiming to be divine (a god), not 
 
 ## Used in
 - [[John 10-33 - Making Yourself God (Missing Article)]]
+- [[LDS Should Lead With John 10 Not Revelation 3 or Patristics]] — the anarthrous *theos* ("a god," not "the God of Israel") per McClellan on the Hansen–Stuckey debate
 
 ## Sources
 [^1]: [[Data Over Dogma - Is Jesus God in the Gospel of John?]], [35:31]-[36:00], https://youtu.be/K0kobJi-sLI

@@ -16,7 +16,7 @@ tags:
 
 ## The Claim
 
-[[Dan McClellan]] locates the origin of **sola scriptura** in a power struggle, not a fresh exegetical discovery. Because the medieval fourfold sense (see [[The Fourfold Medieval Sense of Scripture]]) left meaning "kind of up in the air," the church became the "ultimate authority" over interpretation, which "endows the institution with an awful lot of authority, an awful lot of power." [^1] The Reformers pushed back by insisting "the sense needs to be located in the actual text itself," collapsing the four senses toward the text. "Sola scriptura comes out of the Reformation period and the rhetoric against the church's authority." [^2]
+[[Dan McClellan]] locates the origin of **sola scriptura** in a power struggle, not a fresh exegetical discovery. Because the medieval fourfold sense (see [[The Fourfold Sense of Scripture]]) left meaning "kind of up in the air," the church became the "ultimate authority" over interpretation, which "endows the institution with an awful lot of authority, an awful lot of power." [^1] The Reformers pushed back by insisting "the sense needs to be located in the actual text itself," collapsing the four senses toward the text. "Sola scriptura comes out of the Reformation period and the rhetoric against the church's authority." [^2]
 
 ## Supporting Evidence
 

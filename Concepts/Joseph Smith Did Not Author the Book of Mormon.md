@@ -2,7 +2,7 @@
 title: "Joseph Smith Did Not Author the Book of Mormon"
 related:
   - "[[Book of Mormon as American Pseudepigrapha]]"
-  - "[[After All We Can Do Means Despite All We Can Do]]"
+  - "[[After All We Can Do Means In Spite of All We Can Do]]"
 sources:
   - "[[Mormon Book Reviews - 40 Questions about Mormonism with Kyle Beshears]]"
 tags: [apologetics, book-of-mormon, authorship, joseph-smith, tradition/evangelical]

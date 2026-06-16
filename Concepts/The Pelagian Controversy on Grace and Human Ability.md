@@ -4,7 +4,7 @@ scripture: "[[Ephesians 2.8-10|Ephesians 2:8-10]]"
 related:
   - "[[The Pelagianism Erratum]]"
   - "[[Original Sin Was a Late Western Development]]"
-  - "[[After All We Can Do Means Despite All We Can Do]]"
+  - "[[After All We Can Do Means In Spite of All We Can Do]]"
   - "[[Grace Is Unconditional Love Not an Earned Wage]]"
 sources:
   - "[[Ancient Christians - An Introduction for Latter-day Saints]]"
@@ -29,7 +29,7 @@ In the late 4th–early 5th century, Augustine of Hippo and the monk Pelagius di
 > "This grace of Christ, without which neither infants nor grown persons can be saved, is not bestowed as a reward for merits, but is given freely, which is why it is called grace." — Augustine [^4]
 
 ## LDS Connection
-Latter-day Saints sit between the poles and consciously so. Peek notes some Latter-day Saints, "wary of cheap grace," emphasize works and the real transformative effects of the Atonement, while others warn that overemphasizing works yields "toxic perfectionism." [^5] The LDS reading of [[2 Nephi 25.23|"after all we can do"]] (see [[After All We Can Do Means Despite All We Can Do]]) is essentially an attempt to honor Augustine's free, internal grace *without* Pelagian self-salvation or the doctrine of total inability. Robinson's *Believing Christ* and Uchtdorf's "The Gift of Grace" are cited by Peek as modern LDS contributions to this very current. [^5]
+Latter-day Saints sit between the poles and consciously so. Peek notes some Latter-day Saints, "wary of cheap grace," emphasize works and the real transformative effects of the Atonement, while others warn that overemphasizing works yields "toxic perfectionism." [^5] The LDS reading of [[2 Nephi 25.23|"after all we can do"]] (see [[After All We Can Do Means In Spite of All We Can Do]]) is essentially an attempt to honor Augustine's free, internal grace *without* Pelagian self-salvation or the doctrine of total inability. Robinson's *Believing Christ* and Uchtdorf's "The Gift of Grace" are cited by Peek as modern LDS contributions to this very current. [^5]
 
 ## References
 [^1]: [[Ancient Christians - An Introduction for Latter-day Saints|Ancient Christians (Maxwell Institute, 2022)]], pp. 359-360.

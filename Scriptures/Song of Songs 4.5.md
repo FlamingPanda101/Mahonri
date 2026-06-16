@@ -17,6 +17,6 @@ tags:
 A representative line of the Song's frank erotic poetry, in which the lover praises the beloved's body. Because the plain sense is sexual, pre-modern interpreters refused to "champion the plain sense of this erotic poetry," reading it instead christologically and ecclesially — as Christ's love for the church — under the medieval fourfold sense. The verse is McClellan's example of a text where literalists themselves abandon the literal reading.
 
 ## Used in
-- [[The Fourfold Medieval Sense of Scripture]]
+- [[The Fourfold Sense of Scripture]]
 - [[The Threshold Problem - Where to Draw the Literal-Figurative Line]]
 - [[Data Over Dogma - Biblical Literalism Whats That]]

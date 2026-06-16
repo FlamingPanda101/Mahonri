@@ -40,10 +40,16 @@ This framework — where "non-being" means formless matter, not nothing — is p
 
 Aristotle explicitly rejected the possibility of creation from nothing. For Aristotle, *ex nihilo nihil fit* — nothing comes from nothing. Matter is eternal, and all "coming into being" involves pre-existing material. This axiom governed virtually all Greco-Roman philosophical thought until Tatian and Theophilus broke with it in the late 2nd century CE.
 
+## The Eternal Universe (al-Ghazali's Target)
+Aristotle held that the universe is **eternal in the past** — it never began to exist. In [[William Lane Craig|Craig]]'s philosophical Kalam explainer, this is the very view the medieval theologian [[Al-Ghazali]] set out to refute: "Aristotle believed the universe was eternal in the past, but Al Ghazali disagreed," arguing that a beginningless universe would entail an actually infinite number of past events, which is metaphysically impossible.[^kalam] See [[Hilbert's Hotel - Why an Actual Infinite Cannot Exist]] and [[An Actual Infinite Cannot Be Formed by Successive Addition]].
+
+[^kalam]: [[drcraigvideos - The Kalam Cosmological Argument - Part 2 Philosophical|Reasonable Faith - Kalam (Philosophical)]], [00:09], https://youtu.be/vybNvc6mxMo
+
 ## Key Topics
 
 - [[Greco-Roman Jewish Creation View Was Material Substrate]]
 - [[2 Maccabees 7.28 Does Not Teach Creation Ex Nihilo]]
 - [[Philo Did Not Endorse Creation Ex Nihilo]]
+- [[Hilbert's Hotel - Why an Actual Infinite Cannot Exist]]
 
 [^1]: [[Dan McClellan - Wes Huff Creation Ex Nihilo Response|Dan McClellan - Wes Huff Creation Ex Nihilo Response]], [16:02]-[16:30], https://youtu.be/VxpTLp6jCLI

@@ -15,6 +15,7 @@ tags: [type/scripture, testament/new, topic/judgment, topic/eschatology, topic/s
 
 ## Used in
 - [[First-Century Christianity Was Consumed by Eschatological Anxiety]]
+- [[Jesus Taught Salvation Involves Doing Not Faith Alone]]
 
 ---
 See also: [[Scriptures]] · [[Ancient Christians - An Introduction for Latter-day Saints]]

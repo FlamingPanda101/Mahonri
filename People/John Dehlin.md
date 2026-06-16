@@ -19,11 +19,15 @@ Hansen calls Dehlin "very clearly" an anti-Mormon — his channel is "literally 
 ## Pynakker's view: a reformer who platforms faith
 Pynakker resists "wants to destroy the church" as "dangerous language," likening Dehlin to internal Catholic critics (Gary Wills) and to the Tanners — critics who "want to stay and reform." [^3] He credits Dehlin with good-faith outreach: a Mormon Stories episode (Dr. Christopher Thomas, *A Pentecostal Reads the Book of Mormon*) is what returned Pynakker himself to faith — "if that episode did not air... I'm probably still an atheist." [^4] Pynakker reports off-camera conversations in which ex-Mormon hosts grant the church is "a net positive," and offers to facilitate a Hansen–Dehlin (or Hansen–[[Kolby Reddish]]) dialogue.
 
+## Confession-room accusations (Ward Radio Part 6)
+Ward Radio Part 6 names Dehlin's Mormon Stories as the channel that exploits the confidentiality of LDS clergy interviews: because no one can verify "what actually happens in those confession rooms" and the bishop is oath-bound to silence, an accusation like "he asked about my underwear" is "an excellent, unverifiable, unfalsifiable accusation that [Dehlin] can lob ad infinitum." The episode frames this as a one-way street weaponizing confessional privilege against volunteer lay clergy. See [[Confessional Privilege Creates a One-Way Street for Accusations]].[^5]
+
 ## References
 [^1]: [[Thoughtful Faith - Who Are the REAL Anti-Mormons|Thoughtful Faith - Real Anti-Mormons]], [29:00], https://youtu.be/EQzNzI4sO3I
 [^2]: [[Thoughtful Faith - Who Are the REAL Anti-Mormons|Thoughtful Faith - Real Anti-Mormons]], [30:04], https://youtu.be/EQzNzI4sO3I
 [^3]: [[Thoughtful Faith - Who Are the REAL Anti-Mormons|Thoughtful Faith - Real Anti-Mormons]], [71:31], https://youtu.be/EQzNzI4sO3I
 [^4]: [[Thoughtful Faith - Who Are the REAL Anti-Mormons|Thoughtful Faith - Real Anti-Mormons]], [49:30], https://youtu.be/EQzNzI4sO3I
+[^5]: [[Ward Radio - The LDS Spotlight Scandal Part 6|WARD RADIO - The LDS Spotlight Scandal? (Part 6)]], [17:00]–[17:45], https://youtu.be/MFGNeNhl65s
 
 ---
 See also: [[People]] · [[Jacob Hansen]] · [[Steven Pynakker]] · [[Thoughtful Faith - Who Are the REAL Anti-Mormons]]

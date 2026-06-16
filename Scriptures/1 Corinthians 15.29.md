@@ -13,6 +13,7 @@ The single New Testament reference to **baptism for the dead**. In *Ancient Chri
 ## Used in
 - [[1 Corinthians 15.29 Points to an Actual Rite of Baptism for the Dead]]
 - [[Marcionites Practiced Proxy Baptism for the Unbaptized Dead]]
+- [[Every Person Gets a Fair Opportunity Through Proxy Ordinances]]
 
 ---
 See also: [[Scriptures]] · [[Romans 6.3-4]] · [[1 Corinthians 15.21-22]]

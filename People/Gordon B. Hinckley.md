@@ -43,5 +43,10 @@ is embarrassed by its own doctrinal distinctives. LDS apologists counter that
 Hinckley was speaking carefully to a non-Mormon audience and that the doctrine of
 exaltation remains core LDS teaching (see [[Human Deification in Mormonism]]).
 
+## Named in the SRA conspiracy roster (Ward Radio Part 5)
+
+Ward Radio Part 5 lists Hinckley as one of the LDS leaders the [[We Are the People Utah]] podcast accuses, without evidence, of involvement in satanic ritual abuse (alongside [[Russell M. Nelson]], [[Ezra Taft Benson]], [[Thomas Monson]], and [[Neil A. Maxwell]]). See [[Accusations Cannot Transmute Into Evidence]].[^3]
+
 [^1]: [[Benjamin Park - Did Joseph Smith Teach Men Can Become God|Benjamin Park - Did Joseph Smith Teach Men Can Become God?]], [21:14], https://youtu.be/sKQeEuCEgyY
 [^2]: [[Benjamin Park - Did Joseph Smith Teach Men Can Become God|Benjamin Park - Did Joseph Smith Teach Men Can Become God?]], [21:14-21:33], https://youtu.be/sKQeEuCEgyY
+[^3]: [[Ward Radio - The LDS Spotlight Scandal Part 5|WARD RADIO - The LDS Spotlight Scandal? (Part 5)]], [15:00]–[16:00], https://youtu.be/AgS48e3fTCc

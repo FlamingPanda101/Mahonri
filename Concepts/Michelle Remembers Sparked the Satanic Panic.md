@@ -6,6 +6,7 @@ related:
   - "[[The Satanic Panic Was Driven by Financial and Reputational Incentives]]"
 sources:
   - "[[Glenn L Pace Memo - The Satanic Panic and False Memory]]"
+  - "[[Ward Radio - The Glenn L Pace Memo Debunked]]"
 tags: [satanic-panic, michelle-remembers, recovered-memory, sra, tradition/lds]
 #type/claim
 ---
@@ -29,6 +30,9 @@ Smith "carefully managed to only implicate her mother by name" — a mother who 
 ### 4. Media amplification (strong)
 The book hit just as the talk-show era erupted; Smith and Pazder appeared on Oprah, Donahue, and Geraldo Rivera, whose devil-worship special reached **20 million homes** [^5]. See [[The Satanic Panic Was Driven by Financial and Reputational Incentives]].
 
+### 5. It supplied the template later texts copied (strong — added from Part 3)
+Ward Radio Part 3 shows the book's downstream reach: its "oath to the devil," doctrinal-inversion, and especially the arbitrary **"coven of 13"** became stock motifs reproduced in [[Mike Warnke]]'s *The Satan Seller*, *The Satanic Underground*, and the 1990 [[Glenn L. Pace]] memo. An AI stylometric comparison ranked *Michelle Remembers* as the single largest influence on the memo's language. See [[The Pace Memo Recycled Existing Satanic Panic Tropes]] [^7].
+
 ### Steelman
 A defender might say trauma victims often cannot corroborate childhood abuse and that absence of evidence is not evidence of absence. The rebuttal: an 81-day public ritual and years of "captivity" make *specific, checkable* predictions (missing persons, mail, school absence) that all failed — this is not ordinary unverifiable trauma but actively falsified claims.
 
@@ -46,6 +50,7 @@ A defender might say trauma victims often cannot corroborate childhood abuse and
 [^4]: [[Glenn L Pace Memo - The Satanic Panic and False Memory|Glenn L Pace Memo - The Satanic Panic and False Memory]], [07:01], https://youtu.be/n6OilnPpBUA
 [^5]: [[Glenn L Pace Memo - The Satanic Panic and False Memory|Glenn L Pace Memo - The Satanic Panic and False Memory]], [07:31], https://youtu.be/n6OilnPpBUA
 [^6]: [[Glenn L Pace Memo - The Satanic Panic and False Memory|Glenn L Pace Memo - The Satanic Panic and False Memory]], [08:00], https://youtu.be/n6OilnPpBUA
+[^7]: [[Ward Radio - The Glenn L Pace Memo Debunked|WARD RADIO - The Glenn L. Pace Memo Debunked]], [14:30]–[17:30], https://youtu.be/seoBzqPPXxU
 
 ---
-See also: [[Glenn L Pace Memo - The Satanic Panic and False Memory]] · [[Concepts]]
+See also: [[Glenn L Pace Memo - The Satanic Panic and False Memory]] · [[Ward Radio - The Glenn L Pace Memo Debunked]] · [[Concepts]]

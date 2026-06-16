@@ -56,3 +56,8 @@ Across the denominational spectrum, mainstream Christian scholars and theologian
 [^5]: [[Ward Radio - Is Mainstream Christianity Accidentally Becoming Mormon|Ward Radio — Is Mainstream Christianity Accidentally Becoming Mormon?]], [01:31]–[02:01], https://youtu.be/kemS5Ql64EE
 [^6]: [[Ward Radio - Is Mainstream Christianity Accidentally Becoming Mormon|Ward Radio — Is Mainstream Christianity Accidentally Becoming Mormon?]], [03:01]–[03:31], https://youtu.be/kemS5Ql64EE
 [^7]: [[Ward Radio - Is Mainstream Christianity Accidentally Becoming Mormon|Ward Radio — Is Mainstream Christianity Accidentally Becoming Mormon?]], [03:31]–[04:00], https://youtu.be/kemS5Ql64EE
+
+---
+**Related (another source):** [[Terrell Givens|Terryl Givens]], in the Keystone interview [[Keystone - LDS Scholar This Is Where Christianity Went Wrong|This Is Where Christianity Went Wrong]], makes the same convergence claim but names a key limit — [[Premortality Is the One LDS Doctrine Mainstream Christianity Will Not Move Toward|premortality is the one doctrine the mainstream will not move toward]].
+
+See also: [[Concepts]] · [[Convergence of Mainstream Christianity Toward LDS Doctrines]]

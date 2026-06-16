@@ -5,7 +5,7 @@ tags: [moc]
 
 # Apologetics — Map of Content
 
-Auto-generated index. **325 sources** ingested. Browse Concepts / Scriptures / People folders or the graph; author tiers in [[Authority Ledger]]; channels in [[Sources Index]].
+Auto-generated index. **326 sources** ingested. Browse Concepts / Scriptures / People folders or the graph; author tiers in [[Authority Ledger]]; channels in [[Sources Index]].
 
 ## Sources Ingested
 
@@ -204,6 +204,7 @@ Auto-generated index. **325 sources** ingested. Browse Concepts / Scriptures / P
 | [[Saints Unscripted - Responding to 5 Changes to the Book of Mormon]] | C | book-of-mormon, christology, joseph-smith, revelation, textual-criticism, translation |
 | [[Salty Saints - The Apologist Playbook for LDS Men]] | C | apologetic-method |
 | [[Sola Media - Reformers or Revolutionaries Why the Church Needed the Reformation]] | C | church-history, reformation |
+| [[Sources]] | ? |  |
 | [[Stand Firm - Three Holes in Creedal Christianity the Restored Gospel Fills]] | C | atheism, biblical-inerrancy, divine-omnipotence, fine-tuning, personal-revelation |
 | [[Stealing from God - Frank Turek]] | C | apologetics, atheism, existence-of-god |
 | [[Stephen Meyer Debates Peter Atkins on Unbelievable]] | B | existence-of-god, intelligent-design |

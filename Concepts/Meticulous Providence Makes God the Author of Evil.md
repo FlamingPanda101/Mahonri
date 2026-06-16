@@ -4,7 +4,7 @@ scripture: "[[Jeremiah 18.7-10|Jeremiah 18:7-10]]"
 related:
   - "[[Simple Foreknowledge Makes God a Prisoner Not Sovereign]]"
   - "[[The Calvinist God Cannot Love Because He Controls Everything]]"
-  - "[[Appeal to Mystery Empties the Word Good]]"
+  - "[[The Appeal to Mystery Empties the Word Good of Meaning]]"
 sources:
   - "[[Thoughtful Faith - Is the Calvinist God a Moral Monster (Debate Prep with Blake Ostler)]]"
 tags: [problem-of-evil, predestination, calvinism, skeptical-theism, tradition/lds]
@@ -19,7 +19,7 @@ The consistent Calvinist holds that God sovereignly *decrees* all that comes to 
 ## The Rebuttal
 1. **Decree-plus-causation makes God the direct cause of every atrocity** — rate: the central moral indictment. [[Blake Ostler]]: on this view "he caused thousands of little babies to be raped and murdered... It's a direct result of his choice. He declared it to be so." Likewise God "declared that certain people would go to heaven and certain people would go into eternal torment... He simply decrees it, and it follows from what he says, so it's God doing it directly." *(moral)* [^2]
 2. **"Meticulous providence" vs. mere "pre-ordination"** — rate: a useful precise distinction. The problem attaches specifically to "what I call *meticulous providence* where everything is a result of God's *predestination*, not pre-ordination — where God is actually *bringing it about* rather than leaving it to flourish outside of his causal control." *(conceptual)* [^3]
-3. **The mystery escape leads to moral quietism** — rate: a sharp consequence argument. The Calvinist's only exit is "God has some reason I can't fathom." But that reasoning ("whatever happens is for the greater good; God knows why, I don't") yields *moral quietism*: "no matter what I do, it's all in God's plan and all for the best. So why fight it?" — paralyzing ethics. *(reductio)* [^4] See [[Appeal to Mystery Empties the Word Good]].
+3. **The mystery escape leads to moral quietism** — rate: a sharp consequence argument. The Calvinist's only exit is "God has some reason I can't fathom." But that reasoning ("whatever happens is for the greater good; God knows why, I don't") yields *moral quietism*: "no matter what I do, it's all in God's plan and all for the best. So why fight it?" — paralyzing ethics. *(reductio)* [^4] See [[The Appeal to Mystery Empties the Word Good of Meaning]].
 4. **Limited scope of the critique** — rate: intellectually honest qualifier. Ostler notes this objection "doesn't work for skeptical theism in general," only for views with *meticulous providence*; he is not claiming all theodicy collapses, only the Calvinist version. *(scope)* [^5]
 
 **Steelman of the Reformed view:** Calvinists distinguish God's *decretive* will from his *moral* will and invoke *primary/secondary causation*: God ordains that evil occur (for good ends) without himself being the *moral agent* who sins — the creature does the evil "freely" (compatibilistically) and bears the guilt, as Joseph tells his brothers "ye thought evil... but God meant it unto good" (Gen 50:20). God is thus the author of the *plan*, not of *sin*. Ostler's rejoinder: if God *causally brings about* the babies' murder via the rapist whom he also determined, the primary/secondary distinction is a verbal screen — the buck stops with the being who decreed and effected the act — and appealing to inscrutable "good ends" is the quietism-generating move he has already rebutted.

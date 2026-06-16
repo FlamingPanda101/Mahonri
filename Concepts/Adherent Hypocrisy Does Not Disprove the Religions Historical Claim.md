@@ -1,18 +1,18 @@
 ---
-title: "Adherent Hypocrisy Does Not Disprove the Religion's Historical Claim"
+title: "Adherent Hypocrisy Does Not Disprove the Religions Historical Claim"
 related:
   - "[[The Genetic Fallacy Against Religious Origins]]"
   - "[[Dying for a Belief Proves Sincerity Not Truth]]"
   - "[[One Anachronism Does Not Disprove the Book of Mormon]]"
 sources:
-  - "[[Lets Talk w Hayden Carroll - Student on Protestant Teachings]]"
+  - "[[Lets Talk w Hayden Carroll - Curious Student Cant Fathom Protestant Christian Teachings]]"
 tags:
   - "#apologetics/grace"
   - "#tradition/lds"
   - "#type/claim"
 ---
 
-# Adherent Hypocrisy Does Not Disprove the Religion's Historical Claim
+# Adherent Hypocrisy Does Not Disprove the Religions Historical Claim
 
 #type/claim
 

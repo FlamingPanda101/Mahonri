@@ -21,7 +21,7 @@ Beshears frames his work as occupying the center between anti-Mormon caricature 
 He argues Mormonism is not a cult in the popular sense and that calling members "cultists" is counterproductive. See [[Mormonism Is Not a Cult]], [[Calling Someone a Cultist Is Counterproductive]], [[Cult and Evangelical Are Both Loaded Words]].
 
 ## On the Book of Mormon
-He denies [[Joseph Smith]] authored it yet calls it "American Pseudepigrapha," not ancient scripture, and reads "after all we can do" as "despite all we can do." See [[Book of Mormon as American Pseudepigrapha]], [[Joseph Smith Did Not Author the Book of Mormon]], [[After All We Can Do Means Despite All We Can Do]], [[Could God vs Would God on the Book of Mormon]].
+He denies [[Joseph Smith]] authored it yet calls it "American Pseudepigrapha," not ancient scripture, and reads "after all we can do" as "despite all we can do." See [[Book of Mormon as American Pseudepigrapha]], [[Joseph Smith Did Not Author the Book of Mormon]], [[After All We Can Do Means In Spite of All We Can Do]], [[Could God vs Would God on the Book of Mormon]].
 
 ## On whether Mormons are Christian
 He refuses a black-and-white answer, distinguishing the institution's departure from orthodoxy from individuals in "potential or actual communion with Christ." See [[Are Mormons Christian (Beshears)]], [[Different Jesus Both Uncharitable and Precisely True]].

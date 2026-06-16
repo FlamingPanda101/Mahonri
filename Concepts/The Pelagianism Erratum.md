@@ -3,7 +3,7 @@ title: "The Pelagianism Erratum"
 scripture:
   - "[[2 Nephi 25.23|2 Nephi 25:23]]"
 related:
-  - "[[After All We Can Do Means Despite All We Can Do]]"
+  - "[[After All We Can Do Means In Spite of All We Can Do]]"
   - "[[Faith and Works - Two Blades of the Scissors]]"
   - "[[Are Latter-day Saints Christians]]"
 sources:
@@ -28,7 +28,7 @@ Asked what he would change about his book, [[Kyle Beshears]] singles out his hav
 
 2. **The accurate picture: agency plus the effects of the fall.** "Latter-day Saints take seriously the effect of the fall on human agency while also trying to maximize a respect for agency at the same time." [^2] *Rating: strong;* it captures the LDS both/and — the Fall genuinely impairs humanity, yet moral agency is preserved and prized.
 
-3. **No salvation without grace/the church.** "There's no Latter-day Saint that I'm aware of that believes if a human being was born, they would by their own volition and agency absent the church be able to be received into celestial glory. And I'm afraid that that's what I implied." [^3] *Rating: strong;* this is the crux — exaltation requires Christ's atonement and ordinances, which is precisely why "Pelagian" was the wrong label (cf. [[After All We Can Do Means Despite All We Can Do]], [[2 Nephi 25.23|2 Nephi 25:23]]).
+3. **No salvation without grace/the church.** "There's no Latter-day Saint that I'm aware of that believes if a human being was born, they would by their own volition and agency absent the church be able to be received into celestial glory. And I'm afraid that that's what I implied." [^3] *Rating: strong;* this is the crux — exaltation requires Christ's atonement and ordinances, which is precisely why "Pelagian" was the wrong label (cf. [[After All We Can Do Means In Spite of All We Can Do]], [[2 Nephi 25.23|2 Nephi 25:23]]).
 
 4. **A case study in his "bilingual" humility.** Beshears frames the error as a failure to get the LDS "idiom" right while learning to speak "Latter-day Saint-ese," and notes he maintains a public *errata* on his website for exactly such corrections. [^4][^5] *Rating: moderate;* it models the intellectual honesty his method preaches (he attributes most of his missteps to pride/seeking approval). [^6]
 

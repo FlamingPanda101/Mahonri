@@ -15,6 +15,8 @@ Psalm 82 depicts a divine council where God presides over other divine beings (*
 
 ## Used in
 - [[John 10-33 - Making Yourself God (Missing Article)]]
+- [[LDS Should Lead With John 10 Not Revelation 3 or Patristics]] — defensible only in Jesus' mouth (John 10), not appealed to directly in the Hebrew
+- [[The Four Constellations of Deification Belief]]
 
 ## Cross-references
 - [[John 10.33|John 10:33]] — Jesus cites this verse in his defense

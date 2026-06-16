@@ -13,6 +13,7 @@ Jesus makes **doing the Father's will**, not mere verbal confession ("Lord, Lord
 - [[Orthopraxy over Orthodoxy in LDS Salvation]]
 - [[The Three Ds Rubric Diagnoses Anti-Mormonism as Bigotry]]
 - [[Ward Radio - Debunking David Lattings Attack on Maddy Packer]]
+- [[Jesus Taught Salvation Involves Doing Not Faith Alone]]
 
 ## References
 [^1]: [[Ward Radio - Debunking David Lattings Attack on Maddy Packer|Ward Radio - Defending Maddy Packer]], [29:32], https://youtu.be/yC3nxj-eHbM

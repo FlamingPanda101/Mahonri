@@ -3,7 +3,7 @@ title: "Book of Mormon as American Pseudepigrapha"
 scripture: "[[Moroni 10.4-5|Moroni 10:4-5]]"
 related:
   - "[[Joseph Smith Did Not Author the Book of Mormon]]"
-  - "[[After All We Can Do Means Despite All We Can Do]]"
+  - "[[After All We Can Do Means In Spite of All We Can Do]]"
   - "[[Could God vs Would God on the Book of Mormon]]"
 sources:
   - "[[Mormon Book Reviews - 40 Questions about Mormonism with Kyle Beshears]]"

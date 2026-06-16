@@ -27,6 +27,7 @@ These are the natural entry points for ASK mode.
 3. Find orphan notes (no links) → link into a MOC or flag for review.
 4. Find broken `[[links]]` (to nonexistent notes) → fix or create stubs.
 5. Log what you merged/fixed in `99-meta/log.md`.
+6. **Debate-map upkeep:** review `Concepts/Debate - *.md` for topics touched by recent sources — add any new claim/objection/rebuttal, link the new note, name its tier; flag new-map candidates in `99-meta/Open Questions.md`.
 
 ## Note templates
 **SOURCE:** YAML(`aliases`, tags `#source/<video|article|book>` + `#by/<author>`, `date`, `author`, `url`, `authority`, `authority_reason`) · 3-bullet summary · `[[concept links]]`
@@ -74,6 +75,14 @@ say so rather than inventing one. Scripture references cite chapter:verse direct
    page numbers from the `[p.N]` markers, and dedup against existing notes.
 4. Log progress in `99-meta/log.md` after each chunk so a long book can resume across sessions.
 Never try to process a 300-page book in one pass — work it in chapter-sized chunks.
+
+## Build-pipeline operations (hard-won lessons — 2026-06)
+- **Transcripts:** `get-yt-transcript.py` (caption API) is first choice but rate-limits (~16–22 fetches per IP) and returns NOTHING for some videos. For those, the AUTO-caption track usually still exists — fetch it with `yt-dlp --write-auto-sub --sub-langs "en.*" --sub-format json3 --skip-download -o "<scripts>/transcripts/%(id)s.%(ext)s" <url>`, then `json3-to-txt.py <id>.en.json3 > <id>.txt` (json3 = discrete events, no rolling-duplication; emits the `[MM:SS]` format). ⚠ yt-dlp is ALSO IP-rate-limited — after ~10–20 calls YouTube returns `HTTP 429` + "Sign in to confirm you're not a bot"; pace with `--sleep-requests 1` and ROTATE THE VPN when blocked (one fresh small-country IP clears it). Browser cookies are NOT a workaround on this machine (Firefox not installed; Chrome/Edge fail with Windows DPAPI / app-bound cookie encryption). Truly unbuildable only if `yt-dlp --list-subs` shows no English auto-caption at all.
+- **VPN:** the whole machine routes through Proton, so rotating the VPN mid-build kills in-flight agents (ECONNRESET). Prefetch ALL transcripts first, then hold the VPN steady (or disconnect) during note-writing.
+- **Concurrency:** >~12–16 parallel build agents trips an upstream rate-limit that fails the tail of a wave. Keep waves ≤~8; re-spawn missing ones in 4-agent batches. After a wave, gap-check: for each queued ID, grep `Sources/`; re-spawn any missing.
+- **Agent file tools:** Glob FAILS from a subagent's cwd — use `ls`/Grep with ABSOLUTE paths + FORWARD SLASHES.
+- **Content filter:** quoting graphic violence (e.g. the Nephi/Laban account) can block an agent's OUTPUT mid-run — summarize violence clinically and keep the agent's final report terse.
+- **Scripture near-misses:** `analyze-broken-links.py` category C fuzzy-matches DIFFERENT verses (e.g. Matthew 5.39→5.13). Never auto-retarget a scripture link; create the missing verse note instead.
 
 ---
 See also: [[Home]]

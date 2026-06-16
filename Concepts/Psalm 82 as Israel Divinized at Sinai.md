@@ -43,5 +43,7 @@ McClellan is appropriately tentative: he says *if* the author "has this in mind,
 [^3]: [[Dan McClellan - I and the Father Are One John 10 Trinity Rebuttal|Dan McClellan - I and the Father Are One (John 10) Trinity Rebuttal]], [13:00], https://youtu.be/7Z1_HRuEIvo
 [^4]: [[Dan McClellan - I and the Father Are One John 10 Trinity Rebuttal|Dan McClellan - I and the Father Are One (John 10) Trinity Rebuttal]], [13:00], https://youtu.be/7Z1_HRuEIvo
 
+McClellan returns to this reading in his commentary on the Hansen–Stuckey debate, where he urges Latter-day Saints to make [[John 10.34-36|John 10:34-36]] their lead proof text precisely because John's logos/divinization soteriology gives "ye are gods" its force — see [[LDS Should Lead With John 10 Not Revelation 3 or Patristics]].
+
 ---
-See also: [[Apologetics]] · [[Psalm 82.6|Psalm 82:6]] · [[Johannine Divinization Soteriology]]
+See also: [[Apologetics]] · [[Psalm 82.6|Psalm 82:6]] · [[Johannine Divinization Soteriology]] · [[LDS Should Lead With John 10 Not Revelation 3 or Patristics]]

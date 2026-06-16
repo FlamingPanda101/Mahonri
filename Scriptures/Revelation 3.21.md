@@ -16,6 +16,7 @@ tags:
 ## Used in
 - [[Disciples Share the Throne and Divine Glory]]
 - [[1 Corinthians 15 Christ Hands the Kingdom Back to the Father]]
+- [[LDS Should Lead With John 10 Not Revelation 3 or Patristics]] — McClellan: a poor passage to *lead* with against a non-LDS interlocutor
 
 ---
 See also: [[Scriptures]] · [[Daniel 7.13-14|Daniel 7:13-14]]
