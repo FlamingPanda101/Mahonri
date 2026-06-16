@@ -2,7 +2,7 @@
 title: "Attacking the Restoration Only Proves the Need for It"
 scripture:
 related:
-  - "[[The Great Apostasy]]"
+  - "[[Apostasy Was Complete When the Keys Departed]]"
   - "[[The Plagiarism Charge Boomerangs on the Critic]]"
   - "[[The Creeds Cannot Be the Neutral Baseline - The Circularity of Creedal Disqualification]]"
   - "[[Anti-Mormonism Is Attacking the Person Not the Idea]]"
@@ -25,7 +25,7 @@ When an Evangelical critic attacks the LDS in the characteristic way — presupp
 Latting's closing jab is that some Mormons are "just trying to fit the mold of Christianity." Cardon seizes the word: to call your own 19th-century creedal position "**the mold**" is to presuppose, not argue — "maybe the mold is the problem, which is the entire premise of Mormonism."[^2] The creeds-as-mold is exactly what Joseph Smith (and, the panel says, Jesus cracking the Sadducees' mold) was sent to break, so invoking "the mold" concedes the LDS framing. See [[The Creeds Cannot Be the Neutral Baseline - The Circularity of Creedal Disqualification]].
 
 ### 2. Contempt is a datum, not an argument
-The panel repeatedly notes Latting's body language — "utter disgust," "dead eyes," speaking of the LDS "as though forced to view snuff films." Cardon argues that this disdain, multiplied across Evangelical media for 200 years, is precisely the fruit a true church would expect from a fallen, gatekeeping Christianity — "you totally see how the great apostasy happened."[^3] See [[The Great Apostasy]] and [[Anti-Mormonism Is Attacking the Person Not the Idea]].
+The panel repeatedly notes Latting's body language — "utter disgust," "dead eyes," speaking of the LDS "as though forced to view snuff films." Cardon argues that this disdain, multiplied across Evangelical media for 200 years, is precisely the fruit a true church would expect from a fallen, gatekeeping Christianity — "you totally see how the great apostasy happened."[^3] See [[Apostasy Was Complete When the Keys Departed]] and [[Anti-Mormonism Is Attacking the Person Not the Idea]].
 
 ### 3. The "closer to Jesus, the more Mormon" inversion
 Cardon's companion claim: the deeper you go archaeologically and textually toward the historical Jesus, "the more Mormon [the early Christians] sound and the less Trinitarian they sound."[^4] If true, the critic defending a *later* creedal mold against the LDS is defending the apostate development, not the apostolic original — again confirming the need for restoration. See [[Restoration Matches Pre-Nicene Christianity - Gurr's Argument]] and [[Subordinationism Was the Early Church View]].
@@ -48,4 +48,4 @@ The critic can answer that this is unfalsifiable: if engagement is "proving the 
 [^4]: [[Ward Radio - Debunking David Lattings Attack on Maddy Packer|Ward Radio - Defending Maddy Packer]], [25:00], https://youtu.be/yC3nxj-eHbM
 
 ---
-See also: [[The Great Apostasy]] · [[Restoration Matches Pre-Nicene Christianity - Gurr's Argument]] · [[David Latting]]
+See also: [[Apostasy Was Complete When the Keys Departed]] · [[Restoration Matches Pre-Nicene Christianity - Gurr's Argument]] · [[David Latting]]

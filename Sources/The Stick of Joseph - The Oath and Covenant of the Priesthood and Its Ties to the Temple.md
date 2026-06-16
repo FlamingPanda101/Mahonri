@@ -1,0 +1,49 @@
+---
+aliases: ["Stick of Joseph - Oath & Covenant of the Priesthood", "The Oath and Covenant of the Priesthood and its Ties to the Temple", "Todd McLauchlin - Oath and Covenant of the Priesthood"]
+tags: [source/video, by/the-stick-of-joseph, tradition/lds, topic/priesthood, topic/temple]
+date: ""
+author: "The Stick of Joseph (Todd McLauchlin)"
+url: https://youtu.be/fZmLnbgD8MM
+authority: C
+authority_reason: "LDS apologetic/devotional YouTube interview (Stick of Joseph, hosted by the Paul brothers) with Todd McLauchlin on D&C 84 and the temple. Speakers are popular content-creators, not credentialed scholars; the value is primary-source LDS devotional framing of the oath-and-covenant-as-endowment thesis. McLauchlin repeatedly flags his readings as speculative epiphanies ('forgive me if I get dogmatic'), so much is exploratory commentary (D in places), rising toward C where it rests on cited scripture (D&C 84, 107, 121; Alma 12; Jacob 1–2; Mosiah 5) and the Hebrew melek-tsedeq and Greek mysterion etymologies."
+---
+
+# The Stick of Joseph — The Oath and Covenant of the Priesthood and Its Ties to the Temple
+
+Part two of a [[The Stick of Joseph - Are Christians Becoming Mormon with Brian Thomassen|Stick of Joseph]] conversation in which host [[Hayden Paul]] sits down with guest **[[Todd McLauchlin]]** to re-read the "oath and covenant of the priesthood" ([[D&C 84.33-44|D&C 84]]) as a *temple* text. The central, recurring thesis is that [[D&C 84.33-44|D&C 84]] *teaches about* the oath and covenant but is not itself the oath and covenant — the oath and covenant **is the temple endowment**, culminating in the sealed [[Calling and Election Is the Oath of the Father Sealed in the Endowment|second comforter / calling and election made sure]]. From there McLauchlin builds out [[Priesthood Is an Order Patterned on the Atonement Not a Power|priesthood-as-order]] and [[Magnifying a Calling Means Coming Clean From the Blood and Sins of This Generation|"magnifying a calling"]] as coming clean through sacrifice.
+
+## Summary
+- **D&C 84 is *about* the oath and covenant — it is not the oath and covenant itself.** McLauchlin's "lightning-strike" reframe: every attempt to point at a verse and say "*this* is the oath and covenant" feels "clunky" because no verse names it; the oath and covenant is the **temple endowment**, "an endowment of priesthood," and the highest oath is the Father's own oath of eternal life — the **calling and election made sure** / **second comforter** [^1][^2][^3]. The verse is even self-flagged as a temple text: it is a "restoration of his people," gathering to "Mount Zion," "the place of the temple" [^4]. See [[Calling and Election Is the Oath of the Father Sealed in the Endowment]].
+- **Priesthood is an *order* (a pattern), not a power.** The Book of Mormon prefers "order" ("after the order of the Son of God," [[Alma 13|Alma 13]], [[D&C 107|D&C 107:3]]); the Melchizedek name (Hebrew *melek-tsedeq*, "king of righteousness") renames that order without changing it. An order is "a pattern of individuals all doing the same thing" — and McLauchlin argues secular orders (the **Marine Corps** crucible, a PhD, the military oath, robes, ranks, secret handshakes) unconsciously replicate the order of the Son of God because the pattern "is in our DNA." All orders fail unless they bend into Christ's [^5][^6][^7]. See [[Priesthood Is an Order Patterned on the Atonement Not a Power]].
+- **Ordination ≠ obtaining the priesthood; it is a *calling* into the order.** [[D&C 95|D&C 95:5-6]] equates being *ordained* with being *called* ("many are ordained… but few are chosen"); ordination grants only the *right to officiate* in outward ordinances, the start of the endowment process that runs from the initiatory (where the Melchizedek Priesthood is conferred) through the presentation and the **second anointing**, the sealing/fulfillment [^8][^9][^10]. The "making sure" is the oath and covenant. See [[Calling and Election Is the Oath of the Father Sealed in the Endowment]].
+- **"Magnifying your calling" means coming clean from the blood and sins of this generation.** Reading [[D&C 84.33-44|D&C 84:33]] through [[Jacob 1.19|Jacob 1:19]] and [[Jacob 2|Jacob 2:2]] ("that I might rid my garments of your sins"), McLauchlin argues the *calling* is the same for everyone — to repent of one's own sins *and* the inherited "traditions of the fathers" ([[D&C 93.39|D&C 93:39]]) — and that one "magnifies" it by **sacrifice** that softens others' hearts (the jailed-son parking-lot image; [[King Benjamin]]'s collective born-again; Lehi and Nephi's mass conversion of the Lamanites, [[3 Nephi 9|3 Nephi 9:20]], [[Ether 12|Ether 12]]) [^11][^12][^13]. See [[Magnifying a Calling Means Coming Clean From the Blood and Sins of This Generation]].
+- **Magnification is a two-edged sword; it explains scriptural calamity.** If, after the holder's sacrifice, the people *do not hearken*, more light is taken from them and judgment/entropy follows; the unfaithful holder "carries the weight of justice," which paradoxically *preserves* a people longer (the Aaronic order can shield even under wicked leaders). Authority comes from being *chosen* through sacrifice ([[D&C 121.32|D&C 121]]; "leaders eat last"; Christ taught "as one having authority" while Caiaphas merely held the office), not from the calling [^14][^15][^16]. Compare [[Unrighteous Dominion Condemns the Holder Not the Ordinance]] and [[Hierarchy as a Two-Way Circuit of Power]].
+- **The "Mysteries" are initiatory knowledge, not riddles.** Greek *mysterion* (from *mystes*, an initiate; *myein*, to shut the lips/eyes) means sacred knowledge given to the initiated; [[Alma 12|Alma 12:9-11]] makes the hardening of the heart the loss of the mysteries, defining the "chains of hell" as God-knowledge extracted from a person. Ordinances without their spiritual fulfillment are "empty forms" ([[D&C 84.33-44|D&C 84:21-22]], "form of godliness but denying the power") [^17][^18].
+
+## Concepts argued
+- [[Calling and Election Is the Oath of the Father Sealed in the Endowment]]
+- [[Priesthood Is an Order Patterned on the Atonement Not a Power]]
+- [[Magnifying a Calling Means Coming Clean From the Blood and Sins of This Generation]]
+
+## References
+[^1]: [[The Stick of Joseph - The Oath and Covenant of the Priesthood and Its Ties to the Temple|Stick of Joseph - Oath & Covenant of the Priesthood]], [05:01], https://youtu.be/fZmLnbgD8MM
+[^2]: [[The Stick of Joseph - The Oath and Covenant of the Priesthood and Its Ties to the Temple|Stick of Joseph - Oath & Covenant of the Priesthood]], [05:30], https://youtu.be/fZmLnbgD8MM
+[^3]: [[The Stick of Joseph - The Oath and Covenant of the Priesthood and Its Ties to the Temple|Stick of Joseph - Oath & Covenant of the Priesthood]], [10:01], https://youtu.be/fZmLnbgD8MM
+[^4]: [[The Stick of Joseph - The Oath and Covenant of the Priesthood and Its Ties to the Temple|Stick of Joseph - Oath & Covenant of the Priesthood]], [14:30], https://youtu.be/fZmLnbgD8MM
+[^5]: [[The Stick of Joseph - The Oath and Covenant of the Priesthood and Its Ties to the Temple|Stick of Joseph - Oath & Covenant of the Priesthood]], [18:02], https://youtu.be/fZmLnbgD8MM
+[^6]: [[The Stick of Joseph - The Oath and Covenant of the Priesthood and Its Ties to the Temple|Stick of Joseph - Oath & Covenant of the Priesthood]], [22:31], https://youtu.be/fZmLnbgD8MM
+[^7]: [[The Stick of Joseph - The Oath and Covenant of the Priesthood and Its Ties to the Temple|Stick of Joseph - Oath & Covenant of the Priesthood]], [23:30], https://youtu.be/fZmLnbgD8MM
+[^8]: [[The Stick of Joseph - The Oath and Covenant of the Priesthood and Its Ties to the Temple|Stick of Joseph - Oath & Covenant of the Priesthood]], [55:30], https://youtu.be/fZmLnbgD8MM
+[^9]: [[The Stick of Joseph - The Oath and Covenant of the Priesthood and Its Ties to the Temple|Stick of Joseph - Oath & Covenant of the Priesthood]], [58:01], https://youtu.be/fZmLnbgD8MM
+[^10]: [[The Stick of Joseph - The Oath and Covenant of the Priesthood and Its Ties to the Temple|Stick of Joseph - Oath & Covenant of the Priesthood]], [60:02], https://youtu.be/fZmLnbgD8MM
+[^11]: [[The Stick of Joseph - The Oath and Covenant of the Priesthood and Its Ties to the Temple|Stick of Joseph - Oath & Covenant of the Priesthood]], [72:31], https://youtu.be/fZmLnbgD8MM
+[^12]: [[The Stick of Joseph - The Oath and Covenant of the Priesthood and Its Ties to the Temple|Stick of Joseph - Oath & Covenant of the Priesthood]], [74:30], https://youtu.be/fZmLnbgD8MM
+[^13]: [[The Stick of Joseph - The Oath and Covenant of the Priesthood and Its Ties to the Temple|Stick of Joseph - Oath & Covenant of the Priesthood]], [83:32], https://youtu.be/fZmLnbgD8MM
+[^14]: [[The Stick of Joseph - The Oath and Covenant of the Priesthood and Its Ties to the Temple|Stick of Joseph - Oath & Covenant of the Priesthood]], [94:30], https://youtu.be/fZmLnbgD8MM
+[^15]: [[The Stick of Joseph - The Oath and Covenant of the Priesthood and Its Ties to the Temple|Stick of Joseph - Oath & Covenant of the Priesthood]], [97:30], https://youtu.be/fZmLnbgD8MM
+[^16]: [[The Stick of Joseph - The Oath and Covenant of the Priesthood and Its Ties to the Temple|Stick of Joseph - Oath & Covenant of the Priesthood]], [99:32], https://youtu.be/fZmLnbgD8MM
+[^17]: [[The Stick of Joseph - The Oath and Covenant of the Priesthood and Its Ties to the Temple|Stick of Joseph - Oath & Covenant of the Priesthood]], [29:31], https://youtu.be/fZmLnbgD8MM
+[^18]: [[The Stick of Joseph - The Oath and Covenant of the Priesthood and Its Ties to the Temple|Stick of Joseph - Oath & Covenant of the Priesthood]], [31:31], https://youtu.be/fZmLnbgD8MM
+
+---
+See also: [[Sources Index]] · [[Todd McLauchlin]] · [[The Stick of Joseph - Sacred Temple Connection to Priesthood Keys]]

@@ -1,0 +1,40 @@
+---
+aliases: ["Todd McLauchlin", "Todd McLaughlin"]
+tags:
+  - "#type/person"
+  - "#tradition/lds"
+  - "#role/podcaster"
+  - "#topic/temple"
+  - "#topic/priesthood"
+authority: C
+authority_reason: "Contemporary LDS devotional teacher/podcaster (Shattering Triangles), not a credentialed scholar; cited as a primary-source voice for LDS temple/priesthood framing, with readings he himself flags as speculative."
+---
+
+# Todd McLauchlin
+
+**Era:** Contemporary (2020s)
+**Tradition:** Latter-day Saint (LDS)
+**Role:** Devotional teacher and podcaster; host of the *Shattering Triangles* podcast
+
+## Bio
+
+Todd McLauchlin is a Latter-day Saint devotional teacher and podcaster who hosts the *Shattering Triangles* podcast — a title he glosses as the process of learning by which "the Lord shatters" an insufficient understanding (a "triangle") and rebuilds it into "the real thing," keeping the core truths while letting the inadequate parts break away. He appears as a recurring guest on the [[The Stick of Joseph - Are Christians Becoming Mormon with Brian Thomassen|Stick of Joseph]] channel.
+
+## Topics
+
+### The Oath and Covenant of the Priesthood as the Temple Endowment
+McLauchlin's signature reframe is that [[D&C 84.33-44|D&C 84]] *teaches about* the oath and covenant of the priesthood but is not itself that oath and covenant — the oath and covenant **is the temple endowment**, "an endowment of priesthood," whose highest term is the Father's oath of eternal life (the [[Calling and Election Is the Oath of the Father Sealed in the Endowment|calling and election made sure / second comforter]]).[^1] See [[The Stick of Joseph - The Oath and Covenant of the Priesthood and Its Ties to the Temple]].
+
+### Priesthood as an Order, Not a Power
+He argues "priesthood is not a power… it's an order or a pattern," modeled on the atonement of the Son of God, and that secular institutions (the Marine Corps, academic degrees, the military) unconsciously replicate that order. See [[Priesthood Is an Order Patterned on the Atonement Not a Power]].[^2]
+
+### Magnifying a Calling = Coming Clean Through Sacrifice
+He reads "magnifying your calling" ([[D&C 84.33-44|D&C 84:33]]) through [[Jacob 1.19|Jacob 1:19]] and [[King Benjamin]] as "coming clean from the blood and sins of this generation" — drawing down redemption onto others through sacrifice, with judgment falling if they do not hearken. See [[Magnifying a Calling Means Coming Clean From the Blood and Sins of This Generation]].[^3]
+
+## References
+[^1]: [[The Stick of Joseph - The Oath and Covenant of the Priesthood and Its Ties to the Temple|Stick of Joseph - Oath & Covenant of the Priesthood]], [05:30], https://youtu.be/fZmLnbgD8MM
+[^2]: [[The Stick of Joseph - The Oath and Covenant of the Priesthood and Its Ties to the Temple|Stick of Joseph - Oath & Covenant of the Priesthood]], [22:31], https://youtu.be/fZmLnbgD8MM
+[^3]: [[The Stick of Joseph - The Oath and Covenant of the Priesthood and Its Ties to the Temple|Stick of Joseph - Oath & Covenant of the Priesthood]], [72:31], https://youtu.be/fZmLnbgD8MM
+
+---
+See also: [[People]] · [[Hayden Paul]] · [[The Stick of Joseph - The Oath and Covenant of the Priesthood and Its Ties to the Temple]]

@@ -1,0 +1,66 @@
+---
+aliases: ["Stick of Joseph - Jesus Edited from OT", "Was Jesus Edited From The Old Testament", "Mike Day on Jerusalem at the Time of Lehi", "Stick of Joseph - Jerusalem at the Time of Lehi (Mike Day)"]
+tags: [source/video, by/the-stick-of-joseph, tradition/lds, topic/first-temple, topic/documentary-hypothesis]
+date: ""
+author: "The Stick of Joseph (Mike Day)"
+url: https://youtu.be/3-O0G5UgHyI
+authority: C
+authority_reason: "LDS apologetic/devotional YouTube interview on the Stick of Joseph channel: hosts Hayden Carroll and Jackson Paul with CES educator Mike Day, giving context for Jerusalem at the time of Lehi. The strongest material rests on named primary texts (Deuteronomy 1:1, 4:12, 12, 29:29; 2 Kings 22-23; Exodus 24:9-11; 1 Nephi 1; Ether 1:3; Helaman 6:28; 3 Nephi 17) and on credentialed scholarship (Wellhausen, Richard Friedman, Margaret Barker, Mark Smith, Paul Hanson, Daniel C. Peterson) — rising toward B there. But the load-bearing apologetic moves are devotional readings the speakers themselves repeatedly flag as 'I don't know,' 'crazy talk,' and 'provocative ideas' (the Karim/Cumorah cognate, the Baal-cycle mapping, the Tower-as-temple recontextualization); Day also concedes several sources are cited from memory and the Deuteronomistic/Barker reconstruction is contested. Long banter and testimony stretches are D."
+---
+
+# The Stick of Joseph — Was Jesus Edited From the Old Testament?
+
+LDS apologetic interview on the [[Stick of Joseph]] channel: hosts [[Hayden Carroll]] and [[Jackson Paul]] with Church Educational System educator [[Mike Day]], recorded in Day's home. The framing question is **why Jerusalem was wicked at the time of [[Lehi]]** — and the through-line is that messianic, atoning-Christ content was *edited out* of the Old Testament by the [[Hezekiah Josiah and the Deuteronomist Reforms|Deuteronomistic reform]], which the pre-exilic [[Brass Plates Bypassed the Textual Corruption Chain|brass plates]] (and so the Book of Mormon) preserved. Day grounds the reform program in the [[Documentary Hypothesis Strengthens the Restoration|documentary hypothesis]] (J/E/P/D, after [[Julius Wellhausen|Wellhausen]] and [[Richard Friedman]]) and in [[Margaret Barker]]'s reconstruction of a suppressed "older testament." This episode covers much of the same ground as the channel's [[The Stick of Joseph - The Documentary Hypothesis (Mike Day)|Documentary Hypothesis]] and [[The Stick of Joseph - The Ancient Temple and Lehis Tree of Life Vision|Tree of Life Vision]] episodes, and adds two distinctive payloads: a reading of the **Tower** as a recontextualized temple, and an explicit **Baal-cycle / "divine translatability"** mapping. Day stresses throughout that these are "provocative ideas," not settled doctrine.
+
+## Summary
+- **Read the Old Testament through the Book of Mormon, not vice versa.** Since "history is written by the winners," and the winners in Lehi's day were the party attacking him, Day proposes reading the Hebrew Bible "with one eye squinting" and using the Book of Mormon as the interpretive lens — which entails that the Bible is not wholly inerrant [^1].
+- **The documentary hypothesis supplies the mechanism.** The Pentateuch is a conglomerate of strands — J (Yahwist), E (Elohist), P (Priestly), D (Deuteronomist) — stitched by a redactor, with internal tells that Moses did not write all of it (Deuteronomy 1:1 places the author *west* of the Jordan; Moses' death and the "most humble man" boast). The [[Hezekiah Josiah and the Deuteronomist Reforms|deuteronomist]] redacted in the 7th century in two layers (Dtr1 pre-exilic, Dtr2 post-exilic). Full frame in [[Documentary Hypothesis Strengthens the Restoration]] [^2][^3].
+- **What got edited out is, above all, Christ.** Jacob 4:4 and 1 Nephi 19:10 (Zenock, Zenos, Neum) name a crucified, rising Messiah; nothing in Genesis-through-Malachi reads that way, which was the heart of [[Alexander Campbell]]'s 1830s "19th-century phenomenon" attack. Day's answer: the plain-and-precious Christ material was removed, and the single most efficient way to remove Christ is to remove the **anthropomorphic, embodiable God** — make God transcendent and a *dying embodied* God becomes impossible/pagan. See [[Anthropomorphic God in the Hebrew Bible]] and [[Greek Philosophy Corrupted the Christian Concept of God]] [^4][^5][^6].
+- **1 Nephi 1 is a polemic ("diss track") against the reformers.** Lehi sees the head God enthroned amid concourses of angels (a [[The Plural of Genesis 1 Is the Divine Council Not the Trinity or Royal We|divine-council]] / sod type-scene), prophesies a Messiah in the flesh, and (ch. 2) builds an altar in the wilderness — checking off, one by one, the Deuteronomic distinctives it inverts. Carried in [[Deuteronomistic Reform Explains the Book of Mormon Theology]] and [[Documentary Hypothesis Strengthens the Restoration]] [^7][^8].
+- **The reforms read off 2 Kings 23.** Josiah (king ~640-609 BC, a contemporary of Lehi) finds "the book of the law" (2 Kings 22) and enacts a checklist matching Deuteronomy: removing the idolatrous *kemarim* priests, the Asherah/Grove (the tree), the *kedeshim*, and outlying altars (name theology: one altar where "the name" dwells). William Hamlin-style scholars defend Josiah as separating Canaanite syncretism; Day takes the opposite side [^9][^10].
+- **The Karim / Cumorah provocation.** Day floats that the *kemarim* (idolatrous priests Josiah kills) could be a cognate of **Cumorah**, and ties it to [[Don Bradley]]'s "nephite ark" — a deposited stone box whose five contents mirror the Israelite Ark — as a "provocative image," not a demonstration [^10].
+- **The tree is the goddess Asherah.** Josiah removes the Asherah/tree; Lehi and Nephi make the tree the preeminent vision. Via [[Daniel C. Peterson]]'s "Nephi and His Asherah," the white/beautiful tree answered with a white/beautiful virgin = a divine woman who is the tree of life, with the *ashrei* ("happy," 1 Nephi 8:10) wordplay on *Asherah*. Fully developed in [[Nephi's Tree Is Asherah the Divine Mother]]; the [[Lehi's Dream Encodes the Three Temple Rooms by Hebrew Name-Puns|three-room dream]] and [[The Great and Spacious Building Is Apostate Temple Insiders Not Outsiders|great-and-spacious-building]] readings recur here [^11][^12].
+- **Divine translatability and the Baal cycle.** Day maps the Canaanite **El–Asherah–Baal** triad (high Father; mother-goddess personified as a tree; son who conquers death, dies, and rises, enthroned on Mount Zaphon) onto the LDS **Father–[[Feminine Divine in Ancient Near Eastern Worship|Heavenly Mother]]–Yahweh** pattern (Yahweh conquers death, dies, rises, builds his house on Mount Zion), invoking [[Mark Smith]]'s "divine translatability." New concept: [[Divine Translatability and the Baal Cycle Mirror the Plan of Salvation]] [^13][^14].
+- **The Tower was a temple, recontextualized.** "Babel" is a dad-joke (Hebrew *balal*, "to mix") subverting Babylon's "house of God"; the Book of Mormon text says *the tower*, never "Tower of Babel." A tower "to get to heaven" is temple code, and the whole episode may be an older story repackaged by later editors — a type for false religion/ideology, paralleling the Jaredites and Lehi who both flee corrupted sacred space. New concept: [[The Tower Was a Temple Recontextualized From an Older Story]] [^15][^16][^17].
+- **Visionaries vs. hierocrats.** Following Paul Hanson's *Dawn of Apocalyptic*, Day frames Lehi's day as a contest between apocalyptic Visionaries and the hierocratic temple authorities who "put down the Visionaries and killed them" (cf. Uriah) — making the great-and-spacious-building scene an in-code subversion of the temple establishment [^18].
+- **What 1 Nephi gets right, point by point.** Day runs a list of Deuteronomic edits the Book of Mormon reverses: seeing God's face (Deuteronomy 4:12 vs Exodus 24:9-11), the secret things/mysteries (Deuteronomy 29:29 vs 1 Nephi 1:1), name theology, the Urim and Thummim (negated by the reformers, affirmed by the BoM), and the Day of Atonement [^19][^20].
+- **The grand finale — Yom Kippur democratized.** The reformers drop *yom kippur* / the atoning, Melchizedek high priest presiding at a new creation. [[3 Nephi 11.10-11|3 Nephi 17]] inverts the rule that only the high priest enters the holy of holies: Jesus heals and gathers the multitude "one by one," children encircled by fire — everyone admitted. This is the "restoration of the cosmic covenant" ([[Melchizedek Is Yahweh Presiding Over the Temple Feast|Robert Murray]]'s phrase), with Jesus as the Melchizedek king who feeds the people [^21][^22].
+- **The cumulative case.** A 23-year-old who never read Wellhausen, Spinoza, or Philo produced first chapters that "nail the arguments of the seventh century" — counter-arguments to a religion only reconstructed by 20th-century scholarship. Day repeatedly disclaims certainty and the contested status of the Barker reconstruction [^23].
+
+## Concepts argued
+- [[The Tower Was a Temple Recontextualized From an Older Story]] *(new)*
+- [[Divine Translatability and the Baal Cycle Mirror the Plan of Salvation]] *(new)*
+- [[Documentary Hypothesis Strengthens the Restoration]]
+- [[Deuteronomistic Reform Explains the Book of Mormon Theology]]
+- [[Hezekiah Josiah and the Deuteronomist Reforms]]
+- [[Nephi's Tree Is Asherah the Divine Mother]]
+- [[The Great and Spacious Building Is Apostate Temple Insiders Not Outsiders]]
+- [[Anthropomorphic God in the Hebrew Bible]]
+
+## References
+[^1]: [[The Stick of Joseph - Was Jesus Edited From the Old Testament|Stick of Joseph - Jesus Edited from OT]], [03:31], https://youtu.be/3-O0G5UgHyI
+[^2]: [[The Stick of Joseph - Was Jesus Edited From the Old Testament|Stick of Joseph - Jesus Edited from OT]], [05:00], https://youtu.be/3-O0G5UgHyI
+[^3]: [[The Stick of Joseph - Was Jesus Edited From the Old Testament|Stick of Joseph - Jesus Edited from OT]], [07:00], https://youtu.be/3-O0G5UgHyI
+[^4]: [[The Stick of Joseph - Was Jesus Edited From the Old Testament|Stick of Joseph - Jesus Edited from OT]], [10:31], https://youtu.be/3-O0G5UgHyI
+[^5]: [[The Stick of Joseph - Was Jesus Edited From the Old Testament|Stick of Joseph - Jesus Edited from OT]], [52:32], https://youtu.be/3-O0G5UgHyI
+[^6]: [[The Stick of Joseph - Was Jesus Edited From the Old Testament|Stick of Joseph - Jesus Edited from OT]], [53:00], https://youtu.be/3-O0G5UgHyI
+[^7]: [[The Stick of Joseph - Was Jesus Edited From the Old Testament|Stick of Joseph - Jesus Edited from OT]], [79:01], https://youtu.be/3-O0G5UgHyI
+[^8]: [[The Stick of Joseph - Was Jesus Edited From the Old Testament|Stick of Joseph - Jesus Edited from OT]], [80:01], https://youtu.be/3-O0G5UgHyI
+[^9]: [[The Stick of Joseph - Was Jesus Edited From the Old Testament|Stick of Joseph - Jesus Edited from OT]], [16:00], https://youtu.be/3-O0G5UgHyI
+[^10]: [[The Stick of Joseph - Was Jesus Edited From the Old Testament|Stick of Joseph - Jesus Edited from OT]], [18:30], https://youtu.be/3-O0G5UgHyI
+[^11]: [[The Stick of Joseph - Was Jesus Edited From the Old Testament|Stick of Joseph - Jesus Edited from OT]], [26:31], https://youtu.be/3-O0G5UgHyI
+[^12]: [[The Stick of Joseph - Was Jesus Edited From the Old Testament|Stick of Joseph - Jesus Edited from OT]], [29:00], https://youtu.be/3-O0G5UgHyI
+[^13]: [[The Stick of Joseph - Was Jesus Edited From the Old Testament|Stick of Joseph - Jesus Edited from OT]], [21:01], https://youtu.be/3-O0G5UgHyI
+[^14]: [[The Stick of Joseph - Was Jesus Edited From the Old Testament|Stick of Joseph - Jesus Edited from OT]], [22:00], https://youtu.be/3-O0G5UgHyI
+[^15]: [[The Stick of Joseph - Was Jesus Edited From the Old Testament|Stick of Joseph - Jesus Edited from OT]], [62:02], https://youtu.be/3-O0G5UgHyI
+[^16]: [[The Stick of Joseph - Was Jesus Edited From the Old Testament|Stick of Joseph - Jesus Edited from OT]], [64:01], https://youtu.be/3-O0G5UgHyI
+[^17]: [[The Stick of Joseph - Was Jesus Edited From the Old Testament|Stick of Joseph - Jesus Edited from OT]], [72:31], https://youtu.be/3-O0G5UgHyI
+[^18]: [[The Stick of Joseph - Was Jesus Edited From the Old Testament|Stick of Joseph - Jesus Edited from OT]], [40:31], https://youtu.be/3-O0G5UgHyI
+[^19]: [[The Stick of Joseph - Was Jesus Edited From the Old Testament|Stick of Joseph - Jesus Edited from OT]], [56:01], https://youtu.be/3-O0G5UgHyI
+[^20]: [[The Stick of Joseph - Was Jesus Edited From the Old Testament|Stick of Joseph - Jesus Edited from OT]], [81:00], https://youtu.be/3-O0G5UgHyI
+[^21]: [[The Stick of Joseph - Was Jesus Edited From the Old Testament|Stick of Joseph - Jesus Edited from OT]], [81:31], https://youtu.be/3-O0G5UgHyI
+[^22]: [[The Stick of Joseph - Was Jesus Edited From the Old Testament|Stick of Joseph - Jesus Edited from OT]], [84:30], https://youtu.be/3-O0G5UgHyI
+[^23]: [[The Stick of Joseph - Was Jesus Edited From the Old Testament|Stick of Joseph - Jesus Edited from OT]], [89:01], https://youtu.be/3-O0G5UgHyI
+
+---
+See also: [[Sources Index]] · [[The Stick of Joseph - The Documentary Hypothesis (Mike Day)]] · [[The Stick of Joseph - The Ancient Temple and Lehis Tree of Life Vision]] · [[Mike Day]] · [[Margaret Barker]] · [[Hezekiah Josiah and the Deuteronomist Reforms]]
