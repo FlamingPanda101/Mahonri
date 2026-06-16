@@ -1,0 +1,40 @@
+---
+aliases: ["Let's Talk w/ Hayden Carroll - Ex-Mormon Claims EXPOSED: The Data They Won't Show You", "Hayden Carroll - ExMormon Data"]
+tags: [source/video, by/hayden-carroll, channel/lets-talk-hayden-carroll, tradition/lds, topic/faith-crisis, topic/ex-mormon, topic/book-of-mormon, topic/anachronism, topic/archaeology]
+date: ""
+author: "Hayden Carroll (Let's Talk w/ Hayden Carroll)"
+url: https://youtu.be/83O4nRlnASk
+authority: C
+authority_reason: "Latter-day Saint lay apologist (channel host) rebutting ex-Mormon influencer Alyssa Grenfell's video on Book of Mormon anachronisms. Popular-level polemic that leans on one peer-reviewed-adjacent source (Matthew Roper's 2025 Interpreter Foundation inventory) and a played National Geographic clip, closing with a long Jeffrey R. Holland general-conference excerpt. Useful as a structured argument source, not itself scholarship. Tier C cited-commentary/apologist."
+---
+
+# Let's Talk w/ Hayden Carroll — Ex-Mormon Claims EXPOSED: The Data They Won't Show You (Ft. @alyssadgrenfell)
+
+A rebuttal video in which [[Hayden Carroll]] answers a recent video by ex-Mormon influencer [[Alyssa Grenfell]] on alleged **anachronisms** in the [[Book of Mormon]] — elephants, iron and steel, and large-scale warfare in pre-Columbian America. Carroll's thesis is that the anachronism critique, far from being the Church's weak point, has been steadily dismantled by archaeology, and that the data now runs the *opposite* direction: he leans on a 2025 [[Interpreter Foundation]] inventory by [[Matt Roper]] cataloging every anachronistic claim made against the Book of Mormon since 1830, reporting that roughly 7% of the text's ancient-world elements were archaeologically confirmable in Joseph Smith's day versus 75%+ confirmed, 13% partially confirmed, and ~9% unconfirmed today.[^1] He addresses Grenfell's three specific examples in turn, plays a National Geographic clip on how little of the Maya world has been excavated, and closes with a long [[Jeffrey R. Holland]] general-conference excerpt on the martyrdom of [[Joseph Smith]] and [[Hyrum Smith]] as testators of the Book of Mormon.
+
+## Summary
+- **The framing: anachronisms as the test.** Carroll defines an anachronism (something out of place in a historical record — "a George Washington letter that mentions YouTube") and frames the question as whether the Book of Mormon contains genuinely out-of-place content given its claim to be an ancient record. He argues this critique "seems to have lost its sting" through further study, and gives Grenfell "the benefit of the doubt" that she was careless rather than dishonest.[^2]
+- **Elephants (NEW specific rebuttal — wikilinked).** Against Grenfell's claim that elephants did not exist in pre-Columbian times, Carroll cites studies that native traditions of North America and Mexico describe the elephant, suggesting humans and elephants were once contemporaries in ancient America.[^3] This is the dedicated rebuttal tracked at [[Ether's Elephant]] (channel/theme) — wikilink, not duplicated.
+- **Iron and metalwork.** Against "we know iron didn't exist in ancient America," Carroll says several kinds of iron were worked in pre-Columbian Mesoamerica; some Aztec nobles prized rare iron knives and daggers, and a Mexican tradition holds that ancestral culture-heroes of West Mexican tribes gave them machetes of iron.[^3] Covered by [[Mesoamerican Metallurgy Is Trending Earlier Toward Book of Mormon Times]] and [[Metallurgical Fraud Theory Rebutted]].
+- **Large-scale warfare.** Against "no archaeological evidence of large-scale battles," Carroll notes the Book of Mormon reports battle deaths in the thousands and tens of thousands (Mormon reports 230,000+ Nephite combatants and families killed after one battle), which "compares favorably" with Mesoamerican evidence of war deaths reaching into the millions.[^4] Covered by [[Mesoamerican Warfare and Fortifications Match the Book of Alma]].
+- **"We've dug 40 of 6,000 sites" (0.67%).** Carroll plays a National Geographic clip in which archaeologists stress that excavation in Mesoamerica has barely begun ("we hardly know anything really about the Maya... there's almost 6,000 archaeological sites and we've dug at 40 of them"), then frames absence-of-evidence as weak.[^5] This is the [[Only Two Percent of the Americas Has Been Excavated]] argument.
+- **The Roper inventory: 7% → 75%+ (the headline statistic).** Carroll reports that in Joseph's day archaeology had confirmed ~7% of the Book of Mormon's ancient-world elements; today over 75% are confirmed, 13% partially, and only ~9% unconfirmed. He lists categories Joseph "got right" before anyone else knew them — pre-Columbian horses, cattle, swine, goats, dogs; warfare; metalwork; names; cultural and linguistic elements.[^6] The defensive form of this argument (shrinking list ⇒ authenticity) is already covered by [[The Anachronism List Is Trending Toward the Book of Mormon]], [[Shrinking Anachronism List as Evidence of Authenticity]], and [[One Anachronism Does Not Disprove the Book of Mormon]].
+- **The abductive flip (NEW — concept created).** Carroll's distinctive move is to treat the *confirmed* items not as neutralized objections but as positive hits — "reverse-anachronisms" Joseph could not have known — and to stack them with the dictation speed (4,000+ words/day), the literary complexity, and the 19 witnesses into a challenge: "tell me Joseph made this all up. Or tell me the devil made him do it. Any answer would be more compelling than the naturalistic one."[^7] See the concept created below; cf. [[Dictation Feat Exceeds Joseph Smith's Capacity]], [[No Naturalistic Source Accounts for the Whole Book of Mormon]], and the [[The Book of Mormon Keystone Argument|keystone argument]].
+- **Closing testimony — the martyrs as testators.** Carroll plays a [[Jeffrey R. Holland]] general-conference address recounting that [[Hyrum Smith]] read from the book of Ether, chapter 12 ("Thou hast been faithful... made strong... in the mansions of my father") and turned down the page-corner before leaving for Carthage, and argues that two men about to die would not stake their lives, honor, and salvation on a book they had "fictitiously created out of whole cloth."[^8] He closes by quoting Joseph that a person gets nearer to God by abiding the Book of Mormon's precepts than any other book, and bears testimony of its divine authenticity and of [[Jesus of Nazareth|Jesus Christ]].[^9]
+
+## Concepts created
+- [[Confirmed Anachronisms Are Reverse-Anachronisms Joseph Could Not Have Known]]
+
+## References
+[^1]: [[Lets Talk w Hayden Carroll - ExMormon Claims Exposed The Data They Wont Show You|Hayden Carroll - ExMormon Data]], [07:31], https://youtu.be/83O4nRlnASk
+[^2]: [[Lets Talk w Hayden Carroll - ExMormon Claims Exposed The Data They Wont Show You|Hayden Carroll - ExMormon Data]], [01:30], https://youtu.be/83O4nRlnASk
+[^3]: [[Lets Talk w Hayden Carroll - ExMormon Claims Exposed The Data They Wont Show You|Hayden Carroll - ExMormon Data]], [03:01], https://youtu.be/83O4nRlnASk
+[^4]: [[Lets Talk w Hayden Carroll - ExMormon Claims Exposed The Data They Wont Show You|Hayden Carroll - ExMormon Data]], [03:31], https://youtu.be/83O4nRlnASk
+[^5]: [[Lets Talk w Hayden Carroll - ExMormon Claims Exposed The Data They Wont Show You|Hayden Carroll - ExMormon Data]], [05:01], https://youtu.be/83O4nRlnASk
+[^6]: [[Lets Talk w Hayden Carroll - ExMormon Claims Exposed The Data They Wont Show You|Hayden Carroll - ExMormon Data]], [06:30], https://youtu.be/83O4nRlnASk
+[^7]: [[Lets Talk w Hayden Carroll - ExMormon Claims Exposed The Data They Wont Show You|Hayden Carroll - ExMormon Data]], [08:00], https://youtu.be/83O4nRlnASk
+[^8]: [[Lets Talk w Hayden Carroll - ExMormon Claims Exposed The Data They Wont Show You|Hayden Carroll - ExMormon Data]], [10:00], https://youtu.be/83O4nRlnASk
+[^9]: [[Lets Talk w Hayden Carroll - ExMormon Claims Exposed The Data They Wont Show You|Hayden Carroll - ExMormon Data]], [13:31], https://youtu.be/83O4nRlnASk
+
+---
+See also: [[Sources Index]] · [[Hayden Carroll]]

@@ -38,6 +38,8 @@ The verb *bara* does not entail creation from nothing. It is used within Genesis
 - [[Creation Ex Nihilo Originated Late 2nd Century CE]]
 - [[Retroactive Reinterpretation of Creation Texts]]
 - [[Dan McClellan - Wes Huff Creation Ex Nihilo Response]]
+- [[The Untranslated Et Direct-Object Marker in Genesis 1.1]]
+- [[Hebrew Grammatical Gender Is Lost in Translation Undercutting a Biblical View of Gender]]
 
 ## Key Scholars on This Verse
 

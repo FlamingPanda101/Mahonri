@@ -51,6 +51,18 @@ experience with God" — essentially a Road to Damascus conversion experience.
 Carroll and Butler note this as a sincere admission that evidence alone may not
 suffice without personal revelation.[^3]
 
+### Genesis 1:1 and Mereological Nihilism
+In a long-form interview with [[Christopher Magnify]] on the translation of
+[[Genesis 1.1|Genesis 1:1]], O'Connor connects the
+[[Bereshit Is a Construct Form Forcing a Dependent-Clause Reading|pre-existing-matter reading]]
+of creation to his own **mereological nihilism** — the view that objects (chairs,
+cups, the "left-hand side" of a microphone) are merely arrangements of matter that
+minds label, never things that "begin to exist." He credits a 2020 exchange with
+[[William Lane Craig]] with making him realize he held the position, and finds the
+"God organizing pre-existing material" interpretation of Genesis "a lot more
+beautiful" and consonant with that worldview.[^4] See
+[[Alex OConnor - Is Genesis 1-1 a Mistranslation]].
+
 [^1]: [[Stick of Joseph - Atheism is Unreasonable and Stupid|Stick of Joseph - Atheism is Unreasonable and Stupid]], [35:02]–[35:30],
 https://youtu.be/aqOzROuIAHM
 
@@ -59,3 +71,5 @@ https://youtu.be/aqOzROuIAHM
 
 [^3]: [[Stick of Joseph - Atheism is Unreasonable and Stupid|Stick of Joseph - Atheism is Unreasonable and Stupid]], [48:00]–[48:30],
 https://youtu.be/aqOzROuIAHM
+
+[^4]: [[Alex OConnor - Is Genesis 1-1 a Mistranslation|O'Connor - Genesis 1:1 Mistranslation]], [23:31], https://youtu.be/ApN65gu_-HQ
