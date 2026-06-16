@@ -1,0 +1,57 @@
+---
+aliases:
+  - "On Planks and Pieces - Are Mormons Christian"
+  - "Are Mormons Christian w Luke Hanson"
+  - "On Planks and Pieces - Luke Hanson Interview"
+tags:
+  - "#source/video"
+  - "#by/on-planks-and-pieces"
+  - "#tradition/interfaith"
+  - "#topic/are-mormons-christian"
+date: ""
+author: "On Planks and Pieces (w/ Luke Hanson)"
+url: "https://youtu.be/ykrL-ReT8kw"
+authority: C
+authority_reason: "Long-form interfaith YouTube conversation between an Eastern Orthodox host (On Planks and Pieces) and a lay LDS apologist ([[Luke Hansen]]). Explicitly framed as listening rather than debating; both sides disclaim expertise on key points (philosophy of time, patristics, the liturgies). Useful as a clear primary statement of the LDS street-apologetic position on the definition of Christian, but neither party is academically credentialed and several claims are delivered tentatively or secondhand."
+---
+
+An unusually irenic interfaith conversation hosted by **On Planks and Pieces** (an Eastern Orthodox creator) with LDS lay apologist [[Luke Hansen]] — the same "Doctrine and Governance" / [[Ward Radio]] panelist catalogued elsewhere in this vault. The host opens by deliberately setting the polemics aside to *understand* the LDS position rather than score points, against the backdrop of a wave of religiously-charged violence and a renewed public argument over "who counts as Christian."
+
+The result is a wide-ranging walk through the [[Are Latter-day Saints Christians|are-Mormons-Christian]] question from both an Orthodox and an LDS angle: the definition of "Christian" (creedal vs. non-creedal, discipleship-as-action vs. orthodoxy), the [[Matthew 16.18|Matthew 16]] church-and-keys question, the [[Apostasy Was Complete When the Keys Departed|Great Apostasy]], the [[The Godhead Is Not Polytheism|LDS Godhead]] vs. the Trinity, the unevangelized/normative-path problem, modalism in the Book of Mormon, the priesthood ban and Book-of-Mormon genetics, and a long epistemology exchange on infallibility, personal revelation, and the Genesis-50 "Joseph wrote himself in" argument.
+
+## Summary
+
+- **Definition of Christian.** Hansen distinguishes two senses: are Mormons *Trinitarian*? "No way" — but are they "a disciple or follower of Jesus Christ"? Yes. He grounds the LDS sense in the [[1 Corinthians 15.1-4|earliest creed of 1 Corinthians 15]] (Christ the Son of God, died, rose, appeared, redeems sin) and in love of neighbor ([[John 13.34|"by this shall all men know"]]). The host agrees Protestant *sola fide* and *sola scriptura* leave no non-arbitrary criterion for who is a Christian, but holds that **action is downstream of orthodoxy** and that being *in Christ's church* (for him, the Orthodox Church) is itself a fruit. See [[Action Is the Greater Expression of Truth]], [[Creedalism Replaced Relationship With Theology]].
+- **The trinitarian's burden.** Hansen lays out a **three-step test** a creedal Christian must meet to make Trinitarianism *definitional* of Christianity — and argues the third step (that it is an *essential* belief) fails historically, since in the mid-3rd century baptismal regeneration was universal while Trinitarianism was still developing. New note: [[The Trinitarian Carries a Three-Step Burden Not Just a Proof-Text]].
+- **Matthew 16 and the keys.** The host gives the Orthodox reading (visible church; Peter as *first among equals*, honored as first to confess, keys later given to all). Hansen offers a distinctive **positive** reading of "the gates of Hades": Hades = the realm of the dead, so the keys given to Peter (bind/loose on earth and in heaven) are the power to *bridge* the living and the dead — which is why Latter-day Saints practice [[1 Corinthians 15.29 Points to an Actual Rite of Baptism for the Dead|baptism for the dead]] and eternal marriage, and why (he says) Catholics and Orthodox do not. New note: [[The Keys of Peter Bridge the Living and the Dead]]. Compare the defensive reading in [[The Gates of Hades Are Death and Do Not Besiege the Church]].
+- **Great Apostasy.** Defined narrowly as the loss of the *general/presiding apostolic authority* (the keys), not the disappearance of believers — bishops, Christians, and the Spirit's guidance remained. Both sides note the LDS and Catholic/Orthodox accounts agree the "deposit of faith" *closed*; they disagree only on whether that closure was supposed to happen. See [[Apostasy Was Complete When the Keys Departed]], [[Great Apostasy Is Not a Scriptural Term in LDS Standard Works]], [[Car Wreck Analogy for Diagnosing Apostasy]].
+- **The 1,800-year gap, inverted.** Against the host's intuitive "why restore a church only 1,800 years later in America?", Hansen presses a **tu quoque**: most humans across most of history never had access to the creedal "normative path" to salvation, so creedal Christianity carries its own ~1,600-year-plus gap — whereas LDS temple/proxy ordinances plus postmortem teaching place *every* human under the normative rule. New note: [[The Unevangelized Gap Is a Tu Quoque Against the Apostasy Objection]]. Compare [[Postmortem Salvation Resolves the Soteriological Problem]], [[Salvation by Theology Damns Almost Everyone]].
+- **Godhead vs. Trinity.** Trinitarian = "1-1-3" (one being, three persons); LDS = "1-3-1" (one in love/unity, three beings, three persons). Hansen invokes Robert Bowman's six axioms of the Trinity and says the LDS dissent is only from the "one being" axiom; the Father has a body of flesh and bone, the Son acquired one at incarnation, the Spirit is spirit; all eternally exist; there is **no creation *ex nihilo*** (a 2nd-century Gnostic import). See [[Most Christians Describe Three Beings Not the Trinity]], [[Creation Ex Nihilo Is Not Biblical]], [[Homoousios Same Substance Not Same Person]], [[The Godhead Is Not Polytheism]].
+- **Polytheism and eternal regress.** "Division of worship" — the actual biblical concern — is impossible in LDS theology, so the "polytheist" label misfires ([[Worship of Another God Was Political Treason Not Metaphysical Error]]). Hansen rejects an infinite regress of gods as non-canonical extrapolation from one un-elaborated [[Joseph Smith]] sermon (four variant accounts); cites [[Blake Ostler]]'s model that God was *always* fully divine, growing only in glory. See [[LDS Father Was Always Fully Divine (No Eternal Regression)]].
+- **Modalism in the Book of Mormon.** The host reads Mosiah 15 / Ether 3 ("I am the Father and the Son") and 1 Nephi 13:40 ("the Lamb of God is the Eternal Father," later edited) as modalist; Hansen answers via the **two-senses fatherhood** distinction (Christ as Father by creation and by spiritually begetting the baptized) and points to Latter-day Saint theologian Robert Boylan's work (the blog *Scriptural Mormonism*). He frames Joseph Smith's textual edits with the "**language is a cage**" idea — words are an inadequate vehicle, so revising them refines the rendering, not the reality. See [[Modalism Monarchianism and Sabellianism]].
+- **Priesthood ban and genetics.** Hansen concedes the priesthood ban (instituted under Brigham Young, lifted 1978) and the "skin of blackness / not valiant in the pre-earth life" teaching were taught by leaders, influenced by the American South, and now rejected — but were never canon and never taught permanent exclusion. On Book-of-Mormon DNA he argues a limited-geography model (a ~200×300-mile region, a founding party of ~22 + ~50 entering an already-inhabited continent), so genetic-drift/bottleneck makes Israelite markers undetectable; the "principal ancestors" introduction was an uninspired 1980s committee gloss.
+- **Epistemology: infallibility, revelation, Genesis 50.** Hansen denies any LDS infallibility short of God himself, arguing **reliability, not infallibility**, is what anyone actually has (airplane/second-grade-math analogies) and that fallibility enters the moment revelation leaves God — so creedal appeals to an infallible Bible/church/pope gain nothing once a fallible human interprets them. On the host's favorite Genesis 50 / Joseph Smith Translation argument (Joseph "writing himself into" scripture), Hansen replies that Joseph *never* used the JST passage to claim authority (it was unpublished until late/after his life), that the prophecy already sits in 2 Nephi 3 from the brass plates, and that the **Book of Mormon** — with its witnesses — is the actual evidence offered, not a self-referential loop. The host's recurring counter: it all ultimately reduces to **personal revelation / burning in the bosom**, which he distrusts (Orthodox *prelest* / discernment of spirits). Compare [[How Would a First-Century Believer Verify Paul - The Pauline-Parity Argument]], [[Personal Revelation Is the Most Legitimate Path to God]], [[Praying to Know Truth and the Discernment-of-Spirits Objection]].
+- **The demonic-Book-of-Mormon rebuttal.** Hansen's capstone: whatever essential thing the Book of Mormon supposedly *lacks* (such that it damns its readers), **Jesus also omitted it in his earthly ministry**, since the book reproduces the Sermon on the Mount and relentlessly preaches Christ; "the devil would not write this thing." See [[Not Even the Devil Can Raise the Dead - The Aquinas Falsifiability Defense]], [[When Catholics Argue Like Jews - The Demonic Charge Is Unfalsifiable]].
+- **Why want the label at all?** Hansen closes that Latter-day Saints want to be called Christian "only because we want to be considered people that are trying to follow what Christ said" — the occasional glib "if *that's* Christian, I don't want it" is a reaction to perceived additions to the bare gospel, not a rejection of Christ.
+
+## References
+
+[^1]: [[On Planks and Pieces - Are Mormons Christian w Luke Hanson|On Planks and Pieces - Are Mormons Christian]], [03:01], https://youtu.be/ykrL-ReT8kw
+[^2]: [[On Planks and Pieces - Are Mormons Christian w Luke Hanson|On Planks and Pieces - Are Mormons Christian]], [09:33], https://youtu.be/ykrL-ReT8kw
+[^3]: [[On Planks and Pieces - Are Mormons Christian w Luke Hanson|On Planks and Pieces - Are Mormons Christian]], [27:00], https://youtu.be/ykrL-ReT8kw
+[^4]: [[On Planks and Pieces - Are Mormons Christian w Luke Hanson|On Planks and Pieces - Are Mormons Christian]], [51:31], https://youtu.be/ykrL-ReT8kw
+[^5]: [[On Planks and Pieces - Are Mormons Christian w Luke Hanson|On Planks and Pieces - Are Mormons Christian]], [57:32], https://youtu.be/ykrL-ReT8kw
+[^6]: [[On Planks and Pieces - Are Mormons Christian w Luke Hanson|On Planks and Pieces - Are Mormons Christian]], [82:31], https://youtu.be/ykrL-ReT8kw
+[^7]: [[On Planks and Pieces - Are Mormons Christian w Luke Hanson|On Planks and Pieces - Are Mormons Christian]], [116:32], https://youtu.be/ykrL-ReT8kw
+[^8]: [[On Planks and Pieces - Are Mormons Christian w Luke Hanson|On Planks and Pieces - Are Mormons Christian]], [129:32], https://youtu.be/ykrL-ReT8kw
+[^9]: [[On Planks and Pieces - Are Mormons Christian w Luke Hanson|On Planks and Pieces - Are Mormons Christian]], [179:32], https://youtu.be/ykrL-ReT8kw
+
+## See also
+- [[Luke Hansen]]
+- [[Are Latter-day Saints Christians]]
+- [[Latter-day Saints Are Christians Just Not Creedal Christians]]
+- [[The Trinitarian Carries a Three-Step Burden Not Just a Proof-Text]]
+- [[The Keys of Peter Bridge the Living and the Dead]]
+- [[The Unevangelized Gap Is a Tu Quoque Against the Apostasy Objection]]
+- [[Apostasy Was Complete When the Keys Departed]]
+- [[The Godhead Is Not Polytheism]]
