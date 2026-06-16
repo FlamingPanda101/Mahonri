@@ -44,9 +44,17 @@ Ortlund affirms creatio ex nihilo, divine aseity, and a "thick ontological disti
 - [[Creatio Ex Nihilo Is the Lynchpin Difference]]
 - [[Are Latter-day Saints Christians]]
 
+## The Papacy as Human Accretion
+
+In his summative case against the papacy, Ortlund argues the office "is a human development within the church, not a divine institution over the church" — absent from the New Testament, contradicted by the patristic "equal power" consensus, and incompatible with how the early councils disciplined popes. See:
+- [[The Rock of Matthew 16 Is Peters Confession Not a Papal Office]]
+- [[The Apostles Held Equal Power With Peter]]
+- [[Constantinople II Excommunicated Pope Vigilius]]
+
 ## Key Sources
 
 - [[Gavin Ortlund - Protestant and Mormon Discuss the Trinity]] (Truth Unites, with Jacob Hansen)
+- [[Gavin Ortlund - The Papacy Is Not From God]] (Truth Unites)
 
 ## Sources
 [^1]: [[Gavin Ortlund - Protestant and Mormon Discuss the Trinity|Gavin Ortlund - Protestant and Mormon Discuss the Trinity]], [01:33], https://youtu.be/7Y9_unCe__M
