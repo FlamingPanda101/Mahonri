@@ -1,0 +1,49 @@
+---
+aliases:
+  - "Murph - Theism & Sola Scriptura w/ Hayden"
+  - "Mormonism with the Murph - Theism Christianity and Sola Scriptura"
+  - "Theism, Christianity and Sola Scriptura with Hayden Carroll"
+tags:
+  - source/video
+  - by/mormonism-with-the-murph
+  - tradition/lds
+  - topic/sola-scriptura
+  - topic/natural-theology
+date: ""
+author: "Mormonism with the Murph (w/ Hayden Carroll)"
+url: "https://youtu.be/A4jmm2aFSGA"
+authority: C
+authority_reason: "Long-form LDS apologetics conversation between two believing Latter-day Saint content creators (host Larry Murf; guest Hayden Carroll of 'Let's Talk with Hayden Carroll'). Self-aware, argument-driven, and broadly accurate on the positions it engages, but it is partisan advocacy and an interview — not peer-reviewed scholarship — and several historical attributions are spoken from memory."
+---
+
+A conversation on [[Mormonism with the Murf|Mormonism with the Murph]], hosted by [[Larry Murf]] with guest [[Hayden Carroll]] (channel *Let's Talk with Hayden Carroll*), running through the LDS apologetic foundations: arguments for theism, the coherence of creedal Christianity, and the authority/canon problem behind **sola scriptura**. Carroll's recurring thesis is that the Latter-day Saint worldview holds up better than its rivals not by playing defense but by going on *offense* — granting "Mormonism is false for the sake of argument" and then asking the Protestant, Catholic, or atheist to justify *their* worldview, which he claims falls apart faster than the LDS one. The episode is a useful single-source map of how one LDS apologist sequences natural theology → the problem of evil/hell → perfect-being theology and the Trinity → sola scriptura and the deposit of faith.
+
+## Summary
+
+**Theism and the fine-tuning argument.** Carroll grants, with [[Alex OConnor]], that the *base* of belief is personal experience (LDS: personal revelation), not an argument. But his lead public argument is the teleological argument from **fine-tuning**: ~8–20 physical constants set so precisely that life would be impossible if any were off, with odds he puts near 1 in 10^80. He works the atheist replies in turn: **chance** is abandoned as absurd; the **anthropic principle** (Douglas Adams's sentient puddle) "sidesteps the question," rebutted with [[Trent Horn]]'s [[The Ice Sculpture Rebuttal to the Sentient Puddle|ice-sculpture analogy]]; the **multiverse** is unfalsifiable, empirically unsupported, and self-undermining (an unlimited multiverse implies a universe where God exists too) — see [[Multiverse as Ad-Hoc Escape from Fine-Tuning]] and [[The Multiverse Cannot Escape Prior Fine-Tuning]]. His positive case is the [[Laundry Dryer Analogy for Design|folded-laundry analogy]]: design is the more *reasonable* inference, not a certainty.
+
+**The "stupid" branch — consciousness and free will.** Carroll argues atheism collapses into absurdities: it must treat **consciousness** as an illusion ([[Daniel Dennett]]) because the unconscious cannot produce the conscious — the [[Consciousness and First Cause Problem for Atheism|hard problem]] (cf. [[Suffering Presupposes Consciousness Which Atheism Cannot Explain]]) — and it must deny **free will** ([[Sam Harris]]). He grants Harris and the [[Calvinism Is the Logical Conclusion of Classical Theism|Calvinists]] are *consistent*: both make us caused rather than free; only the LDS doctrine of [[Intelligence Is Uncreated and Eternally Has Agency|uncreated, eternal intelligences]] secures genuine agency. He recounts reframing [[Alex OConnor]]'s problem-of-suffering prompt at Jubilee: suffering presupposes consciousness, and theism explains consciousness better than materialism, so suffering makes God *more* likely.
+
+**Perfect-being theology and the Trinity.** Carroll traces creedal Christianity's God to **neoplatonism** — fourth/fifth-century-BC Greek metaphysics ([[Hellenization Was Not Corruption of an Original Pure Church|the Hellenization of Christianity]]) read back into the text — producing a God who is immaterial, timeless, impassible, immutable, and omnipresent "without body, parts, or passions." Meshing perfect-being theology + hard monotheism + a biblical Jesus who has a God forces the **Trinity**, and then the [[Hypostatic Union Creates Two Jesuses|hypostatic union]] is bolted on as an unfalsifiable "solve" for every text where Jesus shows a distinct will ("not my will but thine"), limited knowledge, or non-omnipresence. He presses the [[The Five Incompatible Claims of Creedal Theism|standard cross-examination]]: where does the Bible *teach* the Nicene Trinity? — the answer requires third/fourth-century councils, not the text.
+
+**The problem of hell and creation.** The opening and central indictment: a God who (1) foreknows who will be damned, (2) is unconstrained and need not create them, and (3) creates them without consent cannot be all-good and have anyone in hell. The "just give them free will" reply fails because God foreknew the outcome — "why not just create the people you know will accept Jesus?" Against the Catholic "better to exist and go to hell than not exist," Carroll deploys the [[The Judas Argument - Better Never to Have Been Born|Judas counter]] from [[Matthew 26.24]] ("good for that man if he had not been born"). The LDS **solves**: [[D&C 82.10|God is bound by eternal law]] ([[God Is Constrained by Eternal Law Not Unconstrained]]; cf. [[A Constrained God Solves the Problem of Evil Better Than Creedal Christianity]]), we are co-eternal and **consented** to mortality ([[Co-Eternality Solves the Problem of Evil]], 2 Nephi 2 / [[Moses 7]]'s weeping God), and [[Postmortem Salvation Resolves the Soteriological Problem|postmortem salvation]] (D&C 138, baptism for the dead) dissolves the fate of those who never heard. He notes even Trinitarians concede God cannot make a square circle or force love — i.e., God *is* bound by logic and by the nature of love.
+
+**Sola scriptura and authority.** Sola scriptura, born of the Reformation's rejection of Roman authority, makes the 66-book Protestant canon the final authority — but "where does the Bible teach that the Bible is the final authority?" It also smuggles in *tota scriptura* (a closed canon containing all things necessary for salvation), which the Bible nowhere asserts; and it could not have governed the apostolic age, when revelation was still being given ([[Sola Scriptura - Scripture Self-Attests Its Authority|the self-attestation problem]]; [[Closing the Canon Was Used to Declare Prophecy Ended]]). The canon was assembled by the post-apostolic church, not by an apostle with universal jurisdiction. Catholic/Orthodox tradition fares no better: the **deposit of faith** plus "no public revelation" cannot account for doctrines (papal infallibility, the Marian dogmas, the immaculate conception) with no record for ~1,200 years — some rejected by early fathers and by Aquinas. Carroll closes the methodological loop with [[Greg Bahnsen]]: presuppositional apologetics "destroys atheists" but, by Bahnsen's own concession, [[Presuppositionalism Cannot Refute a Coherent Rival Worldview Like Mormonism|cannot be run against Mormons or Muslims]], because critics must first presuppose their own worldview to declare the LDS one false.
+
+## References
+[^1]: [[Mormonism with the Murph - Theism Christianity and Sola Scriptura with Hayden Carroll|Murph - Theism & Sola Scriptura w/ Hayden]], [10:01], https://youtu.be/A4jmm2aFSGA
+[^2]: [[Mormonism with the Murph - Theism Christianity and Sola Scriptura with Hayden Carroll|Murph - Theism & Sola Scriptura w/ Hayden]], [12:30], https://youtu.be/A4jmm2aFSGA
+[^3]: [[Mormonism with the Murph - Theism Christianity and Sola Scriptura with Hayden Carroll|Murph - Theism & Sola Scriptura w/ Hayden]], [17:00], https://youtu.be/A4jmm2aFSGA
+[^4]: [[Mormonism with the Murph - Theism Christianity and Sola Scriptura with Hayden Carroll|Murph - Theism & Sola Scriptura w/ Hayden]], [27:32], https://youtu.be/A4jmm2aFSGA
+[^5]: [[Mormonism with the Murph - Theism Christianity and Sola Scriptura with Hayden Carroll|Murph - Theism & Sola Scriptura w/ Hayden]], [40:30], https://youtu.be/A4jmm2aFSGA
+[^6]: [[Mormonism with the Murph - Theism Christianity and Sola Scriptura with Hayden Carroll|Murph - Theism & Sola Scriptura w/ Hayden]], [51:01], https://youtu.be/A4jmm2aFSGA
+[^7]: [[Mormonism with the Murph - Theism Christianity and Sola Scriptura with Hayden Carroll|Murph - Theism & Sola Scriptura w/ Hayden]], [57:30], https://youtu.be/A4jmm2aFSGA
+[^8]: [[Mormonism with the Murph - Theism Christianity and Sola Scriptura with Hayden Carroll|Murph - Theism & Sola Scriptura w/ Hayden]], [60:31], https://youtu.be/A4jmm2aFSGA
+[^9]: [[Mormonism with the Murph - Theism Christianity and Sola Scriptura with Hayden Carroll|Murph - Theism & Sola Scriptura w/ Hayden]], [62:30], https://youtu.be/A4jmm2aFSGA
+[^10]: [[Mormonism with the Murph - Theism Christianity and Sola Scriptura with Hayden Carroll|Murph - Theism & Sola Scriptura w/ Hayden]], [76:02], https://youtu.be/A4jmm2aFSGA
+[^11]: [[Mormonism with the Murph - Theism Christianity and Sola Scriptura with Hayden Carroll|Murph - Theism & Sola Scriptura w/ Hayden]], [79:01], https://youtu.be/A4jmm2aFSGA
+[^12]: [[Mormonism with the Murph - Theism Christianity and Sola Scriptura with Hayden Carroll|Murph - Theism & Sola Scriptura w/ Hayden]], [81:30], https://youtu.be/A4jmm2aFSGA
+[^13]: [[Mormonism with the Murph - Theism Christianity and Sola Scriptura with Hayden Carroll|Murph - Theism & Sola Scriptura w/ Hayden]], [83:31], https://youtu.be/A4jmm2aFSGA
+
+---
+See also: [[Sources]] · [[Hayden Carroll]] · [[Larry Murf]] · [[The Ice Sculpture Rebuttal to the Sentient Puddle]] · [[The Creation Dilemma]] · [[Sola Scriptura - Scripture Self-Attests Its Authority]]
