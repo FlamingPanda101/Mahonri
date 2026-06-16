@@ -38,6 +38,7 @@ These concepts, developed in 1 Enoch's Book of Parables, feed directly into earl
 
 - [[Book of Enoch - Enoch as the Son of Man]]
 - [[Book of Enoch - Overview and Structure]]
+- [[How Brigham Young Extrapolated Adam-God from Joseph Smith]] — early Latter-day Saints read the Ancient of Days as Adam, seeding Adam-God
 
 ---
 

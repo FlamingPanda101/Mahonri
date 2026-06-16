@@ -16,8 +16,12 @@ LDS content creator and co-host of the YouTube channel **All Those In Favor** (w
 ## On the Temple in Revelation
 Johnson's contribution is a sustained reading of the **Book of Revelation as a vision of the endowment**: [[1 Peter 2.9|1 Peter 2:9]] and [[Revelation 5.9-10|Rev 5:9-10]] on the redeemed made "kings and priests" (extended to "queens and priestesses"), the white-robed multitude of [[Revelation 7.9-14|Rev 7:9-14]] washed in the blood of the Lamb, the new name on a white stone, and [[Hebrews 10.19-22|Hebrews 10:19-20]] on the **veil that is Christ's flesh**. From this he argues the temple is "learning heaven," enacting John's throne-room vision (see [[The Endowment Is Learning Heaven Not Earning Heaven]]). He cites [[Don Bradley]] on the endowment's presence in the 1830 Book of Mormon (see [[The Book of Mormon Already Contains the Endowment]]) and credits Jonathan Stapley's *Holiness to the Lord*.
 
+## Reacting to Anti-Mormon Books
+Returns as a guest on [[Ward Radio - We Bought Every Anti-Mormon Book and React]], helping run the critique of [[Mark J. Cares]]' "Five Pillars" — including the role-play exposing how the "see Mormons as victims" approach collapses into condescension (see [[See Mormons as Victims Is Condescending Not Loving]]).
+
 ## Source
 - [[Ward Radio - The Best Temple Prep Class You Never Had]]
+- [[Ward Radio - We Bought Every Anti-Mormon Book and React]]
 
 ---
 See also: [[People]] · [[Cardon Ellis]] · [[Michael Myrrono (OrthoCardia)]] · [[Ward Radio]]

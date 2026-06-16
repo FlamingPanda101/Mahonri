@@ -16,8 +16,12 @@ LDS content creator who posts as **OrthoCardia** (Instagram / YouTube). Born and
 ## On Temple Preparation
 On [[Ward Radio - The Best Temple Prep Class You Never Had]] he leads with the **etymology of "garment" and "endowment"** — Greek for clothing-upon, Latin *induere* — to argue the temple clothes the wearer in Christ (see [[The Garment Is the Covering of Christ]]). He imports [[Martin Buber]]'s **I-Thou vs. I-It** distinction to contrast covenantal, relational worship against transactional, prosperity-gospel religion (see [[The I-Thou Temple Is Covenant Relationship Not Transaction]]). He also describes preparing by a week of silence at a Trappist monastery in contemplative prayer, defending interfaith borrowing as native to the Restoration's "gather all truth" ethos.
 
+## Reacting to Anti-Mormon Books
+On [[Ward Radio - We Bought Every Anti-Mormon Book and React]] he draws on his evangelical background to lead the theological critique — affirming the [[The Godhead Is Not Polytheism|Godhead as the New Testament term for the Trinity]], walking through subordinationism and the *filioque*, defending [[LDS Salvation Is by Grace Not Earned by Works|synergistic salvation]], and arguing that [[See Mormons as Victims Is Condescending Not Loving|the "see Mormons as victims" posture is condescension, not humility]], citing [[Augustine]] on humility.
+
 ## Source
 - [[Ward Radio - The Best Temple Prep Class You Never Had]]
+- [[Ward Radio - We Bought Every Anti-Mormon Book and React]]
 
 ---
 See also: [[People]] · [[Cardon Ellis]] · [[Baylor Johnson (Ward Radio)]] · [[Ward Radio]]

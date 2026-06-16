@@ -2,7 +2,7 @@
 title: "Every Dispensation Opens With God Declaring Divine Sonship"
 scripture:
   - "[[Moses 1.1-2|Moses 1:1-4]]"
-  - "[[Moses 6.51|Moses 6:51-52]]"
+  - "[[Moses 6|Moses 6:51-52]]"
   - "[[Mark 1.11|Mark 1:11]]"
 related:
   - "[[Priesthood Keys Frame the Seven Dispensations]]"
@@ -19,14 +19,14 @@ tags: ["#apologetics/old-testament", "#tradition/lds", "#type/claim"]
 #type/claim
 
 ## The Claim
-[[Don Bradley]] argues there is a **recurring opening formula at the head of each of the seven dispensations**: God reveals *who He is* and then declares *who the prophet is to Him* — "I am God; you are my son." The order is fixed (deity first, sonship second), and Bradley walks all seven: [[Adam]] ([[Moses 6.51|Moses 6:51-52]]), [[Enoch]] (Moses 6:27), [[Noah]] (Moses 8:13), [[Abraham]] (Book of Abraham — "Abraham, my son... my son, my son"), [[Moses]] ([[Moses 1.1-2|Moses 1:3-7]]), [[Jesus of Nazareth|Jesus]] at his baptism ([[Mark 1.11|Mark 1:11]], "Thou art my beloved Son"), and [[Joseph Smith]] in the 1832 First Vision account ("Joseph, my son, thy sins are forgiven thee"). The decisive observation: **every one of the pre-Christian examples survives only in the scriptures of the Restoration** (Book of Moses, Book of Abraham) — this is "a lost key" that the Bible largely lost.[^1][^2]
+[[Don Bradley]] argues there is a **recurring opening formula at the head of each of the seven dispensations**: God reveals *who He is* and then declares *who the prophet is to Him* — "I am God; you are my son." The order is fixed (deity first, sonship second), and Bradley walks all seven: [[Adam]] ([[Moses 6|Moses 6:51-52]]), [[Enoch]] (Moses 6:27), [[Noah]] (Moses 8:13), [[Abraham]] (Book of Abraham — "Abraham, my son... my son, my son"), [[Moses]] ([[Moses 1.1-2|Moses 1:3-7]]), [[Jesus of Nazareth|Jesus]] at his baptism ([[Mark 1.11|Mark 1:11]], "Thou art my beloved Son"), and [[Joseph Smith]] in the 1832 First Vision account ("Joseph, my son, thy sins are forgiven thee"). The decisive observation: **every one of the pre-Christian examples survives only in the scriptures of the Restoration** (Book of Moses, Book of Abraham) — this is "a lost key" that the Bible largely lost.[^1][^2]
 
 This pairs with but is distinct from [[Priesthood Keys Frame the Seven Dispensations]]: that concept tracks *authority/keys* across the dispensations; this one tracks the *relational declaration of sonship* that opens each.
 
 ## Supporting Evidence
 
 ### 1. The pattern is textually explicit in the Restoration scriptures
-For Adam: God "called upon our Father Adam by his own voice, saying, I am God" and, after baptism, "thou art one in me, a son of God" ([[Moses 6.51|Moses 6:51-52]]). For Enoch: "Enoch, my son, prophesy unto this people" (Moses 6:27). For Noah, "the case that's least clear," it still says he and his sons "were called the sons of God" (Moses 8:13). Each conversion of a dispensation head carries the formula.[^1] *Rating: internally consistent — the verses say what Bradley says; it is a real pattern within the LDS canon.*
+For Adam: God "called upon our Father Adam by his own voice, saying, I am God" and, after baptism, "thou art one in me, a son of God" ([[Moses 6|Moses 6:51-52]]). For Enoch: "Enoch, my son, prophesy unto this people" (Moses 6:27). For Noah, "the case that's least clear," it still says he and his sons "were called the sons of God" (Moses 8:13). Each conversion of a dispensation head carries the formula.[^1] *Rating: internally consistent — the verses say what Bradley says; it is a real pattern within the LDS canon.*
 
 ### 2. The "my son, my son" intensification ties Abraham to David's lament
 In the Book of Abraham the Lord stretches out his hand and says "My son, my son" — a doubling Bradley notes appears only one other place in all scripture: [[David]]'s lament over [[Absalom]] ("O Absalom, my son, my son"). He reads this as paternal tenderness, not bare title — "those are some of the most tender words spoken in the entirety of scripture."[^3] *Rating: an evocative intertext; the parallel is verbal and thematic, not a demonstrable literary dependence.*
