@@ -1,6 +1,6 @@
 # Consolidation Report
 
-*Scanned 2026-06-15 13:15 — 1905 concept notes.*
+*Scanned 2026-06-15 18:36 — 2085 concept notes.*
 
 Auto-detected. **Nothing was changed** — review and merge via Mahonri (tell it: merge note X into note Y) or by hand.
 
@@ -24,7 +24,8 @@ Auto-detected. **Nothing was changed** — review and merge via Mahonri (tell it
 - `Anthropic Fine-Tuning Points to a Designer` ↔ `Cosmic Fine-Tuning Points to a Designer (Turek)`  (similarity 0.82)
 - `Abolition Tracks Material Conditions Not Christian Conviction` ↔ `Feminism Tracks Material Conditions Not Christian Doctrine`  (similarity 0.82)
 
-## Broken wiki-links (212)
+## Broken wiki-links (254)
+- in **A Prophet's Scripture Marginalia Reveals His Devotional Interior.md** → `[[3 Nephi]]` (no such note)
 - in **Accepting Evolution with Joy Is Possible.md** → `[[Henry Eyring]]` (no such note)
 - in **Alma 32 Light Alludes to Genesis 1 Creation.md** → `[[Kaden Alvie]]` (no such note)
 - in **Anthropomorphic God in the Hebrew Bible.md** → `[[Exodus 33.11]]` (no such note)
@@ -48,6 +49,7 @@ Auto-detected. **Nothing was changed** — review and merge via Mahonri (tell it
 - in **Christianity Inherited Jewish Day-of-the-Lord Eschatology.md** → `[[Ezekiel 47.8]]` (no such note)
 - in **Christus Victor and the Ransom by Deception.md** → `[[1 Corinthians 15.55]]` (no such note)
 - in **Church History Is Often the Soundbite Adopted After a Bad Cultural Experience.md** → `[[John 7.17]]` (no such note)
+- in **Confirmed Anachronisms Are Reverse-Anachronisms Joseph Could Not Have Known.md** → `[[Interpreter Foundation]]` (no such note)
 - in **Creedalism Replaced Relationship With Theology.md** → `[[The Self-Authenticating Canon Refuted]]` (no such note)
 - in **Culture Is Soil - Protection and Nourishment Must Be Balanced.md** → `[[Matthew 13.3-9]]` (no such note)
 - in **Culture Is Soil - Protection and Nourishment Must Be Balanced.md** → `[[2 Nephi 31.18]]` (no such note)
@@ -58,7 +60,6 @@ Auto-detected. **Nothing was changed** — review and merge via Mahonri (tell it
 - in **Decentralize - Crop-Dusting vs Gardening in Member Retention.md** → `[[Luke 15.3-7]]` (no such note)
 - in **Decentralize - Crop-Dusting vs Gardening in Member Retention.md** → `[[Doctrine and Covenants 20.53-55]]` (no such note)
 - in **Decentralize - Crop-Dusting vs Gardening in Member Retention.md** → `[[Doctrine and Covenants 28.13]]` (no such note)
-- in **Decentralize - Crop-Dusting vs Gardening in Member Retention.md** → `[[1 Corinthians 12.12-27]]` (no such note)
 - in **Deuteronomistic Reform Explains the Book of Mormon Theology.md** → `[[1 Nephi 1.8-19]]` (no such note)
 - in **Deuteronomistic Reform Explains the Book of Mormon Theology.md** → `[[Laman]]` (no such note)
 - in **Deuteronomy Was Patterned After the Vassal Treaty of Esarhaddon.md** → `[[Ashurbanipal]]` (no such note)
@@ -73,8 +74,7 @@ Auto-detected. **Nothing was changed** — review and merge via Mahonri (tell it
 - in **Early Christian Prayer and the Orant Posture.md** → `[[1 Timothy 2.8]]` (no such note)
 - in **Ebla Archives Do Not Support Creation Ex Nihilo.md** → `[[TM.75.G1682]]` (no such note)
 - in **English Bibles Flatten Four Distinct Words Into Hell.md** → `[[Dante]]` (no such note)
-- in **Evolutionary Biology at BYU Is an Academic Success Story.md** → `[[Duane Jeffrey]]` (no such note)
-- in **Faith Is Blind vs Faith Is Evidence-Based.md** → `[[Alma 32]]` (no such note)
+- in **Equal Human Rights Come From What We Are Not What We Can Do.md** → `[[The Right to Life Trumps Bodily Autonomy]]` (no such note)
 
 ## Orphan concepts — no links in or out (0)
 - none

@@ -14,7 +14,7 @@ tags: ["#apologetics/prophetic-fallibility", "#tradition/lds", "#type/claim"]
 # The "Two-Adams" Reading Arose to Counter LeBaron Fundamentalism
 
 ## The Claim
-[[Chris Blyth]] offers a historical explanation for why the church cracked down on Adam-God in the mid-twentieth century and why the **"two Adams" / "Adam is only a title"** reading was developed: it was a **reaction to fundamentalist polygamist proselytizing**, not a disinterested doctrinal correction. Adam-God "becomes a major component to fundamentalist thought" and got carried "in a missionary way" by the **Church of the Firstborn of the Fullness of Times**, founded in 1955 by the LeBaron brothers (Joel, Ross, and Floren). [[Spencer W. Kimball]] — who grew up around the LeBarons in the Mexican colonies — and [[Bruce R. McConkie]] reacted to this threat, and "it's right in this era that two atoms comes out to try to explain Brigham Young's teachings" [^1].
+[[Christopher Blythe|Chris Blyth]] offers a historical explanation for why the church cracked down on Adam-God in the mid-twentieth century and why the **"two Adams" / "Adam is only a title"** reading was developed: it was a **reaction to fundamentalist polygamist proselytizing**, not a disinterested doctrinal correction. Adam-God "becomes a major component to fundamentalist thought" and got carried "in a missionary way" by the **Church of the Firstborn of the Fullness of Times**, founded in 1955 by the LeBaron brothers (Joel, Ross, and Floren). [[Spencer W. Kimball]] — who grew up around the LeBarons in the Mexican colonies — and [[Bruce R. McConkie]] reacted to this threat, and "it's right in this era that two atoms comes out to try to explain Brigham Young's teachings" [^1].
 
 ## Supporting Evidence (steelman)
 

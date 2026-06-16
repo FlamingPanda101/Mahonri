@@ -14,7 +14,7 @@ tags: ["#apologetics/prophetic-fallibility", "#tradition/lds", "#type/claim"]
 # How Brigham Young Extrapolated Adam-God from Joseph Smith
 
 ## The Claim
-[[Brigham Young]] repeatedly said he learned Adam-God from [[Joseph Smith]]. Critics find this implausible, since Joseph never plainly taught it. [[Chris Blyth]] and Brad Whitfield supply a **plausible genealogy**: Joseph taught two principles — apotheosis/infinite regression (the King Follett Discourse) **and** an elevated Adam ("the **ancient of days** is Adam," "**Michael** the archangel," "the top dog"). Brigham, plus a personal 1847 vision, **extrapolated** the rest. So whether or not the doctrine is true, Brigham's claim to have gotten the seed from Joseph is historically credible — he did not invent it from nothing [^1].
+[[Brigham Young]] repeatedly said he learned Adam-God from [[Joseph Smith]]. Critics find this implausible, since Joseph never plainly taught it. [[Christopher Blythe|Chris Blyth]] and Brad Whitfield supply a **plausible genealogy**: Joseph taught two principles — apotheosis/infinite regression (the King Follett Discourse) **and** an elevated Adam ("the **ancient of days** is Adam," "**Michael** the archangel," "the top dog"). Brigham, plus a personal 1847 vision, **extrapolated** the rest. So whether or not the doctrine is true, Brigham's claim to have gotten the seed from Joseph is historically credible — he did not invent it from nothing [^1].
 
 ## Supporting Evidence (steelman)
 

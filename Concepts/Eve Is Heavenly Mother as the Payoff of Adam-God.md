@@ -14,7 +14,7 @@ tags: ["#apologetics/prophetic-fallibility", "#tradition/lds", "#type/claim"]
 # Eve Is Heavenly Mother — the Redemptive Payoff of Adam-God
 
 ## The Claim
-Rather than treat Adam-God as a pure embarrassment to be quarantined, [[Chris Blyth]] argues it carries a genuine theological **benefit**: it "teaches us who Heavenly Mother is." On the Adam-God scheme, **Eve is Heavenly Mother**, so the Eden narrative becomes the story of Heavenly Mother "choosing to bring forth the offspring that she's helped." The doctrine also "gives us a story, a narrative behind mother Eve" and, per the host's extrapolation, explains "what grandpa God was up to" — why an already-exalted, resurrected being would condescend to fall [^1].
+Rather than treat Adam-God as a pure embarrassment to be quarantined, [[Christopher Blythe|Chris Blyth]] argues it carries a genuine theological **benefit**: it "teaches us who Heavenly Mother is." On the Adam-God scheme, **Eve is Heavenly Mother**, so the Eden narrative becomes the story of Heavenly Mother "choosing to bring forth the offspring that she's helped." The doctrine also "gives us a story, a narrative behind mother Eve" and, per the host's extrapolation, explains "what grandpa God was up to" — why an already-exalted, resurrected being would condescend to fall [^1].
 
 ## Supporting Evidence (steelman)
 
