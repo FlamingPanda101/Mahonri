@@ -33,6 +33,23 @@ These are the natural entry points for ASK mode.
 **SOURCE:** YAML(`aliases`, tags `#source/<video|article|book>` + `#by/<author>`, `date`, `author`, `url`, `authority`, `authority_reason`) · 3-bullet summary · `[[concept links]]`
 **CONCEPT:** YAML(tags `#apologetics/<topic>`, `#tradition/<x>`, `#type/<claim|objection|rebuttal>`) · **The Claim** · **Supporting Evidence** (rate each primary/secondary/assertion) · **Best Quote** (verbatim + attribution) · **Counter-arguments** (`[[links]]`) · **References** (`[[Source]]` + related)
 
+## Concept folders — file every new Concept in its domain subfolder (sharded 2026-06-16)
+`Concepts/` is split into 13 domain subfolders (keeps each under GitHub's 1,000-file web cap). Write each NEW Concept note straight into the best-fit one — do NOT leave it flat in `Concepts/` root. Choose by the note's primary `#apologetics/`/`#topic/` tag:
+- `Concepts/book-of-mormon/` — BoM historicity, witnesses, geography, text, chiasmus, Nephi/Lehi/Alma
+- `Concepts/joseph-smith/` — prophet-or-fraud, First Vision, polygamy, Book of Abraham, treasure-digging
+- `Concepts/restoration-history/` — apostasy→restoration, succession, Brigham/Adam-God, priesthood ban, church history (**the LDS catch-all** when nothing more specific fits)
+- `Concepts/temple-priesthood/` — endowment, masonry, ancient temple, ordinances, priesthood authority
+- `Concepts/bible-canon/` — canon, sola scriptura, textual criticism, translation, OT/NT origins, manuscripts
+- `Concepts/god-trinity/` — nature of God, Trinity vs Godhead, divine council, theosis/deification, embodiment, creation ex nihilo
+- `Concepts/problem-of-evil/` — theodicy, hell, free will/determinism, suffering, divine hiddenness
+- `Concepts/natural-theology/` — God's existence (Kalam, fine-tuning, contingency, design), evolution, atheism, cosmology
+- `Concepts/method-epistemology/` — apologetic method, faith crisis, historiography, rhetoric, hermeneutics, fallacies
+- `Concepts/salvation-grace/` — grace vs works, atonement, justification, soteriology
+- `Concepts/ethics-culture/` — abortion, marriage, gender/sexuality, morality, culture/politics
+- `Concepts/other-religions/` — Catholicism, Protestantism, Orthodoxy, Islam, creeds, the Reformation (non-LDS traditions, as foils)
+- `Concepts/debate-maps/` — only the `Debate - *.md` synthesis maps
+`Scriptures/`, `People/`, `Sources/` stay FLAT (each well under 1,000). The folder is organization only — `[[links]]` resolve by **basename** regardless, so NEVER put a folder path inside a wikilink. (To re-file drift later: `scripts/shard-classify.py` then `scripts/shard-move.py`.)
+
 ## Entity notes — scriptures & people get their OWN atomic notes
 Treat scriptures and notable people as first-class entities. When a source discusses
 one, give it its own note and link it **bidirectionally** with the relevant Concepts.
