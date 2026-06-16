@@ -18,14 +18,20 @@ Andrea Woodmansee is a Latter-day Saint teacher and a popular returning guest on
 
 In "The Secret Identity of the Wisemen," Woodmansee argues the [[Matthew 2.1-12|Matthew 2]] magi were not Persian astrologers but [[The Wise Men Were Bearers of Preserved First-Temple Covenant|bearers of preserved first-temple covenant]], descended from priests carried to Babylon in 600 BC, who came to [[The Gifts of the Magi Were Temple Items for Anointing the High Priest|anoint the infant Jesus as the great High Priest]] — performing an ordinance, not merely worshipping. She reads the Bethlehem star as the [[Numbers 24.17|"Star out of Jacob"]] sign of the Son of Man, and applies the pattern pastorally: covenant-keepers, like the magi, must hunger for the temple and heed living prophets to be ready for the Second Coming.[^2]
 
+## On the Hebrew wedding as a type of the temple
+
+In "The Hidden Hebrew Wedding Ritual and The Temple," Woodmansee argues that the ancient three-phase Hebrew wedding (betrothal/*ketubah*, the bridegroom's year-long absence to "prepare a place," the night-time feast) is a deliberate type of the temple, the sealing ordinance, and Christ as bridegroom — making sense of the [[The Parable of the Ten Virgins Encodes Hebrew Wedding Customs|ten virgins]], the [[The Alabaster Box Was the Bride's Dowry Oil to Anoint the Bridegroom|alabaster-box anointing]], the [[The Ketubah and the Jerusalem Window Depict Christ as the Marriage Covenant|2020 Church symbol as a ketubah]], and the [[The Bridegroom Drank the Bitter Fourth Cup So the Bride Would Not|bitter cup]]. See [[Ancient Hebrew Weddings Are a Three-Phase Type of the Temple]].[^3]
+
 ## Source
 
 - [[The Stick of Joseph - The Secret Identity of the Wisemen]]
+- [[The Stick of Joseph - The Hidden Hebrew Wedding Ritual and the Temple]]
 
 ## References
 
 [^1]: [[The Stick of Joseph - The Secret Identity of the Wisemen|Stick of Joseph - Wisemen]], [52:00], https://youtu.be/HNhRCcboLDw
 [^2]: [[The Stick of Joseph - The Secret Identity of the Wisemen|Stick of Joseph - Wisemen]], [25:00], https://youtu.be/HNhRCcboLDw
+[^3]: [[The Stick of Joseph - The Hidden Hebrew Wedding Ritual and the Temple|Stick of Joseph - Hebrew Wedding Ritual]], [04:01], https://youtu.be/dU81hfwml6Q
 
 ---
-See also: [[People]] · [[Stick of Joseph]] · [[Margaret Barker]] · [[Hugh Nibley]] · [[The Wise Men Were Bearers of Preserved First-Temple Covenant]]
+See also: [[People]] · [[Stick of Joseph]] · [[Margaret Barker]] · [[Hugh Nibley]] · [[The Wise Men Were Bearers of Preserved First-Temple Covenant]] · [[Ancient Hebrew Weddings Are a Three-Phase Type of the Temple]]

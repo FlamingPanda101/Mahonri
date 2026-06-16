@@ -1,6 +1,6 @@
 # Consolidation Report
 
-*Scanned 2026-06-15 18:36 — 2085 concept notes.*
+*Scanned 2026-06-15 21:39 — 2241 concept notes.*
 
 Auto-detected. **Nothing was changed** — review and merge via Mahonri (tell it: merge note X into note Y) or by hand.
 
@@ -24,14 +24,22 @@ Auto-detected. **Nothing was changed** — review and merge via Mahonri (tell it
 - `Anthropic Fine-Tuning Points to a Designer` ↔ `Cosmic Fine-Tuning Points to a Designer (Turek)`  (similarity 0.82)
 - `Abolition Tracks Material Conditions Not Christian Conviction` ↔ `Feminism Tracks Material Conditions Not Christian Doctrine`  (similarity 0.82)
 
-## Broken wiki-links (254)
+## Broken wiki-links (380)
+- in **A God-Headed Church Is Guaranteed Against Corruption by Divine Foreknowledge.md** → `[[You Can Only Follow Jesus by Joining the Church He Commands]]` (no such note)
+- in **A God-Headed Church Is Guaranteed Against Corruption by Divine Foreknowledge.md** → `[[You Can Only Follow Jesus by Joining the Church He Commands]]` (no such note)
 - in **A Prophet's Scripture Marginalia Reveals His Devotional Interior.md** → `[[3 Nephi]]` (no such note)
+- in **A Ritual Smiting of the Cheek Was a Lost Temple Ordinance.md** → `[[Matthew 5.39]]` (no such note)
+- in **A Ritual Smiting of the Cheek Was a Lost Temple Ordinance.md** → `[[Helaman 4.12]]` (no such note)
+- in **A Ritual Smiting of the Cheek Was a Lost Temple Ordinance.md** → `[[Alma 14.14]]` (no such note)
+- in **A Ritual Smiting of the Cheek Was a Lost Temple Ordinance.md** → `[[Matthew 5.39]]` (no such note)
+- in **A Ritual Smiting of the Cheek Was a Lost Temple Ordinance.md** → `[[Helaman 4.12]]` (no such note)
+- in **A Ritual Smiting of the Cheek Was a Lost Temple Ordinance.md** → `[[Alma 14.14]]` (no such note)
+- in **A Ritual Smiting of the Cheek Was a Lost Temple Ordinance.md** → `[[Alma 12]]` (no such note)
 - in **Accepting Evolution with Joy Is Possible.md** → `[[Henry Eyring]]` (no such note)
+- in **Adherent Hypocrisy Does Not Disprove the Religions Historical Claim.md** → `[[Lets Talk w Hayden Carroll - Student on Protestant Teachings]]` (no such note)
 - in **Alma 32 Light Alludes to Genesis 1 Creation.md** → `[[Kaden Alvie]]` (no such note)
 - in **Anthropomorphic God in the Hebrew Bible.md** → `[[Exodus 33.11]]` (no such note)
-- in **Atheism Undercuts the Rationality Science Requires.md** → `[[D&C 131]]` (no such note)
 - in **Book of Enoch - 364 Day Solar Calendar.md** → `[[Qumran - Calendar Controversy]]` (no such note)
-- in **Book of Enoch - Dead Sea Scrolls Attestation.md** → `[[Dead Sea Scrolls]]` (no such note)
 - in **Book of Enoch - Enoch as the Son of Man.md** → `[[Son of Man - Development of the Title]]` (no such note)
 - in **Book of Enoch - Enoch as the Son of Man.md** → `[[Christology - Enochic Background]]` (no such note)
 - in **Book of Enoch - Exclusion from the Canon.md** → `[[Book of Enoch - Ethiopian Orthodox Preservation]]` (no such note)
@@ -50,6 +58,7 @@ Auto-detected. **Nothing was changed** — review and merge via Mahonri (tell it
 - in **Christus Victor and the Ransom by Deception.md** → `[[1 Corinthians 15.55]]` (no such note)
 - in **Church History Is Often the Soundbite Adopted After a Bad Cultural Experience.md** → `[[John 7.17]]` (no such note)
 - in **Confirmed Anachronisms Are Reverse-Anachronisms Joseph Could Not Have Known.md** → `[[Interpreter Foundation]]` (no such note)
+- in **Corporate Headship Requires Consent - The Contract You Never Signed.md** → `[[Ezekiel 18.20]]` (no such note)
 - in **Creedalism Replaced Relationship With Theology.md** → `[[The Self-Authenticating Canon Refuted]]` (no such note)
 - in **Culture Is Soil - Protection and Nourishment Must Be Balanced.md** → `[[Matthew 13.3-9]]` (no such note)
 - in **Culture Is Soil - Protection and Nourishment Must Be Balanced.md** → `[[2 Nephi 31.18]]` (no such note)
@@ -66,15 +75,6 @@ Auto-detected. **Nothing was changed** — review and merge via Mahonri (tell it
 - in **Deuteronomy Was Patterned After the Vassal Treaty of Esarhaddon.md** → `[[Deuteronomy 5.7]]` (no such note)
 - in **Divine Council and Deification Were Native to the Hebrew Bible.md** → `[[Josiah's Reform and the First Temple Make Restoration a Coherent Category]]` (no such note)
 - in **Divine Punishment in the Afterlife Emerged as Theodicy Under Imperial Oppression.md** → `[[Job]]` (no such note)
-- in **Doctrine of Divine Childhood Versus Total Depravity.md** → `[[Moroni 8.12-22]]` (no such note)
-- in **Doctrine of Divine Childhood Versus Total Depravity.md** → `[[Moroni 8.12-22]]` (no such note)
-- in **Doctrine of Divine Childhood Versus Total Depravity.md** → `[[Moses 1.10]]` (no such note)
-- in **Doctrine of Divine Childhood Versus Total Depravity.md** → `[[Mosiah 4.11]]` (no such note)
-- in **Early Christian Prayer and the Orant Posture.md** → `[[1 Timothy 2.8]]` (no such note)
-- in **Early Christian Prayer and the Orant Posture.md** → `[[1 Timothy 2.8]]` (no such note)
-- in **Ebla Archives Do Not Support Creation Ex Nihilo.md** → `[[TM.75.G1682]]` (no such note)
-- in **English Bibles Flatten Four Distinct Words Into Hell.md** → `[[Dante]]` (no such note)
-- in **Equal Human Rights Come From What We Are Not What We Can Do.md** → `[[The Right to Life Trumps Bodily Autonomy]]` (no such note)
 
 ## Orphan concepts — no links in or out (0)
 - none

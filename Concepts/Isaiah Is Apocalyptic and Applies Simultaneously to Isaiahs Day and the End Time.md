@@ -38,7 +38,7 @@ This claim is the mirror image of the vault's [[Deutero-Isaiah Theory]] note. Wh
 > "The Hebrew mindset is not logical. It's typological… History repeats… the same patterns in different scenarios." [^6]
 
 ## Counter-arguments
-- See [[Deutero-Isaiah Theory]] for the critical-scholarship case (Cyrus named in advance, Aramaic loanwords, the disappearance of Isaiah's name after ch. 39) that the book is a multi-stage composition.
+- See [[Deutero-Isaiah Theory]] for the academic-biblical-studies case (Cyrus named in advance, Aramaic loanwords, the disappearance of Isaiah's name after ch. 39) that the book is a multi-stage composition.
 - A literary structure spanning the received 66-chapter book is compatible with that book being *redacted* into unity by later editors; demonstrating holistic structure does not by itself establish single 8th-century authorship.
 - "Apocalyptic" here is Gileadi's interpretive label for the whole book, broader than the genre sense scholars use for works like Daniel; critics would distinguish dual-application typology from authorship questions.
 
