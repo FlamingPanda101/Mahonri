@@ -9,6 +9,7 @@ related:
   - "[[Genealogical Descent Is Not Genetic Descent]]"
 sources:
   - "[[Ward Radio - Real Revelation or a Rogue Patriarch]]"
+  - "[[Ward Radio - We Found the Lost Ten Tribes of Israel]]"
 tags: [apologetics, ten-tribes, gathering-of-israel, eschatology, tradition/lds]
 #type/claim
 ---
@@ -48,10 +49,17 @@ A critic responds that the "confirmation" is circular and category-confused. (a)
 
 > "DNA supports what LDS patriarchs have discovered in nowhere Siberia... please tell me this genetic information came out after the patriarchs had already done the patriarchal blessings." [^3]
 
+## Related (another source)
+
+A separate [[Ward Radio]] episode, [[Ward Radio - We Found the Lost Ten Tribes of Israel]], fleshes out the *historical mechanism* this note's eschatology presupposes. There [[Don Bradley]] explains the **Assyrian scatter strategy** — conquered peoples were dispersed through the empire and mixed with imported settlers to dissolve their ethnic identity, so the deportees' descendants are simply the peoples of that region, not a hidden preserved nation.[^4] He further argues the **Samaritans (descended from remnant northern Israel) are the ancestors of today's Palestinians**, making the Israeli–Palestinian conflict a clash within the House of Israel — see [[The Palestinians and Jews Are Both House of Israel]].[^5] The panel also locates **Ephraim in the British Isles** via the patriarchal blessings of British converts, reinforcing [[Patriarchal Blessings Reveal Tribal Lineage and Cannot Be Faked]].[^6] That episode holds the *literal-location* speculation (hollow earth, North Pole) explicitly as comedy, consistent with this note's steelman that the doctrinal core is a covenant gathering, not a geography.
+
 ## References
 [^1]: [[Ward Radio - Real Revelation or a Rogue Patriarch|Ward Radio - Real Revelation or a Rogue Patriarch]], [01:30]-[04:00], https://youtu.be/4PvZtkqd-dM
 [^2]: [[Ward Radio - Real Revelation or a Rogue Patriarch|Ward Radio - Real Revelation or a Rogue Patriarch]], [18:00]-[20:30], https://youtu.be/4PvZtkqd-dM
 [^3]: [[Ward Radio - Real Revelation or a Rogue Patriarch|Ward Radio - Real Revelation or a Rogue Patriarch]], [28:30]-[30:30], https://youtu.be/4PvZtkqd-dM
+[^4]: [[Ward Radio - We Found the Lost Ten Tribes of Israel|Ward Radio - Lost Ten Tribes]], [17:00], https://youtu.be/qnocim5VUT0
+[^5]: [[Ward Radio - We Found the Lost Ten Tribes of Israel|Ward Radio - Lost Ten Tribes]], [19:00]-[20:30], https://youtu.be/qnocim5VUT0
+[^6]: [[Ward Radio - We Found the Lost Ten Tribes of Israel|Ward Radio - Lost Ten Tribes]], [26:00], https://youtu.be/qnocim5VUT0
 
 ---
-See also: [[Concepts]] · [[Ward Radio - Real Revelation or a Rogue Patriarch]] · [[Patriarchal Blessings Reveal Tribal Lineage and Cannot Be Faked]] · [[Russell M. Nelson]] · [[Josephus]]
+See also: [[Concepts]] · [[Ward Radio - Real Revelation or a Rogue Patriarch]] · [[Ward Radio - We Found the Lost Ten Tribes of Israel]] · [[The Palestinians and Jews Are Both House of Israel]] · [[Patriarchal Blessings Reveal Tribal Lineage and Cannot Be Faked]] · [[Russell M. Nelson]] · [[Josephus]]

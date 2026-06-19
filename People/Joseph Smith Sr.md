@@ -15,10 +15,15 @@ The source also notes that several of the hostile [[Hurlbut Affidavits Bias Prob
 - See [[Seer Stones and Divining Rods as Revelatory Means]]
 - See [[Hurlbut Affidavits Bias Problem]]
 
+## The Father-Son Bond and the Word of Wisdom
+In the [[Let's Get Real with Stephen Jones - Joseph Smith's Biggest Discovery (Don Bradley E0039)|Let's Get Real interview]], [[Don Bradley]] makes Joseph Sr central to his reading of the 1813 leg surgery: the seven-year-old [[Joseph Smith]] refused anesthetic alcohol but asked that his father hold him, which Bradley reads as the boy setting a sober example for a father with a documented "weakness for wine" ([[Richard Bushman]]'s phrase). Bradley distinguishes this from the hostile caricature: Joseph Sr's drinking, if merely *average* for 1810s America, would still be "very heavy" by modern standards, but he was a tender-hearted, affectionate patriarch — his patriarchal blessings "overflow with affection," and his blessing to [[Hyrum Smith]] gratefully notes Hyrum never forsook him "though he has been out of the way through wine." Bushman names benefiting this "oft-defeated, unmoored father" as a personal motive behind Joseph Jr's revelations.[^4] See [[Joseph Smith Refused Alcohol to Set an Example for His Father]] and [[Joseph Smith's Father-Son Bond Seeded the Doctrine of Saving the Fathers]].
+
 ## References
 - [[The Holy Rebellion - The Problem With Calling Joseph Smith a Con Man]]
+- [[Let's Get Real with Stephen Jones - Joseph Smith's Biggest Discovery (Don Bradley E0039)]]
 - [[Joseph Smith]]
 
 [^1]: [[The Holy Rebellion - The Problem With Calling Joseph Smith a Con Man|The Holy Rebellion - The Problem With Calling Joseph Smith a Con Man]], [07:00]–[07:30], https://youtu.be/ePeZwR5rsQc
 [^2]: [[The Holy Rebellion - The Problem With Calling Joseph Smith a Con Man|The Holy Rebellion - The Problem With Calling Joseph Smith a Con Man]], [60:32]–[61:03], https://youtu.be/ePeZwR5rsQc
 [^3]: [[The Holy Rebellion - The Problem With Calling Joseph Smith a Con Man|The Holy Rebellion - The Problem With Calling Joseph Smith a Con Man]], [29:30]–[30:30], https://youtu.be/ePeZwR5rsQc
+[^4]: [[Let's Get Real with Stephen Jones - Joseph Smith's Biggest Discovery (Don Bradley E0039)|Let's Get Real - Don Bradley E0039]], [65:30]–[68:00], https://youtu.be/aYlhAlgDlP0
