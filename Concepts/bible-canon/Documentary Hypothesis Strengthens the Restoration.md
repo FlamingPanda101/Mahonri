@@ -6,7 +6,7 @@ related:
   - "[[The Book of Mormon Matches Pre-Reform First Temple Theology]]"
   - "[[The Surviving Old Testament Is the Southern Kingdom's Edition]]"
   - "[[Wellhausen Thesis on Hebrew Bible Origins]]"
-sources: ["[[The Stick of Joseph - The Documentary Hypothesis (Mike Day)]]"]
+sources: ["[[The Stick of Joseph - The Documentary Hypothesis (Mike Day)]]", "[[The Stick of Joseph - Who Wrote The Bible]]"]
 tags:
   - "#apologetics/old-testament"
   - "#tradition/lds"
@@ -32,6 +32,8 @@ tags:
 
 5. **Bradley Kramer's frame.** Day leans on [[Bradley Kramer]]'s *Beholding the Tree of Life: A Rabbinic Approach to the Book of Mormon*, which argues the Book of Mormon is engaging the very arguments being had in the First and Second Temple eras — supplying a scholarly-adjacent rationale for reading the Book of Mormon as a participant in ancient Israelite debates.[^6]
 
+6. **Mormon-the-redactor anticipated Wellhausen by ~50 years (rated: chronological argument).** In a second video — the hosts' review of [[Richard Elliott Friedman]]'s *Who Wrote the Bible?* — Day sharpens the timing: Joseph presents the Book of Mormon in 1829 as an edited theological anthology with a named, biased editor ([[Mormon Is an Ethnocentric Redactor Focused on the Witness of Christ|Mormon]]) drawing on many sources and asserting the Bible itself was edited and abridged — "cutting-edge biblical scholarship" that [[Julius Wellhausen|Wellhausen]] only made the dominant paradigm c. 1878, and "blasphemy in the minds of many to even make that assertion even today."[^8][^9] Unlike the silent Pentateuchal redactor (Friedman's candidate is Baruch the scribe), Mormon openly inserts himself — the very transparency source critics must reconstruct behind the Old Testament.
+
 **Steelman of the skeptic.** (a) Revival-era American Christianity already affirmed an embodied theophany, a pre-existent incarnate Christ, and personal visionary religion, so Joseph had abundant *non-academic* sources for "you can see God" and "the mysteries can be known" without needing Wellhausen. (b) The "Deuteronomistic program suppressed an older religion" reconstruction (esp. [[Margaret Barker]]'s temple theology) is a *contested minority* thesis, not settled consensus — so "1 Nephi reverses the reform" assumes a framework many scholars would not grant. (c) The 2 Kings 22–23 narrative of Josiah's reform was readable in any KJV, so the *bare* idea that worship was once centralized was available; what was *not* available in 1830 is the full 20th-century editorial-school synthesis — which is the load-bearing part of Day's claim. (d) Day himself repeatedly says "I'm not saying this is true... this is the closest thing I can do," presenting the argument as a personal resolution, not a proof.[^4][^7]
 
 ## Best Quotes
@@ -50,6 +52,8 @@ tags:
 [^5]: [[The Stick of Joseph - The Documentary Hypothesis (Mike Day)|Stick of Joseph - Documentary Hypothesis]], [43:00], https://youtu.be/H-dSOTl41sA
 [^6]: [[The Stick of Joseph - The Documentary Hypothesis (Mike Day)|Stick of Joseph - Documentary Hypothesis]], [24:31], https://youtu.be/H-dSOTl41sA
 [^7]: [[The Stick of Joseph - The Documentary Hypothesis (Mike Day)|Stick of Joseph - Documentary Hypothesis]], [23:31], https://youtu.be/H-dSOTl41sA
+[^8]: [[The Stick of Joseph - Who Wrote The Bible|Who Wrote The Bible]], [22:00], https://youtu.be/s3YjnFxSN8A
+[^9]: [[The Stick of Joseph - Who Wrote The Bible|Who Wrote The Bible]], [25:00], https://youtu.be/s3YjnFxSN8A
 
 ---
-See also: [[Deuteronomy 12]] · [[1 Nephi 1.1]] · [[Bradley Kramer]] · [[Concepts]] · [[The Stick of Joseph - The Documentary Hypothesis (Mike Day)]]
+See also: [[Deuteronomy 12]] · [[1 Nephi 1.1]] · [[Bradley Kramer]] · [[Two Interlaced Flood Narratives Preserve Northern and Southern Versions]] · [[Concepts]] · [[The Stick of Joseph - The Documentary Hypothesis (Mike Day)]] · [[The Stick of Joseph - Who Wrote The Bible]]

@@ -20,9 +20,14 @@ Butler's argument (as relayed by Arnold) reads **Matthew 13** ("it has been give
 ## On the garment, the veil, and the body of the Lord
 Alongside [[Jonah Barnes]] in a Plain and Precious Publishing interview, Butler relays the Hebrew *or*/*or* homophone ("skin" vs "light") and *Genesis Rabbah*'s "garments of light"; argues the Day-of-Atonement high priest wore robes that **matched the temple veil**, so "wearing the veil means putting on the body of the Lord" — which is why the veil tore at Jesus' death; and adds [[Mircea Eliade]]'s "return to creation" as a complementary reading of why one puts on a sacred garment. See [[The Garment of Skin and the Garment of Light]] and [[The Garment Is the Veil of the Temple and the Body of the Lord]].[^2]
 
+## As host and Stick of Joseph guest
+Butler also appears on *The Stick of Joseph* in two further roles. He **hosts** the worship conversation with [[Todd McLauchlin]], drawing out worship as a state of being and as universal — see [[The Stick of Joseph - How to Access the Power of Heaven Through Real Worship]].[^3] And in the "Reading Books with Mike and Dave" episode he co-leads (with [[Mike Day]]) an introduction to [[Moshe Weinfeld]]'s *Deuteronomy and the Deuteronomic School*, pressing the re-evaluation of [[Josiah]] as a violent reformer and reading [[Laman]] and Lemuel as *pious* Deuteronomists. See [[Deuteronomistic Corruption of the Old Testament]] and [[The Synagogue Predates Lehi in the Deuteronomic Reform]], from [[The Stick of Joseph - King Josiah Deuteronomy and the Book of Mormon (Mike and Dave)]].[^4]
+
 ## References
 [^1]: [[Moronis Standard - The Temple Ceremony Was Destroyed Twice and Restored in 1842|Moroni's Standard - The Temple Was Destroyed Twice]], [04:30]–[05:30], https://youtu.be/t5vt7CsNQMQ
 [^2]: [[The Stick of Joseph - Why ALL Christians Should Wear a Sacred Garment|Stick of Joseph - Sacred Garment (Barnes)]], [16:30], https://youtu.be/6IotRPZLAAA
+[^3]: [[The Stick of Joseph - How to Access the Power of Heaven Through Real Worship|Stick of Joseph - Real Worship]], [00:30], https://youtu.be/87pLM-JW3gQ
+[^4]: [[The Stick of Joseph - King Josiah Deuteronomy and the Book of Mormon (Mike and Dave)|Stick of Joseph - Mike & Dave on Deuteronomy]], [01:30], https://youtu.be/vfF0opRPkjk
 
 ---
-See also: [[People]] · [[Authority Ledger]] · [[Moronis Standard - The Temple Ceremony Was Destroyed Twice and Restored in 1842]] · [[The Stick of Joseph - Why ALL Christians Should Wear a Sacred Garment]]
+See also: [[People]] · [[Authority Ledger]] · [[Mike Day]] · [[Todd McLauchlin]] · [[Moronis Standard - The Temple Ceremony Was Destroyed Twice and Restored in 1842]] · [[The Stick of Joseph - Why ALL Christians Should Wear a Sacred Garment]] · [[The Stick of Joseph - How to Access the Power of Heaven Through Real Worship]] · [[The Stick of Joseph - King Josiah Deuteronomy and the Book of Mormon (Mike and Dave)]]

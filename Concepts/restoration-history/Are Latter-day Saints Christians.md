@@ -7,6 +7,7 @@ related:
   - "[[Humans Are the Same Kind as God (LDS Ontology)]]"
 sources:
   - "[[Gavin Ortlund - Protestant and Mormon Discuss the Trinity]]"
+  - "[[The Stick of Joseph - The Definition of a Christian Has Been Corrupted]]"
 tags: [apologetics, identity, christianity, ecumenism, tradition/lds]
 #type/claim
 ---
@@ -26,6 +27,8 @@ The dialogue reaches a notable convergence on terminology. [[Jacob Hansen]] conc
 
 4. **Steelman of Hansen's fairness complaint.** Hansen objects that questioning LDS *salvation* (not just the label) over "a theological understanding of a doctrine that many people struggle to understand themselves... seems a bit harsh." [^6] *Rating: emotionally and rhetorically strong;* Ortlund's reply is the duty-of-candor framing (see [[Trinity Is a First-Rank Salvation Issue]]) plus the claim that the disagreement is about identity, not technicality.
 
+5. **The reverse proposal: define "Christian" by fruits, not creeds.** Where Hansen *concedes* the non-creedal label, [[Hayden Carroll]] goes on the offensive and proposes a different definition entirely — *Christianos* = "belonging to Christ," tested by Matthew 7's "by their fruits ye shall know them" / "he that doeth the will of my Father," not by the Nicene creed. He plays [[Jeffrey R. Holland]]'s 2007 conference clip (Harper's Bible Dictionary: the conciliar Trinity "is not to be found in the New Testament") to argue the creedal gate is historically contingent. New concept: [[Christian Means Belonging to Christ by Doing the Fathers Will]]. *Rating: a stronger claim than the concession move — it argues Mormons meet a dominical definition, not merely that an opponent's minimal definition lets them in.* [^7]
+
 ## Best Quotes
 > "I actually think you're correct in saying we're not credal Christians. We don't hold to the same creedal notions about God... I'm fine with making that distinction." [^1]
 
@@ -42,6 +45,7 @@ The dialogue reaches a notable convergence on terminology. [[Jacob Hansen]] conc
 [^4]: [[Gavin Ortlund - Protestant and Mormon Discuss the Trinity|Gavin Ortlund - Protestant and Mormon Discuss the Trinity]], [02:31], https://youtu.be/7Y9_unCe__M
 [^5]: [[Gavin Ortlund - Protestant and Mormon Discuss the Trinity|Gavin Ortlund - Protestant and Mormon Discuss the Trinity]], [03:31], https://youtu.be/7Y9_unCe__M
 [^6]: [[Gavin Ortlund - Protestant and Mormon Discuss the Trinity|Gavin Ortlund - Protestant and Mormon Discuss the Trinity]], [85:30], https://youtu.be/7Y9_unCe__M
+[^7]: [[The Stick of Joseph - The Definition of a Christian Has Been Corrupted|Stick of Joseph - Definition of a Christian Corrupted]], [13:00], https://youtu.be/5RlqgbUI3VM
 
 ---
-See also: [[Apologetics]] · [[Gavin Ortlund - Protestant and Mormon Discuss the Trinity]]
+See also: [[Apologetics]] · [[Gavin Ortlund - Protestant and Mormon Discuss the Trinity]] · [[The Stick of Joseph - The Definition of a Christian Has Been Corrupted]] · [[Christian Means Belonging to Christ by Doing the Fathers Will]]

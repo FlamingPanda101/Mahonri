@@ -12,6 +12,7 @@ sources:
   - "[[Light and Truth - Saved by Grace or Works]]"
   - "[[Hayden Carroll - Ratio Christi Campus Talk]]"
   - "[[Mormon Book Reviews - 40 Questions about Mormonism with Kyle Beshears]]"
+  - "[[The Stick of Joseph - This Argument Against Mormons Doesnt Work Anymore]]"
 tags: [apologetics, grace, soteriology, prooftext, book-of-mormon, linguistics, tradition/lds, tradition/evangelical, topic/grace]
 ---
 
@@ -26,6 +27,8 @@ tags: [apologetics, grace, soteriology, prooftext, book-of-mormon, linguistics, 
 3. **A symmetry argument.** Reading 2 Nephi 25:23 (or Moroni 10:32, or Article of Faith 3) as "works-salvation" is the same fallacy as using James 2:24, Matthew 7:21, or Acts 2:38 to accuse Protestants of works-salvation — see [[The Prooftext Double Standard on Grace and Works]]. [^1]
 4. **The 19th-century-English reading (an evangelical critic's concession).** [[Kyle Beshears]], an Evangelical, grants that in the idiom of the period "after all we can do" meant something "akin to… *despite* what we can do," so the verse teaches "we are saved by grace despite everything that we do. So even if we did all these great works, that's not what's saving us." [^3] He credits prior linguistic work (the argument associated with Maxwell Institute scholars that "after" functions as "apart from / in spite of"). The standard works-merit gloss he is rebutting is the popular "we do works and then where we fall short, Jesus makes up the difference." [^4]
 5. **It "sounds evangelical" — and that becomes an authorship argument.** Beshears calls the grace-alone reading "a very evangelical teaching or doctrine that you see appearing in the Book of Mormon," which "leads to my suspicion that this was written by a 19th-century person" steeped in Protestant soteriology. [^5] The concession that LDS scripture here teaches grace cuts both for the contextual reading and for his pseudepigrapha thesis (see [[Joseph Smith Did Not Author the Book of Mormon]], [[Book of Mormon as American Pseudepigrapha]]).
+
+6. **"All we can do" = the broken heart and contrite spirit (corroborating source).** [[Colton Miller]] and [[Josh (Latter-day Christian)|Josh]] read "after all we can do" the same way — *not* "works then grace fills the gap" but the *one* thing required: offering "a broken heart and a contrite spirit," through which the grace of Christ saves and transforms. They anchor LDS soteriology in [[Mosiah 3.8|Mosiah 3:17]] ("only in and through the name of Christ") and frame the faith as a James-style obedience ("faith without works is dead"; the wise/foolish builders of Matthew 7) that still rests wholly on grace — answering critics who claim "Mormons believe they are saved by works." [^7][^8]
 
 **Steelman of the opposing view.** A traditional Evangelical may insist the LDS *system* (covenants, ordinances, temple worthiness, exaltation tiers) is functionally synergistic regardless of how one parses 2 Nephi 25:23, and that the "despite" reading is a recent apologetic. Beshears partly grants this with a "yes and no": all are resurrected by sheer mercy and salvation is not *whether* but "to which degree of exaltation," with only the few in outer darkness outside glory. [^6] The narrow rebuttal secures the *verse*; it does not by itself settle the whole soteriological system.
 
@@ -46,6 +49,8 @@ This verse is a frequent flashpoint with Evangelical critics; the contextual rea
 [^4]: [[Mormon Book Reviews - 40 Questions about Mormonism with Kyle Beshears|Mormon Book Reviews - 40 Questions about Mormonism with Kyle Beshears]], [56:30]–[57:01], https://youtu.be/_RlsOPIzt3c
 [^5]: [[Mormon Book Reviews - 40 Questions about Mormonism with Kyle Beshears|Mormon Book Reviews - 40 Questions about Mormonism with Kyle Beshears]], [57:01], https://youtu.be/_RlsOPIzt3c
 [^6]: [[Mormon Book Reviews - 40 Questions about Mormonism with Kyle Beshears|Mormon Book Reviews - 40 Questions about Mormonism with Kyle Beshears]], [55:30], https://youtu.be/_RlsOPIzt3c
+[^7]: [[The Stick of Joseph - This Argument Against Mormons Doesnt Work Anymore|Stick of Joseph - This Argument Doesn't Work Anymore]], [46:30], https://youtu.be/IXTZJhKn7Dw
+[^8]: [[The Stick of Joseph - This Argument Against Mormons Doesnt Work Anymore|Stick of Joseph - This Argument Doesn't Work Anymore]], [50:00], https://youtu.be/IXTZJhKn7Dw
 
 ---
-See also: [[Concepts]] · [[Light and Truth - Saved by Grace or Works]] · [[Mormon Book Reviews - 40 Questions about Mormonism with Kyle Beshears]]
+See also: [[Concepts]] · [[Light and Truth - Saved by Grace or Works]] · [[Mormon Book Reviews - 40 Questions about Mormonism with Kyle Beshears]] · [[The Stick of Joseph - This Argument Against Mormons Doesnt Work Anymore]]

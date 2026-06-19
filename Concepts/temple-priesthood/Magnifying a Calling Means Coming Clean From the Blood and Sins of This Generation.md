@@ -11,6 +11,7 @@ related:
   - "[[Priesthood Is an Order Patterned on the Atonement Not a Power]]"
 sources:
   - "[[The Stick of Joseph - The Oath and Covenant of the Priesthood and Its Ties to the Temple]]"
+  - "[[The Stick of Joseph - The True Order of Prayer and the Brother of Jared]]"
 tags: ["#apologetics/priesthood", "#tradition/lds", "#type/claim"]
 #type/claim
 ---
@@ -32,6 +33,8 @@ tags: ["#apologetics/priesthood", "#tradition/lds", "#type/claim"]
 
 4. **The King Benjamin model fits the narrative.** [[Mosiah 5.7|Mosiah 5:7]]'s covenant born-again experience follows Benjamin's self-emptying service ("I have not… commanded you… that ye should fear me," Mosiah 2), illustrating redemption "magnified into" a people by a leader's sacrifice. The Lehi/Nephi mass conversion ([[3 Nephi 9|3 Nephi 9:20]]; [[Ether 12|Ether 12:14]]) likewise pairs faith with collective sanctification. *Rating: a fair reading of the Book of Mormon pattern.*
 
+5. **McLauchlin develops the same thesis in a later conversation.** In [[The Stick of Joseph - The True Order of Prayer and the Brother of Jared|a subsequent video with Hayden Paul]], he again frames the priesthood call as "coming clean from the blood and sins of this generation," now tied explicitly to the [[The True Order of Prayer Is the Heartbeat of the Endowment|true order of prayer]]: a bishop who brings a ward "into communion" (no unkind feelings, the temple prerequisite for the prayer circle and the sacrament) gains "amplified magnifying power of Jesus Christ inside concentric circles" — one stake doing so, he says, would "fill the earth." This ties magnification-by-sacrifice to the prayer-circle ordinance and the [[D&C 107]] keys to "come clean." *Rating: consistent restatement, extending the thesis toward the true order.* [^6]
+
 **Steelman of the skeptical counter.** A critic objects that McLauchlin has *flattened* a specific scriptural promise into a single universal calling by chaining together verses from different contexts: [[D&C 84.33-44|D&C 84:33]]'s "magnify your calling" need not mean the temple's "blood and sins" formula, [[Jacob 1.19|Jacob 1:19]] is about *prophets'* teaching responsibility, and welding them produces a totalizing demand ("take responsibility for all suffering," à la Jordan Peterson) that the individual texts do not jointly assert. He also concedes he is being "dogmatic" and reasoning by deduction, especially when he extends the principle to women ("I just don't know enough"). And the "two-edged sword" corollary — that calamity falls when people don't hearken a sacrificing leader — risks a troubling theodicy in which natural disasters are read as failed magnifications. A measured reply: the chain is not arbitrary, because [[D&C 84.33-44|D&C 84:33]]'s very next clause ("sanctified… unto the renewing of their bodies") is the same washing/anointing vocabulary, and Jacob is the canonical *definition* of magnification by garments — so the reading follows the Book of Mormon's own usage rather than overriding it. The universality ("same calling for everyone") is also a humbling *leveling* of the hierarchy, not a power grab — compare [[Unrighteous Dominion Condemns the Holder Not the Ordinance]] and the two-way circuit in [[Hierarchy as a Two-Way Circuit of Power]].
 
 ## Best Quotes
@@ -49,6 +52,7 @@ tags: ["#apologetics/priesthood", "#tradition/lds", "#type/claim"]
 [^3]: [[The Stick of Joseph - The Oath and Covenant of the Priesthood and Its Ties to the Temple|Stick of Joseph - Oath & Covenant of the Priesthood]], [74:30], https://youtu.be/fZmLnbgD8MM
 [^4]: [[The Stick of Joseph - The Oath and Covenant of the Priesthood and Its Ties to the Temple|Stick of Joseph - Oath & Covenant of the Priesthood]], [82:00], https://youtu.be/fZmLnbgD8MM
 [^5]: [[The Stick of Joseph - The Oath and Covenant of the Priesthood and Its Ties to the Temple|Stick of Joseph - Oath & Covenant of the Priesthood]], [73:01], https://youtu.be/fZmLnbgD8MM
+[^6]: [[The Stick of Joseph - The True Order of Prayer and the Brother of Jared|Stick of Joseph - True Order of Prayer]], [18:30], https://youtu.be/nUIUwII8hCU
 
 ---
-See also: [[Concepts]] · [[Jacob 1.19]] · [[King Benjamin]] · [[Unrighteous Dominion Condemns the Holder Not the Ordinance]]
+See also: [[Concepts]] · [[Jacob 1.19]] · [[King Benjamin]] · [[Unrighteous Dominion Condemns the Holder Not the Ordinance]] · [[The True Order of Prayer Is the Heartbeat of the Endowment]]

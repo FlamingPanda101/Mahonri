@@ -9,6 +9,7 @@ related:
   - "[[Ugaritic Texts Reveal Israels Original Pantheon]]"
 sources:
   - "[[The Stick of Joseph - What Ancient Scripture Reveals About the Family of Heaven]]"
+  - "[[The Stick of Joseph - Was the Divine Feminine Erased from the Bible]]"
 tags:
   - "#apologetics/divine-feminine"
   - "#topic/heavenly-mother"
@@ -40,9 +41,14 @@ Butler observes that in Job, *Shaddai* (used ~30 of its 48 OT occurrences there)
 ### 5. Steelman of the opposing view
 Most lexicographers do **not** accept "breasted God" as the meaning of *Shaddai*; leading proposals remain "(God of the) mountain/steppe" (from *šadû/šadday*) or "the Almighty/overpowerer." The Genesis 49:25 *Shaddai*/*shadayim* link is a **paronomasia** (sound-play) that the ancient writer may have enjoyed without believing it was the word's etymology — Butler himself grants the writer "was not an etymologist." And the Asherah identification is Smith's reconstruction of *pre-canonical* religion, not a claim about the deity the final editors worshipped; classical theists read *El Shaddai* throughout as a masculine epithet of the one God ([[Exodus 6.3|Exodus 6:3]]). Butler's reply: the *combined* weight — *shad* = breast, the breasts-and-womb blessing, the Eloah parallel, and Smith's Asherah title — makes the feminine reading the better explanation of the data.
 
+### 6. Independent corroboration from Margaret Barker (rating: strengthens; non-LDS scholar, same claim)
+In a separate on-camera interview, [[Margaret Barker]] makes the **same core argument independently**: *shaddai* derives from *shad* (breast), so *El Shaddai* is most naturally "**the God with breasts**," and the KJV "God Almighty" of [[Exodus 6.3|Exodus 6:3]] is "not an accurate translation" but part of a program to "bury the lady." Barker ties this to the physical evidence she works from — the thousands of breasted [[The Judean Pillar Figurines Were the Smashed Mother in the First Temple|Judean pillar figurines]] ("we found hundreds of them"). [^7] That a non-LDS biblical scholar reaches the breasted-God reading from a different evidentiary base (archaeology + her temple-theology reconstruction) adds weight beyond Butler's etymological case. See [[The Judean Pillar Figurines Were the Smashed Mother in the First Temple]] and [[Deborah and Asenath Preserve the Lady of the Bush]].
+
 ## Best Quotes
 
 > "It might mean that **El Shaddai is the breasted God**... suggesting that it's a female divinity." [^1]
+
+> *(Barker, independently:)* "Shaddai means breasts... the natural way to translate that title is the god with breasts. Really? And we found hundreds of them." [^7]
 
 > "Shaddai will bless you with the blessings of **Shaddayim**, the breasts, and of **Rechem**, the womb... in fact it is a pun." [^3]
 
@@ -55,6 +61,7 @@ Most lexicographers do **not** accept "breasted God" as the meaning of *Shaddai*
 [^4]: [[The Stick of Joseph - What Ancient Scripture Reveals About the Family of Heaven|Stick of Joseph - Family of Heaven]], [58:31], https://youtu.be/5E4uSkrqe9w
 [^5]: [[The Stick of Joseph - What Ancient Scripture Reveals About the Family of Heaven|Stick of Joseph - Family of Heaven]], [62:02], https://youtu.be/5E4uSkrqe9w
 [^6]: [[The Stick of Joseph - What Ancient Scripture Reveals About the Family of Heaven|Stick of Joseph - Family of Heaven]], [52:30], https://youtu.be/5E4uSkrqe9w
+[^7]: [[The Stick of Joseph - Was the Divine Feminine Erased from the Bible|Stick of Joseph - Divine Feminine (Barker)]], [05:30], https://youtu.be/ubuPNswy8VQ
 
 ---
-See also: [[Genesis 49.25|Genesis 49:25]] · [[Mark Smith]] · [[Frank Moore Cross]] · [[Wisdom Personified as the Mother in Heaven]]
+See also: [[Genesis 49.25|Genesis 49:25]] · [[Mark Smith]] · [[Frank Moore Cross]] · [[Wisdom Personified as the Mother in Heaven]] · [[Margaret Barker]]

@@ -8,6 +8,7 @@ related:
   - "[[Creatio Ex Nihilo Is the Lynchpin Difference]]"
   - "[[Greco-Roman Jewish Creation View Was Material Substrate]]"
   - "[[The Uncreated Element Is Only the Most Fundamental Substrate]]"
+  - "[[Gematria and Patterns of Three and Four Structure Alma 32]]"
 sources:
   - "[[All Those In Favor - Joseph Smith vs Catholic on Creation]]"
 tags:

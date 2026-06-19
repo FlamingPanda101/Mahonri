@@ -34,11 +34,15 @@ He reads "magnifying your calling" ([[D&C 84.33-44|D&C 84:33]]) through [[Jacob 
 ### The True Order of Prayer as the Heartbeat of the Endowment
 In a later conversation with [[Hayden Paul]], McLauchlin argues the [[The True Order of Prayer Is the Heartbeat of the Endowment|true order of prayer]] is the core of the endowment — "calling upon the name of the Lord" ([[Moses 5.10-11|Moses 5:16]]; [[Ether 2|Ether 2]]) is the [[Calling Upon the Name of the Lord Is the True Order of Prayer|scriptural cipher]] for it; the [[The Brother of Jared Models the Endowment Ascent Through the Veil|brother of Jared]] models the ascent through the veil; "[[Murder to Get Gain Inverts the Order of Sacrifice|murder to get gain]]" is its dark inversion; and the church remains in a state of [[The Lesser Portion and the State of Condemnation|condemnation]] until it obtains the sealed "greater portion."[^4] See [[The Stick of Joseph - The True Order of Prayer and the Brother of Jared]].
 
+### Worship as a State of Being
+In a 2024–25 conversation with host [[Dave Butler]], McLauchlin's newest emphasis is worship — recast not as praise but as an active practice and *state of being* that draws heaven down, accelerates sanctification, and displaces fear (the "first fruit of the fall"). He also argues worship is universal: everyone is conformed to whatever they most desire, so the question is what to be conformed to. See [[Worship Is a State of Being That Draws Heaven Down]] and [[Everyone Worships Something So Choose What to Be Conformed To]], from [[The Stick of Joseph - How to Access the Power of Heaven Through Real Worship]].[^5]
+
 ## References
 [^1]: [[The Stick of Joseph - The Oath and Covenant of the Priesthood and Its Ties to the Temple|Stick of Joseph - Oath & Covenant of the Priesthood]], [05:30], https://youtu.be/fZmLnbgD8MM
 [^2]: [[The Stick of Joseph - The Oath and Covenant of the Priesthood and Its Ties to the Temple|Stick of Joseph - Oath & Covenant of the Priesthood]], [22:31], https://youtu.be/fZmLnbgD8MM
 [^3]: [[The Stick of Joseph - The Oath and Covenant of the Priesthood and Its Ties to the Temple|Stick of Joseph - Oath & Covenant of the Priesthood]], [72:31], https://youtu.be/fZmLnbgD8MM
 [^4]: [[The Stick of Joseph - The True Order of Prayer and the Brother of Jared|Stick of Joseph - True Order of Prayer]], [29:00], https://youtu.be/nUIUwII8hCU
+[^5]: [[The Stick of Joseph - How to Access the Power of Heaven Through Real Worship|Stick of Joseph - Real Worship]], [12:30], https://youtu.be/87pLM-JW3gQ
 
 ---
-See also: [[People]] · [[Hayden Paul]] · [[The Stick of Joseph - The Oath and Covenant of the Priesthood and Its Ties to the Temple]] · [[The Stick of Joseph - The True Order of Prayer and the Brother of Jared]]
+See also: [[People]] · [[Hayden Paul]] · [[Dave Butler]] · [[The Stick of Joseph - The Oath and Covenant of the Priesthood and Its Ties to the Temple]] · [[The Stick of Joseph - The True Order of Prayer and the Brother of Jared]] · [[The Stick of Joseph - How to Access the Power of Heaven Through Real Worship]]
