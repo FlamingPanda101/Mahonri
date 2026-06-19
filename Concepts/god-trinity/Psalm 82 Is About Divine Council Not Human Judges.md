@@ -7,6 +7,7 @@ related:
   - "[[Divine Name Theology]]"
 sources:
   - "[[Dan McClellan - I and the Father Are One John 10 Trinity Rebuttal]]"
+  - "[[Dan McClellan - Responding to Claims About Other Gods in the Bible]]"
 tags: [psalm-82, divine-council, elohim, hebrew-bible, divine-plurality]
 #type/rebuttal
 ---

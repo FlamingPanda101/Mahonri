@@ -43,9 +43,19 @@ Hansen's deepest distinctive is the rejection of creation from nothing: all bein
 - [[LDS Father Was Always Fully Divine (No Eternal Regression)]]
 - [[Are Latter-day Saints Christians]]
 
+## Apologetics Method: Socratic Questions for a Watching Audience
+
+On a Ward Radio panel with [[Hayden Carroll]] working through atheist objections, Hansen framed the whole exercise as a method drill: turn every objection into a *question* (the questioner "plays offense" and exposes hidden premises), and remember that public apologetics is for the watching audience — done one-on-one it "just burns the relationship," because "ministry is not apologetics." He also restated the layered approach by which the Resurrection only becomes a live question *after* one grants theism. See [[Apologetics Is Socratic and Aimed at the Audience Not the Interlocutor]] and [[The Four-Level Conversation Structure of Apologetics]].[^2]
+
 ## Key Sources
 
 - [[Gavin Ortlund - Protestant and Mormon Discuss the Trinity]] (Truth Unites, with Gavin Ortlund)
+- [[Ward Radio - The Top 5 Questions Atheists CANNOT Answer]] (with Hayden Carroll)
 
 ## Sources
 [^1]: [[Gavin Ortlund - Protestant and Mormon Discuss the Trinity|Gavin Ortlund - Protestant and Mormon Discuss the Trinity]], [02:31], https://youtu.be/7Y9_unCe__M
+
+[^2]: [[Ward Radio - The Top 5 Questions Atheists CANNOT Answer|Ward Radio - Questions Atheists Cannot Answer]], [01:30], https://youtu.be/QYtTdc5XNxc
+
+---
+See also: [[People]] · [[Hayden Carroll]] · [[Ward Radio - The Top 5 Questions Atheists CANNOT Answer]]

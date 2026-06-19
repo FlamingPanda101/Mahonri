@@ -6,6 +6,7 @@ related:
   - "[[Every Testable Joseph Smith Claim Fails Only Subjective Evidence Survives]]"
 sources:
   - "[[Ward Radio - How Richard Bushman Lost His Faith and Got It Back]]"
+  - "[[Ward Radio - Ask Me Anything About Book of Mormon Geography]]"
 tags: ["#apologetics/joseph-smith", "#tradition/lds", "#type/claim", "topic/translation", "topic/seer-stone", "topic/gold-plates", "by/ward-radio"]
 ---
 
@@ -65,6 +66,31 @@ the reply that 19th-century "seeing" language described real perception, not del
 phase anchored in named eyewitnesses, and the intramural Neville/Lucas dissent honestly weighed — is
 Bushman's, and it models not "explaining away" inconvenient primary sources.
 
+## The Neville/Meldrum "Urim and Thummim all along" position (in its own voice)
+
+On a separate Ward Radio geography AMA, [[Rod Meldrum]] and co-host [[Brad Whitbeck]] argue the
+"Stone in the Hat" account is "bogus" and that Joseph translated with the **interpreters / Urim and
+Thummim** that God prepared in advance: (a) the [[Doctrine and Covenants]] has Joseph receive
+revelation by "the Urim and Thummim" in (Meldrum's count) eleven places; (b) [[Oliver Cowdery]] — who
+did most of the scribal work — and [[Emma Smith]] (per [[Joseph Smith III]]'s late interview), with
+[[Lucy Mack Smith]], attest the interpreters, while the stone-in-hat traces mainly to "apostates"
+([[David Whitmer]]) and a late Emma; (c) a record has Joseph still using the interpreters days before
+finishing (the morning he was shown to write [[David Whitmer]] for a wagon).[^6][^7] Meldrum even
+deploys [[Jonathan Neville]]'s "loose translation" evidence (Joseph's vocabulary echoing Jonathan
+Edwards) to argue Joseph was *rendering* in his own words, not "reading words off a stone" — which he
+says "obliterates" the stone-in-hat picture.[^8]
+
+Notably, co-host **Brad Whitbeck pushes back from within the faithful camp**: he says he was never
+taught the stone was the *only* method, accepts the "loose"/dynamic translation, and asks whether they
+are "open to the idea that a seer stone was involved but wasn't necessarily the primary mode" — "no
+matter which instrument, it was by the gift and power of God." Meldrum resists, defining the
+stone-in-hat as mere "reading," not translating.[^9] This is the proponents' side of the same intramural
+dispute Bushman summarizes — and Whitbeck's caveat lands close to Bushman's both/and.
+> **Assessment:** This documents the Neville/Meldrum case in its own words. Its strength (the heavy
+> "Urim and Thummim" usage) and weakness (discounting firsthand seer-stone testimony) are exactly as
+> Bushman frames them above; the vault sides with the historiographically careful both/and, of which
+> Whitbeck's own concession is a near-restatement.
+
 ## Best Quotes
 
 > "There's sort of a smooth curve between the seer stone he used and then... when he received the
@@ -84,6 +110,10 @@ Bushman's, and it models not "explaining away" inconvenient primary sources.
 [^3]: [[Ward Radio - How Richard Bushman Lost His Faith and Got It Back|Ward Radio - Richard Bushman]], [44:30]-[45:00], https://youtu.be/QYP8CTmhf4A
 [^4]: [[Ward Radio - How Richard Bushman Lost His Faith and Got It Back|Ward Radio - Richard Bushman]], [46:30]-[47:30], https://youtu.be/QYP8CTmhf4A
 [^5]: [[Ward Radio - How Richard Bushman Lost His Faith and Got It Back|Ward Radio - Richard Bushman]], [42:00]-[43:30], https://youtu.be/QYP8CTmhf4A
+[^6]: [[Ward Radio - Ask Me Anything About Book of Mormon Geography|WARD RADIO - Book of Mormon Geography AMA]], [95:00]–[97:00], https://youtu.be/JPPUINl2n78
+[^7]: [[Ward Radio - Ask Me Anything About Book of Mormon Geography|WARD RADIO - Book of Mormon Geography AMA]], [101:30]–[103:00], https://youtu.be/JPPUINl2n78
+[^8]: [[Ward Radio - Ask Me Anything About Book of Mormon Geography|WARD RADIO - Book of Mormon Geography AMA]], [99:30]–[101:00], https://youtu.be/JPPUINl2n78
+[^9]: [[Ward Radio - Ask Me Anything About Book of Mormon Geography|WARD RADIO - Book of Mormon Geography AMA]], [97:30]–[99:30], https://youtu.be/JPPUINl2n78
 
 ---
-See also: [[Concepts]] · [[Richard Bushman]] · [[Jonathan Neville]] · [[Ward Radio - How Richard Bushman Lost His Faith and Got It Back]]
+See also: [[Concepts]] · [[Richard Bushman]] · [[Jonathan Neville]] · [[Rod Meldrum]] · [[Ward Radio - How Richard Bushman Lost His Faith and Got It Back]] · [[Ward Radio - Ask Me Anything About Book of Mormon Geography]]

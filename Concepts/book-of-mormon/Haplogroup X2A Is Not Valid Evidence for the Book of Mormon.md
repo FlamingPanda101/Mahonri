@@ -5,6 +5,7 @@ related:
   - "[[No DNA Evidence Requires Specifying What Signature to Expect]]"
   - "[[Convergence Not Proof Is the Standard for Book of Mormon Historicity]]"
   - "[[The Philistine DNA Study Shows Genetic Signals Vanish into Host Populations]]"
+  - "[[Haplogroup X Marks a Hebrew Migration to North America - Meldrum]]"
 sources:
   - "[[Holy Rebellion - Anachronisms DNA and Archaeology in the Book of Mormon]]"
 tags: [apologetics, book-of-mormon, dna, haplogroup-x, population-genetics, intellectual-honesty, tradition/lds]

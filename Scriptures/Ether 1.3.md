@@ -26,6 +26,7 @@ people and friends.
 ## Referenced in
 - [[Ether Reframes the Tower of Babel as a Local Mosquito-Borne Encephalitis Event]]
 - [[The Tower Was a Temple Recontextualized From an Older Story]]
+- [[Mesoamerican Sacred-Number Intervals Structure the Book of Mormon Year-Counts]] (the Jaredite king-list / reign-lengths)
 
 ---
 See also: [[Scriptures]]

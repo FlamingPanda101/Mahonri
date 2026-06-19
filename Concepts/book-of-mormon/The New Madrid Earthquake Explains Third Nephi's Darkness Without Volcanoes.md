@@ -9,6 +9,7 @@ related:
 sources:
   - "[[The Stick of Joseph - Jonathan Neville on Moronis America and the Heartland Theory]]"
   - "[[The Stick of Joseph - Jonathan Neville on the Origin of the Mesoamerican Geography Model]]"
+  - "[[Ward Radio - Ask Me Anything About Book of Mormon Geography]]"
 tags: ["#type/claim", "#topic/book-of-mormon-geography", "#topic/heartland", "#tradition/lds"]
 ---
 
@@ -24,6 +25,12 @@ A standard argument *for* a Mesoamerican setting is that [[3 Nephi 9|3 Nephi]]'s
 2. **Cities sunk, courses changed.** The quakes sank land, created new lakes and channels, and briefly made the Mississippi flow backward — matching "cities sunk into the depths" and the wholesale reshaping of the land. Neville pairs this with examples of how radically the Mississippi changes course and buries sites (the Steamboat Arabia, found under ~100 feet of soil ~140 years after sinking; Kaskaskia, the former Illinois capital, now stranded across the river).[^2] *(Moderate — the geological volatility is real and well-documented; the application is an analogy, not a demonstration that this *is* the 3 Nephi event.)*
 3. **"No volcanoes in the Book of Mormon."** Neville's pointed counter: the text never says "volcano," and over a thousand years of Nephite history never mentions the volcanoes that dominate Mesoamerican life and culture — "what are we doing there?" The darkness is "black vapor," not lava.[^2] *(Moderate-to-strong as a textual observation — the absence of explicit volcano language is a genuine datum cutting against the Mesoamerican reading.)*
 
+### Rod Meldrum's expanded version (Geography AMA)
+On a Ward Radio geography AMA, [[Rod Meldrum]] presents a more detailed form of the same argument from his presentation *The Destruction Around the Time of Christ's Death*:[^3]
+4. **A 28-point checklist.** Meldrum says he tabulated every observed destruction in [[3 Nephi 9|3 Nephi 8–9]] — seams and cracks, earthquakes, sharp lightnings, cities buried in earth and sunk in the sea — getting **28 observations**, of which only "five or six" match a volcanic eruption, but (he claims) all 28 match the New Madrid seismic zone. *(Moderate as framing; the precise "28 vs. 5–6" tally is Meldrum's own scoring and not independently audited.)*
+5. **An ancient analog event.** He cites USGS paleoseismologist **Martitia Tuttle** as finding direct evidence of a similar major New Madrid event "right around the time of Christ" (~AD 1) — so the fault demonstrably produced such a cataclysm in the Book of Mormon window, not only in 1811–1812. *(Moderate — paleoseismic evidence for a large ~2,000-year-old New Madrid event is real; pinning it to "the actual event Nephi experienced" is the interpretive leap.)*
+6. **The darkness has a mechanism.** For the three days of darkness, Meldrum invokes "earthquake smog" reported by eyewitnesses (he names the naturalist **John James Audubon** observing "a strange and sudden darkness," lamps that would not light) and **piezoelectric "earthquake lights"** — crustal rock under compression emitting current that vaporizes ground-water into steam/fog — to explain a darkness "so dense they couldn't light their lamps" without volcanic ash. *(Weak-to-moderate — earthquake lights and seismically induced fogs are documented but poorly understood phenomena; that they produced *three days* of total darkness is unestablished.)*
+
 ## Steelman of the Opposing View
 The New Madrid parallel is suggestive but not decisive. (a) [[3 Nephi 9|3 Nephi 8]] describes "many cities burned with fire," "tempests," and "thunderings... exceedingly sharp" alongside the darkness — a profile many read as more volcanic than seismic, and the "vapor of darkness... could not feel the vapor" reads to some as ashfall. (b) Arguing from a 19th-century earthquake shows such darkness is *possible* in North America, not that the Book of Mormon event *was* there; a Mesoamerican volcano produces the same darkness plus the fire and ash more naturally. (c) The Steamboat Arabia and river-course examples establish geological change, which is a separate point from the cataclysm's location. The fair, narrower residue is real, though: the common claim that 3 Nephi *requires* volcanism is overstated — a major intraplate earthquake (and North America has the largest such fault zone in the New Madrid) can produce days of choking darkness and sunken cities, so the "no volcanoes in New York" objection is not the knockdown it is often presented as.
 
@@ -38,6 +45,7 @@ This removes one of the main physical objections to a North American / New-York-
 ## References
 [^1]: [[The Stick of Joseph - Jonathan Neville on Moronis America and the Heartland Theory|Stick of Joseph - Neville on Moroni's America]], [31:30]–[34:30], https://youtu.be/r6DpUQfL_1w
 [^2]: [[The Stick of Joseph - Jonathan Neville on Moronis America and the Heartland Theory|Stick of Joseph - Neville on Moroni's America]], [27:30]–[31:30], https://youtu.be/r6DpUQfL_1w
+[^3]: [[Ward Radio - Ask Me Anything About Book of Mormon Geography|WARD RADIO - Book of Mormon Geography AMA]], [69:30]–[77:30], https://youtu.be/JPPUINl2n78
 
 ---
-See also: [[Concepts]] · [[3 Nephi 9]] · [[Jonathan Neville]] · [[Wayne May]] · [[The Stick of Joseph - Jonathan Neville on Moronis America and the Heartland Theory]]
+See also: [[Concepts]] · [[3 Nephi 9]] · [[Jonathan Neville]] · [[Rod Meldrum]] · [[Wayne May]] · [[The Great Lakes Are the Book of Mormons Seas]] · [[The Stick of Joseph - Jonathan Neville on Moronis America and the Heartland Theory]] · [[Ward Radio - Ask Me Anything About Book of Mormon Geography]]

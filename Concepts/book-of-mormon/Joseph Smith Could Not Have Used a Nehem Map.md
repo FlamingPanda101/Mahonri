@@ -8,6 +8,7 @@ related:
   - "[[Joseph Smith Did Not Author the Book of Mormon]]"
 sources:
   - "[[Mormonism with the Murph - Is Nahom Archaeological Evidence for the Book of Mormon]]"
+  - "[[FAIR - Ishmael and Nahom in Ancient Inscriptions (Neal Rappleye 2022)]]"
 tags:
   - "#apologetics/book-of-mormon"
   - "#tradition/lds"

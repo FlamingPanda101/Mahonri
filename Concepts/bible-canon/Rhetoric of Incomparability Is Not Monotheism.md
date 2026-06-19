@@ -7,6 +7,7 @@ related:
   - "[[Synchronic Change in the Conception of Deity]]"
 sources:
   - "[[Dan McClellan - Engaging Gavin Ortlund on Monotheism]]"
+  - "[[Dan McClellan - Responding to Claims About Other Gods in the Bible]]"
 tags:
   - topic/monotheism
   - topic/incomparability

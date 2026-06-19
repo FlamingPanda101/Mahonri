@@ -6,6 +6,7 @@ related:
   - "[[Reformed Egyptian Characters Were Small]]"
   - "[[Translation Density Shows the Book of Mormon Text Fits]]"
   - "[[Lamanite Means Filthy Unbeliever in the Reformed Egyptian Glyphs]]"
+  - "[[Mesoamerican Sacred-Number Intervals Structure the Book of Mormon Year-Counts]]"
 sources:
   - "[[Ward Radio - Book of Mormon Reformed Egyptian is Real and This Guy Translated It]]"
 tags:

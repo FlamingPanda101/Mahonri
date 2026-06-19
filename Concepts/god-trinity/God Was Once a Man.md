@@ -12,6 +12,7 @@ related:
   - "[[King Follett Discourse]]"
   - "[[Human Deification in Mormonism]]"
   - "[[Spirit Birth and Intelligences]]"
+  - "[[The Armenian Adam and Eve Says God Was Once a Man]]"
 sources:
   - "[[Benjamin Park - Did Joseph Smith Teach Men Can Become God]]"
 ---
@@ -64,6 +65,9 @@ embodied man — and that this was the "great secret" of Mormon theology.[^1]
   deep theology that we don't know very much about."[^6]
 - See [[Human Deification in Mormonism]] for the inverse claim (man becomes God)
   and its objections.
+
+## Apocryphal Parallel
+Latter-day Saint apologists argue the doctrine surfaces proleptically in ancient texts Joseph Smith could not have read — notably the Armenian *Adam and Eve*, where the serpent tells Eve that "God himself was a man like you when he ate of the fruit." See [[The Armenian Adam and Eve Says God Was Once a Man]] (which also steelmans the objection that the line is a tempter's lie).
 
 [^1]: [[Benjamin Park - Did Joseph Smith Teach Men Can Become God|Benjamin Park - Did Joseph Smith Teach Men Can Become God?]], [10:31-11:03], https://youtu.be/sKQeEuCEgyY
 [^2]: [[Benjamin Park - Did Joseph Smith Teach Men Can Become God|Benjamin Park - Did Joseph Smith Teach Men Can Become God?]], [11:03], https://youtu.be/sKQeEuCEgyY

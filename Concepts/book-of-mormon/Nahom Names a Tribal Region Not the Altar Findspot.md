@@ -9,6 +9,7 @@ related:
   - "[[Convergence Not Proof Is the Standard for Book of Mormon Historicity]]"
 sources:
   - "[[Mormonism with the Murph - Is Nahom Archaeological Evidence for the Book of Mormon]]"
+  - "[[FAIR - Ishmael and Nahom in Ancient Inscriptions (Neal Rappleye 2022)]]"
 tags:
   - "#apologetics/book-of-mormon"
   - "#tradition/lds"

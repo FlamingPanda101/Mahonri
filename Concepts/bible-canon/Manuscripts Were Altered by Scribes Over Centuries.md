@@ -8,6 +8,7 @@ related:
   - "[[Pericope Adulterae Is a Later Interpolation]]"
 sources:
   - "[[Data Over Dogma - There Is No Such Thing as The Bible]]"
+  - "[[Dan McClellan - Why the King James Version Likely Isnt for You]]"
 tags: [apologetics, textual-criticism, manuscripts, transmission, channel/data-over-dogma, by/dan-mcclellan]
 #type/claim
 ---

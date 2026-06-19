@@ -17,8 +17,17 @@ Rod Meldrum is a leading Latter-day Saint advocate of the "Heartland" Book of Mo
 ## Relevance to the vault
 Meldrum is the figure who first drew [[Jonathan Neville]] into Book of Mormon geography: Neville recounts that Meldrum told him "if you really want to know about this you need to come to Ohio," and the tour of the mounds and museum artifacts converted Neville from a Mesoamerican ([[John Sorenson]]) view to the New-York-Cumorah position. See [[Oliver Cowdery's Letter VII States Cumorah Is in New York as Fact]] and [[The Times and Seasons Mesoamerican Articles Were Benjamin Winchester Not Joseph Smith]].[^1]
 
+## His own case (Geography AMA)
+In a Ward Radio super-chat AMA with his media director [[Brill Hernandez]], Meldrum lays out the Heartland model directly. His arguments are catalogued at:
+- [[Haplogroup X Marks a Hebrew Migration to North America - Meldrum]] — his flagship (and, per qualified LDS geneticists, refuted) DNA argument; cf. [[Haplogroup X2A Is Not Valid Evidence for the Book of Mormon]].
+- [[The Great Lakes Are the Book of Mormons Seas]] — the Great Lakes as the four "seas," the Ohio/Indiana "narrow neck," and the William-McLellin attribution of the "Chile 30° south" statement.
+- [[The Newark Earthworks Encode the Plan of Salvation]] — his set-piece reading of the Newark, Ohio earthworks.
+- [[The New Madrid Earthquake Explains Third Nephi's Darkness Without Volcanoes]] — his 28-observation New-Madrid case (with Tuttle/USGS, Audubon, earthquake lights).
+- [[Joseph Smith Used Both the Interpreters and a Seer Stone]] — his "Urim and Thummim all along" rejection of the stone-in-hat account.[^2]
+
 ## References
 [^1]: [[The Stick of Joseph - Jonathan Neville on the Origin of the Mesoamerican Geography Model|Stick of Joseph - Neville on the Mesoamerican Model]], [28:00]–[29:30], https://youtu.be/bDPao-SVUyY
+[^2]: [[Ward Radio - Ask Me Anything About Book of Mormon Geography|WARD RADIO - Book of Mormon Geography AMA]], [16:30]–[133:30], https://youtu.be/JPPUINl2n78
 
 ---
-See also: [[People]] · [[Authority Ledger]] · [[Jonathan Neville]]
+See also: [[People]] · [[Authority Ledger]] · [[Jonathan Neville]] · [[Brill Hernandez]] · [[Ward Radio - Ask Me Anything About Book of Mormon Geography]]

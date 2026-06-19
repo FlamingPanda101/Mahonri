@@ -9,6 +9,7 @@ related:
   - "[[The Mysteries Were Converted From Lived Experience Into Doctrine]]"
 sources:
   - "[[Ward Radio - Secrets of the LDS Temple Endowment Supercut]]"
+  - "[[Ward Radio - The Top Ten Lost LDS Writings of the Apocrypha]]"
 tags: [apologetics/temple, endowment, apostasy, secret-mark, tradition/lds]
 #type/claim
 ---
@@ -40,6 +41,8 @@ The two-tier gospel coheres with Jesus' withholding of "mysteries" from the crow
 
 The decisive critical point is **provenance**. (a) The *Letter to Theodore* survives only in a 1958 transcription by Morton Smith from an 18th-century hand copied into a book at Mar Saba; the manuscript subsequently went missing, was never subjected to modern forensic testing, and a substantial body of scholars regards it as a **modern forgery** (possibly Smith's own) — so citing it as bedrock evidence for a suppressed temple gospel rests on a text many specialists do not trust. (b) Even granting authenticity, "more spiritual gospel for the perfected" in Clement's own usage means deeper *catechesis* for mature believers (Clement constantly distinguishes milk from solid food), not a secret *ritual*; *hierophantic* is Clement's borrowed mystery-cult vocabulary for advanced doctrine, which he elsewhere uses metaphorically. (c) The Secret Mark fragments Clement quotes are a Lazarus-like raising and a rebuke, with no ordinance content — so the leap from "Clement mentions a secret Mark" to "the endowment was in it" is unsupported by what the letter actually contains. A Latter-day Saint reply: the argument does not stand on Secret Mark alone — it is one strand alongside the Acts forty-day gap and the independently attested Gnostic ordinance-texts (Pistis Sophia, Acts of John, Books of Jeu) — and the recurrence of a *restricted-teaching* tradition across multiple early sources is the pattern in need of explanation, whatever the verdict on this one letter.
 
+[[Jonah Barnes]] presents the same case again, naming the discoverer **[[Morton Smith]]** (1958, Mar Saba), as the **#1** entry in his apocrypha countdown — see [[Ward Radio - The Top Ten Lost LDS Writings of the Apocrypha]].
+
 ## Best Quotes
 
 > "He composed a more spiritual gospel for the use of those who were being perfected... nevertheless he did not yet divulge the things not to be uttered." [^1]
@@ -54,4 +57,4 @@ The decisive critical point is **provenance**. (a) The *Letter to Theodore* surv
 [^3]: [[Ward Radio - Secrets of the LDS Temple Endowment Supercut|Ward Radio - Temple Endowment Supercut]], [10:30]-[11:30], https://youtu.be/uYA19kOjShQ
 
 ---
-See also: [[Concepts]] · [[Ward Radio - Secrets of the LDS Temple Endowment Supercut]] · [[Clement of Alexandria]] · [[The Lost Forty-Day Teaching Points to a Suppressed Temple Endowment]] · [[Gnostic Apocrypha Preserve Temple Ordinance Patterns]]
+See also: [[Concepts]] · [[Ward Radio - Secrets of the LDS Temple Endowment Supercut]] · [[Ward Radio - The Top Ten Lost LDS Writings of the Apocrypha]] · [[Clement of Alexandria]] · [[Morton Smith]] · [[The Lost Forty-Day Teaching Points to a Suppressed Temple Endowment]] · [[Gnostic Apocrypha Preserve Temple Ordinance Patterns]]

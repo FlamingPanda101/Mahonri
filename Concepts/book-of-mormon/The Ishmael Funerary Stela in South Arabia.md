@@ -9,6 +9,7 @@ related:
 sources:
   - "[[Holy Rebellion - Anachronisms DNA and Archaeology in the Book of Mormon]]"
   - "[[Ward Radio - Better Archaeological Evidence for the Book of Mormon Than the Bible]]"
+  - "[[FAIR - Ishmael and Nahom in Ancient Inscriptions (Neal Rappleye 2022)]]"
 tags: [apologetics, book-of-mormon, archaeology, ishmael, nahom, epigraphy, arabia, tradition/lds]
 #type/claim
 ---
@@ -57,6 +58,12 @@ when the individual cannot be definitively identified.[^4]
 
 > **Evidence rating:** Moderate (a real "right name in the right place" point; the looted findspot still blocks identification).
 
+### 5. Rappleye's own 2022 FAIR account: found by searching for the *name* — rate: moderate-to-strong
+
+In his 2022 FAIR Conference presentation, [[Neal Rappleye]] recounts that he stumbled onto the stela not by hunting for "Nahom" but by realizing the looted "carved face" funerary stelae bear personal names and searching them for "Ishmael." The result reads *Yasmaʿil* (South Arabian *sat* substituting for Hebrew *shin*) — "the exact equivalent" of Hebrew *Yishmael*, both meaning "may God hear." He situates it among only **four** early-first-millennium-BC Ishmael attestations out of ~8,500 South Arabian inscriptions, against ~60 Hebrew attestations of the name in the same period — see [[Ishmael Was a Common Judahite Name in 600 BC]]. He is emphatic: "I am not claiming that this is the Ishmael from the Book of Mormon... but I do think it's possible — a very tantalizing possibility."[^6]
+
+> **Evidence rating:** Moderate-to-strong (the discovery method and onomastic asymmetry are striking; the looted provenance and the name's local attestation keep it short of identification).
+
 ## Steelman of the Opposing View
 
 Rappleye himself supplies the strongest caveats: the stela was **looted**, so its exact
@@ -80,6 +87,7 @@ one corroborating data point, not proof — see [[Convergence Not Proof Is the S
 [^3]: [[Holy Rebellion - Anachronisms DNA and Archaeology in the Book of Mormon|Holy Rebellion - Anachronisms DNA and Archaeology]], [115:31]-[117:01], https://youtu.be/J_bwYwApMfE
 [^4]: [[Holy Rebellion - Anachronisms DNA and Archaeology in the Book of Mormon|Holy Rebellion - Anachronisms DNA and Archaeology]], [117:01]-[119:30], https://youtu.be/J_bwYwApMfE
 [^5]: [[Ward Radio - Better Archaeological Evidence for the Book of Mormon Than the Bible|Ward Radio - Better Archaeological Evidence (Gehly)]], [11:30]-[16:30], https://youtu.be/cbev5a3ZFEo
+[^6]: [[FAIR - Ishmael and Nahom in Ancient Inscriptions (Neal Rappleye 2022)|FAIR - Ishmael and Nahom (Rappleye)]], [25:30]-[30:30], https://youtu.be/fa9cInqwO6s
 
 ---
-See also: [[Concepts]] · [[Holy Rebellion - Anachronisms DNA and Archaeology in the Book of Mormon]] · [[Ward Radio - Better Archaeological Evidence for the Book of Mormon Than the Bible]] · [[Josh Gehly]]
+See also: [[Concepts]] · [[Holy Rebellion - Anachronisms DNA and Archaeology in the Book of Mormon]] · [[FAIR - Ishmael and Nahom in Ancient Inscriptions (Neal Rappleye 2022)]] · [[Josh Gehly]]

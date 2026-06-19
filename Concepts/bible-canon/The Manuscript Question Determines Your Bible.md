@@ -7,6 +7,7 @@ related:
   - "[[Manuscripts Were Altered by Scribes Over Centuries]]"
 sources:
   - "[[Data Over Dogma - There Is No Such Thing as The Bible]]"
+  - "[[Dan McClellan - Why the King James Version Likely Isnt for You]]"
 tags: [apologetics, textual-criticism, manuscripts, septuagint, masoretic, channel/data-over-dogma, by/dan-mcclellan]
 #type/claim
 ---
