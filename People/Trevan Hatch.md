@@ -23,8 +23,12 @@ In this [[The Stick of Joseph - Clues Reveal the Unknown Editor of Genesis|Stick
 
 He leans on mainstream source critics — [[Gary Rendsburg]], [[Richard Friedman]], [[Wellhausen Thesis on Hebrew Bible Origins|Julius Wellhausen]] — while reading the data through a Restoration lens (the Book of Mormon's [[Nephi]] as a "new David"; the redactor as a visible editor like [[Mormon Is an Ethnocentric Redactor Focused on the Witness of Christ|Mormon]]).
 
+## Contribution — prophetic authority (Cwic Show)
+In the [[Cwic Show - The Official Position on Official Positions|Cwic Show interview]] about his chapter "What's the Church's Official Position on Official Positions?", Hatch argues there is **no agreed criterion** for an official LDS position ([[There Is No Agreed Criterion for an Official Church Position]]); that LDS leaders have voiced **two competing authority traditions** — living prophet vs. standard works ([[The Living Prophet Versus the Standard Works Are Two Competing LDS Authority Traditions]]); uses the **caffeine reversal** as a worked example of that tension ([[The Caffeine Reversal Exposes the Prophet-Versus-Scripture Tension in the Word of Wisdom]]); flags how "follow the prophet in all things" gets **weaponized** ([[Follow the Prophet in All Things Is a Slogan That Gets Weaponized]]; cf. [[The Thinking Has Been Done Was Repudiated by George Albert Smith]]); and proposes a **stewardship boundary** — prophets are decisive over the institution and ordinances but not over all truth ([[Prophetic Stewardship Is Over the Institution and Ordinances Not Over All Truth]]).
+
 ## Sources
 - [[The Stick of Joseph - Clues Reveal the Unknown Editor of Genesis]]
+- [[Cwic Show - The Official Position on Official Positions]]
 
 ---
 See also: [[People]] · [[Gary Rendsburg]] · [[Richard Friedman]] · [[The Stick of Joseph - The Documentary Hypothesis (Mike Day)]]

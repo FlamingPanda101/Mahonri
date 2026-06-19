@@ -8,6 +8,7 @@ related:
 sources:
   - "[[Gavin Ortlund - Protestant and Mormon Discuss the Trinity]]"
   - "[[The Stick of Joseph - The Definition of a Christian Has Been Corrupted]]"
+  - "[[Hello Saints - Pastors Honest Questions About History of Joseph Smith]]"
 tags: [apologetics, identity, christianity, ecumenism, tradition/lds]
 #type/claim
 ---

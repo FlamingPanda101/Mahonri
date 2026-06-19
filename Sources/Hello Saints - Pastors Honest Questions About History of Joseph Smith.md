@@ -23,7 +23,7 @@ authority_reason: "Hello Saints is the YouTube channel of Jeff, an Evangelical p
 
 # Hello Saints — Pastor's HONEST Questions About History of Joseph Smith
 
-An irenic interview in which Jeff, an Evangelical pastor in Utah ([[Hello Saints]]), reads through the 1838 Joseph Smith—History in the Pearl of Great Price with BYU scholar [[Kerry Muhlestein]]. They cover the historical context (the 1838 persecution that prompted the account), the family religious tension that framed the young Joseph's search, the multiple First Vision accounts and how they harmonize, and — at length — the verse calling the creeds an "abomination," which the pastor (as creedal Christian) is personally implicated by. The conversation models charitable interfaith engagement and closes with Muhlestein's testimony.
+An irenic interview in which Jeff, an Evangelical pastor in Utah (the *Hello Saints* channel), reads through the 1838 Joseph Smith—History in the Pearl of Great Price with BYU scholar [[Kerry Muhlestein]]. They cover the historical context (the 1838 persecution that prompted the account), the family religious tension that framed the young Joseph's search, the multiple First Vision accounts and how they harmonize, and — at length — the verse calling the creeds an "abomination," which the pastor (as creedal Christian) is personally implicated by. The conversation models charitable interfaith engagement and closes with Muhlestein's testimony.
 
 ## Summary
 

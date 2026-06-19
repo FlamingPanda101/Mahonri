@@ -55,7 +55,7 @@ A 2022 FAIR Conference presentation by [[Neal Rappleye]] (Book of Mormon Central
 - [[Warren Aston]] (prior NHM/Bountiful research)
 - [[John Gee]] (in the room; can read the stela's script)
 - [[Hugh Nibley]] (earlier proponent of the incense-trail reading)
-- [[Jeff Lindsay]] (Interpreter articles on the maps)
+- Jeff Lindsay (Interpreter articles on the maps; no note yet)
 
 ## Scriptures Discussed
 

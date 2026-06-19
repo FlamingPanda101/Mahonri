@@ -9,6 +9,7 @@ related:
   - "[[The First Morally Decisive Moment Is Creation Not Rebellion]]"
 sources:
   - "[[Lets Talk w Hayden Carroll - Triune God Is Omnibenevolent Debate]]"
+  - "[[Freethinking Ministries - Can an All-Loving God Create Hell-Bound People (Hayden Carroll)]]"
 tags: [problem-of-hell, theodicy, creation, foreknowledge, omnibenevolence, tradition/lds]
 #type/objection
 ---

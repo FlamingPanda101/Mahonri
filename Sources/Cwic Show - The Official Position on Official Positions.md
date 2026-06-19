@@ -39,6 +39,7 @@ A *Cwic Show* (Greg Matsen) interview with BYU scholar [[Trevan Hatch]] about hi
 - [[The Caffeine Reversal Exposes the Prophet-Versus-Scripture Tension in the Word of Wisdom]] (NEW)
 - [[Prophetic Stewardship Is Over the Institution and Ordinances Not Over All Truth]] (NEW)
 - [[The Thinking Has Been Done Was Repudiated by George Albert Smith]] (NEW)
+- [[Follow the Prophet in All Things Is a Slogan That Gets Weaponized]] (NEW)
 - [[Prophets Are Fallible Not Divine]]
 - [[Fallible But Reliable - Why Authority Still Counts]]
 - [[Word of Wisdom]]

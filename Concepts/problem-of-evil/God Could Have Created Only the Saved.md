@@ -6,7 +6,8 @@ related:
   - "[[Free Will Is a Red Herring to the Creation Dilemma]]"
 sources:
   - "[[Lets Talk w Hayden Carroll - Triune God Is Omnibenevolent Debate]]"
-tags: [hell, creation, free-will, molinism, tradition/lds]
+  - "[[Freethinking Ministries - Can an All-Loving God Create Hell-Bound People (Hayden Carroll)]]"
+tags: [hell, creation, free-will, molinism, traducianism, tradition/lds]
 #type/objection
 ---
 

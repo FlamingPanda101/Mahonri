@@ -24,10 +24,15 @@ The angle developed in the cluster is [[Daniel Peterson]]'s **functional-marker*
 
 This connects to the broader vault discussion of how a living church handles evolving directives — the symmetry-of-uncertainty point in [[A Fallible List of Infallible Teachings - The Symmetry of Uncertainty]].
 
+## The authority angle (caffeine reversal)
+
+A second cluster, from [[Trevan Hatch]] on the [[Cwic Show - The Official Position on Official Positions|Cwic Show]], uses the Word of Wisdom's history with **caffeine** as a worked example of the prophet-vs-scripture tension in deciding LDS doctrine: ~80 prophetic counsels against caffeine (1908–2002) were effectively reversed, with a church PR rationale appealing to the *text* of D&C 89 over the prophetic teaching — while the text itself, read historically, permits "mild barley drink" (beer) and restricts meat. See [[The Caffeine Reversal Exposes the Prophet-Versus-Scripture Tension in the Word of Wisdom]].
+
 ## Related
 
 - [[Holy Envy - What Latter-day Saints Can Learn from Islam]] — the functional-marker reading (Peterson)
 - [[A Fallible List of Infallible Teachings - The Symmetry of Uncertainty]]
+- [[The Caffeine Reversal Exposes the Prophet-Versus-Scripture Tension in the Word of Wisdom]]
 - [[Daniel Peterson]]
 
 ---

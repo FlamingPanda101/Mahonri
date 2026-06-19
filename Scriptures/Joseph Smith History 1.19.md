@@ -17,7 +17,7 @@ tags:
 
 ## Key Detail
 
-The verse from the 1838 First Vision account that calls the creeds of the existing churches an "abomination." [[Kerry Muhlestein]] argues to a Protestant pastor ([[Hello Saints]]) that the strong language is (a) typical of the way the Lord addresses *insiders* in Joseph Smith's revelations — Joseph and [[Martin Harris]] are themselves called "wicked" yet invited to repent — and (b) aimed at *creeds* (false teachings about God's nature) rather than at individual Christians, whom Joseph Smith defended. The 1842 Wentworth account, written for an outside audience, omits the word — "probably a good PR move." See [[The Creeds Abomination Targets Teachings Not Christians]] and [[First Vision Accounts Differ by Audience Not Contradiction]].
+The verse from the 1838 First Vision account that calls the creeds of the existing churches an "abomination." [[Kerry Muhlestein]] argues to a Protestant pastor (the *Hello Saints* channel) that the strong language is (a) typical of the way the Lord addresses *insiders* in Joseph Smith's revelations — Joseph and [[Martin Harris]] are themselves called "wicked" yet invited to repent — and (b) aimed at *creeds* (false teachings about God's nature) rather than at individual Christians, whom Joseph Smith defended. The 1842 Wentworth account, written for an outside audience, omits the word — "probably a good PR move." See [[The Creeds Abomination Targets Teachings Not Christians]] and [[First Vision Accounts Differ by Audience Not Contradiction]].
 
 ## Used in
 - [[The Creeds Abomination Targets Teachings Not Christians]]

@@ -5,6 +5,7 @@ related:
   - "[[LDS Afterlife - Degrees of Glory]]"
 sources:
   - "[[All Those In Favor - Why Christianity is Probably Wrong about Hell]]"
+  - "[[Freethinking Ministries - Can an All-Loving God Create Hell-Bound People (Hayden Carroll)]]"
 tags: [apologetics, problem-of-hell, theodicy, creation, tradition/lds]
 #type/claim
 ---

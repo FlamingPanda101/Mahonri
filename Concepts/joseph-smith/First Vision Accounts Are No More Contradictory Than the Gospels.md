@@ -4,8 +4,11 @@ scripture:
 related:
   - "[[Bible Contradictions - McClellan Example Catalog]]"
   - "[[Abraham's First Vision Pattern]]"
+  - "[[First Vision Accounts Differ by Audience Not Contradiction]]"
+  - "[[The Four Firsthand First Vision Accounts]]"
 sources:
   - "[[Ward Radio - Catholics Critique Mormonism on the Daily Wire]]"
+  - "[[Hello Saints - Pastors Honest Questions About History of Joseph Smith]]"
 tags:
   - apologetics
   - topic/first-vision

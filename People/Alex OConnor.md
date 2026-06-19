@@ -73,3 +73,16 @@ https://youtu.be/aqOzROuIAHM
 https://youtu.be/aqOzROuIAHM
 
 [^4]: [[Alex OConnor - Is Genesis 1-1 a Mistranslation|O'Connor - Genesis 1:1 Mistranslation]], [23:31], https://youtu.be/ApN65gu_-HQ
+
+### As host/foil — Jesus's divinity (interviewing Brant Pitre)
+On his own "Within Reason" podcast, O'Connor presses the mainstream-critical case that the **historical Jesus never explicitly claimed to be God** against Catholic scholar [[Brant Pitre]], offering charitable counter-readings (forgiving sins and walking on water as *delegated*, theosis-shaped powers; the Septuagint problem for *ego eimi*; the two-powers timing problem). See [[Alex OConnor - Jesus DID Claim to be God]] and [[Jesus Claimed Divinity in a Jewish Way Through Riddle and Allusion]].
+
+### As host/foil — mind, NDEs, materialism (interviewing Robert Greene)
+Interviewing author [[Robert Greene]], O'Connor argues that **methodological materialism has been illegitimately upgraded into a metaphysics** ([[Methodological Materialism Smuggled Into Metaphysical Materialism]]) and treats near-death experiences — including veridical cases — as an unresolved anomaly for materialism, modeling calibrated agnosticism. See [[Alex OConnor - Your Mind Is Not Your Brain]].
+
+## Sources
+- [[Stick of Joseph - Atheism is Unreasonable and Stupid]]
+- [[Alex OConnor - Is Genesis 1-1 a Mistranslation]]
+- [[Big Think - The Strongest Arguments For and Against God - Alex OConnor]]
+- [[Alex OConnor - Jesus DID Claim to be God]]
+- [[Alex OConnor - Your Mind Is Not Your Brain]]
