@@ -1,14 +1,13 @@
 # Consolidation Report
 
-*Scanned 2026-06-19 16:57 — 2720 concept notes.*
+*Scanned 2026-06-19 17:09 — 2719 concept notes.*
 
 Auto-detected. **Nothing was changed** — review and merge via Mahonri (tell it: merge note X into note Y) or by hand.
 
-## Likely duplicate concepts (16)
+## Likely duplicate concepts (15)
 - `The Canon Question Has No Objectively Correct Answer` ↔ `The Translation Question Has No Objectively Correct Answer`  (similarity 0.93)
 - `Humanity Created Before Animals in Genesis 2` ↔ `Humanity Created Before Plants in Genesis 2`  (similarity 0.92)
 - `The Word of God Is Not Confined to the Written Word` ↔ `The Word of God Was Never Confined to the Written Word`  (similarity 0.91)
-- `Without Body Parts or Passions Is a 1530 Protestant Creed` ↔ `'Without Body, Parts, or Passions' Is a 1530 Protestant Creed, Not Ancient`  (similarity 0.9)
 - `Pharmacological Explanation of NDEs Rebutted` ↔ `Psychological Explanations of NDEs Rebutted`  (similarity 0.9)
 - `Same-Species-as-God as the Core LDS Distinctive in Theosis` ↔ `Same-Species-as-God as the Core LDS Distinctive`  (similarity 0.89)
 - `Neurological Explanations of NDEs Rebutted` ↔ `Psychological Explanations of NDEs Rebutted`  (similarity 0.89)
