@@ -3,10 +3,12 @@ title: "Bountiful Lies Due East of Nahom"
 scripture: "[[1 Nephi 17.5|1 Nephi 17:5]]"
 related:
   - "[[Nahom and NHM Converge with Nephis Eastward Turn]]"
+  - "[[Nahom Exceeds Biblical Sites by Archaeologys Own Standards]]"
   - "[[The Valley of Lemuel River Was Confirmed in 1995]]"
   - "[[Convergence Not Proof Is the Standard for Book of Mormon Historicity]]"
 sources:
   - "[[Holy Rebellion - Anachronisms DNA and Archaeology in the Book of Mormon]]"
+  - "[[Ward Radio - Better Archaeological Evidence for the Book of Mormon Than the Bible]]"
 tags: [apologetics, book-of-mormon, archaeology, bountiful, arabia, dhofar, oman, tradition/lds]
 #type/claim
 ---
@@ -49,6 +51,12 @@ points, not one. See [[Convergence Not Proof Is the Standard for Book of Mormon 
 
 > **Evidence rating:** Moderate-to-strong (the anchor-point logic; strength rests on the chained directional reading).
 
+### 4. The route follows the historical frankincense trail — rate: moderate-to-strong
+
+[[Jerry Grover]] adds that the south-southeast leg to Nahom and the due-east leg to Bountiful track the actual **frankincense trail** — the only feasible caravan route, where travelers paid for protected access to water along the way. So the path is not merely directionally consistent with Nephi's account; it coincides with the one historically attested way to cross that terrain — "meaning it's the reasonable route that they would have taken." [[Josh Gehly]] independently identifies the southern-Oman (Dhofar) terminus as the only place with vegetation matching Bountiful.[^5]
+
+> **Evidence rating:** Moderate-to-strong (independent route corroboration; Joseph Smith had no access to the frankincense-trail data in 1829).
+
 ## Steelman of the Opposing View
 
 A critic can argue that once Nahom is granted, Bountiful is somewhat forced: the only
@@ -72,6 +80,7 @@ would land precisely at the one fertile, ship-buildable coast ~700 miles due eas
 [^2]: [[Holy Rebellion - Anachronisms DNA and Archaeology in the Book of Mormon|Holy Rebellion - Anachronisms DNA and Archaeology]], [102:32]-[111:00], https://youtu.be/J_bwYwApMfE
 [^3]: [[Holy Rebellion - Anachronisms DNA and Archaeology in the Book of Mormon|Holy Rebellion - Anachronisms DNA and Archaeology]], [111:00]-[111:30], https://youtu.be/J_bwYwApMfE
 [^4]: [[Holy Rebellion - Anachronisms DNA and Archaeology in the Book of Mormon|Holy Rebellion - Anachronisms DNA and Archaeology]], [111:30]-[112:33], https://youtu.be/J_bwYwApMfE
+[^5]: [[Ward Radio - Better Archaeological Evidence for the Book of Mormon Than the Bible|Ward Radio - Better Archaeological Evidence (Gehly)]], [19:00]-[22:00], https://youtu.be/cbev5a3ZFEo
 
 ---
-See also: [[Concepts]] · [[Holy Rebellion - Anachronisms DNA and Archaeology in the Book of Mormon]]
+See also: [[Concepts]] · [[Holy Rebellion - Anachronisms DNA and Archaeology in the Book of Mormon]] · [[Ward Radio - Better Archaeological Evidence for the Book of Mormon Than the Bible]] · [[Jerry Grover]]

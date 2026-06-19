@@ -5,6 +5,8 @@ related:
   - "[[Joseph Smith Predicts His Own Death Within Five Years]]"
   - "[[Self-Fulfilling Prophecy Objection]]"
   - "[[Willard Richards Unharmed in a Hail of Bullets Prophecy]]"
+  - "[[The Nauvoo Legion Was Disarmed and Outside Carthage's Jurisdiction]]"
+  - "[[Forensic Reconstruction Eliminates Theories Rather Than Inventing Them]]"
 sources:
   - "[[Mormonism with the Murf - Joseph Smith's Top 20 Fulfilled Prophecies]]"
 tags:

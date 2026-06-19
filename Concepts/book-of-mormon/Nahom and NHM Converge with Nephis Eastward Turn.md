@@ -5,9 +5,11 @@ related:
   - "[[The Valley of Lemuel River Was Confirmed in 1995]]"
   - "[[Bountiful Lies Due East of Nahom]]"
   - "[[The Ishmael Funerary Stela in South Arabia]]"
+  - "[[Nahom Exceeds Biblical Sites by Archaeologys Own Standards]]"
   - "[[Convergence Not Proof Is the Standard for Book of Mormon Historicity]]"
 sources:
   - "[[Holy Rebellion - Anachronisms DNA and Archaeology in the Book of Mormon]]"
+  - "[[Ward Radio - Better Archaeological Evidence for the Book of Mormon Than the Bible]]"
 tags: [apologetics, book-of-mormon, archaeology, nahom, arabia, frankincense-trail, epigraphy, tradition/lds]
 #type/claim
 ---
@@ -53,6 +55,12 @@ dated to **600 BC** documents the trail's north-south leg.[^4]
 
 > **Evidence rating:** Strong (independent geographic constraint converging on the epigraphic site).
 
+### 4. Independently corroborated by a second researcher — rate: strong (multiple attestation)
+
+[[Josh Gehly]] (Penn State archaeology) independently presents the same convergence and adds two layers: **three altars** from the Bar'an / Marib temple bearing the consonantal **NHM** (excavated by a German team), and **ancient maps unavailable to Joseph Smith** that identify the region — stacking "convergence, convergence, convergence." He frames the NHM altars as a "bullseye match" and judges Nahom to exceed most biblical sites by archaeology's own standards. See [[Nahom Exceeds Biblical Sites by Archaeologys Own Standards]].[^5]
+
+> **Evidence rating:** Strong (a second trained researcher converging on the same data; the inscriptions and maps are the load-bearing items).
+
 ## Steelman of the Opposing View
 
 A critic can argue NHM is a common Semitic triliteral root (related to comfort/
@@ -77,6 +85,7 @@ a lone coincidence.
 [^2]: [[Holy Rebellion - Anachronisms DNA and Archaeology in the Book of Mormon|Holy Rebellion - Anachronisms DNA and Archaeology]], [104:32]-[106:30], https://youtu.be/J_bwYwApMfE
 [^3]: [[Holy Rebellion - Anachronisms DNA and Archaeology in the Book of Mormon|Holy Rebellion - Anachronisms DNA and Archaeology]], [106:30]-[108:31], https://youtu.be/J_bwYwApMfE
 [^4]: [[Holy Rebellion - Anachronisms DNA and Archaeology in the Book of Mormon|Holy Rebellion - Anachronisms DNA and Archaeology]], [108:31]-[112:33], https://youtu.be/J_bwYwApMfE
+[^5]: [[Ward Radio - Better Archaeological Evidence for the Book of Mormon Than the Bible|Ward Radio - Better Archaeological Evidence (Gehly)]], [07:30]-[10:00], https://youtu.be/cbev5a3ZFEo
 
 ---
-See also: [[Concepts]] · [[Holy Rebellion - Anachronisms DNA and Archaeology in the Book of Mormon]]
+See also: [[Concepts]] · [[Holy Rebellion - Anachronisms DNA and Archaeology in the Book of Mormon]] · [[Ward Radio - Better Archaeological Evidence for the Book of Mormon Than the Bible]] · [[Josh Gehly]]

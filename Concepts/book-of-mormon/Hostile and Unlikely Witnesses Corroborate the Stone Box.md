@@ -4,10 +4,12 @@ scripture:
 related:
   - "[[The Stone Box Is the Empty Tomb of the Book of Mormon]]"
   - "[[Independent Attestation of What Happened to the Stone Box]]"
+  - "[[Dan Vogel's East-Side Hole Is the Lone Source Against the West-Side Stone Box]]"
   - "[[Informal Witnesses of the Golden Plates]]"
   - "[[Tumbaga Alloy Explains Golden Appearance and Green Oxidation]]"
 sources:
   - "[[Informed Saints - The Historical Evidence for Gold Plates Critics Cant Answer]]"
+  - "[[Ward Radio - Debunking Anti-Mormon Dan Vogel and the BIG Hole in His Argument]]"
 tags:
   - "#apologetics/book-of-mormon"
   - "#tradition/lds"
@@ -43,6 +45,12 @@ Former associates and neighbors went to the hill, became convinced something of 
 ## Steelman of the Opposing View
 
 A critic can grant that hostile neighbors *believed* Joseph had something and still deny it was gold plates: their actions evidence rural treasure-credulity, not a real artifact, and a hole on a hill is over-determined by farming and money-digging. Saunders' "no fresh dirt" line can be read as confirming only *a* hole, not *the* plate-box, and his location detail might be absorbed from decades of published Mormon accounts rather than autopsy. Stowell's "greenish corner" could be a vague or embellished memory recorded long after. The reply is that the location was known to *both* faithful and hostile sources, the money-digger-hole theory fails on geography, and the greenish detail is undesigned and counter-expectation — but the believer should concede that hostile *belief* in an artifact is weaker than hostile *sight* of one, and that only a few of these witnesses (Hale, Stowell) claim actual contact.
+
+## Best Quotes
+
+### 4. A second independent presentation confirms the Saunders material
+[[Josh Gailey]] re-runs the same 16-source analysis on a separate Ward Radio episode aimed at [[Dan Vogel]]'s east-side claim, independently recounting Saunders' "couldn't find the hole but knew it was on the west side" and the "large hole... dug a year or two before but no fresh dirt" lines — and adding that Vogel's contrary reading rests on a single late source (Frederick Mather, 1880).[^9] Two separately-produced presentations of the hostile-witness data strengthen its reliability. See [[Dan Vogel's East-Side Hole Is the Lone Source Against the West-Side Stone Box]].
+> **Evidence rating:** Moderate (corroborates the source-handling; same underlying documents, different presenter and framing).
 
 ## Best Quotes
 

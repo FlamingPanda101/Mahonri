@@ -7,6 +7,7 @@ related:
   - "[[Babylon Taunt Formula Shows Negation Is a Boast of Superiority]]"
   - "[[Templization of Christian Worship Space]]"
   - "[[Lehi's Dream Encodes the Three Temple Rooms by Hebrew Name-Puns]]"
+  - "[[Ether Reframes the Tower of Babel as a Local Mosquito-Borne Encephalitis Event]]"
   - "[[Mike Day]]"
   - "[[Jordan Peterson]]"
 sources:

@@ -3,10 +3,12 @@ title: "The Ishmael Funerary Stela in South Arabia"
 scripture: "[[1 Nephi 16.34|1 Nephi 16:34]]"
 related:
   - "[[Nahom and NHM Converge with Nephis Eastward Turn]]"
+  - "[[Nahom Exceeds Biblical Sites by Archaeologys Own Standards]]"
   - "[[Convergence Not Proof Is the Standard for Book of Mormon Historicity]]"
   - "[[No Archaeological Evidence Requires Specifying What to Look For]]"
 sources:
   - "[[Holy Rebellion - Anachronisms DNA and Archaeology in the Book of Mormon]]"
+  - "[[Ward Radio - Better Archaeological Evidence for the Book of Mormon Than the Bible]]"
 tags: [apologetics, book-of-mormon, archaeology, ishmael, nahom, epigraphy, arabia, tradition/lds]
 #type/claim
 ---
@@ -49,6 +51,12 @@ when the individual cannot be definitively identified.[^4]
 
 > **Evidence rating:** Moderate-to-strong (a fair parallel to mainstream epigraphic reporting standards).
 
+### 4. The name fits the "right name, wrong region" profile — rate: moderate
+
+[[Josh Gehly]] adds a corroboration from a second source: **Ishmael was a very common name in 600 BC Jerusalem** (60–70 attestations on seals/bullae from the 7th–6th century BC) — so the Book of Mormon naming a traveler "Ishmael" is itself a small convergence — yet in the Wadi Jawf region of Arabia it was *not* common at that date (becoming common only ~300 BC). [[Neal Rappleye]] found the stela by searching the funerary record not for "Nahom" but for the buried person's name, **Ishmael**: of three Ishmael stelae, two postdate Book of Mormon times, but one dates (by lettering ~6th c. and stela style ~7th c.) to exactly the Lehite period. Gehly's analogy: a "Dave Smith" leaving San Diego and dying in Ensenada — find a Dave Smith on a tombstone there, and "there's a decent chance we're talking about the same Dave Smith."[^5]
+
+> **Evidence rating:** Moderate (a real "right name in the right place" point; the looted findspot still blocks identification).
+
 ## Steelman of the Opposing View
 
 Rappleye himself supplies the strongest caveats: the stela was **looted**, so its exact
@@ -71,6 +79,7 @@ one corroborating data point, not proof — see [[Convergence Not Proof Is the S
 [^2]: [[Holy Rebellion - Anachronisms DNA and Archaeology in the Book of Mormon|Holy Rebellion - Anachronisms DNA and Archaeology]], [113:30]-[114:31], https://youtu.be/J_bwYwApMfE
 [^3]: [[Holy Rebellion - Anachronisms DNA and Archaeology in the Book of Mormon|Holy Rebellion - Anachronisms DNA and Archaeology]], [115:31]-[117:01], https://youtu.be/J_bwYwApMfE
 [^4]: [[Holy Rebellion - Anachronisms DNA and Archaeology in the Book of Mormon|Holy Rebellion - Anachronisms DNA and Archaeology]], [117:01]-[119:30], https://youtu.be/J_bwYwApMfE
+[^5]: [[Ward Radio - Better Archaeological Evidence for the Book of Mormon Than the Bible|Ward Radio - Better Archaeological Evidence (Gehly)]], [11:30]-[16:30], https://youtu.be/cbev5a3ZFEo
 
 ---
-See also: [[Concepts]] · [[Holy Rebellion - Anachronisms DNA and Archaeology in the Book of Mormon]]
+See also: [[Concepts]] · [[Holy Rebellion - Anachronisms DNA and Archaeology in the Book of Mormon]] · [[Ward Radio - Better Archaeological Evidence for the Book of Mormon Than the Bible]] · [[Josh Gehly]]

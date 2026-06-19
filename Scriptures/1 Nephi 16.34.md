@@ -13,6 +13,7 @@ tags: [type/scripture, book/book-of-mormon, topic/nahom, topic/arabia, topic/ish
 ## Used in
 - [[Nahom and NHM Converge with Nephis Eastward Turn]]
 - [[The Ishmael Funerary Stela in South Arabia]]
+- [[Nahom Exceeds Biblical Sites by Archaeologys Own Standards]]
 
 ---
 See also: [[Scriptures]] · [[Lehi]]

@@ -5,6 +5,7 @@ related:
   - "[[Deuteronomistic Corruption of the Old Testament]]"
   - "[[The Surviving Old Testament Is the Southern Kingdom's Edition]]"
   - "[[Jesus Referenced the Apocrypha]]"
+  - "[[The Rechabites Are the Prophets of Old Who Inspired Lehi]]"
 sources:
   - "[[The Stick of Joseph - The Key to Unlocking Lehis Brass Plates]]"
   - "[[The Stick of Joseph - OBVIOUS Signs That Christ Was Edited Out of the Old Testament]]"

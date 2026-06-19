@@ -5,6 +5,7 @@ related:
   - "[[Joseph Smith Predicts His Own Martyrdom]]"
   - "[[Absence of Contemporaneous Sources Undermines a Prophecy]]"
   - "[[Orrin Porter Rockwell Cut Not Thy Hair Prophecy]]"
+  - "[[Trauma Victims Reconstruct Crime-Scene Gaps So Survivor Accounts Vary]]"
 sources:
   - "[[Mormonism with the Murf - Joseph Smith's Top 20 Fulfilled Prophecies]]"
 tags:
