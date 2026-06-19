@@ -7,7 +7,7 @@ related:
   - "[[Convergence Not Proof Is the Standard for Book of Mormon Historicity]]"
 sources:
   - "[[The Stick of Joseph - Jonathan Neville on the Origin of the Mesoamerican Geography Model]]"
-  - "[[The Stick of Joseph - Jonathan Neville on Moroni's America and the Heartland Theory]]"
+  - "[[The Stick of Joseph - Jonathan Neville on Moronis America and the Heartland Theory]]"
 tags: ["#type/claim", "#topic/epistemology", "#topic/method", "#tradition/lds"]
 ---
 

@@ -7,7 +7,7 @@ related:
   - "[[Oliver Cowdery's Letter VII States Cumorah Is in New York as Fact]]"
   - "[[The Limited-Geography Reading Predates the DNA Debate]]"
 sources:
-  - "[[The Stick of Joseph - Jonathan Neville on Moroni's America and the Heartland Theory]]"
+  - "[[The Stick of Joseph - Jonathan Neville on Moronis America and the Heartland Theory]]"
   - "[[The Stick of Joseph - Jonathan Neville on the Origin of the Mesoamerican Geography Model]]"
 tags: ["#type/claim", "#topic/book-of-mormon-geography", "#topic/heartland", "#tradition/lds"]
 ---
@@ -36,8 +36,8 @@ The New Madrid parallel is suggestive but not decisive. (a) [[3 Nephi 9|3 Nephi 
 This removes one of the main physical objections to a North American / New-York-Cumorah setting and pairs with Neville's [[Sea in the Book of Mormon Can Mean a Mighty River|lexical argument about "sea"]] to make the Mississippi-valley geography viable. It serves his larger plea (with the hosts) for "humble pie": given how drastically the landscape has changed, confident pronouncements about what the terrain "must" have looked like are unwarranted.
 
 ## References
-[^1]: [[The Stick of Joseph - Jonathan Neville on Moroni's America and the Heartland Theory|Stick of Joseph - Neville on Moroni's America]], [31:30]–[34:30], https://youtu.be/r6DpUQfL_1w
-[^2]: [[The Stick of Joseph - Jonathan Neville on Moroni's America and the Heartland Theory|Stick of Joseph - Neville on Moroni's America]], [27:30]–[31:30], https://youtu.be/r6DpUQfL_1w
+[^1]: [[The Stick of Joseph - Jonathan Neville on Moronis America and the Heartland Theory|Stick of Joseph - Neville on Moroni's America]], [31:30]–[34:30], https://youtu.be/r6DpUQfL_1w
+[^2]: [[The Stick of Joseph - Jonathan Neville on Moronis America and the Heartland Theory|Stick of Joseph - Neville on Moroni's America]], [27:30]–[31:30], https://youtu.be/r6DpUQfL_1w
 
 ---
-See also: [[Concepts]] · [[3 Nephi 9]] · [[Jonathan Neville]] · [[Wayne May]] · [[The Stick of Joseph - Jonathan Neville on Moroni's America and the Heartland Theory]]
+See also: [[Concepts]] · [[3 Nephi 9]] · [[Jonathan Neville]] · [[Wayne May]] · [[The Stick of Joseph - Jonathan Neville on Moronis America and the Heartland Theory]]

@@ -23,11 +23,22 @@ Alongside [[Jonah Barnes]] in a Plain and Precious Publishing interview, Butler 
 ## As host and Stick of Joseph guest
 Butler also appears on *The Stick of Joseph* in two further roles. He **hosts** the worship conversation with [[Todd McLauchlin]], drawing out worship as a state of being and as universal — see [[The Stick of Joseph - How to Access the Power of Heaven Through Real Worship]].[^3] And in the "Reading Books with Mike and Dave" episode he co-leads (with [[Mike Day]]) an introduction to [[Moshe Weinfeld]]'s *Deuteronomy and the Deuteronomic School*, pressing the re-evaluation of [[Josiah]] as a violent reformer and reading [[Laman]] and Lemuel as *pious* Deuteronomists. See [[Deuteronomistic Corruption of the Old Testament]] and [[The Synagogue Predates Lehi in the Deuteronomic Reform]], from [[The Stick of Joseph - King Josiah Deuteronomy and the Book of Mormon (Mike and Dave)]].[^4]
 
+## Temple readings of scripture (further Stick of Joseph episodes)
+Across more Stick of Joseph appearances Butler develops the channel's recurring thesis that "the Book of Mormon is written by temple initiates for temple initiates":
+- The "I never knew you" recognition motif resolves into [[Knowing Christ Means Bearing His Image Not Performing Works|bearing Christ's image]], with Greek-lexical observations on *lambanō* and *poieō* ([[Hearing and Doing the Sermon Is a Creative Act]]) and a Robertson-Smith reading of [[Eating the Sacrifice Establishes Kinship With God|the kinship meal]].[^5]
+- The "[[The Right and Left Hand of God Are the Day of Atonement Goats|right hand / left hand of God]]" (Mosiah 5; Matthew 25) encodes the Day-of-Atonement two goats.[^6]
+- Lehi's wilderness journey [[Lehis Journey Maps the Tabernacle Not Solomons Temple|maps the Tabernacle]] (developing his book *In the Language of Adam*), with [[Eden Means Bountiful So Lehis Journey Ends in the Holy of Holies|Eden = "bountiful"]] (Ziony Zevit), [[Nahom Is the Tabernacle Room of Mourning and Comfort|Nahom as the room of mourning/comfort]], [[The Alma Fainting Episodes Are a Ritual Death and Rebirth Ordinance|the Alma fainting episodes as an ordinance]], and (with [[Mike Day]]) [[The Holy of Holies Is the Room of the Bee Debir and Deborah|the debir as "the room of the bee"]].[^7]
+- He also hosts the Romans episode (as "Big Mustard, David D. John Butler") with [[Brian Thomassen]] — see [[Romans Argues Real Self-Mastery Comes Through Christ Not the Law]].[^8]
+
 ## References
 [^1]: [[Moronis Standard - The Temple Ceremony Was Destroyed Twice and Restored in 1842|Moroni's Standard - The Temple Was Destroyed Twice]], [04:30]–[05:30], https://youtu.be/t5vt7CsNQMQ
 [^2]: [[The Stick of Joseph - Why ALL Christians Should Wear a Sacred Garment|Stick of Joseph - Sacred Garment (Barnes)]], [16:30], https://youtu.be/6IotRPZLAAA
 [^3]: [[The Stick of Joseph - How to Access the Power of Heaven Through Real Worship|Stick of Joseph - Real Worship]], [00:30], https://youtu.be/87pLM-JW3gQ
 [^4]: [[The Stick of Joseph - King Josiah Deuteronomy and the Book of Mormon (Mike and Dave)|Stick of Joseph - Mike & Dave on Deuteronomy]], [01:30], https://youtu.be/vfF0opRPkjk
+[^5]: [[The Stick of Joseph - I Never Knew You - Jesuss Most Haunting Statement|Stick of Joseph - I Never Knew You]], [27:30], https://youtu.be/9ZJRk8A7Uko
+[^6]: [[The Stick of Joseph - Andrea Woodmansee on the Right or Left Hand of God|Stick of Joseph - Right or Left Hand]], [01:00], https://youtu.be/uQyAi8xOLrQ
+[^7]: [[The Stick of Joseph - A New Way of Viewing Lehis Journey in the Book of Mormon|Stick of Joseph - Lehis Journey]], [09:30], https://youtu.be/r9C4baDCwl0
+[^8]: [[The Stick of Joseph - How the Book of Romans Changes the Way We See the Gospel|Stick of Joseph - Book of Romans]], [00:30], https://youtu.be/cnVz525CwVg
 
 ---
-See also: [[People]] · [[Authority Ledger]] · [[Mike Day]] · [[Todd McLauchlin]] · [[Moronis Standard - The Temple Ceremony Was Destroyed Twice and Restored in 1842]] · [[The Stick of Joseph - Why ALL Christians Should Wear a Sacred Garment]] · [[The Stick of Joseph - How to Access the Power of Heaven Through Real Worship]] · [[The Stick of Joseph - King Josiah Deuteronomy and the Book of Mormon (Mike and Dave)]]
+See also: [[People]] · [[Authority Ledger]] · [[Mike Day]] · [[Andrea Woodmansee]] · [[Brian Thomassen]] · [[Todd McLauchlin]] · [[Moronis Standard - The Temple Ceremony Was Destroyed Twice and Restored in 1842]] · [[The Stick of Joseph - A New Way of Viewing Lehis Journey in the Book of Mormon]] · [[The Stick of Joseph - I Never Knew You - Jesuss Most Haunting Statement]]

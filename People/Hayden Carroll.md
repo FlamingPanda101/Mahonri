@@ -77,6 +77,9 @@ Invited to address a Ratio Christi (Evangelical campus apologetics) chapter, Car
 - **A positive alternative:** God Himself (not any book) is the ultimate authority, revealed by the Spirit; he answers the "feelings alone" charge with five converging mediums of revelation; and he notes even [[James White]] grounds his assurance of salvation in the Spirit's witness, not the Bible. See [[God Himself Not a Book Is the Ultimate Authority]], [[Triangulating Truth - Five Mediums of Revelation]], [[James White Appeals to the Spirit Not the Bible for Assurance]].
 - **The keystone evidence:** if the Book of Mormon is authentic, the Restoration follows; the dictation feat is inexplicable given Joseph Smith's documented lack of education. See [[The Book of Mormon Keystone Argument]].[^10]
 
+### Jesus and Satan as Spirit Brothers (Response to Cliff Knechtel)
+In a Stick of Joseph monologue, Carroll answers the evangelical polemic — voiced by [[Cliff Knechtel]] — that "Mormonism teaches Jesus and Lucifer are brothers." He argues the charge [[Jesus and Satan Being Spirit Brothers Follows From Rejecting the Trinity|only bites on Trinitarian premises]] and that the Bible's recurring [[Two Brothers Where the Younger Is Chosen Are Types of Christ and Lucifer|two-brothers / younger-chosen motif]] (and the Day-of-Atonement two goats) types the premortal Christ/Lucifer relationship. See [[The Stick of Joseph - Biblical Evidence That Jesus and Satan Are Brothers]].[^11]
+
 [^1]: [[Stick of Joseph - Atheism is Unreasonable and Stupid|Stick of Joseph - Atheism is Unreasonable and Stupid]], [00:31]–[01:30],
 https://youtu.be/aqOzROuIAHM
 
@@ -102,3 +105,8 @@ https://youtu.be/aqOzROuIAHM
 [^9]: [[Hayden Carroll - Ratio Christi Campus Talk|Hayden Carroll, Ratio Christi Campus Talk]], pp.1-10.
 
 [^10]: [[Hayden Carroll - Ratio Christi Campus Talk|Hayden Carroll, Ratio Christi Campus Talk]], pp.10-12.
+
+[^11]: [[The Stick of Joseph - Biblical Evidence That Jesus and Satan Are Brothers|Stick of Joseph - Jesus and Satan Brothers]], [04:30], https://youtu.be/R-MAcEoexXI
+
+---
+See also: [[People]] · [[Stick of Joseph]] · [[Cliff Knechtel]] · [[The Stick of Joseph - Biblical Evidence That Jesus and Satan Are Brothers]]

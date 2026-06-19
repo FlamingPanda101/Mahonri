@@ -5,6 +5,7 @@ related:
   - "[[Genesis Was Finalized as Davidic-Solomonic Apologetic]]"
   - "[[Judah and David Are Written as Literary Doubles]]"
   - "[[Benjamin Son of the Right Hand - Democratized Enthronement]]"
+  - "[[Two Brothers Where the Younger Is Chosen Are Types of Christ and Lucifer]]"
 sources:
   - "[[The Stick of Joseph - Clues Reveal the Unknown Editor of Genesis]]"
 tags: ["#apologetics/old-testament", "#tradition/lds", "#type/claim"]

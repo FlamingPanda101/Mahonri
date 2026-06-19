@@ -13,8 +13,12 @@ LDS educator and apologist, longtime teacher in the Church Educational System (s
 
 He frames apostasy as a **gradual falling away** rather than a single mutiny, builds his case from "evidences" rather than asserted causes, and steelmans opposing views — even arguing the apostasy "preserved the text." He presents the [[Greek Philosophy Corrupted the Christian Concept of God|Hellenization of God]] as the central corruption while explicitly refusing to denigrate other faiths. See [[Apostasy as Gradual Falling Away Not Single Event]], [[Car Wreck Analogy for Diagnosing Apostasy]], [[Apostasy Preserved the Text Steelman]].
 
+## On Lehi's journey and the holy of holies (Stick of Joseph)
+With [[Dave Butler]] on *The Stick of Joseph* (bonus content for Butler's *In the Language of Adam*), Day contributes the connection that the temple's innermost room, the *debir*, is "the room of the bee" — the bee being **Deborah** (*d'vorah*), the prophetess of Judges 4 who sits under a tree on a mountain dispensing judgment like Jesus on the mount. See [[The Holy of Holies Is the Room of the Bee Debir and Deborah]] and [[Nahom Is the Tabernacle Room of Mourning and Comfort]] (Day quotes Baker & Ricks on "comfort" as kingly empowerment).
+
 ## Source
 - [[Ward Radio - The Great Apostasy Deep Dive with Mike Day and Dave Butler]]
+- [[The Stick of Joseph - A New Way of Viewing Lehis Journey in the Book of Mormon]]
 
 ---
-See also: [[David Butler (Stick of Joseph)]] · [[Ward Radio]]
+See also: [[David Butler (Stick of Joseph)]] · [[Dave Butler]] · [[Ward Radio]] · [[The Stick of Joseph - A New Way of Viewing Lehis Journey in the Book of Mormon]]

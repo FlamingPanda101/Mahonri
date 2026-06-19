@@ -6,6 +6,7 @@ scripture:
 related:
   - "[[Lehi's Dream Encodes the Three Temple Rooms by Hebrew Name-Puns]]"
   - "[[Lehi's Dream Recapitulates the Eden-Temple Return]]"
+  - "[[Lehis Journey Maps the Tabernacle Not Solomons Temple]]"
   - "[[Nahom and NHM Converge with Nephis Eastward Turn]]"
   - "[[The Book of Mormon Matches Pre-Reform First Temple Theology]]"
   - "[[The Detailed Narrative Outranks the Chapter Summary in First Nephi]]"

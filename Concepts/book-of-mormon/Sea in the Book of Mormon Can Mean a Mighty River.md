@@ -6,7 +6,7 @@ related:
   - "[[The Limited-Geography Reading Predates the DNA Debate]]"
   - "[[Clarity Charity and Understanding and the Faith Model]]"
 sources:
-  - "[[The Stick of Joseph - Jonathan Neville on Moroni's America and the Heartland Theory]]"
+  - "[[The Stick of Joseph - Jonathan Neville on Moronis America and the Heartland Theory]]"
 tags: ["#type/claim", "#topic/book-of-mormon-geography", "#topic/hebrew", "#tradition/lds"]
 ---
 
@@ -34,8 +34,8 @@ The lexical move is real but does heavy lifting. (a) We do not possess the Book 
 The "sea" argument is the lexical key that, with the [[The New Madrid Earthquake Explains Third Nephi's Darkness Without Volcanoes|New Madrid earthquake]], makes a Mississippi-valley North American geography textually viable for Neville. It is also a clean illustration of his repeated insistence that "the text is not self-executing": the same word "sea" yields different maps depending on which lexical assumption the reader imports.
 
 ## References
-[^1]: [[The Stick of Joseph - Jonathan Neville on Moroni's America and the Heartland Theory|Stick of Joseph - Neville on Moroni's America]], [20:00]–[24:30], https://youtu.be/r6DpUQfL_1w
-[^2]: [[The Stick of Joseph - Jonathan Neville on Moroni's America and the Heartland Theory|Stick of Joseph - Neville on Moroni's America]], [22:30]–[27:00], https://youtu.be/r6DpUQfL_1w
+[^1]: [[The Stick of Joseph - Jonathan Neville on Moronis America and the Heartland Theory|Stick of Joseph - Neville on Moroni's America]], [20:00]–[24:30], https://youtu.be/r6DpUQfL_1w
+[^2]: [[The Stick of Joseph - Jonathan Neville on Moronis America and the Heartland Theory|Stick of Joseph - Neville on Moroni's America]], [22:30]–[27:00], https://youtu.be/r6DpUQfL_1w
 
 ---
-See also: [[Concepts]] · [[Jonathan Neville]] · [[The New Madrid Earthquake Explains Third Nephi's Darkness Without Volcanoes]] · [[The Stick of Joseph - Jonathan Neville on Moroni's America and the Heartland Theory]]
+See also: [[Concepts]] · [[Jonathan Neville]] · [[The New Madrid Earthquake Explains Third Nephi's Darkness Without Volcanoes]] · [[The Stick of Joseph - Jonathan Neville on Moronis America and the Heartland Theory]]

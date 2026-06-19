@@ -22,7 +22,7 @@ He fixes a New York Cumorah as a "pin in the map," reads [[D&C 125]]'s "Zaraheml
 
 ## References
 [^1]: [[The Stick of Joseph - Jonathan Neville on the Origin of the Mesoamerican Geography Model|Stick of Joseph - Neville on the Mesoamerican Model]], [03:30]–[06:00], https://youtu.be/bDPao-SVUyY
-[^2]: [[The Stick of Joseph - Jonathan Neville on Moroni's America and the Heartland Theory|Stick of Joseph - Neville on Moroni's America]], [06:00]–[34:00], https://youtu.be/r6DpUQfL_1w
+[^2]: [[The Stick of Joseph - Jonathan Neville on Moronis America and the Heartland Theory|Stick of Joseph - Neville on Moroni's America]], [06:00]–[34:00], https://youtu.be/r6DpUQfL_1w
 
 ---
 See also: [[People]] · [[Authority Ledger]] · [[Benjamin Winchester]] · [[Oliver Cowdery]]

@@ -7,7 +7,7 @@ authority: C
 authority_reason: "Bonus 'Plain and Precious Publishing' conversation with Jonathan Neville (lawyer, 10+ books) and Boyd Tuttle promoting the 2nd edition of 'Moroni's America.' Partisan Heartland-model advocacy built on selectively-read primary sources and lexical arguments; not academic geography or archaeology. Tier C."
 ---
 
-# The Stick of Joseph - Jonathan Neville on Moroni's America and the Heartland Theory
+# The Stick of Joseph - Jonathan Neville on Moronis America and the Heartland Theory
 
 A Plain and Precious Publishing bonus conversation with author **[[Jonathan Neville]]** and publisher Boyd Tuttle, promoting the second edition of *Moroni's America: The North American Setting for the Book of Mormon*. Neville lays out the "pins in the map" of his Heartland geography and answers Mesoamerican objections.
 
@@ -17,9 +17,9 @@ A Plain and Precious Publishing bonus conversation with author **[[Jonathan Nevi
 - **"Sea" can mean a mighty river.** Citing Strong's, Neville argues the Hebrew *yam* ("sea") covers the Nile, large rivers, and even a temple basin — so the Book of Mormon "sea west" can be the Mississippi, opening a North American reading. See [[Sea in the Book of Mormon Can Mean a Mighty River]]. He also reframes "narrow neck of land" and "head of the river" via early-American usage and Strong's, and (with the hosts) urges humility given how radically river courses and burial depths have changed (e.g. the Steamboat Arabia, buried under ~100 feet of soil in ~140 years).
 
 ## References
-[^1]: [[The Stick of Joseph - Jonathan Neville on Moroni's America and the Heartland Theory|Stick of Joseph - Neville on Moroni's America]], [06:00], https://youtu.be/r6DpUQfL_1w
-[^2]: [[The Stick of Joseph - Jonathan Neville on Moroni's America and the Heartland Theory|Stick of Joseph - Neville on Moroni's America]], [31:30], https://youtu.be/r6DpUQfL_1w
-[^3]: [[The Stick of Joseph - Jonathan Neville on Moroni's America and the Heartland Theory|Stick of Joseph - Neville on Moroni's America]], [21:00], https://youtu.be/r6DpUQfL_1w
+[^1]: [[The Stick of Joseph - Jonathan Neville on Moronis America and the Heartland Theory|Stick of Joseph - Neville on Moroni's America]], [06:00], https://youtu.be/r6DpUQfL_1w
+[^2]: [[The Stick of Joseph - Jonathan Neville on Moronis America and the Heartland Theory|Stick of Joseph - Neville on Moroni's America]], [31:30], https://youtu.be/r6DpUQfL_1w
+[^3]: [[The Stick of Joseph - Jonathan Neville on Moronis America and the Heartland Theory|Stick of Joseph - Neville on Moroni's America]], [21:00], https://youtu.be/r6DpUQfL_1w
 
 ---
 See also: [[Sources Index]] · [[Jonathan Neville]] · [[D&C 125]]

@@ -22,10 +22,21 @@ In "The Secret Identity of the Wisemen," Woodmansee argues the [[Matthew 2.1-12|
 
 In "The Hidden Hebrew Wedding Ritual and The Temple," Woodmansee argues that the ancient three-phase Hebrew wedding (betrothal/*ketubah*, the bridegroom's year-long absence to "prepare a place," the night-time feast) is a deliberate type of the temple, the sealing ordinance, and Christ as bridegroom — making sense of the [[The Parable of the Ten Virgins Encodes Hebrew Wedding Customs|ten virgins]], the [[The Alabaster Box Was the Bride's Dowry Oil to Anoint the Bridegroom|alabaster-box anointing]], the [[The Ketubah and the Jerusalem Window Depict Christ as the Marriage Covenant|2020 Church symbol as a ketubah]], and the [[The Bridegroom Drank the Bitter Fourth Cup So the Bride Would Not|bitter cup]]. See [[Ancient Hebrew Weddings Are a Three-Phase Type of the Temple]].[^3]
 
+## On "I Never Knew You" — knowing as the dividing line
+
+In "'I Never Knew You'" (with [[Dave Butler]]) Woodmansee argues a single **recognition motif** runs through the ten virgins, Luke 13, and the Sermon on the Mount: the divider at the door is not works performed but whether Christ *knows* us — cashed out as [[Christ Became Man That We Might Become God - The Exchange Formula|deification]], bearing his image in the countenance. See [[Knowing Christ Means Bearing His Image Not Performing Works]] and [[Two Covenant Meals - The Betrothal Meal and the Wedding Feast]].
+
+## On the veil — concealment, reversal, and the bridegroom
+
+In "The Temple, The Veil, and the Bridegroom" she builds a temple theology of the veil as a permeable boundary marking [[The Veil Marks Sanctity Not Shame and Is Meant to Be Traversed|sanctity, not shame]], with the high priest [[The High Priest Wore the Veil - The Garment Is the Material World|wearing the veil-fabric of the material world]], and Christ's incarnation/atonement as a [[The Veil Is Christ Reversing the Day of Atonement|reversal of the veil's direction]]. She reads [[Genesis 27|Jacob's blessing]] and [[Zechariah 3|Zechariah 3]] as [[Joshua the High Priest in Zechariah 3 Is an Explicit Temple Investiture|temple-investiture scenes]], reframes [[Atonement as At-One-Ment Is Re-Entering the Presence Distinct From Redemption|atonement as at-one-ment]], and offers a speculative reading of [[The Bride Is Unveiled Only in the Bridegrooms Presence|recent temple-veil changes]].
+
 ## Source
 
 - [[The Stick of Joseph - The Secret Identity of the Wisemen]]
 - [[The Stick of Joseph - The Hidden Hebrew Wedding Ritual and the Temple]]
+- [[The Stick of Joseph - I Never Knew You - Jesuss Most Haunting Statement]]
+- [[The Stick of Joseph - The Temple, The Veil, and the Bridegroom]]
+- [[The Stick of Joseph - Andrea Woodmansee on the Right or Left Hand of God]]
 
 ## References
 
@@ -34,4 +45,4 @@ In "The Hidden Hebrew Wedding Ritual and The Temple," Woodmansee argues that the
 [^3]: [[The Stick of Joseph - The Hidden Hebrew Wedding Ritual and the Temple|Stick of Joseph - Hebrew Wedding Ritual]], [04:01], https://youtu.be/dU81hfwml6Q
 
 ---
-See also: [[People]] · [[Stick of Joseph]] · [[Margaret Barker]] · [[Hugh Nibley]] · [[The Wise Men Were Bearers of Preserved First-Temple Covenant]] · [[Ancient Hebrew Weddings Are a Three-Phase Type of the Temple]]
+See also: [[People]] · [[Stick of Joseph]] · [[Dave Butler]] · [[Margaret Barker]] · [[Hugh Nibley]] · [[The Wise Men Were Bearers of Preserved First-Temple Covenant]] · [[Ancient Hebrew Weddings Are a Three-Phase Type of the Temple]] · [[The Veil Is Christ Reversing the Day of Atonement]]

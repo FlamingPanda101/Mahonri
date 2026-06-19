@@ -9,7 +9,7 @@ related:
   - "[[The Limited-Geography Reading Predates the DNA Debate]]"
 sources:
   - "[[The Stick of Joseph - Jonathan Neville on the Origin of the Mesoamerican Geography Model]]"
-  - "[[The Stick of Joseph - Jonathan Neville on Moroni's America and the Heartland Theory]]"
+  - "[[The Stick of Joseph - Jonathan Neville on Moronis America and the Heartland Theory]]"
 tags: ["#type/claim", "#topic/book-of-mormon-geography", "#topic/cumorah", "#tradition/lds"]
 ---
 
