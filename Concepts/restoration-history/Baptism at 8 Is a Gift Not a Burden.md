@@ -6,6 +6,7 @@ related:
   - "[[Dark Theology Erodes the Child-of-God Seatbelt]]"
 sources:
   - "[[Ward Radio - The Truth About Mormon Baptism at Age 8]]"
+  - "[[Salty Saints - Why Water Is Better Than Wine in the Sacrament]]"
 tags: [apologetics, practices, baptism, child-of-god, topic/practices]
 ---
 
@@ -29,6 +30,9 @@ tags: [apologetics, practices, baptism, child-of-god, topic/practices]
 
 > "You're robbing them of the opportunity to develop as a child a deep sense of their identity as a child of God that will undergird every bad experience they have." [^5]
 
+## A Second Source: Baptism Is Death-and-Rebirth, Not a Literal Washing of Sins
+The [[Salty Saints - Why Water Is Better Than Wine in the Sacrament|Salty Saints sacrament episode]] independently restates and deepens the "washing away sins is the wrong frame" point. [[David Sword of Laben]] makes "the very strong statement that baptism does not wash away your sins" — *immersion itself* is not what cleanses; forgiveness follows *repentance*, which precedes baptism ("do you really think God's going to… wait until your body fully gets immersed… not a hair above"?). The scriptures that *seem* to tie baptism to washing are often about washings/anointings or about *past* forgiveness leading to baptism (Colossians 2:11-13's "having forgiven us" is past tense; Acts 2:38's "for [Greek *eis*] the remission of sins" attaches to *repentance*). The positive meaning is **death and resurrection into newness of life** (Romans 6:3-4; Mosiah 18, which never mentions washing sins, only following Christ and bearing burdens) — the same reframe as the exos'-anthem critique here, reached from the sacrament side. The episode also traces the popular error to the primary song "When I Am Baptized" ("my sins are… washed away"). This grounds the companion claim that the sacrament then *sustains* that new life — see [[The Sacrament Sustains the New Life of Baptism]].[^6]
+
 ## LDS Connection
 The "gift" framing rests on the doctrine that little children are innocent until the age of accountability (Moroni 8; [[D&C 68|D&C 68:25-27]]) and on the [[Doctrine of Divine Childhood Versus Total Depravity|divine-childhood anthropology]] — children are fallen but not depraved, so baptism initiates rather than rescues-from-total-corruption. The panel's correction of "sins washed away at 8" is itself orthodox: because the pre-accountable child has no sin, baptism's meaning is covenantal (taking Christ's name, mourning with those who mourn) and forward-looking, the entry-rite into the family of God rather than a verdict on a guilty infant.
 
@@ -38,6 +42,7 @@ The "gift" framing rests on the doctrine that little children are innocent until
 [^3]: [[Ward Radio - The Truth About Mormon Baptism at Age 8|Ward Radio — Baptism at 8]], [07:31]–[08:31], https://youtu.be/ZsDhjSHN2AM
 [^4]: [[Ward Radio - The Truth About Mormon Baptism at Age 8|Ward Radio — Baptism at 8]], [12:32]–[14:30], https://youtu.be/ZsDhjSHN2AM
 [^5]: [[Ward Radio - The Truth About Mormon Baptism at Age 8|Ward Radio — Baptism at 8]], [31:02]–[32:31], https://youtu.be/ZsDhjSHN2AM
+[^6]: [[Salty Saints - Why Water Is Better Than Wine in the Sacrament|Salty Saints - Water Is Better Than Wine]], [19:30]–[27:00], https://youtu.be/6m7OK3U4dqc
 
 ---
-See also: [[Concepts]] · [[Ward Radio - The Truth About Mormon Baptism at Age 8]]
+See also: [[Concepts]] · [[Ward Radio - The Truth About Mormon Baptism at Age 8]] · [[Salty Saints - Why Water Is Better Than Wine in the Sacrament]] · [[The Sacrament Sustains the New Life of Baptism]]
