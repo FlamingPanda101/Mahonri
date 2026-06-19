@@ -47,10 +47,19 @@ Hansen's deepest distinctive is the rejection of creation from nothing: all bein
 
 On a Ward Radio panel with [[Hayden Carroll]] working through atheist objections, Hansen framed the whole exercise as a method drill: turn every objection into a *question* (the questioner "plays offense" and exposes hidden premises), and remember that public apologetics is for the watching audience — done one-on-one it "just burns the relationship," because "ministry is not apologetics." He also restated the layered approach by which the Resurrection only becomes a live question *after* one grants theism. See [[Apologetics Is Socratic and Aimed at the Audience Not the Interlocutor]] and [[The Four-Level Conversation Structure of Apologetics]].[^2]
 
+## Interviewing Brian Hales on Polygamy Denial
+
+Hansen interviewed documentary historian [[Brian Hales]] on the "implications cascade" against polygamy denialism, also pressing the source-critical and inference-to-best-explanation framing (the "confidentiality model") that recurs in his apologetic method. See:
+- [[The Implications Cascade of Polygamy Denial]]
+- [[The Confidentiality Model Best Fits the Polygamy Evidence]]
+- [[Joseph Smith Never Issued a Blanket Denial of Polygamy]]
+- [[The Eyewitness Asymmetry Refutes the Polygamy Conspiracy Theory]]
+
 ## Key Sources
 
 - [[Gavin Ortlund - Protestant and Mormon Discuss the Trinity]] (Truth Unites, with Gavin Ortlund)
 - [[Ward Radio - The Top 5 Questions Atheists CANNOT Answer]] (with Hayden Carroll)
+- [[Thoughtful Faith - Was Joseph Smith A Polygamist Ft Brian Hales]] (with Brian Hales)
 
 ## Sources
 [^1]: [[Gavin Ortlund - Protestant and Mormon Discuss the Trinity|Gavin Ortlund - Protestant and Mormon Discuss the Trinity]], [02:31], https://youtu.be/7Y9_unCe__M

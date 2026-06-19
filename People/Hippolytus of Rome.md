@@ -15,9 +15,13 @@ Early third-century Roman presbyter, theologian, and (by tradition) author of ch
 ## On church office and widows
 The *Apostolic Tradition*, "possibly authored by Hippolytus," specifies that widows are appointed to a special office but are *not* ordained by laying on of hands, "because a widow does not offer the Eucharist nor does she have a 'sacred ministry.'" Her only duty is to pray. See [[Orders of Female Deacons Widows and Virgins Contained Troublesome Women]]. [^2]
 
+## Witness to Infant Baptism (Apostolic Tradition)
+[[Trent Horn]] cites the *Apostolic Tradition* (attributed to Hippolytus) for its instructions on baptizing **infants who cannot yet speak for themselves** — a 3rd-century attestation that infant baptism was the established norm (though Horn notes the dating of the source is debated). See [[Tertullian's Opposition Presupposes an Established Practice]].[^3]
+
 ## References
 [^1]: [[Ancient Christians - An Introduction for Latter-day Saints|Ancient Christians (Maxwell Institute, 2022)]], pp. 100-102.
 [^2]: [[Ancient Christians - An Introduction for Latter-day Saints|Ancient Christians (Maxwell Institute, 2022)]], pp. 131-132.
+[^3]: [[The Counsel of Trent - A Case for Infant Baptism|The Counsel of Trent - Infant Baptism]], [19:30]–[20:00], https://youtu.be/YyD74bf0gHw
 
 ---
-See also: [[People]] · [[Tertullian]] · [[Thomas A. Wayment]]
+See also: [[People]] · [[Tertullian]] · [[Tertullian's Opposition Presupposes an Established Practice]]

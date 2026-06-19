@@ -11,6 +11,7 @@ related:
 sources:
   - "[[Benjamin Park - Did Joseph Smith Teach Men Can Become God]]"
   - "[[Lets Get Real - Why Its Easier to Flatten Brigham Young]]"
+  - "[[Thoughtful Faith - Was Joseph Smith A Polygamist Ft Brian Hales]]"
 ---
 
 # Wilford Woodruff
@@ -37,6 +38,10 @@ theology after the sermon, saying that, well no, they'll eventually grow" —
 a revision of the infant exaltation teaching that became "a key point of debate
 with future interpreters."[^4]
 
+## Polygamy and the Temple Endowment
+
+[[Brian Hales]] makes Woodruff central to the case against polygamy denial: Woodruff's later recollection affirmed that Joseph Smith taught and practiced plural marriage — and Woodruff is *also* the man who, in 1877 under [[Brigham Young]], first wrote down the temple endowment as his recollection of Joseph's teachings. Hales argues deniers cannot reject Woodruff's late memory on polygamy while trusting it on the temple. See [[The Temple Endowment Rests on the Same Witnesses as Polygamy]] and [[The Implications Cascade of Polygamy Denial]].[^7]
+
 ## On Prophetic Fallibility
 [[Daniel C. Peterson]] invokes Woodruff's well-known assurance that the Lord "will not allow" the President of the Church to lead the people astray — He would "remove the President of the Church rather than allow that" — as the boundary condition on prophetic fallibility: prophets can err in detail and in programs, but not in any "gross" way that leads the Church astray.[^5] Peterson also identifies Woodruff as the figure who, in *Six Days in August*, introduces Brigham to the audience ("That, my friend, was Brigham Young") after the tongues-and-oxen scene.[^6] See [[Prophets Are Fallible Today]] and [[Brigham Young as Spiritual Man Not Just Colonizer]].
 
@@ -46,3 +51,7 @@ with future interpreters."[^4]
 [^2]: [[Benjamin Park - Did Joseph Smith Teach Men Can Become God|Benjamin Park - Did Joseph Smith Teach Men Can Become God?]], [13:30], https://youtu.be/sKQeEuCEgyY
 [^3]: [[Benjamin Park - Did Joseph Smith Teach Men Can Become God|Benjamin Park - Did Joseph Smith Teach Men Can Become God?]], [16:02-16:30], https://youtu.be/sKQeEuCEgyY
 [^4]: [[Benjamin Park - Did Joseph Smith Teach Men Can Become God|Benjamin Park - Did Joseph Smith Teach Men Can Become God?]], [13:30-14:01], https://youtu.be/sKQeEuCEgyY
+[^7]: [[Thoughtful Faith - Was Joseph Smith A Polygamist Ft Brian Hales|Thoughtful Faith - Was Joseph Smith A Polygamist]], [42:30]–[44:00], https://youtu.be/xQ52D7EwhVo
+
+---
+See also: [[People]] · [[The Temple Endowment Rests on the Same Witnesses as Polygamy]]

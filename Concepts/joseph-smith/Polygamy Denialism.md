@@ -4,7 +4,11 @@ related:
   - "[[Doctrine and Covenants 132]]"
   - "[[Doctrine and Covenants 132 Wordprint Analysis]]"
   - "[[Brigham Young as the Fall Guy]]"
-sources: []
+  - "[[The Implications Cascade of Polygamy Denial]]"
+  - "[[The Confidentiality Model Best Fits the Polygamy Evidence]]"
+  - "[[The Eyewitness Asymmetry Refutes the Polygamy Conspiracy Theory]]"
+sources:
+  - "[[Thoughtful Faith - Was Joseph Smith A Polygamist Ft Brian Hales]]"
 tags: ["#apologetics/polygamy", "#tradition/lds", "#type/claim"]
 ---
 # Polygamy Denialism
@@ -20,6 +24,13 @@ tags: ["#apologetics/polygamy", "#tradition/lds", "#type/claim"]
 4. **Why the denial is attractive but wrong.** Denialism lets a believer keep Joseph "clean" by relocating an uncomfortable practice onto Brigham (the recurring move catalogued in [[Brigham Young as the Fall Guy]]). The vault's point is that this is motivated reasoning that the primary sources do not support.
 
 **Steelman of the denialist view.** The most sympathetic case: the public record in Joseph's lifetime *denied* polygamy (Nauvoo-era statements, the 1835 D&C's monogamy article), most "evidence" of Joseph's plural marriages is later affidavit testimony gathered in Utah under Brigham's influence, and motive existed to backdate the practice to Joseph for legitimacy. A denialist therefore argues the contemporaneous documents say monogamy and the incriminating ones are post-Joseph. The vault's rebuttal is that the convergence of stylometric data, the 1843 dating of Section 132, multiple independent witnesses, and the succession evidence overwhelms the public-denial counter-record — so denialism survives only by discounting nearly all of it as forgery, which is special pleading.
+
+## Brian Hales's Expansion of the Case
+[[Brian Hales]] (interviewed by [[Jacob Hansen]]) adds several lines that this note's sub-claims develop in depth:
+- **The cost of denial.** Denial is not a free move — it forces rejecting the integrity of seven top leaders, [[Doctrine and Covenants 132|D&C 132]], the temple endowment, and the living apostles. See [[The Implications Cascade of Polygamy Denial]] and [[The Temple Endowment Rests on the Same Witnesses as Polygamy]].
+- **The denials are few and qualified.** Joseph never issued a blanket denial; he condemned spiritual wifery and *unauthorized* polygamy. See [[Joseph Smith Never Issued a Blanket Denial of Polygamy]].
+- **The right frame is hypothesis-comparison.** The confidentiality model fits all the data; denial requires a defector-free conspiracy. See [[The Confidentiality Model Best Fits the Polygamy Evidence]] and [[The Eyewitness Asymmetry Refutes the Polygamy Conspiracy Theory]].
+- **The RLDS were the original deniers and recanted.** See [[The RLDS Church Were the Original Polygamy Deniers and Recanted]] and [[Emma Smith's Polygamy Testimony Splits Before and After 1860]].
 
 ## Related
 - [[Doctrine and Covenants 132]]

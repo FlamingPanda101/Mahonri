@@ -38,10 +38,15 @@ However, [[Jonathan Goldstein]], in his Anchor Bible commentary, demonstrated th
 
 Origen's misreading is understandable: he was reading the text roughly a century AFTER [[Tatian]], [[Theophilus of Antioch]], and [[Irenaeus of Lyons]] had formulated creation ex nihilo and retroactively reinterpreted earlier texts through the new doctrinal lens (see [[Retroactive Reinterpretation of Creation Texts]]). Origen was not an independent witness to what 2 Maccabees originally meant — he was a recipient of the interpretive tradition the late-2nd-century originators had created.
 
+## Witness to Infant Baptism as Apostolic (early 3rd c.)
+[[Trent Horn]] cites Origen as a key 3rd-century witness that infant baptism was the universal apostolic norm: "The church has received the tradition from the apostles to give baptism even to little children," because the apostles knew "in everyone was original sin's innate defilement which needed to be washed away." See [[Tertullian's Opposition Presupposes an Established Practice]] and [[Augustine Clarified Infant Baptism He Did Not Invent It]].[^2]
+
 ## Key Topics
 
 - [[2 Maccabees 7.28 Does Not Teach Creation Ex Nihilo]]
 - [[Retroactive Reinterpretation of Creation Texts]]
 - [[2 Maccabees 7.28|2 Maccabees 7:28]]
+- [[Tertullian's Opposition Presupposes an Established Practice]]
 
 [^1]: [[Dan McClellan - Wes Huff Creation Ex Nihilo Response|Dan McClellan - Wes Huff Creation Ex Nihilo Response]], [11:31]-[12:30], https://youtu.be/VxpTLp6jCLI — citing Jonathan Goldstein, Anchor Bible commentary on 2 Maccabees (1984)
+[^2]: [[The Counsel of Trent - A Case for Infant Baptism|The Counsel of Trent - Infant Baptism]], [19:30]–[20:30], https://youtu.be/YyD74bf0gHw

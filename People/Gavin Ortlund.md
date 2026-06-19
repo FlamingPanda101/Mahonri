@@ -51,10 +51,18 @@ In his summative case against the papacy, Ortlund argues the office "is a human 
 - [[The Apostles Held Equal Power With Peter]]
 - [[Constantinople II Excommunicated Pope Vigilius]]
 
+## Infant Baptism — The Credobaptist Case (Engaged by Trent Horn)
+Ortlund argued the historical evidence favors **credobaptism** (while conceding it is not conclusive), citing the early silence on explicit infant baptism, the Didache's adult-shaped instructions, and [[Everett Ferguson]]'s reading of catacomb inscriptions. [[Trent Horn]] responded point-by-point in [[The Counsel of Trent - A Case for Infant Baptism]]. See:
+- [[The Argument from Silence Cuts Both Ways on Infant Baptism]]
+- [[Catacomb Baptism Inscriptions Are Emergency Cases Not the Norm]]
+- [[Augustine Clarified Infant Baptism He Did Not Invent It]]
+- [[Baptismal Regeneration Is the Doctrine Infant Baptism Is the Discipline]]
+
 ## Key Sources
 
 - [[Gavin Ortlund - Protestant and Mormon Discuss the Trinity]] (Truth Unites, with Jacob Hansen)
 - [[Gavin Ortlund - The Papacy Is Not From God]] (Truth Unites)
+- [[The Counsel of Trent - A Case for Infant Baptism]] (Trent Horn's response to Ortlund's infant-baptism video)
 
 ## Sources
 [^1]: [[Gavin Ortlund - Protestant and Mormon Discuss the Trinity|Gavin Ortlund - Protestant and Mormon Discuss the Trinity]], [01:33], https://youtu.be/7Y9_unCe__M

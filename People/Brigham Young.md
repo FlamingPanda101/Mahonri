@@ -13,6 +13,7 @@ related:
 sources:
   - "[[Benjamin Park - Did Joseph Smith Teach Men Can Become God]]"
   - "[[Lets Get Real - Why Its Easier to Flatten Brigham Young]]"
+  - "[[Thoughtful Faith - Was Joseph Smith A Polygamist Ft Brian Hales]]"
 ---
 
 # Brigham Young

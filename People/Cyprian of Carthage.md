@@ -14,9 +14,13 @@ Third-century bishop of Carthage in Roman North Africa (d. AD 258, martyred), a 
 
 He invoked patronage rhetoric — "how much more illustrious and great is the glory of having God and Christ as the spectator of the gift?" (*De opere et eleemosynis* 21) — to recast donors as patrons earning honor before God by giving through the bishop. [^2]
 
+## Witness to Infant Baptism (Council of Carthage)
+[[Trent Horn]] cites Cyprian's council as 3rd-century evidence that infant baptism was already universal — and that the *only* live controversy was whether to delay it to the eighth day (the circumcision analogy of [[Genesis 17.12|Genesis 17:12]]), which the council rejected: "the mercy and grace of God is not to be refused to anyone born of man." That the debate was over *timing*, not *whether*, is itself proof of the norm. See [[Tertullian's Opposition Presupposes an Established Practice]].[^3]
+
 ## References
 [^1]: [[Ancient Christians - An Introduction for Latter-day Saints|Ancient Christians (Maxwell Institute, 2022)]], pp. 129-130.
 [^2]: [[Ancient Christians - An Introduction for Latter-day Saints|Ancient Christians (Maxwell Institute, 2022)]], pp. 129-130, 145.
+[^3]: [[The Counsel of Trent - A Case for Infant Baptism|The Counsel of Trent - Infant Baptism]], [20:00]–[21:00], https://youtu.be/YyD74bf0gHw
 
 ---
-See also: [[People]] · [[Tertullian]] · [[Ariel Bybee Laughton]]
+See also: [[People]] · [[Tertullian]] · [[Tertullian's Opposition Presupposes an Established Practice]]

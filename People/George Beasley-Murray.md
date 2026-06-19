@@ -12,8 +12,12 @@ British **Baptist** New Testament scholar (1916–2000), principal of Spurgeon's
 ## On baptism (Ortlund–Horn dialogue)
 **[[Gavin Ortlund]]** cites Beasley-Murray as a Baptist scholar who "ends up having a very high view of baptism," and notes Beasley-Murray *himself* admits in the book that his position runs "extremely contrary to his own denomination" — that he is "kind of a lone figure" among Baptists on what baptism *does*. Ortlund invokes him (alongside Everett Ferguson, J.D. Kelly, and David Wright) to make two points at once: that modern Baptists often hold *too low* a view of baptism relative to their own history, yet that even a high realist view like Beasley-Murray's is not the same as the *baptism-as-cause-of-regeneration* thesis **[[Trent Horn]]** defends. See [[Baptism Saves but Is Not the Cause of Salvation]] and the source [[Gavin Ortlund - Trent Horn and Gavin Ortlund on Baptism]].
 
+## Quoted Against His Own Denomination (Infant Baptism)
+[[Trent Horn]] cites Beasley-Murray as a hostile witness for *baptismal regeneration*: that treating baptism as "a purely symbolic rite must be pronounced not alone unsatisfactory but out of harmony with the New Testament itself" — adding that such a judgment "runs counter to the popular tradition of the denomination to which the writer belongs." See [[Baptismal Regeneration Is the Doctrine Infant Baptism Is the Discipline]].[^2]
+
 ## References
 [^1]: [[Gavin Ortlund - Trent Horn and Gavin Ortlund on Baptism|Ortlund vs Horn - Baptism]], [51:31], https://youtu.be/JGwECD_Dv3k
+[^2]: [[The Counsel of Trent - A Case for Infant Baptism|The Counsel of Trent - Infant Baptism]], [05:30]–[06:00], https://youtu.be/YyD74bf0gHw
 
 ---
-See also: [[People]] · [[Gavin Ortlund - Trent Horn and Gavin Ortlund on Baptism]] · [[Baptism Saves but Is Not the Cause of Salvation]]
+See also: [[People]] · [[Baptismal Regeneration Is the Doctrine Infant Baptism Is the Discipline]] · [[Baptism Saves but Is Not the Cause of Salvation]]
