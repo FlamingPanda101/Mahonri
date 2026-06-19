@@ -26,8 +26,20 @@ In the debate-prep conversation, Barnes reinforced several of Hansen's key moves
 - [[Shema Echad Means Covenant Loyalty Not Ontology]]
 - [[Mystery Is Special Pleading Not Humility]]
 
+## On the garment and the covering of Christ (The Lost Gems of Genesis)
+In a Plain and Precious Publishing interview with [[Dave Butler]] on a chapter of his book *The Lost Gems of Genesis*, Barnes argues the temple garment is "the most Christian symbol in the world": the [[Genesis 3.21|coats of skins]] encode an atonement pun (skin/light, *kaphar* = "covering" buried by Tyndale's coinage "atonement"), the garment is a "credibility-enhancing display" anchoring religious identity, and temple secrecy is "pearls before swine," not shame. See:
+- [[The Garment of Skin and the Garment of Light]]
+- [[The Sacred Garment Is a Credibility-Enhancing Display]]
+- [[Sacred Secrecy Is Pearls Before Swine Not Shame]]
+- [[The Garment Is the Covering of Christ]]
+
 ## Key Sources
 - [[Thoughtful Faith - The Trinity vs the Godhead Debate Prep]]
+- [[The Stick of Joseph - Why ALL Christians Should Wear a Sacred Garment]]
 
 ## Sources
 [^1]: [[Thoughtful Faith - The Trinity vs the Godhead Debate Prep|Thoughtful Faith - The Trinity vs the Godhead Debate Prep]], [01:01], https://youtu.be/qCRhIPPz4Qk
+[^2]: [[The Stick of Joseph - Why ALL Christians Should Wear a Sacred Garment|Stick of Joseph - Sacred Garment (Barnes)]], [13:00], https://youtu.be/6IotRPZLAAA
+
+---
+See also: [[People]] · [[Jonah (Plain and Precious Publishing)]] · [[The Stick of Joseph - Why ALL Christians Should Wear a Sacred Garment]]

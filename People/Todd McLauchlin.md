@@ -31,10 +31,14 @@ He argues "priesthood is not a power… it's an order or a pattern," modeled on 
 ### Magnifying a Calling = Coming Clean Through Sacrifice
 He reads "magnifying your calling" ([[D&C 84.33-44|D&C 84:33]]) through [[Jacob 1.19|Jacob 1:19]] and [[King Benjamin]] as "coming clean from the blood and sins of this generation" — drawing down redemption onto others through sacrifice, with judgment falling if they do not hearken. See [[Magnifying a Calling Means Coming Clean From the Blood and Sins of This Generation]].[^3]
 
+### The True Order of Prayer as the Heartbeat of the Endowment
+In a later conversation with [[Hayden Paul]], McLauchlin argues the [[The True Order of Prayer Is the Heartbeat of the Endowment|true order of prayer]] is the core of the endowment — "calling upon the name of the Lord" ([[Moses 5.10-11|Moses 5:16]]; [[Ether 2|Ether 2]]) is the [[Calling Upon the Name of the Lord Is the True Order of Prayer|scriptural cipher]] for it; the [[The Brother of Jared Models the Endowment Ascent Through the Veil|brother of Jared]] models the ascent through the veil; "[[Murder to Get Gain Inverts the Order of Sacrifice|murder to get gain]]" is its dark inversion; and the church remains in a state of [[The Lesser Portion and the State of Condemnation|condemnation]] until it obtains the sealed "greater portion."[^4] See [[The Stick of Joseph - The True Order of Prayer and the Brother of Jared]].
+
 ## References
 [^1]: [[The Stick of Joseph - The Oath and Covenant of the Priesthood and Its Ties to the Temple|Stick of Joseph - Oath & Covenant of the Priesthood]], [05:30], https://youtu.be/fZmLnbgD8MM
 [^2]: [[The Stick of Joseph - The Oath and Covenant of the Priesthood and Its Ties to the Temple|Stick of Joseph - Oath & Covenant of the Priesthood]], [22:31], https://youtu.be/fZmLnbgD8MM
 [^3]: [[The Stick of Joseph - The Oath and Covenant of the Priesthood and Its Ties to the Temple|Stick of Joseph - Oath & Covenant of the Priesthood]], [72:31], https://youtu.be/fZmLnbgD8MM
+[^4]: [[The Stick of Joseph - The True Order of Prayer and the Brother of Jared|Stick of Joseph - True Order of Prayer]], [29:00], https://youtu.be/nUIUwII8hCU
 
 ---
-See also: [[People]] · [[Hayden Paul]] · [[The Stick of Joseph - The Oath and Covenant of the Priesthood and Its Ties to the Temple]]
+See also: [[People]] · [[Hayden Paul]] · [[The Stick of Joseph - The Oath and Covenant of the Priesthood and Its Ties to the Temple]] · [[The Stick of Joseph - The True Order of Prayer and the Brother of Jared]]

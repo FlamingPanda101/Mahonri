@@ -7,6 +7,7 @@ related:
   - "[[Jesus Referenced the Apocrypha]]"
 sources:
   - "[[The Stick of Joseph - The Key to Unlocking Lehis Brass Plates]]"
+  - "[[The Stick of Joseph - OBVIOUS Signs That Christ Was Edited Out of the Old Testament]]"
 tags: ["#apologetics/book-of-mormon", "#tradition/lds", "#type/claim", "#topic/brass-plates", "#topic/messianism"]
 ---
 
@@ -31,7 +32,7 @@ The pattern repeats across the canon, giving four mutually corroborating voices 
 - **Peter** — Acts 7:51-52 (Stephen quoting the tradition): "which of the prophets have not your fathers persecuted? and they have slain them which showed before of the coming of the Just One" [^5].
 - **Abinadi** — Mosiah 13: "there have not been any prophets... but they have spoken concerning... the coming of the Messiah," including that "Moses prophesied unto them concerning the coming of a Messiah" [^6].
 
-Barnes's challenge: ask a Protestant pastor *which* prophets Jesus and Stephen mean — the Old Testament names no prophet martyred specifically for Messianic preaching [^7].
+Barnes's challenge: ask a Protestant pastor *which* prophets Jesus and Stephen mean — the Old Testament names no prophet martyred specifically for Messianic preaching [^7]. In a second, independent presentation of the same thesis, Barnes adds that Jesus' "woe unto you that are rich" (Luke 6:24) is itself a quotation of the [[1 Enoch|Book of Enoch]] — a text "nobody knew about" until the Ethiopic recovery — reinforcing that the New Testament writers shared "texts and prophecies that they all knew and we don't have" [^11][^12].
 
 ### 3. The critic's own objection backfires — rate: strong (turnabout)
 Eber Howe's *Mormonism Unveiled* — "the great-grandfather of anti-Mormonism" — charged Joseph Smith with inventing the idea that prophets were slain for preaching the Messiah, since no such record exists. Barnes's reply: "Peter thinks they did, Jesus thinks they did — what were they reading that we don't have?" The objection indicts the New Testament identically [^8].
@@ -67,6 +68,8 @@ A critic can grant the New Testament's "you killed the prophets" language while 
 [^8]: [[The Stick of Joseph - The Key to Unlocking Lehis Brass Plates|Stick of Joseph - Brass Plates]], [33:32], https://youtu.be/l08AzrBpdJg
 [^9]: [[The Stick of Joseph - The Key to Unlocking Lehis Brass Plates|Stick of Joseph - Brass Plates]], [25:01], https://youtu.be/l08AzrBpdJg
 [^10]: [[The Stick of Joseph - The Key to Unlocking Lehis Brass Plates|Stick of Joseph - Brass Plates]], [25:32], https://youtu.be/l08AzrBpdJg
+[^11]: [[The Stick of Joseph - OBVIOUS Signs That Christ Was Edited Out of the Old Testament|Stick of Joseph - OBVIOUS Signs Christ Was Edited Out of the OT]], [12:30], https://youtu.be/lszUxFokLE8
+[^12]: [[The Stick of Joseph - OBVIOUS Signs That Christ Was Edited Out of the Old Testament|Stick of Joseph - OBVIOUS Signs Christ Was Edited Out of the OT]], [13:00], https://youtu.be/lszUxFokLE8
 
 ---
-See also: [[Concepts]] · [[The Stick of Joseph - The Key to Unlocking Lehis Brass Plates]] · [[Lehi]] · [[Deuteronomistic Corruption of the Old Testament]] · [[Jesus Referenced the Apocrypha]]
+See also: [[Concepts]] · [[The Stick of Joseph - The Key to Unlocking Lehis Brass Plates]] · [[The Stick of Joseph - OBVIOUS Signs That Christ Was Edited Out of the Old Testament]] · [[Lehi]] · [[Deuteronomistic Corruption of the Old Testament]] · [[Jesus Referenced the Apocrypha]]

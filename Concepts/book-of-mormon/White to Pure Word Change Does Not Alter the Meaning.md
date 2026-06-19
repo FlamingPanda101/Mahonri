@@ -7,6 +7,7 @@ related:
   - "[[White to Pure Edit Tracks the Priesthood Ban Not Revelation]]"
 sources:
   - "[[Saints Unscripted - Responding to 5 Changes to the Book of Mormon]]"
+  - "[[The Stick of Joseph - Race Curses and the Book of Mormon]]"
 tags: [apologetics, book-of-mormon, race, translation, tradition/lds]
 #type/rebuttal
 ---
@@ -42,6 +43,18 @@ real issue that he's raising." He redirects to the deeper objection — how a
 supernaturally translated book can be edited at all — which he answers via the
 revelation model. See [[Editing Revealed Scripture Is Compatible with Divine Origin]].[^3]
 
+### 3. Joseph Smith made the change in 1840, and the *mix* footnote points to Interfaith marriage
+
+In a separate treatment, [[Marvin Perkins]] adds two data points: (a) Joseph Smith
+himself changed "white" to "pure" back in **1840** (it simply did not reach the
+updated scriptures until 1981), citing a worry that readers would misunderstand
+the racial-sounding word; and (b) the 1981 edition added a footnote on *mix* in
+2 Nephi 5:23 reading "Topical Guide: Marriage, Interfaith" — so the cursed "seed
+of him that mixeth" concerns **Interfaith**, not interracial, marriage, among
+people who shared the same earthly father (Lehi). On Perkins' reading the *white →
+pure* change is one of a cluster of edits redirecting the racial-sounding language
+toward spiritual purity. See [[A Curse Is a Separation From God Not a Skin Color]].[^4]
+
 ## Steelman of the Opposing View
 
 The critic's better point is not lexical but **causal**: the timing (the edit
@@ -69,6 +82,7 @@ honest LDS reply is the revelation-model reframe, not the synonymy claim. See
 [^1]: [[Saints Unscripted - Responding to 5 Changes to the Book of Mormon|Saints Unscripted - 5 Changes to the Book of Mormon]], [00:30]–[00:45], https://youtu.be/u_cBa49F22w
 [^2]: [[Saints Unscripted - Responding to 5 Changes to the Book of Mormon|Saints Unscripted - 5 Changes to the Book of Mormon]], [00:45]–[01:02], https://youtu.be/u_cBa49F22w
 [^3]: [[Saints Unscripted - Responding to 5 Changes to the Book of Mormon|Saints Unscripted - 5 Changes to the Book of Mormon]], [01:02]–[01:30], https://youtu.be/u_cBa49F22w
+[^4]: [[The Stick of Joseph - Race Curses and the Book of Mormon|Stick of Joseph - Race, Curses, and the Book of Mormon]], [22:00], https://youtu.be/6ABYbNgu4x0
 
 ---
-See also: [[Concepts]]
+See also: [[Concepts]] · [[The Stick of Joseph - Race Curses and the Book of Mormon]] · [[A Curse Is a Separation From God Not a Skin Color]]

@@ -7,6 +7,7 @@ related:
   - "[[Joseph Smith Ignored Race-Based Scriptural Distinctions]]"
 sources:
   - "[[Ward Radio - Catholics Critique Mormonism on the Daily Wire]]"
+  - "[[The Stick of Joseph - Race Curses and the Book of Mormon]]"
 tags:
   - apologetics
   - topic/book-of-mormon
@@ -31,6 +32,8 @@ tags:
 
 4. **Even a racial reading condemns the attitude (rated: moderate).** Rapley: "Even if you had a racial interpretation of the skin of blackness, the Book of Mormon is a condemnation of that attitude" — the Nephites are destroyed because of their contempt for the Lamanites.[^5]
 
+5. **The "skin" idiom and the 1981 footnotes (rated: moderate, footnote-anchored).** In a separate, fuller treatment, [[Marvin Perkins]] walks every scriptural use of "black" applied to a person (Job 30:30, Jeremiah 8:21/14:2, Lamentations 4:8, Joel 2:6) and shows the KJV footnotes gloss the Hebrew as "gloomy"/"dejected," while the 1981 LDS edition added footnotes redirecting the Book of Mormon "skin"/"scales" passages to the Topical Guide "Darkness, spiritual." Perkins pairs this with the argument that a **curse** is a separation from God, not a pigment — see [[A Curse Is a Separation From God Not a Skin Color]].[^6]
+
 ## Best Quotes
 
 > "The Book of Mormon never calls black people being under a curse of God... the best textual reading of that has nothing to do with the color of your skin."[^2]
@@ -52,3 +55,4 @@ tags:
 [^3]: [[Ward Radio - Catholics Critique Mormonism on the Daily Wire|Ward Radio - Catholics Critique Mormonism on the Daily Wire]], [54:02]–[54:30], https://youtu.be/avv9JKaagSo
 [^4]: [[Ward Radio - Catholics Critique Mormonism on the Daily Wire|Ward Radio - Catholics Critique Mormonism on the Daily Wire]], [54:30]–[55:30], https://youtu.be/avv9JKaagSo
 [^5]: [[Ward Radio - Catholics Critique Mormonism on the Daily Wire|Ward Radio - Catholics Critique Mormonism on the Daily Wire]], [56:00]–[56:31], https://youtu.be/avv9JKaagSo
+[^6]: [[The Stick of Joseph - Race Curses and the Book of Mormon|Stick of Joseph - Race, Curses, and the Book of Mormon]], [14:00], https://youtu.be/6ABYbNgu4x0

@@ -17,8 +17,12 @@ Dave Butler is a Latter-day Saint scholar who has taught at BYU-Idaho and writte
 ## On Jesus and the ancient mysteries
 Butler's argument (as relayed by Arnold) reads **Matthew 13** ("it has been given unto you to know the *mysteries* — *mysterion* — of the kingdom") and **1 Corinthians 2** (the wisdom spoken "among the perfect," *teleioi*) as genuine initiation language, not generic synonyms for "hard to understand." He frames the LDS term **great apostasy** as the loss of priesthood authority and original doctrine after the apostles, which "converted the mysteries from lived experience into philosophical proposition" — shifting the ancient participatory question ("have you been through it?") into a doctrinal one ("do you affirm the correct propositions?"). See [[The Mysteries Were Converted From Lived Experience Into Doctrine]] and [[The Acts of John Records Jesus Instituting a Mystery Ritual]].[^1] The vault's [[Ward Radio - The Great Apostasy Deep Dive with Mike Day and Dave Butler]] covers related ground.
 
+## On the garment, the veil, and the body of the Lord
+Alongside [[Jonah Barnes]] in a Plain and Precious Publishing interview, Butler relays the Hebrew *or*/*or* homophone ("skin" vs "light") and *Genesis Rabbah*'s "garments of light"; argues the Day-of-Atonement high priest wore robes that **matched the temple veil**, so "wearing the veil means putting on the body of the Lord" — which is why the veil tore at Jesus' death; and adds [[Mircea Eliade]]'s "return to creation" as a complementary reading of why one puts on a sacred garment. See [[The Garment of Skin and the Garment of Light]] and [[The Garment Is the Veil of the Temple and the Body of the Lord]].[^2]
+
 ## References
 [^1]: [[Moronis Standard - The Temple Ceremony Was Destroyed Twice and Restored in 1842|Moroni's Standard - The Temple Was Destroyed Twice]], [04:30]–[05:30], https://youtu.be/t5vt7CsNQMQ
+[^2]: [[The Stick of Joseph - Why ALL Christians Should Wear a Sacred Garment|Stick of Joseph - Sacred Garment (Barnes)]], [16:30], https://youtu.be/6IotRPZLAAA
 
 ---
-See also: [[People]] · [[Authority Ledger]] · [[Moronis Standard - The Temple Ceremony Was Destroyed Twice and Restored in 1842]]
+See also: [[People]] · [[Authority Ledger]] · [[Moronis Standard - The Temple Ceremony Was Destroyed Twice and Restored in 1842]] · [[The Stick of Joseph - Why ALL Christians Should Wear a Sacred Garment]]
