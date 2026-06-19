@@ -6,7 +6,7 @@ related:
   - "[[Are Latter-day Saints Christians]]"
   - "[[The Godhead Model vs the Trinity Model]]"
   - "[[Both Sides Overcorrected in the LDS-Evangelical Divide]]"
-  - "[[The Nicene Creed Is Not an Abomination]]"
+  - "[[Ward Radio - The Nicene Creed Is Not an Abomination]]"
 sources:
   - "[[Hello Saints - Pastors Honest Questions About History of Joseph Smith]]"
 tags:
@@ -46,7 +46,7 @@ Muhlestein is "emphatic": the verse does not make Christians abominable. "Joseph
 
 ## Steelman of the Opposing View
 
-A creedal Christian can fairly answer that the plain text says the *professors* (not just the creeds) "were all corrupt," and that on Latter-day Saint premises the creeds encode the *nature of Christ* — so to call them an "abomination" is to condemn the very heart of historic Christian confession, which is not a peripheral matter. Muhlestein concedes the language is genuinely offensive on its face ("I can absolutely understand someone being offended at that") and that the Trinity is "as fundamental as it gets." His reply is not that the difference is small but that the *target* is the doctrine, not the disciple: the same God who calls the creeds an abomination calls Joseph "wicked" and bids him repent — so the verse is a critique of teaching, paired with love for the people who hold it. See [[Both Sides Overcorrected in the LDS-Evangelical Divide]] and the existing [[The Nicene Creed Is Not an Abomination]].
+A creedal Christian can fairly answer that the plain text says the *professors* (not just the creeds) "were all corrupt," and that on Latter-day Saint premises the creeds encode the *nature of Christ* — so to call them an "abomination" is to condemn the very heart of historic Christian confession, which is not a peripheral matter. Muhlestein concedes the language is genuinely offensive on its face ("I can absolutely understand someone being offended at that") and that the Trinity is "as fundamental as it gets." His reply is not that the difference is small but that the *target* is the doctrine, not the disciple: the same God who calls the creeds an abomination calls Joseph "wicked" and bids him repent — so the verse is a critique of teaching, paired with love for the people who hold it. See [[Both Sides Overcorrected in the LDS-Evangelical Divide]] and the source note [[Ward Radio - The Nicene Creed Is Not an Abomination|Ward Radio - The Nicene Creed Is Not an Abomination]].
 
 ## Best Quotes
 

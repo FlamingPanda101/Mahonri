@@ -5,6 +5,7 @@ related:
   - "[[The Pleroma Exchange Formula]]"
   - "[[1 Corinthians 15 Christ Hands the Kingdom Back to the Father]]"
   - "[[Acorn and Oak Analogy for Theosis]]"
+  - "[[Forgiving Sins Was a Divine Prerogative in Second Temple Judaism]]"
 sources:
   - "[[Thoughtful Faith - The LDS Godhead in the Bible (Response to Sam Shamoun)]]"
 tags: [apologetics, theosis, exaltation, glory, tradition/lds]
