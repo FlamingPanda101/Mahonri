@@ -33,8 +33,7 @@ the Lemba 'black Jews' of southern Africa: evidence from p12f2 and other Y-chrom
 Lemba are now sometimes called "the black Jews of southern Africa," and their haplogroup maps back
 toward the **Arabian Peninsula** — exactly the direction their oral tradition claims.[^2] This is a
 documented case of a real Semitic genetic signal surviving in an African population — directly relevant
-to the vault's [[The Philistine DNA Study Shows Genetic Signals Vanish into Host Populations|signal-
-dilution]] and [[Founder Effect and Genetic Drift Erase a Small Founding Signal|founder-effect]] notes
+to the vault's [[The Philistine DNA Study Shows Genetic Signals Vanish into Host Populations|signal- dilution]] and [[Founder Effect and Genetic Drift Erase a Small Founding Signal|founder-effect]] notes
 (which explain why Lehi's signal might *not* survive, while the Lemba show one that *did*).
 
 ### 2. The oral migration tradition — rate: moderate (ethnography)
@@ -49,8 +48,7 @@ The Lemba say they came from a place called **Senna** and named their first Afri
 it. An ancient Arabic map places a **Senna/Sena in Yemen**, on the **frankincense trail**, near Oman —
 i.e., in the same region as the proposed **Bountiful** (Salalah / Khor Kharfot) and **Nahom**. So a
 group leaving Senna by sea would depart from precisely the coast Book of Mormon geographers identify
-with Lehi's launch. See [[The Frankincense Trail Fits Lehis Wilderness Journey]] and [[Bountiful and
-Khor Kharfot Match the Book of Mormon]].[^4]
+with Lehi's launch. See [[The Frankincense Trail Fits Lehis Wilderness Journey]] and [[Bountiful and Khor Kharfot Match the Book of Mormon]].[^4]
 
 ### 4. Semitic *practices* corroborate the origin — rate: moderate (cultural markers)
 Junod recorded Lemba customs sharply distinct from neighbors and consistent with Mosaic law:

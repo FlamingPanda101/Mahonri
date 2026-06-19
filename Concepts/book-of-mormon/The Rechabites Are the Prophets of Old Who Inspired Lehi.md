@@ -60,8 +60,7 @@ a wide expanse of waters; (6) believe in the controversial divine sonship of the
 
 ### 4. The perpetual-posterity promise echoes Enos — rate: moderate (covenant language)
 [[Jeremiah 35|Jeremiah 35:19]]'s reward — Jonadab "shall not want a man to stand before me for ever" —
-parallels the covenant that a righteous father's "seed will not be utterly destroyed" ([[Enos 1.1-2|
-Enos 1]]), and post-biblical traditions (the *Mishnah*'s "sons of the water-drinkers," Joseph Wolff's
+parallels the covenant that a righteous father's "seed will not be utterly destroyed" ([[Enos 1.1-2| Enos 1]]), and post-biblical traditions (the *Mishnah*'s "sons of the water-drinkers," Joseph Wolff's
 1839 report of Yemeni Rechabite-claimants near Sinai) extend the line.[^5]
 
 ### 5. Why the record was suppressed — rate: moderate (motive theory)

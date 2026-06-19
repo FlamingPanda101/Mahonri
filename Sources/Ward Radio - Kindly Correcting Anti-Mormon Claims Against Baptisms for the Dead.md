@@ -39,8 +39,7 @@ commenters claiming LDS biblical literacy "plummeted" in a 2019 survey.
   Bible-only subscore with an all-topics score, uses a changed sampling mode (Ipsos panel vs random
   phone), oversamples/self-selects "Mormons," carries the highest margin of error, skews younger via the
   birthday method, and includes non-LDS-vocabulary items (Trinity, Purgatory, sola fide, Prosperity
-  Gospel). On biblical questions alone LDS remained ~#2. See [[The 2019 Pew Biblical Literacy Plummet Is
-  a Survey Artifact]].[^3]
+  Gospel). On biblical questions alone LDS remained ~#2. See [[The 2019 Pew Biblical Literacy Plummet Is a Survey Artifact]].[^3]
 - They close by inviting the Catholic creator ("Brian"/"Michael Shannon") onto the show for a "web
   redemption," affirming respect for Catholicism as a fellow non-*sola-scriptura*, authority-claiming
   church.

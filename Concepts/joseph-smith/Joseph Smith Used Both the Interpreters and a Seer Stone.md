@@ -36,8 +36,7 @@ to using the seer stone, because of strong contemporary descriptions of that met
 Bushman stresses the both/and reading "is not uniquely mine — that's been a standard interpretation
 for quite some time." The first pass (1827–28) used the interpreters; after the loss of the 116 pages,
 the 1828 phase used the seer stone more. So "it's not that these are mutually exclusive — he used
-both."[^3] This connects to the vault's [[David Whitmer Tight Control Account vs the Participatory
-Translation Model|translation-method]] discussions.
+both."[^3] This connects to the vault's [[David Whitmer Tight Control Account vs the Participatory Translation Model|translation-method]] discussions.
 
 ### 2. The seer-stone account rests on strong eyewitnesses — rate: strong (multiple attestation)
 The decisive reason the Church adopted the seer-stone description is that "very strong testimony" from
@@ -58,8 +57,7 @@ Bushman fairly states the Neville/Lucas side: its **strength** is that the phras
 is used "over and over again, heavily" in the historical retellings of the plates story. Its
 **weakness** is that it must dismiss the firsthand seer-stone testimony of Emma, Whitmer, and Harris.
 A broader skeptic, meanwhile, will say the whole debate concedes that the *mechanism* was a folk-magic
-seer stone in a hat — see [[Every Testable Joseph Smith Claim Fails Only Subjective Evidence
-Survives]] for the naturalist framing, and [[Spiritual Eyes Described Real Things in the 1800s]] for
+seer stone in a hat — see [[Every Testable Joseph Smith Claim Fails Only Subjective Evidence Survives]] for the naturalist framing, and [[Spiritual Eyes Described Real Things in the 1800s]] for
 the reply that 19th-century "seeing" language described real perception, not delusion.
 
 **What survives:** the historiographically careful position — *both* instruments, with the seer-stone

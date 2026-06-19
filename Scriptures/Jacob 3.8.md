@@ -12,7 +12,7 @@ Jacob (younger brother of [[Nephi]]) tells the Nephites not to "revile against t
 
 ## Used in
 - [[The Book of Mormon Is Descriptive Not Prescriptive Word of God]]
-- [[The Book of Mormon Skin of Blackness Is Not About Race]]
+- [[Book of Mormon Skin of Blackness Is Not About Race]]
 - [[A Curse Is a Separation From God Not a Skin Color]]
 
 ---

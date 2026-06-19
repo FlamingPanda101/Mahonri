@@ -23,7 +23,7 @@ An informal, comedic [[Ward Radio]] episode (branded "Midnight Strike Through Mo
 
 ## Summary
 
-- **The anachronism list shrinks over time, which is how authentic claims behave and frauds do not.** Of 200+ public anachronisms catalogued since 1830, "over a hundred and seventy" have been struck off; [[Jim Bennett]]'s maxim that "frauds always look worse over time" is invoked. See [[The Anachronism List Is Trending Toward the Book of Mormon]] and [[The Shrinking Anachronism List as Evidence of Authenticity|Shrinking Anachronism List as Evidence of Authenticity]]. [^1]
+- **The anachronism list shrinks over time, which is how authentic claims behave and frauds do not.** Of 200+ public anachronisms catalogued since 1830, "over a hundred and seventy" have been struck off; [[Jim Bennett]]'s maxim that "frauds always look worse over time" is invoked. See [[The Anachronism List Is Trending Toward the Book of Mormon]] and [[Shrinking Anachronism List as Evidence of Authenticity|Shrinking Anachronism List as Evidence of Authenticity]]. [^1]
 - **Steel swords and writing on gold plates were once "absolute" anachronisms now vindicated.** They show dated gold plates from ~600 BC (Bulgaria) and ~500 BC (Pyrgi, Italy — bound with holes for rods, like the description of Joseph's plates) and a 6th-century-BC Damascus-steel sword, arguing Nephi's "most precious steel" sword (Laban's) and metal-plate writing fit antiquity. See [[Metallurgical Fraud Theory Rebutted]] and [[The Historical Evidence for Gold Plates Critics Cant Answer]]. [^2]
 - **Horses in pre-Columbian Mesoamerica are the freshest "trending" anachronism.** Recent Yucatan cave/cenote horse remains dated to Book of Mormon times, plus Native testimony of pre-contact horses, are converging; the hosts note the Book of Mormon never depicts cavalry, treating horses as a beast of burden. See [[Horses Are Trending Not Settled as an Anachronism]] and [[Native American Testimony That Horses Were Always Here]]. [^3]
 - **Method: an unsolved anachronism cannot disprove an ancient text, and the right move is to steelman the critic.** Cardon's combative framing is repeatedly checked by Jordan and Hayden: critics who built the list gave Latter-day Saints something to investigate; spiritual conviction comes first, intellectual confirmation strengthens it; there is no principled "batting average" of solved anachronisms that should flip a skeptic. See [[One Anachronism Does Not Disprove the Book of Mormon]] and [[Critics Compiling Anachronism Lists Did Apologists a Favor]]. [^4]
@@ -35,7 +35,7 @@ An informal, comedic [[Ward Radio]] episode (branded "Midnight Strike Through Mo
 ## Concepts Linked (existing)
 
 - [[The Anachronism List Is Trending Toward the Book of Mormon]]
-- [[The Shrinking Anachronism List as Evidence of Authenticity]]
+- [[Shrinking Anachronism List as Evidence of Authenticity]]
 - [[One Anachronism Does Not Disprove the Book of Mormon]]
 - [[Horses Are Trending Not Settled as an Anachronism]]
 - [[Pre-Columbian Horse Remains Found in Yucatan Caves and Cenotes]]

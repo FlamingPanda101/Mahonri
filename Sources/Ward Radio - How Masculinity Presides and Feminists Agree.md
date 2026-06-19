@@ -39,8 +39,7 @@ centered on the **square** (masculine) and the **circle/compass** (feminine), an
   a creation tool.[^4]
 - **"Masculinity presides" psychologized:** masculine/feminine are principles every person blends (not
   man/woman). Within the self, the masculine (boundaries, justice, stability) should preside over the
-  feminine (openness, nurture) — and this *frees* the feminine. See [[Masculinity Should Preside Within
-  Each Person Not Just Between the Sexes]].[^5]
+  feminine (openness, nurture) — and this *frees* the feminine. See [[Masculinity Should Preside Within Each Person Not Just Between the Sexes]].[^5]
 - **The concession to feminism:** when feminists tell women to be assertive and set boundaries, they are
   (unknowingly) telling women to "let masculinity preside" — "that part they have right"; the error is
   the second step of branding masculinity bad in men and in the world. The reward for true balance is

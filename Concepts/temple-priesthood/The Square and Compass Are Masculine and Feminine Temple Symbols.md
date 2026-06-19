@@ -53,8 +53,7 @@ The compass draws the circle (also "perfect" and symmetrical) and orients/measur
 a child). Word-clusters: *encircling, encompass, compassion* (compass + *passio*, "to suffer
 with"). They read Ruth asking Boaz to spread his robe over her, and the [[1 Nephi 11.18|1 Nephi 11]]
 Tree of Life — a feminine symbol the angel interprets by showing Mary — as encircling/feminine
-imagery, dovetailing with the vault's [[Nephi's Tree Is Asherah the Divine Mother|Tree-as-divine-
-mother]] reading.[^4]
+imagery, dovetailing with the vault's [[Nephi's Tree Is Asherah the Divine Mother|Tree-as-divine- mother]] reading.[^4]
 
 ### 3. The two are paired in genuinely ancient artifacts — rate: moderate (material culture, popular-level)
 A functional square with a plumb-bob was found as an amulet on an Egyptian mummy; the "squared
@@ -77,8 +76,7 @@ complementary, alternating roles of masculine bounding and feminine nurture.[^6]
   presenters repeatedly flag as "my theory."
 - **The square-and-compass is most famously Masonic.** A critic will note the obvious modern
   referent and argue the ancient parallels are cherry-picked or coincidental — the same objection
-  the vault answers at [[The Masonry Objection Must Locate the Specific Content Not the General
-  Pattern]].
+  the vault answers at [[The Masonry Objection Must Locate the Specific Content Not the General Pattern]].
 - **"Christ the stonemason" and several artifact claims are popular-level**, not settled
   scholarship (*tektōn* is usually "carpenter/builder"; the Masada/mummy items are debated).
 - **Gendering geometry can smuggle in essentialism.** The presenters themselves caution that

@@ -25,8 +25,12 @@ John Taylor was an early apostle and the third President of the LDS Church. He w
 
 Taylor penned the canonized martyrdom tribute now in [[D&C 135.3]]: "Joseph Smith... has done more, save Jesus only, for the salvation of men in this world, than any other man that ever lived in it." [[David Paulsen]] quotes the line in the soteriological context (see [[Postmortem Salvation Resolves the Soteriological Problem]]) — Joseph's standing rests on restoring the means for the redemption of the dead.
 
+## Polygamy Eyewitness
+Taylor is one of the four church presidents [[Brian Hales]] cites as a firsthand eyewitness that [[Joseph Smith]] taught and practiced plural marriage — testimony that polygamy denial must dismiss as deception. See [[The Implications Cascade of Polygamy Denial]] and [[The Eyewitness Asymmetry Refutes the Polygamy Conspiracy Theory]].[^2]
+
 ## Sources
 [^1]: [[Paulsen - Joseph Smith and the Problem of Evil|Paulsen, Problem of Evil]], p.13.
+[^2]: [[Thoughtful Faith - Was Joseph Smith A Polygamist Ft Brian Hales|Thoughtful Faith - Was Joseph Smith A Polygamist]], [10:30]–[11:30], https://youtu.be/xQ52D7EwhVo
 
 ---
-See also: [[People]] · [[D&C 135.3]]
+See also: [[People]] · [[D&C 135.3]] · [[The Implications Cascade of Polygamy Denial]]

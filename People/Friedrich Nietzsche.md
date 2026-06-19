@@ -47,6 +47,11 @@ illness, not a final destination.[^3]
 
 See: [[Nihilism as Logical Endpoint of Atheism]], [[Atheisms Four Bad Implications]].
 
+### "Nietzsche Gets the Cross" (Tom Holland)
+[[Tom Holland]] — himself an agnostic — argues Nietzsche, "the most brilliant of all atheist writers in the West," grasped the radical, subversive meaning of the cross better than centuries of theologians: he saw Christianity as a "slave religion" exalting the weak over the strong (a mingling of resentment and hostility toward the strong) and *hated* it for that, holding strength and health should be celebrated. His revulsion is backhanded testimony to the cross's inversion of ancient values. See [[The Cross as Moral Inversion of Roman Values]] and [[Western Secularism Is Post-Christian Not Non-Christian]] (where Holland reads fascism as Nietzsche's predicted "might is right" convulsion).[^4]
+
+[^4]: [[Triggernometry - Tom Holland Islam Christianity and the West|Triggernometry - Tom Holland]], [20:30]–[22:30], https://youtu.be/29QRPGrlgjY
+
 [^1]: [[Stick of Joseph - Atheism is Unreasonable and Stupid|Stick of Joseph - Atheism is Unreasonable and Stupid]], [41:31]–[42:01],
 https://youtu.be/aqOzROuIAHM. Quote from Nietzsche's *The Will to Power*, Book
 1, §12 (posthumously compiled from notebooks 1883–1888).

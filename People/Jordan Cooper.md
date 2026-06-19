@@ -36,12 +36,17 @@ Cooper deploys [[Philip Melanchthon]]'s distinction (from the *Treatise on the P
 - [[Refusing the Papacy Is Protest Not Schism]]
 - [[The Church Before and After Trent Is a Different Institution]]
 
+## On Household Baptisms and Infant Baptism
+[[Trent Horn]] points to Cooper's extensive discussion (as a Lutheran who affirms infant baptism) of the New Testament "household" baptism texts — arguing that if "households being baptized" includes children, the same inference extends to infants. See [[The Argument from Silence Cuts Both Ways on Infant Baptism]].[^2]
+
 ## Key Sources
 
 - [[Sola Media - Reformers or Revolutionaries Why the Church Needed the Reformation]] (Sola Media, with Gavin Ortlund)
+- [[The Counsel of Trent - A Case for Infant Baptism]] (Cooper's household-baptism discussion cited by Trent Horn)
 
 ## Sources
 [^1]: [[Sola Media - Reformers or Revolutionaries Why the Church Needed the Reformation|Sola Media - Reformation]], [02:01], https://youtu.be/E0Wm6Hq7G2c
+[^2]: [[The Counsel of Trent - A Case for Infant Baptism|The Counsel of Trent - Infant Baptism]], [10:30]–[11:00], https://youtu.be/YyD74bf0gHw
 
 ---
-See also: [[Gavin Ortlund]] · [[Charles Porterfield Krauth]] · [[Sola Media - Reformers or Revolutionaries Why the Church Needed the Reformation]]
+See also: [[Gavin Ortlund]] · [[The Argument from Silence Cuts Both Ways on Infant Baptism]] · [[Sola Media - Reformers or Revolutionaries Why the Church Needed the Reformation]]

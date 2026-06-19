@@ -30,8 +30,7 @@ assertive, to set boundaries, to refuse to be a "doormat," they are — without 
 women to **let masculinity preside** within themselves, "and that part they have right." Where
 feminism goes wrong, on this view, is the *second* step: declaring masculinity good *inside* a woman
 but bad in a man and bad for the world, thereby "elevating femininity as the thing that should
-lead," which would be "chaos."[^2] This is the same author-circle's [[Womanism Is Misnamed
-Masculinism That Devalues the Feminine|womanism critique]] turned inward and psychologized.
+lead," which would be "chaos."[^2] This is the same author-circle's [[Womanism Is Misnamed Masculinism That Devalues the Feminine|womanism critique]] turned inward and psychologized.
 
 ## Supporting Evidence
 
@@ -63,8 +62,7 @@ right is consistently *peace* (a "crown of peace"): the forces are creative only
 - **"Masculine presides" is doing contested normative work.** Even granting that everyone blends both
   principles, the leap to "the masculine should *preside* over the feminine" (rather than: they should
   be balanced/integrated as equals) is an assertion, not a demonstration — and sits in tension with the
-  presenters' own "balance"/yin-yang language. [[Dan McClellan]]'s point in [[Genesis 3.16 Means Rule
-  Not Preside]] is that the Hebrew of the proof-texts says *rule* (*mashal*), and "preside" is a modern
+  presenters' own "balance"/yin-yang language. [[Dan McClellan]]'s point in [[Genesis 3.16 Means Rule Not Preside]] is that the Hebrew of the proof-texts says *rule* (*mashal*), and "preside" is a modern
   softening; a critic will say "masculine presides within the self" inherits that same baggage.
 - **The actor/"gay marriage" linguistic data is weak evidence** for a metaphysics of gender — generic
   masculine grammar reflects historical patriarchy, which is precisely what is in dispute.

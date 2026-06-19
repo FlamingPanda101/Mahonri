@@ -16,12 +16,12 @@ authority_reason: "Ward Radio episode (host Cardon Ellis) with Quku and Jonah Ba
 
 ## Summary
 - The central thesis: "the word of God" has become a synonym for "true," but the Book of Mormon (like the Bible) is mostly the **descriptive** record of ancient prophets giving their spiritual opinions and channeling what they felt God communicated — not God's direct dictated words (which is closer to the Doctrine and Covenants). See [[The Book of Mormon Is Descriptive Not Prescriptive Word of God]].
-- Applies the lens to the **skin-curse**: the "skin of blackness" is Nephi's hindsight opinion as a jaded old man, which Jacob then partly contradicts ("do not revile against them for the darkness of their skins") — an in-text prophetic debate, not a divine racial decree. See [[The Book of Mormon Skin of Blackness Is Not About Race]].
+- Applies the lens to the **skin-curse**: the "skin of blackness" is Nephi's hindsight opinion as a jaded old man, which Jacob then partly contradicts ("do not revile against them for the darkness of their skins") — an in-text prophetic debate, not a divine racial decree. See [[Book of Mormon Skin of Blackness Is Not About Race]].
 - [[Samuel the Lamanite]] reversing the "curse" onto the Nephites, and Christ commanding the Nephites to add Samuel's words to the record (3 Nephi 23), illustrate the same descriptive, self-correcting character.
 
 ## Concepts
 - [[The Book of Mormon Is Descriptive Not Prescriptive Word of God]] (new)
-- [[The Book of Mormon Skin of Blackness Is Not About Race]] (updated — Nephi-vs-Jacob descriptive framing)
+- [[Book of Mormon Skin of Blackness Is Not About Race]] (updated — Nephi-vs-Jacob descriptive framing)
 - [[A Curse Is a Separation From God Not a Skin Color]]
 - [[The Word of God Is Not Confined to the Written Word]]
 - [[No Verse Calls a Human Writing the Word of God]]

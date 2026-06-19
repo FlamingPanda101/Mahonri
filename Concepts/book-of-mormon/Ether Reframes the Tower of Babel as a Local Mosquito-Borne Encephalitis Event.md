@@ -31,8 +31,7 @@ apologetic payoff: the Book of Mormon's account is *consistent with* historical 
 (which denies a single 2500 BC mother-tongue), whereas a wooden reading of Genesis 11 is not —
 so Ether "clarifies the scope" rather than compounding the problem.[^2]
 
-This is a distinct argument from the vault's [[The Tower Was a Temple Recontextualized From an
-Older Story|tower-as-temple]] thesis: that note reads the tower as *temple* code and the
+This is a distinct argument from the vault's [[The Tower Was a Temple Recontextualized From an Older Story|tower-as-temple]] thesis: that note reads the tower as *temple* code and the
 narrative as recontextualized polemic; Grover's note is a *naturalistic etiology* for the
 confounding itself. The two share only the premise that the Book of Mormon says "the tower,"
 never "the Tower of Babel."

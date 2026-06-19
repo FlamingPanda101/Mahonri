@@ -37,8 +37,7 @@ migration (while explicitly *not* claiming the Lemba are Nephites).
 - **The kicker:** *non-LDS* anthropologists, using the Lemba's own generational reckoning, estimate they
   left Yemen "around the 6th century BC" — independently landing on Lehi's era. The hosts stress this is
   *convergence/plausibility*, defeating the "people couldn't cross oceans" and "origin claims must be
-  fake" objections — not proof. See [[The Lemba Tribe's Semitic DNA and Oral Migration Tradition Parallel
-  Lehi]].[^5]
+  fake" objections — not proof. See [[The Lemba Tribe's Semitic DNA and Oral Migration Tradition Parallel Lehi]].[^5]
 - A running aside compares the Falasha/Beta Israel Jews of Ethiopia (Operation Moses, 1980s) as another
   group of African Jews, and riffs that "this is the way" (2 Nephi 31:21) is "in the Book of Mormon" —
   tying metallurgy and the brass-plates/temple-forge motif to Lehi's milieu.

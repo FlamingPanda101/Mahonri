@@ -38,8 +38,7 @@ epistemology several steps subtler than the standard testimony formula. Three mo
    persuade them, only to be a rational person with reasons. Recovery was the lifelong, "piecemeal"
    project of finding articulable ways to describe what Mormonism means.[^3]
 
-The apologetic value: this dissolves the [[Naturalistic Debunking of Spiritual Experience|"you're
-stupid if you believe"]] frame without overclaiming. Bushman concedes you cannot *prove* religion by
+The apologetic value: this dissolves the [[Naturalistic Debunking of Spiritual Experience|"you're stupid if you believe"]] frame without overclaiming. Bushman concedes you cannot *prove* religion by
 argument — but neither can you *disprove* it, and the new atheists struck him as "shallow," "clever
 and smarty," failing to engage the real human work religion does (suffering, meaning, the yearning to
 be good).[^4]
@@ -59,8 +58,7 @@ A trained physicist-turned-historian, Bushman knows the difference between repea
 empirical knowledge (a rock accelerates at 9.8 m/s²) and personal spiritual conviction. He declines to
 flatten the two: spiritual "evidence will convince *me*," not necessarily another — so honesty requires
 "believe," not "know." This is a *more* careful epistemology than either the apologist's "I know" or
-the skeptic's "you can't know anything."[^1] Compare [[Triangulating Truth - Five Mediums of
-Revelation]] and [[Spiritual Gifts Differ - Not Everyone Receives the Burning]].
+the skeptic's "you can't know anything."[^1] Compare [[Triangulating Truth - Five Mediums of Revelation]] and [[Spiritual Gifts Differ - Not Everyone Receives the Burning]].
 
 ### 3. Pragmatic verification through lived function — rate: moderate (philosophical pedigree)
 The "does it work / functioning God" test has a respectable Jamesian-pragmatist lineage and reframes

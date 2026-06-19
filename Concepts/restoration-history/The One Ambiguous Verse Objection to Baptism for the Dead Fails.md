@@ -69,8 +69,7 @@ Far from "random," Paul deploys baptism for the dead as evidence in an argument 
 resurrection*: "else why are they then baptized for the dead?" The rite is load-bearing in his logic,
 which presupposes it was a known, real practice — consistent with the scholarship in
 [[1 Corinthians 15.29 Points to an Actual Rite of Baptism for the Dead]] and the early-Christian
-attestations in [[Marcionites Practiced Proxy Baptism for the Unbaptized Dead]] and [[Work for the
-Dead Is Attested in Early Christian Material Culture]].[^6]
+attestations in [[Marcionites Practiced Proxy Baptism for the Unbaptized Dead]] and [[Work for the Dead Is Attested in Early Christian Material Culture]].[^6]
 
 ## Steelman of the Opposing View
 

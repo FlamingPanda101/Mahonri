@@ -1,6 +1,10 @@
 ---
 title: "'Without Body, Parts, or Passions' Is a 1530 Protestant Creed, Not Ancient"
+aliases:
+  - "'Without Body, Parts, or Passions' Is a 1530 Protestant Creed, Not Ancient"
 related:
+  - "[[The Head-Chest-Belly Anatomy of the Soul]]"
+  - "[[Thick and Clear Religion - Uniting Head and Belly]]"
   - "[[Embodied God in Christian Scholarship]]"
   - "[[Anthropomorphic God in the Hebrew Bible]]"
   - "[[Divine Impassibility Is Classical-Theist Heresy]]"
@@ -28,6 +32,7 @@ The creedal description of God as "without body, parts, or passions" — one of 
 6. **[[Origen]] (God has no body):** closest to Platonism — those who think God has a body have "a degraded conception of God," since all bodies are "divisible and material and corruptible."[^6]
 7. **Correlation ≠ causation:** the author cautions that philosophy did not simply "corrupt" the Christian idea of God — it parallels *both* the embodied and disembodied readings, and all sides "relied on a careful reading of Christian scripture."[^7] (A nuance against simplistic LDS "Greek corruption" claims; cf. [[David Paulsen]].)
 8. Early *art* depicted the Father, Son, and Spirit "anthropomorphically and corporeally" (e.g., the Arles sarcophagus, c. 325, showing the three creating Adam and Eve).[^8]
+9. **The phrase crystallized in the Reformed confessional tradition.** The exact triad was carried from the 1530 Augsburg Confession into the Thirty-Nine Articles (1563) and the Westminster Confession (1646, 2.1) — confirming its early-modern, *Protestant* provenance. Its denial of trained *passions* and an *embodied* middle of the person runs against [[The Head-Chest-Belly Anatomy of the Soul|C.S. Lewis's anatomy of the soul]] and [[Thick and Clear Religion - Uniting Head and Belly|"thick and clear" religion]], which dignify the embodied person — close to a Latter-day Saint anthropology that refuses to treat body and passion as defects to transcend.
 
 ## Best Quotes
 > "The statement that God is 'without body, parts, or passions' does not appear in Christian creeds until the Lutheran Augsburg Confession (AD 1530) more than a thousand years after the authors and events … discussed in this chapter." [^1]

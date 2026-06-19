@@ -1,5 +1,5 @@
 ---
-aliases: ["Britney", "Britney the Shadow"]
+aliases: ["Britney", "Britney the Shadow", "Britney (the Shadow)"]
 tags: [type/person, tradition/lds, role/commentator, channel/ward-radio]
 ---
 
