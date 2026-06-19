@@ -114,4 +114,4 @@ exactly the kind of lost record the apocrypha is now recovering.
 [^6]: [[Ward Radio - Meet the 7th Century Apocryphal Priest Who Inspired Lehi|Ward Radio - The Apocryphal Priest Who Inspired Lehi]], [20:30]-[24:30], https://youtu.be/ElncLnkBxAw
 
 ---
-See also: [[Concepts]] · [[Jonah Barnes]] · [[Ward Radio - Meet the 7th Century Apocryphal Priest Who Inspired Lehi]] · [[Prophets Were Killed for Preaching the Messiah Before 600 BC]] · [[Jeremiah 35]]
+See also: [[Concepts]] · [[Jonah Barnes]] · [[Rechab]] · [[Ward Radio - Meet the 7th Century Apocryphal Priest Who Inspired Lehi]] · [[Prophets Were Killed for Preaching the Messiah Before 600 BC]] · [[Jeremiah 35]]
