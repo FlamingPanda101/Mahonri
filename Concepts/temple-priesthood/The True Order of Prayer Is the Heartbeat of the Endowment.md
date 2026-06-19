@@ -39,7 +39,7 @@ tags: ["#apologetics/temple", "#tradition/lds", "#type/claim"]
 > "They did not multiply many words, for it was given unto them what they should pray... they receive the word and they give their word and that word becomes unified and they become sanctified in that prayer." [^3]
 
 ## References
-[^1]: [[The Stick of Joseph - The True Order of Prayer and the Brother of Jared|Stick of Joseph - True Order of Prayer]], [00:00]/[31:00], https://youtu.be/nUIUwII8hCU
+[^1]: [[The Stick of Joseph - The True Order of Prayer and the Brother of Jared|Stick of Joseph - True Order of Prayer]], [31:00], https://youtu.be/nUIUwII8hCU
 [^2]: [[The Stick of Joseph - The True Order of Prayer and the Brother of Jared|Stick of Joseph - True Order of Prayer]], [30:00], https://youtu.be/nUIUwII8hCU
 [^3]: [[The Stick of Joseph - The True Order of Prayer and the Brother of Jared|Stick of Joseph - True Order of Prayer]], [79:30], https://youtu.be/nUIUwII8hCU
 [^4]: [[The Stick of Joseph - The True Order of Prayer and the Brother of Jared|Stick of Joseph - True Order of Prayer]], [85:30], https://youtu.be/nUIUwII8hCU

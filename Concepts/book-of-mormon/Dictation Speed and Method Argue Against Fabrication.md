@@ -2,7 +2,7 @@
 title: Dictation Speed and Method Argue Against Fabrication
 scripture: []
 related: ["Stylometry Shows Multiple Authors in the Book of Mormon", "Chiasmus as Evidence of Ancient Authorship in the Book of Mormon"]
-sources: ["Moroni Standard - The Evidence for the Book of Mormon"]
+sources: ["Moroni Standard - The Evidence for the Book of Mormon", "Keystone - What Mark Gagnon Gets Wrong About Joseph Smith"]
 tags: [type/rebuttal, tradition/lds, topic/book-of-mormon, topic/translation, topic/joseph-smith, by/alex-arnold, channel/moroni-standard]
 ---
 #type/rebuttal

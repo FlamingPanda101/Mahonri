@@ -7,6 +7,7 @@ related:
   - "[[Dive Into the Primary Sources Before Repeating the Talking Point]]"
 sources:
   - "[[Keystone - Everything Johnny Harris Gets Wrong About Mormons]]"
+  - "[[Keystone - What Johnny Harris Gets Wrong About Mormons]]"
 tags:
   - "#apologetics/critical-responses"
   - "#tradition/lds"
@@ -32,6 +33,8 @@ Keystone calls this "probably the most egregious error in [Johnny Harris's] enti
 
 4. **The general pattern behind "juicy" Roberts quotes.** When a critic produces a "damning" Roberts quotation, what Roberts is doing is "laying out the argument that can or could be made" and saying "we need to address this" — it is the adversary's brief, not Roberts's verdict. This is why the quotation needs its surrounding context, which Harris omits.[^5] See [[Weigh Sources by Proximity and Multiple Attestation]] and [[Dive Into the Primary Sources Before Repeating the Talking Point]]. *Rating: strong — explains the recurring misuse.*
 
+5. **Harris repeats the error in his third video.** Keystone's response to Harris's "third and final" video flags the identical misuse as "probably the most egregious error in his entire video," again citing Roberts's letter to [[Heber J. Grant]] — "our faith is not only unshaken but unshakable in the Book of Mormon" — to show the public record is "absolutely unambiguous" that Roberts affirmed his faith "until he dies."[^6] *Rating: strong — the same primary-source letter forecloses the same misreading across two separate critic videos.*
+
 ## Supporting Evidence (Steelman of Harris)
 The Roberts material is genuinely double-edged. Roberts did privately judge some problems (e.g., the *View of the Hebrews* parallels, linguistic and population issues) to be serious and unresolved, and his tone in places is more troubled than a mere neutral exercise. A fair critic can argue that "devil's advocate" understates how unsettled Roberts personally was, and that a scholar can both retain belief and quietly concede the apologetic case is weak on specifics. The honest LDS reply is narrower than a blanket dismissal: the *specific* quotation Harris uses is voiced as the adversary's argument, and Roberts's contemporaneous letter forecloses the claim that he "concluded" Joseph fabricated the book — whatever residual worries he carried, he affirmed his faith to the end.
 
@@ -45,6 +48,7 @@ The Roberts material is genuinely double-edged. Roberts did privately judge some
 
 ## References
 - [[Keystone - Everything Johnny Harris Gets Wrong About Mormons]]
+- [[Keystone - What Johnny Harris Gets Wrong About Mormons]]
 - [[B.H. Roberts|B.H. Roberts]]
 - [[Stephen Smoot]]
 - [[The Book of Mormon Keystone Argument]]
@@ -55,3 +59,4 @@ The Roberts material is genuinely double-edged. Roberts did privately judge some
 [^3]: [[Keystone - Everything Johnny Harris Gets Wrong About Mormons|Keystone - Johnny Harris]], [33:00]–[33:31], https://youtu.be/orqjcDB2v0I
 [^4]: [[Keystone - Everything Johnny Harris Gets Wrong About Mormons|Keystone - Johnny Harris]], [33:31]–[34:01], https://youtu.be/orqjcDB2v0I
 [^5]: [[Keystone - Everything Johnny Harris Gets Wrong About Mormons|Keystone - Johnny Harris]], [33:31]–[34:01], https://youtu.be/orqjcDB2v0I
+[^6]: [[Keystone - What Johnny Harris Gets Wrong About Mormons|Keystone - Johnny Harris 3]], [13:00]–[14:30], https://youtu.be/Ekeh151c_Ns

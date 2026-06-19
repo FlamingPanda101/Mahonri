@@ -29,7 +29,7 @@ tags:
 
 ### 2. The ancient temple had entry requirements too
 "Potential patrons of the ancient Israelite temple were expected to be righteous, speak the truth, do right by their neighbor, and to keep their oaths" — and inscriptions around the sanctuary warned that unauthorized entrants "could be killed." Modern recommend questions are mild by comparison.[^3] See [[Gradations of Holiness Structured the Ancient Temple]] and [[Guardians of Sacred Space and the Password Motif]].
-> **Evidence rating:** Moderate–strong — the Israelite "entrance liturgy" (e.g. Psalm 24, Psalm 15) and the Soreg warning inscription are historically attested.
+> **Evidence rating:** Moderate–strong — the Israelite temple "entrance liturgy" and the Soreg warning inscription are historically attested.
 
 ### 3. Coherence, not loyalty, is the point
 "If you're not striving to follow the law of chastity, you probably shouldn't be going to the temple where you promise to follow the law of chastity. If you reject the law of 10% tithing, you probably shouldn't be going to the temple where you promise to be willing to live the law of 100% consecration."[^4] The interview checks that one is not covenanting to a law one rejects — an integrity condition, not a loyalty oath.

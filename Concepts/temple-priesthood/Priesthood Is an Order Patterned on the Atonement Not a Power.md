@@ -9,6 +9,7 @@ related:
   - "[[Magnifying a Calling Means Coming Clean From the Blood and Sins of This Generation]]"
 sources:
   - "[[The Stick of Joseph - The Oath and Covenant of the Priesthood and Its Ties to the Temple]]"
+  - "[[The Stick of Joseph - The SECRET to Living the Temple Endowment Every Day]]"
 tags: ["#apologetics/priesthood", "#tradition/lds", "#type/claim"]
 #type/claim
 ---
@@ -30,6 +31,8 @@ tags: ["#apologetics/priesthood", "#tradition/lds", "#type/claim"]
 
 4. **The "secular orders" analogy is illustrative, not probative.** The Marine-crucible and PhD parallels are vivid teaching analogies for "what an order is" (initiation, earned insignia, identifying dress, a new name/rank). They argue persuasively that *humans naturally form ordered, initiatory hierarchies*; they do not, by themselves, prove those hierarchies descend from a divine archetype. *Rating: rhetorically strong, evidentially modest — and McLauchlin presents it as a musing.*
 
+5. **The "order" frame recurs in the endowment context.** In a later discussion of *living* the endowment, [[Todd McLauchlin]] restates the thesis — "priesthood is an order, an order is a pattern, and when we fulfill the pattern we fulfill the order" — and extends it: confusing the *ordinance* with the reality it patterns turns the ordinance into a "false idol," because the pattern is meant to be *embodied* daily (the initiatory as a repeatable order of operations). See [[The Initiatory Is a Daily Order of Operations for Drawing Down Grace]]. *Rating: consistent restatement; the "false idol" caution is a useful corollary.* [^6]
+
 **Steelman of the skeptical counter.** A critic grants the "order" vocabulary but reverses the inference: that the Marine Corps, academia, and the military share initiation, ranks, robes, and oaths with the temple shows only that *all human institutions converge on the same social technology* of in-group formation — costly initiation signals commitment, uniforms encode status, secret tokens police membership. The resemblance is explained by social psychology, not by a pattern "in our DNA" seeded from the order of the Son of God; finding the structure everywhere is exactly what we'd expect if it is *generic to human grouping*. McLauchlin's "in our DNA" is asserted, not argued, and he flags much of this as a real-time epiphany. A measured reply: the LDS claim is not that the resemblance *proves* a divine origin but that, *given* the restored doctrine of an eternal order, its ubiquitous shadow in human institutions is a fitting corroboration — and the specifically *atonement-shaped* core (authority earned through self-sacrifice and "binding all things into one," not merely through ritual) is what distinguishes the holy order from its secular echoes, which "all have an upper end."
 
 ## Best Quotes
@@ -47,6 +50,7 @@ tags: ["#apologetics/priesthood", "#tradition/lds", "#type/claim"]
 [^3]: [[The Stick of Joseph - The Oath and Covenant of the Priesthood and Its Ties to the Temple|Stick of Joseph - Oath & Covenant of the Priesthood]], [26:02], https://youtu.be/fZmLnbgD8MM
 [^4]: [[The Stick of Joseph - The Oath and Covenant of the Priesthood and Its Ties to the Temple|Stick of Joseph - Oath & Covenant of the Priesthood]], [18:30], https://youtu.be/fZmLnbgD8MM
 [^5]: [[The Stick of Joseph - The Oath and Covenant of the Priesthood and Its Ties to the Temple|Stick of Joseph - Oath & Covenant of the Priesthood]], [22:01], https://youtu.be/fZmLnbgD8MM
+[^6]: [[The Stick of Joseph - The SECRET to Living the Temple Endowment Every Day|Stick of Joseph - Living the Endowment Every Day]], [06:00], https://youtu.be/I2AX7Mfs4Zs
 
 ---
-See also: [[Concepts]] · [[D&C 107]] · [[Todd McLauchlin]] · [[The Aaronic-Melchizedek Dualism Maps the Temple's Kings and Priests]]
+See also: [[Concepts]] · [[D&C 107]] · [[Todd McLauchlin]] · [[The Stick of Joseph - The SECRET to Living the Temple Endowment Every Day]] · [[The Aaronic-Melchizedek Dualism Maps the Temple's Kings and Priests]]

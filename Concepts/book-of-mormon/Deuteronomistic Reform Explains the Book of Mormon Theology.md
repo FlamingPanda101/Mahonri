@@ -1,7 +1,7 @@
 ---
 title: Deuteronomistic Reform Explains the Book of Mormon Theology
 scripture: ["1 Nephi 1:8-19", "2 Kings 22-23"]
-related: ["Brass Plates Bypassed the Textual Corruption Chain", "Unconscious Absorption Cannot Explain Suppressed Content"]
+related: ["Brass Plates Bypassed the Textual Corruption Chain", "Unconscious Absorption Cannot Explain Suppressed Content", "Deuteronomistic Corruption of the Old Testament", "The Synagogue Predates Lehi in the Deuteronomic Reform", "The Kemarim Were the Melchizedek Priests Josiah Purged"]
 sources: ["Moroni Standard - The Evidence for the Book of Mormon"]
 tags: [type/rebuttal, tradition/lds, topic/book-of-mormon, topic/deuteronomistic-reform, topic/divine-council, topic/josiah, by/alex-arnold, channel/moroni-standard]
 ---

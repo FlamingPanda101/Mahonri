@@ -2,7 +2,7 @@
 title: "Joseph Smith Treasure Hunting Extent"
 scripture: []
 related: ["[[Treasure Hunting as Historical Cultural Practice]]", "[[Convicted Con Man Label Overclaim]]", "[[Source Criticism in Mormon History]]"]
-sources: ["[[The Holy Rebellion - The Problem With Calling Joseph Smith a Con Man]]"]
+sources: ["[[The Holy Rebellion - The Problem With Calling Joseph Smith a Con Man]]", "[[Keystone - What Mark Gagnon Gets Wrong About Joseph Smith]]"]
 tags:
   - "#topic/treasure-hunting"
   - "#tradition/lds"
@@ -28,6 +28,8 @@ tags:
 
 5. **The lacrosse analogy (interpretive).** Mark frames treasure hunting's cultural prevalence as "like lacrosse" — real, around you, occasionally encountered, but not as ubiquitous as basketball or soccer.[^8] This calibrates "common" against critics who imply it was universal *and* against apologists who might imply it was vanishingly rare.
 
+6. **It was a side gig, not the family's primary income.** In a separate response, [[Keystone - What Mark Gagnon Gets Wrong About Joseph Smith|Keystone]] rebuts Mark Gagnon's claim that the Smiths moved *away from farming* until treasure-hunting became "their primary source of income." The Smiths "were primarily farmers" who "built their farm in Palmyra from pretty much nothing," hiring out as day laborers (treasure-seeking being "one of those side gigs"). [[Lucy Mack Smith]]'s memoir denies the maximalist picture directly: "let not my reader suppose that... we stopped our labor and went at trying to win the faculty of Abrac, drawing magic circles, or soothsaying to the neglect of all kinds of business. We never during our lives suffered one important interest to swallow up every other obligation."[^9] *Evidence rating: strong — a first-person family source rebutting the "primary income" framing.*
+
 ## Best Quotes
 
 > "In serious scholarly Mormon history, that's not a huge issue whether or not he hunted for treasure ... there is kind of a lively debate over the years and decades of how much he was involved in treasure hunting."[^1]
@@ -38,7 +40,9 @@ tags:
 
 ## References
 - [[The Holy Rebellion - The Problem With Calling Joseph Smith a Con Man]]
+- [[Keystone - What Mark Gagnon Gets Wrong About Joseph Smith]]
 - [[Joseph Smith]]
+- [[Lucy Mack Smith]]
 - [[Dan Vogel]]
 - [[Josiah Stowell]]
 - [[Martin Harris]]
@@ -52,3 +56,4 @@ tags:
 [^6]: [[The Holy Rebellion - The Problem With Calling Joseph Smith a Con Man|The Holy Rebellion - The Problem With Calling Joseph Smith a Con Man]], [34:02]–[34:30], https://youtu.be/ePeZwR5rsQc
 [^7]: [[The Holy Rebellion - The Problem With Calling Joseph Smith a Con Man|The Holy Rebellion - The Problem With Calling Joseph Smith a Con Man]], [35:31]–[36:01], https://youtu.be/ePeZwR5rsQc
 [^8]: [[The Holy Rebellion - The Problem With Calling Joseph Smith a Con Man|The Holy Rebellion - The Problem With Calling Joseph Smith a Con Man]], [34:30]–[35:31], https://youtu.be/ePeZwR5rsQc
+[^9]: [[Keystone - What Mark Gagnon Gets Wrong About Joseph Smith|Keystone - Mark Gagnon]], [04:30]–[05:30], https://youtu.be/ate9YSoexMs

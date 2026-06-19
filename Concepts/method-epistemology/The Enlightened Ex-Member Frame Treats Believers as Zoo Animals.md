@@ -7,6 +7,7 @@ related:
   - "[[High-Stakes Faith Conversations Matter More Than the Belief]]"
 sources:
   - "[[Keystone - Everything Johnny Harris Gets Wrong About Mormons]]"
+  - "[[Keystone - What Johnny Harris Gets Wrong About Mormons]]"
 tags:
   - "#apologetics/critical-responses"
   - "#tradition/lds"
@@ -32,6 +33,8 @@ Keystone's broadest critique of Johnny Harris is not about a fact but about **fr
 
 4. **The pastoral corrective (President Nelson).** Against the enlightened-vs-benighted frame, Keystone cites Russell M. Nelson: if loved ones step away, "continue to love them. It is not for you to judge another's choice any more than you deserve to be criticized for staying faithful."[^5] See [[High-Stakes Faith Conversations Matter More Than the Belief]]. *Rating: strong — replaces the spectacle frame with a relational one.*
 
+5. **The same critique recurs for Harris's third video.** In a later episode responding to Harris's "third and final" video, [[Keystone - What Johnny Harris Gets Wrong About Mormons|Keystone repeats the framing critique]] almost verbatim: the video "indirectly treats believing Latter-day Saints a bit like zoo animals, a spectacle to be observed rather than real people to be understood," again conceding it is "a two-way street" and quoting President Nelson's counsel to keep loving those who leave.[^6] *Rating: strong — independent restatement across two episodes shows the critique targets a persistent posture, not a single clip.*
+
 ## Supporting Evidence (Steelman of Harris)
 The charge is admittedly subjective — Keystone says so twice ("I'm sure that's somewhat subjective"; those who come off this way "are probably doing it by accident"). A defender of Harris can reasonably reply that conveying one's lived experience of leaving necessarily involves emotional framing, that Harris explicitly affirms his old faith was "comforting," "motivating," and "beautiful" rather than mocking it, and that an ex-member is entitled to find the tradition genuinely harmful without thereby treating believers as zoo animals. The strongest form of Keystone's point is therefore narrow: not that Harris intends contempt, but that affect-engineering can do persuasive work that the facts alone would not, and that a documentary *about* a people should let them be "understood" rather than "observed."
 
@@ -45,6 +48,7 @@ The charge is admittedly subjective — Keystone says so twice ("I'm sure that's
 
 ## References
 - [[Keystone - Everything Johnny Harris Gets Wrong About Mormons]]
+- [[Keystone - What Johnny Harris Gets Wrong About Mormons]]
 - [[Johnny Harris]]
 - [[Russell M. Nelson]]
 - [[The Critics' Manipulation Tactics and Logical Fallacies Toolkit]]
@@ -55,3 +59,4 @@ The charge is admittedly subjective — Keystone says so twice ("I'm sure that's
 [^3]: [[Keystone - Everything Johnny Harris Gets Wrong About Mormons|Keystone - Johnny Harris]], [02:30]–[03:00], https://youtu.be/orqjcDB2v0I
 [^4]: [[Keystone - Everything Johnny Harris Gets Wrong About Mormons|Keystone - Johnny Harris]], [21:32]–[22:00], https://youtu.be/orqjcDB2v0I
 [^5]: [[Keystone - Everything Johnny Harris Gets Wrong About Mormons|Keystone - Johnny Harris]], [21:32]–[22:00], https://youtu.be/orqjcDB2v0I
+[^6]: [[Keystone - What Johnny Harris Gets Wrong About Mormons|Keystone - Johnny Harris 3]], [01:30], https://youtu.be/Ekeh151c_Ns

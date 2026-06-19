@@ -15,10 +15,13 @@ Harris is the foil for [[Keystone - Everything Johnny Harris Gets Wrong About Mo
 
 Keystone's running critique is less about flat factual error than about [[The Enlightened Ex-Member Frame Treats Believers as Zoo Animals|presentation and framing]] — Harris's animation, music, and word choices are designed to make the viewer "feel the way he wants you to feel" rather than to mislead on the facts.[^2]
 
+Harris's "third and final" video drew a separate response, [[Keystone - What Johnny Harris Gets Wrong About Mormons]], which answers his "control" thesis with [[Movements Must Institutionalize to Survive Their Charismatic Founder|Max Weber's routinization of charisma]], defends the [[The Temple Recommend Interview Is a Reasonable Entry Standard Not Sinister Control|temple-recommend interview]] and the [[Principle-Based Youth Standards Replaced Rule-Based Ones|principle-based youth standards]], and again rebuts the same B.H. Roberts misattribution.[^3]
+
 ## References
 
 [^1]: [[Keystone - Everything Johnny Harris Gets Wrong About Mormons|Keystone - Johnny Harris]], [00:00], https://youtu.be/orqjcDB2v0I
 [^2]: [[Keystone - Everything Johnny Harris Gets Wrong About Mormons|Keystone - Johnny Harris]], [22:00]–[22:30], https://youtu.be/orqjcDB2v0I
+[^3]: [[Keystone - What Johnny Harris Gets Wrong About Mormons|Keystone - Johnny Harris 3]], [00:00], https://youtu.be/Ekeh151c_Ns
 
 ---
 See also: [[People]] · [[Authority Ledger]]
