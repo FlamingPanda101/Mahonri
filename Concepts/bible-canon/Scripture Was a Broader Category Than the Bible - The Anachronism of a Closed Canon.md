@@ -10,6 +10,7 @@ scripture:
   - "[[Jude 1.14-15|Jude 1:14-15]]"
 sources:
   - "[[Dan McClellan - Responding to Wes Huff on the Biblical Canon]]"
+  - "[[Dan McClellan - Seeing the Old Testament Clearly (Dialogue Gospel Study)]]"
 tags: ["#apologetics/canon", "#tradition/academic-biblical-studies", "#type/claim"]
 ---
 
@@ -41,6 +42,9 @@ If "scripture" was a broader, open category before the 4th century and the close
 
 > "The fact that no one ever referred to any such delineated collection of texts as the Bible at any point prior to the 4th century CE does kind of suggest that... you need to provide data or evidence to support that."[^3]
 
+## Second Voice — Dialogue Gospel Study (2026)
+In his *Dialogue Gospel Study* session, [[Dan McClellan]] restates the point bluntly for a Latter-day Saint audience: the idea of "a closed canon dictated by God" is **false**, and the canon is **entirely post-biblical** (per the session summary).[^8] He grounds it in the manuscript record — the base text is the Leningrad Codex (~1008 CE), supplemented by the Dead Sea Scrolls (~250 BCE–60 CE) and the Septuagint (~250 BCE) — so there is no early, divinely fixed list, only later editorial bounding (see [[The Manuscript Question Determines Your Bible]] and the differently-bounded canons in [[The Hebrew Bible and the Christian Old Testament Are Not the Same Book]]).
+
 ## References
 [^1]: [[Dan McClellan - Responding to Wes Huff on the Biblical Canon|McClellan - Canon vs Wes Huff]], [15:30], https://youtu.be/iU7hKviVFw8
 [^2]: [[Dan McClellan - Responding to Wes Huff on the Biblical Canon|McClellan - Canon vs Wes Huff]], [05:30], https://youtu.be/iU7hKviVFw8
@@ -49,6 +53,7 @@ If "scripture" was a broader, open category before the 4th century and the close
 [^5]: [[Dan McClellan - Responding to Wes Huff on the Biblical Canon|McClellan - Canon vs Wes Huff]], [05:30], https://youtu.be/iU7hKviVFw8
 [^6]: [[Dan McClellan - Responding to Wes Huff on the Biblical Canon|McClellan - Canon vs Wes Huff]], [04:01], https://youtu.be/iU7hKviVFw8
 [^7]: [[Dan McClellan - Responding to Wes Huff on the Biblical Canon|McClellan - Canon vs Wes Huff]], [03:31], https://youtu.be/iU7hKviVFw8
+[^8]: [[Dan McClellan - Seeing the Old Testament Clearly (Dialogue Gospel Study)|Dan McClellan - Seeing the Old Testament Clearly]], https://youtu.be/FpF9o0-8ZKk
 
 ---
 See also: [[Concepts]] · [[Dan McClellan]] · [[Book of Enoch - Quoted as Scripture in Jude]] · [[Dan McClellan - Responding to Wes Huff on the Biblical Canon]]

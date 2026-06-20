@@ -6,6 +6,7 @@ related:
   - "[[The Practical Problem of Evil - Joseph Smith at Liberty Jail]]"
 sources:
   - "[[Data Over Dogma - Is Hell Actually in the Bible|Data Over Dogma - Hell]]"
+  - "[[Dan McClellan - Seeing the Old Testament Clearly (Dialogue Gospel Study)]]"
 tags: ["#apologetics/hell", "#tradition/academic-biblical-studies", "#type/claim"]
 #type/claim
 ---
@@ -34,6 +35,10 @@ This emerging punishment is not yet the single doctrine of hell. The same milieu
 
 McClellan explicitly reaches for the Latter-day Saint "eternal perspective" to illustrate the move. The LDS tradition fully affirms that justice is completed beyond the grave — but *without* the eternal-conscious-torment payload: post-mortal states are graded and largely remedial (D&C 76), and even the suffering of the wicked is, for most, finite. Reading divine afterlife-punishment as a historically-conditioned theodicy that "begins unsystematized" reinforces the LDS claim that no single eternal-hell doctrine is fixed in scripture (compare [[Latter-day Saints Do Affirm Hell - DC 76 and DC 18]], [[LDS Progression Model vs Binary Heaven and Hell]]). It also resonates with the restored framing of unjust suffering — Joseph Smith at Liberty Jail told that his afflictions "shall be but a small moment" (D&C 121:7) — locating ultimate justice in God's hands and timeline rather than in a torture chamber (compare [[The Practical Problem of Evil - Joseph Smith at Liberty Jail]]).
 
+## Second Voice — Dialogue Gospel Study (2026)
+
+In his *Dialogue Gospel Study* session, [[Dan McClellan]] retells the same developmental arc to a Latter-day Saint audience (per the session summary): originally bad things happened *because you sinned*, but once righteous Jews were oppressed by foreign empires (Babylon, Persia, Greece, Rome) that retribution model broke down — **Job and [[Ecclesiastes]] wrestle with why bad things happen to good people** — so Greco-Roman-period Jewish thinkers **invented post-mortem reward and punishment to balance the cosmic scales**. He notes the three competing frameworks (annihilationism, temporary conscious torment, eternal torment) emerged in **non-canonical texts (e.g. [[1 Enoch]])** and seeped into later biblical texts.[^7] The same crisis dated the apocalyptic that carried this imagery — see [[The Book of Daniel Was Written in the Second Century BCE]].
+
 ## Best Quotes
 
 > "The concept of divine punishment in the afterlife is rooted in some sense in fantasizing about the incredibly wicked and evil and powerful people of the world getting their just deserts, if not in this life then in the life to come." [^1]
@@ -48,6 +53,7 @@ McClellan explicitly reaches for the Latter-day Saint "eternal perspective" to i
 [^4]: [[Data Over Dogma - Is Hell Actually in the Bible|Data Over Dogma - Hell]], [15:30]-[16:00], https://youtu.be/TXksqIiBUns
 [^5]: [[Data Over Dogma - Is Hell Actually in the Bible|Data Over Dogma - Hell]], [16:00]-[17:01], https://youtu.be/TXksqIiBUns
 [^6]: [[Data Over Dogma - Is Hell Actually in the Bible|Data Over Dogma - Hell]], [26:32]-[28:32], https://youtu.be/TXksqIiBUns
+[^7]: [[Dan McClellan - Seeing the Old Testament Clearly (Dialogue Gospel Study)|Dan McClellan - Seeing the Old Testament Clearly]], https://youtu.be/FpF9o0-8ZKk
 
 ---
 See also: [[Concepts]] · [[Sheol Was the Undifferentiated Realm of All the Dead]] · [[Data Over Dogma - Is Hell Actually in the Bible]]

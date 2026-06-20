@@ -6,6 +6,7 @@ related:
   - "[[Matthew 1.23|Matthew 1:23]]"
 sources:
   - "[[Data Over Dogma - Prophecies Nativity and Sorry Apologetics]]"
+  - "[[Dan McClellan - Seeing the Old Testament Clearly (Dialogue Gospel Study)]]"
 tags: [apologetics, prophecy, virgin-birth, tradition/evangelical, tradition/academic-critical]
 #type/claim
 ---
@@ -58,6 +59,10 @@ Matthew's author, working with the Septuagint's _parthenos_ rendering, "wrenched
 - Some argue Matthew's midrashic approach would have been understood as creative interpretation, not literal fulfillment. McClellan acknowledges Matthew follows "dynamic interpretive hermeneutic practice" but says the modern apologetic claim is that "this is absolutely historical."[^9]
 - See also [[Virgin Birth Is a Later Development in the Jesus Tradition]].
 
+## Second Voice — Dialogue Gospel Study (2026)
+
+In his *Dialogue Gospel Study* session, [[Dan McClellan]] makes the same case in a Latter-day Saint setting and uses it as the **flagship example of translation bias**: Christian translations render *almah* as "a virgin will conceive," but the Hebrew means "young woman" and the verb form indicates she is **already pregnant**, so the oracle is a timeline to King [[King Ahaz|Ahaz]] — by the time the already-pregnant young woman gives birth and the child is old enough to know right from wrong, the rival northern kingdom will be destroyed (per the session summary).[^10] He frames this within the larger claim that the Christian Old Testament is systematically shaped to support Christian theology — see [[The Hebrew Bible and the Christian Old Testament Are Not the Same Book]].
+
 ## References
 
 [^1]: [[Data Over Dogma - Prophecies Nativity and Sorry Apologetics|Data Over Dogma — Prophecies, Nativity, and Sorry Apologetics]], [03:00]-[03:30], https://youtu.be/VEfI1TgWVHY
@@ -69,3 +74,4 @@ Matthew's author, working with the Septuagint's _parthenos_ rendering, "wrenched
 [^7]: [[Data Over Dogma - Prophecies Nativity and Sorry Apologetics|Data Over Dogma — Prophecies, Nativity, and Sorry Apologetics]], [12:31]-[13:00], https://youtu.be/VEfI1TgWVHY
 [^8]: [[Data Over Dogma - Prophecies Nativity and Sorry Apologetics|Data Over Dogma — Prophecies, Nativity, and Sorry Apologetics]], [16:30]-[17:02], https://youtu.be/VEfI1TgWVHY
 [^9]: [[Data Over Dogma - Prophecies Nativity and Sorry Apologetics|Data Over Dogma — Prophecies, Nativity, and Sorry Apologetics]], [18:31]-[21:30], https://youtu.be/VEfI1TgWVHY
+[^10]: [[Dan McClellan - Seeing the Old Testament Clearly (Dialogue Gospel Study)|Dan McClellan - Seeing the Old Testament Clearly]], https://youtu.be/FpF9o0-8ZKk

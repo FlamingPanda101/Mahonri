@@ -82,8 +82,17 @@ See [[The Four Constellations of Deification Belief]], [[Patristic Theosis Was W
 
 Responding to apologist [[The Word Room]]'s defense of the unity of the two creation accounts, McClellan argues the "zoom-in" harmonization fails: *eretz* defaults to "earth" without localizing markers (see [[Eretz Defaults to Earth Without Contextual Markers]]); "every bird of the sky" in Genesis 2:19 cannot be localized to Eden and contradicts day five (see [[Every Bird of the Sky Contradicts Day Five]], [[Wayyiqtol Cannot Be Pluperfect Without Close Literary Context]]); and the *toledot* formula plus the 2:4 chiasm are redactional stitching, not unity, per five recent commentaries by [[David Peterson]], [[Ron Hendel]], [[Jan Christian Gertz]], [[David Carr]], and [[Bill Arnold]] (see [[Toledot Formula Is a Redactional Bridge Not a Summary]], [[The Genesis 2-4 Chiasm Indicates Stitching Not Single Authorship]], [[Source Criticism Is Not Reducible to the Documentary Hypothesis]], [[Apologists Engage Pre-Digested Caricatures of Critical Scholarship]]).
 
+## Seeing the Old Testament Clearly (Dialogue Gospel Study)
+
+In a January 2026 *Dialogue Gospel Study* session hosted by [[Christian Kimball]], McClellan coaches a Latter-day Saint audience on reading the Hebrew Bible with academic honesty. He commends the Jewish framing of scripture as an "invitation to wrestle" ("holy envy") and presses his recurring thesis to **stop forcing the Bible to be univocal**. Distinctive contributions of this session: that the Tanakh and the Christian Old Testament are differently ordered and translated objects ([[The Hebrew Bible and the Christian Old Testament Are Not the Same Book]]), that the oldest biblical material is embedded archaic poetry ([[The Oldest Biblical Texts Are Archaic Poems Embedded in Later Narrative]]), and the 2nd-century-BCE dating of Daniel ([[The Book of Daniel Was Written in the Second Century BCE]]). The session also restates, in an LDS setting, his positions on [[Isaiah 7.14 Virgin Birth Prophecy Is Mistranslated|Isaiah 7:14]], the [[Scripture Was a Broader Category Than the Bible - The Anachronism of a Closed Canon|post-biblical canon]], the [[Deuteronomists Rewrote the Histories of Israel|victors' edition of Israel's history]], and the [[Divine Punishment in the Afterlife Emerged as Theodicy Under Imperial Oppression|afterlife as theodicy]].
+
+> Note: this source was ingested from a detailed viewer summary; the video has no captions, so its claims are attributed to the session without verse-level locators or timestamps.
+
+See source note [[Dan McClellan - Seeing the Old Testament Clearly (Dialogue Gospel Study)]].
+
 ## Key Sources
 
+- [[Dan McClellan - Seeing the Old Testament Clearly (Dialogue Gospel Study)]] (Dialogue Gospel Study, 2026)
 - [[Dan McClellan - The Word Room Genesis 1 and 2 Response]] (YouTube, 2026)
 - [[Dan McClellan - Wes Huff Creation Ex Nihilo Response]] (YouTube, 2025)
 - [[Dan McClellan - Apologetics Cannot Rescue Biblical Contradictions]] (YouTube)

@@ -7,6 +7,7 @@ related:
   - "[[The Surviving Old Testament Is the Southern Kingdom's Edition]]"
 sources:
   - "[[The Stick of Joseph - Margaret Barker on the School of Isaiah and the Temple]]"
+  - "[[Dan McClellan - Seeing the Old Testament Clearly (Dialogue Gospel Study)]]"
 tags: [apologetics, deuteronomism, first-temple, topic/deuteronomistic-reform, topic/first-temple, type/claim]
 ---
 
@@ -30,6 +31,9 @@ tags: [apologetics, deuteronomism, first-temple, topic/deuteronomistic-reform, t
 
 > "The people that the old believers called the apostate generation are the people who compiled many of the books of the Old Testament, particularly the history books. So we've only got the history as they wanted it told."[^4]
 
+## Second Voice — McClellan, Dialogue Gospel Study (2026)
+[[Dan McClellan]] gives the non-confessional, academic version of "history rewritten by the victors" (per the session summary), with a sharper geopolitical frame than Barker's. When Assyria destroyed the **Northern Kingdom in 722 BCE**, the Southern Kingdom of **Judah survived and appropriated** the literature, traditions, and even the **name "Israel"** from the fallen north. Southern scribes then composed the **Deuteronomistic History** (Joshua, Judges, Samuel, Kings), framing the north as wicked/apostate and the southern kings [[Hezekiah]] and [[Josiah]] as righteous restorers.[^5] On McClellan's reading, [[Josiah]]'s famous "discovery" of the Book of the Law (early Deuteronomy) in the temple was **largely a rhetorical tool** to justify a massive campaign of **cult centralization** — funneling all wealth and worship through Jerusalem, violently wiping out competing local temples (e.g. Arad), ancestor worship, and the widespread worship of [[No Pre-Josiah Text Vilifies Asherah|Asherah]] ("traditionally viewed as God's wife").[^5] Where Barker reads the purge as the loss of a true first-temple cult, McClellan reads it as **ordinary political-religious consolidation**; the two converge on the *fact* of a victor's edition while diverging on its theological valuation (see [[The Hebrew Bible and the Christian Old Testament Are Not the Same Book]] for the resulting "Israel"-named, southern-shaped canon).
+
 ## LDS Connection
 This is the historical engine behind the Book of Mormon's "plain and precious things" removed, and the vault's existing notes on the reform: [[Hezekiah Josiah and the Deuteronomist Reforms]], [[Josiah's Reform Removed the Mother from the Temple]], [[Deuteronomistic Reform Explains the Book of Mormon Theology]]. If the surviving histories are the reformers' edition, then [[Lehi]] — a contemporary of Josiah driven out for prophesying a Messiah — preserved the older tradition the reformers suppressed. See also [[The Surviving Old Testament Is the Southern Kingdom's Edition]].
 
@@ -38,6 +42,7 @@ This is the historical engine behind the Book of Mormon's "plain and precious th
 [^2]: [[The Stick of Joseph - Margaret Barker on the School of Isaiah and the Temple|Barker - School of Isaiah & the Temple]], [10:30], https://youtu.be/PjuTrmCd2hY
 [^3]: [[The Stick of Joseph - Margaret Barker on the School of Isaiah and the Temple|Barker - School of Isaiah & the Temple]], [13:00], https://youtu.be/PjuTrmCd2hY
 [^4]: [[The Stick of Joseph - Margaret Barker on the School of Isaiah and the Temple|Barker - School of Isaiah & the Temple]], [14:30], https://youtu.be/PjuTrmCd2hY
+[^5]: [[Dan McClellan - Seeing the Old Testament Clearly (Dialogue Gospel Study)|Dan McClellan - Seeing the Old Testament Clearly]], https://youtu.be/FpF9o0-8ZKk
 
 ---
-See also: [[Concepts]] · [[Margaret Barker]] · [[The Stick of Joseph - Margaret Barker on the School of Isaiah and the Temple]]
+See also: [[Concepts]] · [[Margaret Barker]] · [[Dan McClellan]] · [[The Stick of Joseph - Margaret Barker on the School of Isaiah and the Temple]]

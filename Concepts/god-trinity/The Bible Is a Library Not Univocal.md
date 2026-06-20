@@ -7,7 +7,8 @@ related:
   - "[[Subordinationism Was the Early Church View]]"
 sources:
   - "[[Lets Talk - Apologetics Course How to Talk to Protestants and Evangelicals]]"
-tags: [apologetics, canon, hermeneutics, trinity, tradition/lds]
+  - "[[Dan McClellan - Seeing the Old Testament Clearly (Dialogue Gospel Study)]]"
+tags: [apologetics, canon, hermeneutics, trinity, tradition/lds, tradition/academic-biblical-studies]
 #type/rebuttal
 ---
 
@@ -34,6 +35,9 @@ Carroll notes Protestants defending the Trinity "jump from Old Testament to New 
 
 > "Most likely they're going to go to a bunch of different books and say if you add all these together, this is the Trinity. And it's like, where did God say that?"[^3]
 
+## Second Voice — McClellan, Dialogue Gospel Study (2026)
+The vault's primary voice here is [[Hayden Carroll]]; [[Dan McClellan]] supplies the same thesis from the academic-critical side. In his *Dialogue Gospel Study* session he urges Christian communities to **stop forcing the Bible to be "univocal"** — one single non-contradictory voice — and instead let texts operate on their own historical and cultural terms, borrowing the Jewish framing of scripture as an "invitation to wrestle" ("holy envy"), per the session summary.[^7] His sharpest application: the Bible contains genuinely **problematic, immoral narratives** (e.g. God commanding the Canaanite genocides), and we "do violence to the text — and to our own morality — when we force the Bible to be a flawless singular voice of God rather than a historical record of ancient people wrestling with their understanding of the divine."[^7] McClellan's version is broader than Carroll's anti-Trinity application: it targets univocality as a reading strategy across the whole canon (cf. [[Univocality Forces Centering Aligned Texts and Marginalizing the Rest]], [[Pan-Canonical Univocality Is Invalid Interpretation]]).
+
 ## References
 [^1]: [[Lets Talk - Apologetics Course How to Talk to Protestants and Evangelicals|Apologetics Course]], [71:30]–[72:00], https://youtu.be/L-lxxWjN8D4
 [^2]: [[Lets Talk - Apologetics Course How to Talk to Protestants and Evangelicals|Apologetics Course]], [72:00]–[72:30], https://youtu.be/L-lxxWjN8D4
@@ -41,6 +45,7 @@ Carroll notes Protestants defending the Trinity "jump from Old Testament to New 
 [^4]: [[Lets Talk - Apologetics Course How to Talk to Protestants and Evangelicals|Apologetics Course]], [71:30]–[72:00], https://youtu.be/L-lxxWjN8D4
 [^5]: [[Lets Talk - Apologetics Course How to Talk to Protestants and Evangelicals|Apologetics Course]], [72:00]–[72:30], https://youtu.be/L-lxxWjN8D4
 [^6]: [[Lets Talk - Apologetics Course How to Talk to Protestants and Evangelicals|Apologetics Course]], [71:30]–[72:00], https://youtu.be/L-lxxWjN8D4
+[^7]: [[Dan McClellan - Seeing the Old Testament Clearly (Dialogue Gospel Study)|Dan McClellan - Seeing the Old Testament Clearly]], https://youtu.be/FpF9o0-8ZKk
 
 ---
 See also: [[Concepts]] · [[Trinity Was Constructed Not Revealed]] · [[Lets Talk - Apologetics Course How to Talk to Protestants and Evangelicals]]
