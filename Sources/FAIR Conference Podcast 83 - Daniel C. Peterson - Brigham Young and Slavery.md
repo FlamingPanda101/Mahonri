@@ -58,3 +58,5 @@ Peterson responds to the charge — which he says he once "accepted uncritically
 
 ---
 See also: [[Concepts]] · [[Daniel C. Peterson]] · [[Brigham Young]] · [[Utah 1852 Act Was Servitude Not Slavery]]
+
+*Also uploaded as https://youtu.be/ADEajUFCVCk (FAIR re-upload of the same talk).*

@@ -10,6 +10,7 @@ related:
   - "[[King Follett Discourse]]"
 sources:
   - "[[Benjamin Park - Did Joseph Smith Teach Men Can Become God]]"
+  - "[[Benjamin Park - New LDS Page Reveals Shocking Polygamy Details]]"
 ---
 
 # Benjamin Park

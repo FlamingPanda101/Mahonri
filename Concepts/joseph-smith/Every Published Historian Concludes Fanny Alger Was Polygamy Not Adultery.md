@@ -4,8 +4,10 @@ related:
   - "[[The Oliver Cowdery Affair Letter Actually Says Scrape Not Affair]]"
   - "[[Joseph Smith Privately Admitted Polygamy to the High Council]]"
   - "[[The Confidentiality Model Best Fits the Polygamy Evidence]]"
+  - "[[The Early-1830s Dating of D&C 132 Is Historically Unsustainable]]"
 sources:
   - "[[Ward Radio - Debunking Joseph Smiths Fake Affair with Fanny Alger feat Don Bradley]]"
+  - "[[Benjamin Park - New LDS Page Reveals Shocking Polygamy Details]]"
 tags: [apologetics, joseph-smith, polygamy, fanny-alger, tradition/lds]
 #type/claim
 ---
@@ -38,6 +40,10 @@ Mrs. Webb (Eliza Jane Webb's family) is the one person who reports that Fanny *h
 
 Expert consensus is evidence, not proof, and the critic has replies. (a) Scholarly agreement can reflect a shared *framework* (all are working within "Joseph practiced early polygamy") rather than independent confirmation; the question "marriage or adultery?" may be less settled at the *evidentiary* level than the head-count implies. (b) "Polygamy" in these historians' usage can still mean a *self-performed, undocumented, sexual* union that a skeptic would regard as functionally indistinguishable from the adultery being denied — so labeling it "plural marriage" does not by itself rescue the moral picture (Bradley and Galey both concede "either way it doesn't look great"). (c) Vogel's calling it polygamy is *consistent with* his pious-fraud thesis — he can grant the category while denying the divine sanction — so his agreement does not vindicate Joseph's *prophethood*, only the historical *classification*. (d) The Webb testimony is one report of a confidence, hedged ("something similar"). So the strong and fair claim is taxonomic: the scholarship favors classifying the relationship as plural marriage rather than a one-off affair — which defeats the "obvious adultery" gotcha — while leaving the deeper theological and ethical disputes open.
 
+## A Published-Historian Dissent (Benjamin Park)
+
+The "every published historian" claim has a notable live exception. [[Benjamin Park]] — PhD historian and President of the Mormon History Association — states that he and "some other scholars come on the other side and say... probably polygamy did not have much to do with Fanny Alger; instead it was likely an affair." His reasoning is that the sealing-and-exaltation theology Joseph used to justify plural marriage **does not develop until Nauvoo**, so a Kirtland-era relationship is anachronistically labeled "polygamy" (see [[The Early-1830s Dating of D&C 132 Is Historically Unsustainable]]). Park acknowledges there is genuine scholarly debate over how to define the relationship — some call it a "proto-polygamous union," others biblical *eisegesis* imitating the patriarchs. This does not overturn Bradley's head-count (the *majority* still classify it as plural marriage), but it shows the consensus is **not unanimous among published historians**, and that a credentialed scholar reaches the "affair" verdict on chronological-theological grounds rather than out of ignorance.[^5]
+
 ## Best Quotes
 
 > "Dan Vogel thinks Joseph Smith is an imposter, but he still recognizes the evidence points and this is polygamy. ...Why then does everybody who looks deeply into this and publishes on it conclude that it was actually polygamy?"[^2]
@@ -51,6 +57,7 @@ Expert consensus is evidence, not proof, and the critic has replies. (a) Scholar
 [^2]: [[Ward Radio - Debunking Joseph Smiths Fake Affair with Fanny Alger feat Don Bradley|Ward Radio - Debunking Joseph Smith's Fake Affair with Fanny Alger]], [57:30]–[59:30], https://youtu.be/LOlm4lt3mts
 [^3]: [[Ward Radio - Debunking Joseph Smiths Fake Affair with Fanny Alger feat Don Bradley|Ward Radio - Debunking Joseph Smith's Fake Affair with Fanny Alger]], [54:30]–[55:30], https://youtu.be/LOlm4lt3mts
 [^4]: [[Ward Radio - Debunking Joseph Smiths Fake Affair with Fanny Alger feat Don Bradley|Ward Radio - Debunking Joseph Smith's Fake Affair with Fanny Alger]], [56:30]–[57:30], https://youtu.be/LOlm4lt3mts
+[^5]: [[Benjamin Park - New LDS Page Reveals Shocking Polygamy Details|Benjamin Park - New LDS Page Reveals Shocking Polygamy Details]], [10:30]–[11:00], https://youtu.be/JInw-77nj7Y
 
 ---
-See also: [[Concepts]] · [[Don Bradley]] · [[Dan Vogel]] · [[Todd Compton]] · [[Brian Hales]] · [[Fanny Alger]] · [[Ward Radio - Debunking Joseph Smiths Fake Affair with Fanny Alger feat Don Bradley]]
+See also: [[Concepts]] · [[Don Bradley]] · [[Dan Vogel]] · [[Todd Compton]] · [[Brian Hales]] · [[Fanny Alger]] · [[Benjamin Park]] · [[Ward Radio - Debunking Joseph Smiths Fake Affair with Fanny Alger feat Don Bradley]]

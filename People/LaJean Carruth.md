@@ -1,6 +1,7 @@
 ---
 aliases:
   - "LaJean Purcell Carruth"
+  - "LeGene Kuth"
 tags:
   - "#type/person"
   - "#tradition/lds"
