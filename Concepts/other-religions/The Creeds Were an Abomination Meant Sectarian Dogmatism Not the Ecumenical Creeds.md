@@ -13,7 +13,6 @@ tags:
   - topic/nicene-creed
   - tradition/lds
   - type/rebuttal
-authority: C
 ---
 
 # The Creeds Were an Abomination Meant Sectarian Dogmatism Not the Ecumenical Creeds

@@ -8,7 +8,6 @@ related:
 sources:
   - "[[After Humanity - Michael Ward]]"
 tags: [apologetics, ethics, natural-law, objective-morality, subjectivism, topic/ethics]
-authority: B
 ---
 
 # The Abolition of Man as Prophecy

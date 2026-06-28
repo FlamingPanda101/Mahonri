@@ -1,6 +1,5 @@
 ---
 title: "Debate - Book of Mormon Historicity"
-authority: C
 tags: [debate-map, book-of-mormon]
 ---
 #type/debate-map

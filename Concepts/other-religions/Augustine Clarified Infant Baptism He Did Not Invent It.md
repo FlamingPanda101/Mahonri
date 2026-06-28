@@ -11,7 +11,6 @@ related:
 sources:
   - "[[The Counsel of Trent - A Case for Infant Baptism]]"
 tags: ["#apologetics/baptism", "#topic/infant-baptism", "#topic/original-sin", "#by/the-counsel-of-trent", "#tradition/catholic", "#type/rebuttal"]
-authority: C
 ---
 
 # Augustine Clarified Infant Baptism He Did Not Invent It

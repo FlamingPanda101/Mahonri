@@ -13,7 +13,6 @@ tags:
   - "#tradition/lds"
   - "#tradition/catholic"
   - "#type/claim"
-authority: C
 ---
 #type/claim
 

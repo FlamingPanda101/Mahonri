@@ -10,7 +10,6 @@ related:
   - "[[A Body from the Physical Creation Joined to a Premortal Spirit]]"
 sources:
   - "[[Lets Get Real with Stephen Jones - Why the Bible Doesnt Make Sense Without Moses Chapter 1]]"
-authority: C
 tags: ["#apologetics/old-testament", "#tradition/lds", "#type/claim"]
 ---
 

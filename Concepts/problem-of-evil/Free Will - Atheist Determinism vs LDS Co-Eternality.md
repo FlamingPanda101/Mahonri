@@ -5,7 +5,6 @@ tags:
   - "#apologetics/atheism"
   - "#tradition/lds"
   - "#type/claim"
-authority: C
 related:
   - "[[Atheisms Four Bad Implications]]"
   - "[[Creation Ex Nihilo Leads to Determinism]]"

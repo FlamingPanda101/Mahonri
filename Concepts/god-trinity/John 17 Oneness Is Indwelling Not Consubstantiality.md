@@ -8,7 +8,6 @@ related:
 sources:
   - "[[Thoughtful Faith - The LDS Godhead in the Bible (Response to Sam Shamoun)]]"
 tags: [apologetics, godhead, trinity, oneness, tradition/lds, type/claim]
-authority: C
 ---
 
 # John 17 Oneness Is Indwelling Not Consubstantiality

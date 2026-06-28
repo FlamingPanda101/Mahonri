@@ -7,7 +7,6 @@ related:
   - "[[Provenance Is the Standard for Authenticating Book of Mormon Artifacts]]"
 sources:
   - "[[Ward Radio - Fake Book of Mormon Artifacts]]"
-authority: C
 tags: [apologetics, book-of-mormon, archaeology, forgery, tradition/lds]
 ---
 

@@ -16,7 +16,6 @@ tags:
   - by/terryl-givens
   - tradition/lds
   - type/objection
-authority: C
 ---
 
 # Gods Goodness Is Our Goodness - Against the Moral-Universe Divide

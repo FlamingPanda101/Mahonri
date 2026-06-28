@@ -4,7 +4,6 @@ scripture: ["[[Galatians 3.28|Galatians 3:28]]", "[[1 Corinthians 14.34-35|1 Cor
 related: ["[[1 Corinthians 14 Was Not Written by Paul]]", "[[Feminism Tracks Material Conditions Not Christian Doctrine]]", "[[Galatians 3-28 Is a Theological Reality Not a Rights Charter]]"]
 sources: ["[[Uncommon Ground - Did Christianity Give Us Our Morality|Uncommon Ground - Christianity and Western Morality]]"]
 tags: [topic/equality, topic/gender, topic/women, by/alex-oconnor, tradition/atheist]
-authority: C
 ---
 
 #type/objection

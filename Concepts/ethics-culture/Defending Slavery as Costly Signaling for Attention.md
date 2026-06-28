@@ -10,7 +10,6 @@ tags:
   - topic/apologetics-critique
   - topic/costly-signaling
   - by/dan-mcclellan
-authority: B
 ---
 #type/claim
 

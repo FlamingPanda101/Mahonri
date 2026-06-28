@@ -8,7 +8,6 @@ related:
   - "[[Gods Modus Operandi - Oral Word Then Committed to Writing]]"
 sources:
   - "[[Ward Radio - Sola Scriptura Debate Rogers vs Horn]]"
-authority: C
 tags: [apologetics, sola-scriptura, canon, authority, tradition/reformed]
 #type/claim
 ---

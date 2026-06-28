@@ -7,7 +7,6 @@ related:
   - "[[Calling Someone a Cultist Is Counterproductive]]"
 sources:
   - "[[Ward Radio - 3 Mormon Apologists Ask Them Anything]]"
-authority: C
 tags: [apologetics, topic/apologetics, countercult, cult, terminology, tradition/lds]
 ---
 

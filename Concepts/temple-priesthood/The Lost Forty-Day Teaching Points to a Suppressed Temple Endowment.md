@@ -10,7 +10,6 @@ related:
   - "[[The Acts of John Records Jesus Instituting a Mystery Ritual]]"
 sources:
   - "[[Ward Radio - Secrets of the LDS Temple Endowment Supercut]]"
-authority: C
 tags: [apologetics/temple, endowment, apostasy, mysteries, tradition/lds]
 #type/claim
 ---

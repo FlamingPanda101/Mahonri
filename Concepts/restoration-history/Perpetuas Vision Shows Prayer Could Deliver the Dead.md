@@ -7,7 +7,6 @@ related:
 sources:
   - "[[Ancient Christians - An Introduction for Latter-day Saints]]"
 tags: [perpetua, prayer-for-the-dead, intercession, visionary-redemption, martyrdom, tradition/lds, type/historical]
-authority: B
 ---
 
 # Perpetuas Vision Shows Prayer Could Deliver the Dead
