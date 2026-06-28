@@ -3,7 +3,7 @@ title: "Thick and Clear Religion - Uniting Head and Belly"
 related:
   - "[[The Head-Chest-Belly Anatomy of the Soul]]"
   - "[[Trained Emotions Are the Liaison Between Reason and Appetite]]"
-  - "[['Without Body, Parts, or Passions' Is a 1530 Protestant Creed, Not Ancient]]"
+  - "[[Without Body Parts or Passions Is a 1530 Protestant Creed]]"
 sources:
   - "[[After Humanity - Michael Ward]]"
 tags: [apologetics, ethics, natural-law, objective-morality, embodiment, topic/ethics]
@@ -23,7 +23,7 @@ Lewis judged that most traditions hold the two elements apart. Hinduism contains
 > Christianity "really breaks down the middle wall of the partition" between the two compartments. [^1]
 
 ## LDS Connection
-The Restoration is conspicuously a religion of *both* head and belly in Lewis's sense. On the "clear" side it offers a rationalized cosmology and ethic — eternal law, agency, covenant theology, a God who reasons with His children ("Come now, and let us reason together," Isaiah 1:18). On the "thick" side it is intensely embodied and local: temple ritual, the laying on of hands, anointing, sacred clothing, gathering to consecrated places, a sacrament of bread and water taken into the body. Where the historic creeds pushed toward a purely "clear" God "without body, parts, or passions" (see [['Without Body, Parts, or Passions' Is a 1530 Protestant Creed, Not Ancient]]), Latter-day Saint worship deliberately reunites mystery and ethics, ordinance and doctrine — embodying within its practice the very integration of head and belly that Lewis says marks true religion.
+The Restoration is conspicuously a religion of *both* head and belly in Lewis's sense. On the "clear" side it offers a rationalized cosmology and ethic — eternal law, agency, covenant theology, a God who reasons with His children ("Come now, and let us reason together," Isaiah 1:18). On the "thick" side it is intensely embodied and local: temple ritual, the laying on of hands, anointing, sacred clothing, gathering to consecrated places, a sacrament of bread and water taken into the body. Where the historic creeds pushed toward a purely "clear" God "without body, parts, or passions" (see [[Without Body Parts or Passions Is a 1530 Protestant Creed]]), Latter-day Saint worship deliberately reunites mystery and ethics, ordinance and doctrine — embodying within its practice the very integration of head and belly that Lewis says marks true religion.
 
 ## References
 [^1]: [[After Humanity - Michael Ward|After Humanity (Ward, 2021)]], p.118

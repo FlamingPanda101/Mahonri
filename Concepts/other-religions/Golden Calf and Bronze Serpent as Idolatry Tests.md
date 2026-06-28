@@ -1,6 +1,6 @@
 ---
 title: "Golden Calf and Bronze Serpent as Idolatry Tests"
-scripture: "[[Exodus 32.md|Exodus 32]]"
+scripture: "[[Exodus 32|Exodus 32]]"
 related:
   - "[[Common Reference - Worshipping Adam as God]]"
 sources:
@@ -12,7 +12,7 @@ tags: [topic/idolatry, topic/reference, topic/adam-god, tradition/catholic, trad
 # Golden Calf and Bronze Serpent as Idolatry Tests
 
 ## The Claim
-[[Joe Heschmeyer]] uses two Old Testament cases — the **golden calf** ([[Exodus 32.md|Exodus 32]]) and the **bronze serpent** ([[Numbers 21.8-9|Numbers 21]] / 2 Kings 18) — to argue that ascribing the *true qualities* of God to a *false object of worship* is still idolatry. This presses against Hansen's [[Common Reference - Worshipping Adam as God|common-reference]] defense of Adam-God.
+[[Joe Heschmeyer]] uses two Old Testament cases — the **golden calf** ([[Exodus 32|Exodus 32]]) and the **bronze serpent** ([[Numbers 21.8-9|Numbers 21]] / 2 Kings 18) — to argue that ascribing the *true qualities* of God to a *false object of worship* is still idolatry. This presses against Hansen's [[Common Reference - Worshipping Adam as God|common-reference]] defense of Adam-God.
 
 ## Supporting Evidence
 

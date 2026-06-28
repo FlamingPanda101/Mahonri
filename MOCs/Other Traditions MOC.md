@@ -45,7 +45,7 @@ Navigation hub for engaging non-LDS Christian and world traditions as foils: Cat
 - [[Mormonism Is Not a Cult]] · [[Cult and Evangelical Are Both Loaded Words]] · [[Calling Someone a Cultist Is Counterproductive]] · [[Anti-Mormonism Is Attacking the Person Not the Idea]] · [[Naturalism Is a Short Step to Mormonism]] · [[Joseph Smith Was Sincere Not a Fraud]]
 
 ## Debate maps
-- (No `[[Debate - ...]]` notes in this folder.)
+- (No debate maps in this folder.)
 
 ---
 See also: [[Concepts]] · [[Home]]

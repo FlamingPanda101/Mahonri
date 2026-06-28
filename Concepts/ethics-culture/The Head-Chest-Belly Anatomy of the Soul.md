@@ -4,7 +4,7 @@ related:
   - "[[Trained Emotions Are the Liaison Between Reason and Appetite]]"
   - "[[Men Without Chests - Geldings Bid Be Fruitful]]"
   - "[[Hierarchy as a Two-Way Circuit of Power]]"
-  - "[['Without Body, Parts, or Passions' Is a 1530 Protestant Creed, Not Ancient]]"
+  - "[[Without Body Parts or Passions Is a 1530 Protestant Creed]]"
 sources:
   - "[[After Humanity - Michael Ward]]"
 tags: [apologetics, ethics, natural-law, objective-morality, anthropology, topic/ethics]
@@ -24,7 +24,7 @@ The word "chest" appears for the first time only near the end of the chapter, at
 > "it is in the Chest that the rational soul of the Head and the sensible soul of the Belly come together to make the definitively human soul, located in the Chest. Angels have reason and animals have sense, but human beings have both: they are (or should be) magnanimous, great of soul." [^5]
 
 ## LDS Connection
-Lewis's insistence that the *definitively human soul* lives in the embodied middle — neither pure intellect (angelic Head) nor pure appetite (animal Belly) — resonates with Latter-day Saint anthropology, in which "the spirit and the body are the soul of man" (D&C 88:15) and the union of the two is requisite for a "fulness of joy" (D&C 93:33-34). Where much of historic Christianity inherited a God and an ideal "without body, parts, or passions" (see [['Without Body, Parts, or Passions' Is a 1530 Protestant Creed, Not Ancient]]), Lewis's model dignifies the trained *passions* of the Chest as the very thing that makes us human — close to the Restoration's refusal to treat passion and embodiment as defects to be transcended. The goal is not to silence the Belly but to govern it through cultivated, righteous sentiment.
+Lewis's insistence that the *definitively human soul* lives in the embodied middle — neither pure intellect (angelic Head) nor pure appetite (animal Belly) — resonates with Latter-day Saint anthropology, in which "the spirit and the body are the soul of man" (D&C 88:15) and the union of the two is requisite for a "fulness of joy" (D&C 93:33-34). Where much of historic Christianity inherited a God and an ideal "without body, parts, or passions" (see [[Without Body Parts or Passions Is a 1530 Protestant Creed]]), Lewis's model dignifies the trained *passions* of the Chest as the very thing that makes us human — close to the Restoration's refusal to treat passion and embodiment as defects to be transcended. The goal is not to silence the Belly but to govern it through cultivated, righteous sentiment.
 
 ## References
 [^1]: [[After Humanity - Michael Ward|After Humanity (Ward, 2021)]], p.115

@@ -2,7 +2,7 @@
 title: "Ancient Jewish Readings of Genesis 1.1 Make Elohim the Object Created by the Head God"
 scripture:
   - "[[Genesis 1.1|Genesis 1:1]]"
-  - "[[Proverbs.md|Proverbs 3:19]]"
+  - "[[Proverbs|Proverbs 3:19]]"
 related:
   - "[[Bereshit Is a Construct Form Forcing a Dependent-Clause Reading]]"
   - "[[The Plural of Genesis 1 Is the Divine Council Not the Trinity or Royal We]]"
@@ -29,7 +29,7 @@ In the [[King Follett Discourse]], [[Joseph Smith]] re-parsed the Bible's first 
 
 ## Supporting Evidence
 
-1. **A Targum reads "with wisdom God created" (rated: strong, textual).** Butler reports a Targum (he tentatively names Onkelos) rendering the opening not "in the beginning" but *bahukama* — Aramaic for "with wisdom" — i.e. parsing *ba* as the instrumental "with," *reshit* as "the principal one," and the feminine *-īt* termination as pointing to a feminine being: "with the great feminine one… who is that? That's wisdom." He cross-references [[Proverbs.md|Proverbs 3:19]], "The LORD by/with wisdom (*behokmah*) founded the earth," where the same *be-* may be instrumental ("with wisdom") and wisdom is also the tree of life.[^2]
+1. **A Targum reads "with wisdom God created" (rated: strong, textual).** Butler reports a Targum (he tentatively names Onkelos) rendering the opening not "in the beginning" but *bahukama* — Aramaic for "with wisdom" — i.e. parsing *ba* as the instrumental "with," *reshit* as "the principal one," and the feminine *-īt* termination as pointing to a feminine being: "with the great feminine one… who is that? That's wisdom." He cross-references [[Proverbs|Proverbs 3:19]], "The LORD by/with wisdom (*behokmah*) founded the earth," where the same *be-* may be instrumental ("with wisdom") and wisdom is also the tree of life.[^2]
 
 2. **The *Sefer Bahir* makes the subject implied in the verb, with *Elohim* as object (rated: strong, textual).** Butler cites the early Jewish-mystical *Sefer Bahir* reinterpreting Genesis 1:1 so that "*Elohim* is not the subject of the sentence; the subject is implied in the verb" — grammatically possible because the *qal* perfective *bara* alone implies a third-person "he/she." The sense becomes "In the beginning **He created** *Elohim*, the heavens and the earth," the implied subject being the *Ein Sof*, "the aspect of God that exists… God beyond God."[^3]
 

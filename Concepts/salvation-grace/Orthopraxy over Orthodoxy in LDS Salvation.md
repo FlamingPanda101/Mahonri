@@ -1,6 +1,6 @@
 ---
 title: "Orthopraxy over Orthodoxy in LDS Salvation"
-scripture: "[[D&C 76.md|D&C 76]]"
+scripture: "[[D&C 76|D&C 76]]"
 related:
   - "[[Brigham Young Failed Prophet Argument]]"
   - "[[Definition of Gospel]]"
@@ -22,7 +22,7 @@ tags: [topic/orthopraxy, topic/orthodoxy, topic/salvation, topic/creeds, traditi
 Hansen quotes Joseph Smith: "the fundamental principles of our religion are the testimony of the apostles and prophets concerning Jesus Christ, that he died, was buried, and rose again the third day... and all other things which pertain to our religion are only appendages to it" [^1]. Heschmeyer notes this "almost quotes verbatim" Paul's creed in **[[1 Corinthians 15.1-4|1 Corinthians 15]]**.
 
 ### 2. D&C 76 makes the testimony of Jesus the dividing line (strong — internal primary)
-**[[D&C 76.md|D&C 76]]** sorts humanity into three kingdoms of glory, and "in every instance, the dividing line between who's in this higher versus this lower kingdom is the testimony of Jesus" [^2]. So orthodoxy is "really important... but not damnable."
+**[[D&C 76|D&C 76]]** sorts humanity into three kingdoms of glory, and "in every instance, the dividing line between who's in this higher versus this lower kingdom is the testimony of Jesus" [^2]. So orthodoxy is "really important... but not damnable."
 
 ### 3. What the LDS find "abominable" in the creeds (moderate — reframing)
 Hansen turns Heschmeyer's point around: what is abominable is not the *content* of the creeds but their making a metaphysical distinction (three persons one being vs. three persons one purpose) "the dividing line between heaven and hell." Heschmeyer "rightly pointed out that we're not doing that here" — and is "kind of arguing that we should" [^3].

@@ -47,6 +47,8 @@ A critic answers as follows. (a) **The etymology is simply wrong:** "the promise
 > "He says all the things he began to teach until the day which he was taken up... where's that treatise? There's no such treatise. The 40-day teaching... we just don't have it." [^1]
 
 > "The word promise in Greek is endo, which is where we get the word endowment... in Acts chapter 1 he says the 40 days Jesus was teaching this stuff that we don't have, and he said 'wait here for the endowment.'" [^3]
+>
+> *⚠ Etymology incorrect (see Evidence §3 / steelman): Acts 1:4 reads* epangelia *("promise"), unrelated to* endyō *("to clothe"); the* endo→endowment *link is a homophonic folk etymology, not a real cognate. Quote retained as a record of the source's claim, not as a sound argument.*
 
 > "The word mystery in Greek means temple ordinance — that's literally what the word translates." [^2]
 

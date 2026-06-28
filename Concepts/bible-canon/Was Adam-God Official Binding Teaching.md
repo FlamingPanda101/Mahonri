@@ -1,6 +1,6 @@
 ---
 title: "Was Adam-God Official Binding Teaching"
-scripture: "[[D&C 26.md|D&C 26]]"
+scripture: "[[D&C 26|D&C 26]]"
 related:
   - "[[Adam-God Doctrine - What Brigham Young Taught]]"
   - "[[Journal of Discourses Was Treated as Scripture]]"
@@ -19,13 +19,13 @@ tags: [topic/adam-god, topic/canon, topic/brigham-young, tradition/lds, traditio
 ## The Rebuttal
 
 ### 1. The canonization process was never applied (strong — procedural)
-Hansen: canonization requires "a presentation to the body of the church and then a common consent of the church to ratify" — and "that never happens with Journal of Discourses" [^1]. He grounds this in **[[D&C 26.md|D&C 26]]**: "all things shall be done by common consent in the church." So a single apostle or prophet cannot unilaterally make his teaching canon.
+Hansen: canonization requires "a presentation to the body of the church and then a common consent of the church to ratify" — and "that never happens with Journal of Discourses" [^1]. He grounds this in **[[D&C 26|D&C 26]]**: "all things shall be done by common consent in the church." So a single apostle or prophet cannot unilaterally make his teaching canon.
 
 ### 2. The Lectures on Faith analogy (moderate — disanalogy)
 Hansen distinguishes the *Journal of Discourses* from the **Lectures on Faith**, which were "published alongside the Doctrine and Covenants... as scripture" in Joseph Smith's day. He puts the JoD in the modern "general conference talk" category: inspired, "words of the Lord," but "we do not canonize them" [^2].
 
 ### 3. The standard was still being worked out into the 20th century (concession that cuts both ways)
-Hansen grants that [[J. Reuben Clark]]'s 1954 essay *"When Are Church Teachers' Words Entitled to the Claim of Scripture?"* shows the LDS hermeneutic was "still being sort of decided... into the mid-20th century" [^3]. Clark's answer keys on **[[D&C 68.md|D&C 68]]**: words spoken "when moved upon by the Holy Ghost shall be scripture" — but only the President of the Church can give binding revelation for the whole church.
+Hansen grants that [[J. Reuben Clark]]'s 1954 essay *"When Are Church Teachers' Words Entitled to the Claim of Scripture?"* shows the LDS hermeneutic was "still being sort of decided... into the mid-20th century" [^3]. Clark's answer keys on **[[D&C 68|D&C 68]]**: words spoken "when moved upon by the Holy Ghost shall be scripture" — but only the President of the Church can give binding revelation for the whole church.
 
 ### Steelman (Heschmeyer's side)
 Heschmeyer's sharpest move makes canonicity **irrelevant**: "the canonicity question... actually becomes irrelevant." Even if no body ever votes Adam-God into the canon, a prophet who "claims to be the mouthpiece of God" while teaching falsehood is "delusional or just doesn't have any reliable grasp on the truth." His analogy: if a future LDS president said "let's all worship Moloch," the fact that nobody canonizes it doesn't dissolve the problem [^4]. He also notes Young's salvation-or-damnation language and the *required* Lecture at the Veil push it past "private opinion."

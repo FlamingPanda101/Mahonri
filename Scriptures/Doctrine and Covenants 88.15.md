@@ -14,6 +14,6 @@ This verse defines the LDS doctrine that the "soul" is not a disembodied spirit 
 
 ## Referenced in
 
-- [['Without Body, Parts, or Passions' Is a 1530 Protestant Creed, Not Ancient]]
+- [[Without Body Parts or Passions Is a 1530 Protestant Creed]]
 
 See also: [[Scriptures]]

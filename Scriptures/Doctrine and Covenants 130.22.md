@@ -14,6 +14,6 @@ This verse is the clearest LDS scriptural statement that God the Father is a cor
 
 ## Referenced in
 
-- [['Without Body, Parts, or Passions' Is a 1530 Protestant Creed, Not Ancient]]
+- [[Without Body Parts or Passions Is a 1530 Protestant Creed]]
 
 See also: [[Scriptures]]

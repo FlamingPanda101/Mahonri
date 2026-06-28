@@ -1,6 +1,6 @@
 ---
 title: "Journal of Discourses Was Treated as Scripture"
-scripture: "[[D&C 68.md|D&C 68]]"
+scripture: "[[D&C 68|D&C 68]]"
 related:
   - "[[Was Adam-God Official Binding Teaching]]"
   - "[[Reliability Not Infallibility Standard]]"
@@ -24,7 +24,7 @@ tags: [topic/canon, topic/journal-of-discourses, topic/brigham-young, tradition/
 In JoD vol. 13 (1870), Young: "when they are copied and approved by me they are as good scripture as is couched in this Bible, and if you want to read revelation read the sayings of him who knows the mind of God" [^3]. Heschmeyer reads this as: edited, published discourses (i.e., the JoD) "carry the weight of scripture."
 
 ### 3. Hansen's "soft scripture" qualification (the rebuttal nuance)
-Hansen agrees with Young — but appeals to **[[D&C 68.md|D&C 68]]** ("whatsoever they shall speak when moved upon by the Holy Ghost shall be scripture") and then to Young's *own* published deflation of scripture: "I do not believe that there is a single revelation among the many God has given to the church that is perfect in its fullness" [^4]. So it is "scripture," but without the property of **infallibility** that Catholicism gives it — feeding directly into the [[Reliability Not Infallibility Standard]].
+Hansen agrees with Young — but appeals to **[[D&C 68|D&C 68]]** ("whatsoever they shall speak when moved upon by the Holy Ghost shall be scripture") and then to Young's *own* published deflation of scripture: "I do not believe that there is a single revelation among the many God has given to the church that is perfect in its fullness" [^4]. So it is "scripture," but without the property of **infallibility** that Catholicism gives it — feeding directly into the [[Reliability Not Infallibility Standard]].
 
 ### Steelman (Heschmeyer's side)
 Heschmeyer's response is that Young's "softer scripture" is enough rope: it gives "enough wiggle room" to escape any contradiction, which is exactly what makes the system unfalsifiable — "any other religion that would just be disqualifying" [^5].

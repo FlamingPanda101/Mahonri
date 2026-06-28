@@ -48,7 +48,7 @@ Navigation hub for soteriology: grace vs works, faith alone and the James 2 prob
 - [[The Binding of Isaac as a Type of Christ]] · [[Old Testament Water Types Prefigure Baptism]] · [[Melito of Sardis Reads the Passover as a Type of Christ]] · [[Julian of Norwich's Showings of Divine Love]] · [[Thecla's Intercession Saved the Pagan Falconilla]]
 
 ## Debate maps
-- (No `[[Debate - ...]]` notes in this folder.)
+- (No debate maps in this folder.)
 
 ---
 See also: [[Concepts]] · [[Home]]
