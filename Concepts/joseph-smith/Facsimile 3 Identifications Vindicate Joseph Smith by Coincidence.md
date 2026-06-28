@@ -9,6 +9,7 @@ related:
   - "[[The Book of Abraham Has Only Three Apologetic Exits - Reel]]"
 sources:
   - "[[Ward Radio - Debunking Matt Fradds 7 Reasons Joseph Smith Is a False Prophet]]"
+  - "[[Ward Radio - Debunking Mike Wingers Irrefutable Proof Mormonism is FALSE]]"
 tags: ["#apologetics/joseph-smith", "#tradition/lds", "#type/claim"]
 #type/claim
 ---
@@ -24,6 +25,9 @@ Matt Fradd's lead "false prophecy" is that Joseph Smith mistranslated the Book o
 - **Four sons of Horus.** Joseph correctly read the four sons of Horus as the four cardinal directions. [^3]
 
 The thrust: if Joseph happened to swap the very pair Jesus swapped, and to know Isis was a pharaoh-figure and the sons of Horus were the cardinal points, "lucky coincidence" is straining. See the companion temple reading in [[The Facsimiles Encode Abraham's Endowment Through the Osiris Myth]].
+
+## The Same Point Against Mike Winger
+[[Luke Hansen]] makes the same Osiris↔Abraham argument against [[Mike Winger]]: Winger insists the facsimiles "can't be the book of Abraham" because they derive from the Book of Breathings / Book of the Dead. But Jews of that era and place are documented *reinterpreting* Egyptian iconography into their own worship — substituting biblical figures (Abel, Enoch, Angels) for Egyptian gods. The scroll came from a later Jewish enclave, so what the vignette meant to *them* need not be its high-Egyptian meaning. The clearest case is in the Bible itself: [[John Gee]] argues Jesus' parable of Lazarus and the rich man ([[Luke 16]]) reworks the Egyptian tale of Setne, with Abraham standing in for Osiris — exactly the swap Joseph made in Facsimiles 1 and 3.[^4]
 
 ## Supporting Evidence (steelman Fradd)
 1. **The "poor preservation" caveat is checkable.** Whether the hieroglyphs above the heads are legible enough to *securely* yield "Isis" (versus being reconstructed by iconographic expectation) is an adjudicable claim about the actual facsimile, not pure assertion. If the glyphs really are damaged, the confident "it says Isis, therefore Joseph is wrong" loses force. *Rating: a real, falsifiable point.*
@@ -43,6 +47,7 @@ The thrust: if Joseph happened to swap the very pair Jesus swapped, and to know 
 [^1]: [[Ward Radio - Debunking Matt Fradds 7 Reasons Joseph Smith Is a False Prophet|Ward Radio - Debunking Matt Fradd]], [04:30]–[05:02], https://youtu.be/GhyaHMsrfCA
 [^2]: [[Ward Radio - Debunking Matt Fradds 7 Reasons Joseph Smith Is a False Prophet|Ward Radio - Debunking Matt Fradd]], [05:31]–[06:31], https://youtu.be/GhyaHMsrfCA
 [^3]: [[Ward Radio - Debunking Matt Fradds 7 Reasons Joseph Smith Is a False Prophet|Ward Radio - Debunking Matt Fradd]], [06:31]–[07:00], https://youtu.be/GhyaHMsrfCA
+[^4]: [[Ward Radio - Debunking Mike Wingers Irrefutable Proof Mormonism is FALSE|Ward Radio - Debunking Mike Winger's Irrefutable Proof]], [33:00]–[35:00], https://youtu.be/TMzmV92fXsA
 
 ---
-See also: [[Concepts]] · [[The Facsimiles Encode Abraham's Endowment Through the Osiris Myth]] · [[John Gee]] · [[Robert Ritner]] · [[Luke 16.22|Luke 16:22]]
+See also: [[Concepts]] · [[The Facsimiles Encode Abraham's Endowment Through the Osiris Myth]] · [[John Gee]] · [[Mike Winger]] · [[Robert Ritner]] · [[Luke 16.22|Luke 16:22]] · [[Ward Radio - Debunking Mike Wingers Irrefutable Proof Mormonism is FALSE]]

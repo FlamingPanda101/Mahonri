@@ -5,8 +5,11 @@ related:
   - "[[I'm Right So You're Wrong - The Hidden Presupposition Pattern]]"
   - "[[The Creeds Cannot Be the Neutral Baseline - The Circularity of Creedal Disqualification]]"
   - "[[Tumbaga Alloy Explains Golden Appearance and Green Oxidation]]"
+  - "[[Witness Weight Estimates of the Plates Refute the Solid-Gold Strawman]]"
+  - "[[Anti-Mormons Borrow Atheist Weaponry Against the Plates]]"
 sources:
   - "[[Salty Saints - The Apologist Playbook for LDS Men]]"
+  - "[[Ward Radio - Debunking Attacks on the Golden Plates with REAL Golden Plates]]"
 tags: ["#apologetics/method", "#tradition/lds", "#type/rebuttal", "#topic/gold-plates"]
 ---
 
@@ -38,6 +41,9 @@ The panel notes the ordinary apologetic answers exist too: estimates that "the p
 ## LDS Connection
 The exchange is a clean specimen of the panel's master method — make the critic justify (or at least expose) the standard hidden in his attack. It also illustrates a recurring countercult failure mode: arguing *from* a naturalist or creedal baseline that the LDS claim does not share (compare [[The Creeds Cannot Be the Neutral Baseline - The Circularity of Creedal Disqualification]]). For the Latter-day Saint, the takeaway is to refuse the loaded frame: questions about *how* a miraculous event was physically possible presuppose its non-divinity, so the first move is to ask the interlocutor whether he allows God to act at all — and if he does (Red Sea, resurrection), the "too heavy" objection collapses by his own lights.
 
+## Corroboration — McKeever's Manti Pageant Demonstration (Ward Radio)
+The same [[Bill McKeever|McKeever]] routine recurs in Ward Radio's gold-plates episode, where the panel plays footage of McKeever and [[Aaron Shafovaloff]] hauling weighted replicas in a red wagon through the Manti pageant crowd, daring families to lift them. The episode adds two things this note's *Salty Saints* source did not: (1) the **witness data** that caps the real weight at 40-60 lb, exposing the 200-lb figure as a solid-gold strawman (see [[Witness Weight Estimates of the Plates Refute the Solid-Gold Strawman]]); and (2) the diagnosis that the move borrows an **atheist evidential standard** the Christian critic doesn't hold (see [[Anti-Mormons Borrow Atheist Weaponry Against the Plates]]). The climactic clip — an ordinary "Mormon mom" stopping McKeever cold by asking who ever said the plates were 200 lb — is the live-action version of the self-defeating point made above.[^7]
+
 ## References
 [^1]: [[Salty Saints - The Apologist Playbook for LDS Men|Salty Saints - Apologist Playbook]], [40:01], https://youtu.be/T3UOMTRoCkk
 [^2]: [[Salty Saints - The Apologist Playbook for LDS Men|Salty Saints - Apologist Playbook]], [40:30], https://youtu.be/T3UOMTRoCkk
@@ -45,6 +51,7 @@ The exchange is a clean specimen of the panel's master method — make the criti
 [^4]: [[Salty Saints - The Apologist Playbook for LDS Men|Salty Saints - Apologist Playbook]], [41:03], https://youtu.be/T3UOMTRoCkk
 [^5]: [[Salty Saints - The Apologist Playbook for LDS Men|Salty Saints - Apologist Playbook]], [41:03], https://youtu.be/T3UOMTRoCkk
 [^6]: [[Salty Saints - The Apologist Playbook for LDS Men|Salty Saints - Apologist Playbook]], [42:01], https://youtu.be/T3UOMTRoCkk
+[^7]: [[Ward Radio - Debunking Attacks on the Golden Plates with REAL Golden Plates|Ward Radio — Debunking Attacks on the Golden Plates]], [27:30]–[31:00], https://youtu.be/JhPdIg6Qe60
 
 ---
-See also: [[Concepts]] · [[Bill McKeever]] · [[I'm Right So You're Wrong - The Hidden Presupposition Pattern]] · [[Salty Saints - The Apologist Playbook for LDS Men]]
+See also: [[Concepts]] · [[Bill McKeever]] · [[I'm Right So You're Wrong - The Hidden Presupposition Pattern]] · [[Salty Saints - The Apologist Playbook for LDS Men]] · [[Ward Radio - Debunking Attacks on the Golden Plates with REAL Golden Plates]]

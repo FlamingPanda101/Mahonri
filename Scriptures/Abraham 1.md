@@ -15,6 +15,7 @@ tags: [scripture/pearl-of-great-price]
 - [[The Hand of Abraham Phrase Is Ancient Copyist Usage Not Autograph]]
 - [[Later Texts Corroborate Details Joseph Smith Could Not Have Known in the Book of Abraham]]
 - [[Joseph Was Not Translating the Surviving Papyrus]]
+- [[Facsimile 3 Identifications Vindicate Joseph Smith by Coincidence]]
 
 ---
 See also: [[Scriptures]] · [[Book of Abraham]]

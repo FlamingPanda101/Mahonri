@@ -11,6 +11,7 @@ related:
   - "[[The Prooftext Double Standard on Grace and Works]]"
 sources:
   - "[[Moronis Standard - Luther Added a Word to the Bible]]"
+  - "[[Ward Radio - Debunking God Loves Mormons on the Pre-Existence]]"
 tags: [apologetics, justification, sola-fide, james, tradition/lds, topic/sola-fide]
 #type/claim
 ---
@@ -35,10 +36,14 @@ tags: [apologetics, justification, sola-fide, james, tradition/lds, topic/sola-f
 
 > "You're using the Bible alone as your authority while requiring your adherence to not read significant portions of the Bible. That's not sola scriptura. That's selective scriptura." [^3]
 
+## Independent Corroboration (Ward Radio)
+The identical argument surfaces on Ward Radio's "God Loves Mormons" rebuttal: reacting to an evangelical pastor's "works-based faith" charge against Latter-day Saints, [[Cardon Ellis]] and [[Oak Norton]] run the same search and land on [[James 2.24|James 2:24]] — "the only verse in the canon that actually uses the words *faith only*… and it says *not* faith only." They note the same irony that the verse even calls Abraham "the Friend of God," and tie it to the broader point that the creedal/evangelical reading recoils from James (the "epistle of straw"). A second, independent popular-apologetics source making the same lexical move strengthens the observation's circulation, though the substantive Protestant replies (justification *before men*; *fiducia* vs. *nuda fides*) are unchanged and remain steelmanned above.[^4]
+
 ## References
 [^1]: [[Moronis Standard - Luther Added a Word to the Bible|Moroni's Standard - Luther Added a Word]], [00:00]–[00:30], https://youtu.be/QM7WXa-KWKM
 [^2]: [[Moronis Standard - Luther Added a Word to the Bible|Moroni's Standard - Luther Added a Word]], [12:00]–[13:30], https://youtu.be/QM7WXa-KWKM
 [^3]: [[Moronis Standard - Luther Added a Word to the Bible|Moroni's Standard - Luther Added a Word]], [13:30]–[14:00], https://youtu.be/QM7WXa-KWKM
+[^4]: [[Ward Radio - Debunking God Loves Mormons on the Pre-Existence|Ward Radio — Debunking God Loves Mormons]], [58:00]–[60:30], https://youtu.be/_GP1mkZL2PE
 
 ---
 See also: [[Concepts]] · [[James 2.24]] · [[James 2-24 - Justified by Works Not Faith Alone]] · [[Luther Inserted Allein Faith Alone Into Romans 3-28]]

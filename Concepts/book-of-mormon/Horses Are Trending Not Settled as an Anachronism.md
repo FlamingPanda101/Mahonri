@@ -61,6 +61,10 @@ unpublished pre-Columbian (post-Book of Mormon) radiocarbon dates from independe
 labs hinting that the full story is more complicated than the extinction paradigm
 allows.
 
+## Independent corroboration — Ward Radio
+
+The same *Texas Journal of Science* finding (horse bones in Mesoamerica dated to Book-of-Mormon time periods) is cited on [[Ward Radio]] by [[Brad Whitbeck]] and [[Jonah Barnes]], alongside the Loltún Cave horse remains, as part of a "the longer we wait, the more we find" argument for patience on archaeology. They pair it with [[Daniel Johnson]]'s demographic case against rapid Spanish-horse spread. See [[The Spanish Horse Math Cannot Explain Continent-Wide Horses by 1567]].[^5]
+
 ## Best Quotes
 
 > "Horses I would put in the trending category... there was a paper published in the Texas Journal of Science... the carbon datings for layers that had horse bones in them came out to 1600 BC... between like 70 and 225 AD. That's our timeline."[^2]
@@ -75,6 +79,7 @@ allows.
 [^2]: [[Holy Rebellion - Anachronisms DNA and Archaeology in the Book of Mormon|Holy Rebellion - Anachronisms DNA and Archaeology]], [35:32]-[37:00], https://youtu.be/J_bwYwApMfE
 [^3]: [[Holy Rebellion - Anachronisms DNA and Archaeology in the Book of Mormon|Holy Rebellion - Anachronisms DNA and Archaeology]], [37:30]-[38:31], https://youtu.be/J_bwYwApMfE
 [^4]: [[Holy Rebellion - Anachronisms DNA and Archaeology in the Book of Mormon|Holy Rebellion - Anachronisms DNA and Archaeology]], [39:00]-[42:00], https://youtu.be/J_bwYwApMfE
+[^5]: [[Ward Radio - Deep Dive Debunking Doubts About Horses in the Book of Mormon|Ward Radio - Horses in the Book of Mormon]], [42:30]-[43:30], https://youtu.be/sjIatlbn3qY
 
 ---
-See also: [[Concepts]] · [[Holy Rebellion - Anachronisms DNA and Archaeology in the Book of Mormon]]
+See also: [[Concepts]] · [[Holy Rebellion - Anachronisms DNA and Archaeology in the Book of Mormon]] · [[Ward Radio - Deep Dive Debunking Doubts About Horses in the Book of Mormon]]

@@ -19,7 +19,7 @@ authority_reason: "Primary historical witness — one of the Eight Witnesses to 
 **Role in this source:** [[Daniel C. Peterson]] uses Page to answer two objections at once. On the **family-relationship** objection, Page was related only by marriage, yet his testimony was anything but convenient: a documented account (dramatized in the Interpreter Foundation's *Undaunted*) has him beaten severely by a mob that finally gave up because "this poor [man] is going to continue insisting on his testimony" even if killed. Some say he never fully recovered and may have died relatively young as a consequence.[^1]
 
 ## On Costly, Unrecanted Testimony
-A relative going along with a "prank" would have said "I give up, it was a lie" under a beating; Page would not.
+A relative going along with a "prank" would have said "I give up, it was a lie" under a beating; Page would not. The same beating episode is independently recorded by former apostle [[William McLellin]] (cited by [[Keystone]]): young men ran Page down and "commenced beating and pounding him with whips and clubs," demanding he deny the book; Page answered, "How can I deny what I know to be true?" See [[William McLellin Affirmed the Book of Mormon While Rejecting Church Leadership]].
 - [[No Witness Ever Recanted]]
 - [[Witnesses Paid a Real Cost With No Payoff]]
 - [[Family and Friend Witnesses Objection Rebutted]]

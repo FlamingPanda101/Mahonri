@@ -4,6 +4,7 @@ scripture: "[[Genesis 22|Genesis 22]]"
 related:
   - "[[Abraham as a Backstory to Genesis]]"
   - "[[Prophets Point to Christ Through Their Failings]]"
+  - "[[Joseph Smith Restored a Messianic Akedah in Which Isaac Was Actually Sacrificed]]"
 sources:
   - "[[Lets Get Real - The Racial Curse in Abraham Isnt What You Think]]"
 tags:

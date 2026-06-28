@@ -25,5 +25,7 @@ The revelation on celestial marriage, including plural marriage, recorded July 1
 - [[Polygamy Denialism]] — wordprint analysis shows Joseph Smith authorship, fatal to denialism
 - [[Succession Crisis of 1844]] — part of Joseph's "program" only the Twelve continued
 - [[Brigham Young as the Fall Guy]] — [[Daniel C. Peterson]] notes the Interpreter Foundation's wordprint/statistical analysis shows Section 132 was already in circulation while Joseph was alive and is "almost certainly impossible" to be a Brigham-era forgery — so plural marriage traces to Joseph, not Brigham.[^2]
+- [[D&C 132 Internal Details Match Nauvoo July 1843]] — [[Don Bradley]] shows verse 57's property language matches Clayton's journal and a deed dated July 12, 1843.
+- [[D&C 132 Chastises Joseph So Brigham Did Not Forge It]] — verses 50/56/60 fault Joseph, which a Brigham forgery would not include.
 
 [^2]: [[Lets Get Real - Why Its Easier to Flatten Brigham Young|Let's Get Real - Why It's Easier to Flatten Brigham Young]], [14:30]–[15:31], https://youtu.be/dssLIsMniWU

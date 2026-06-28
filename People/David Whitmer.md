@@ -32,8 +32,12 @@ describes a more participatory method ("you must study it out in your mind").
 The host concludes Whitmer is "either mistaken or that perhaps we wildly
 misinterpret what he meant." See [[David Whitmer Tight Control Account vs the Participatory Translation Model]].
 
+## Reaffirmed Under Threat of Death (McLellin's Record)
+Former apostle [[William McLellin]] — cited by [[Keystone]] — recorded asking Whitmer and [[Oliver Cowdery]] in 1833, with their lives in danger, whether the Book of Mormon was true; Whitmer affirmed it ("we could not be deceived"). McLellin also saw Whitmer reaffirm his testimony in June 1879 "as sincerely and solemnly" as in 1831. See [[William McLellin Affirmed the Book of Mormon While Rejecting Church Leadership]].
+
 ## Sources
 - [[Saints Unscripted - Responding to 5 Changes to the Book of Mormon]]
+- [[Keystone - What This Early Apostate Revealed About the Book of Mormon]]
 
 ---
-See also: [[People]]
+See also: [[People]] · [[William McLellin Affirmed the Book of Mormon While Rejecting Church Leadership]]

@@ -5,6 +5,7 @@ related:
   - "[[Definition of Gospel]]"
 sources:
   - "[[WardRadio - Top 9 Misconstrued Scriptures]]"
+  - "[[Ward Radio - Anti-Mormon Activists AMBUSHED Two Members on Dr Daf]]"
 tags: [apologetics, canon, book-of-mormon, revelation, tradition/lds]
 #type/rebuttal
 ---
@@ -32,6 +33,9 @@ Curse-clauses against tampering were common on ancient sacred writings *and* leg
 ### 4. The threatened plagues never came
 The text threatens specific plagues — hail, fire, blood, waters turned to blood. None befell Joseph Smith; "a couple boxes are missing." If the verse meant what critics claim and Joseph had violated it, the plagues should have followed [^5].
 
+### 5. Nine New Testament books were written after Revelation
+On the Dr. Daff reaction, the hosts press a second chronological blade: charting the composition order (per Bart Ehrman and the Catholic scholar Raymond Brown), Revelation (~94 AD) was *not* the last NT book written — Ephesians, Jude, 2 Thessalonians, 1 Timothy, Titus, 1–3 John, and 2 Peter come after it. If Revelation 22:18-19 closed the canon, every one of those later books — by Paul, John, Jude, and Peter — would itself be an accursed "addition" [^6].
+
 ## Counter-arguments / related
 - [[Galatians 1-8 - Angel Preaching Another Gospel]] — companion "new revelation is forbidden" argument.
 
@@ -41,6 +45,7 @@ The text threatens specific plagues — hail, fire, blood, waters turned to bloo
 [^3]: [[WardRadio - Top 9 Misconstrued Scriptures|Ward Radio - Top 9 Misconstrued Scriptures]], [07:00], https://youtu.be/lkiUEqR5OBI
 [^4]: [[WardRadio - Top 9 Misconstrued Scriptures|Ward Radio - Top 9 Misconstrued Scriptures]], [09:31], https://youtu.be/lkiUEqR5OBI
 [^5]: [[WardRadio - Top 9 Misconstrued Scriptures|Ward Radio - Top 9 Misconstrued Scriptures]], [08:02], https://youtu.be/lkiUEqR5OBI
+[^6]: [[Ward Radio - Anti-Mormon Activists AMBUSHED Two Members on Dr Daf|Ward Radio - Dr. Daff Ambush]], [52:30]–[54:00], https://youtu.be/LUr-81zcxPA
 
 ---
 See also: [[Apologetics]] · [[WardRadio - Top 9 Misconstrued Scriptures]]

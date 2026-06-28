@@ -17,6 +17,7 @@ The classic Protestant proof-text for inspiration and sufficiency. [[Anthony Rog
 ## Used in
 - [[The Light Manifests Itself - Perspicuity of Scripture]]
 - [[Material vs Formal Sufficiency - The Home Depot Analogy]]
+- [[Theopneustos Was Used for Sandals Ointments and Streams Not Inerrancy]] — [[Keystone]]/[[John C. Poirier]]: *theopneustos* meant "life-giving" (used of sandals, ointments, streams), not "inerrant."
 
 ---
-See also: [[Scriptures]] · [[Theopneustos Means Life-Giving Not Infallible]]
+See also: [[Scriptures]] · [[Theopneustos Means Life-Giving Not Infallible]] · [[Theopneustos Was Used for Sandals Ointments and Streams Not Inerrancy]]

@@ -5,6 +5,8 @@ related:
   - "[[Presentism in Historical Judgment]]"
   - "[[The Bible Was Wrong and Consensus Determines Morality]]"
   - "[[Could God vs Would God on the Book of Mormon]]"
+  - "[[Joseph Smith Married Pregnant Women Refuting the Sexual-Motive Thesis]]"
+  - "[[The Angel with a Drawn Sword Coincides with the Orionid Meteor Shower]]"
 sources:
   - "[[LDS Christian - Is the LDS Church True - Robert Gurr vs Bill Reel]]"
 tags: [apologetics, challenges, debate, topic/challenges, topic/polygamy, topic/joseph-smith]

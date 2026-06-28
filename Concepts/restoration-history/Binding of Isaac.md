@@ -3,6 +3,7 @@ title: "Binding of Isaac"
 related:
   - "[[The Binding of Isaac as a Type of Christ]]"
   - "[[Judge the Book of Abraham by Its Fruits]]"
+  - "[[Joseph Smith Restored a Messianic Akedah in Which Isaac Was Actually Sacrificed]]"
 sources: []
 tags:
   - type/concept

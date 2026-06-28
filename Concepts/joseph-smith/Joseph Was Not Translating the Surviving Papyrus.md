@@ -7,6 +7,7 @@ related:
 sources:
   - "[[Ward Radio - Top 3 Myths in the Book of Abraham (Kerry Muhlestein)]]"
   - "[[Ward Radio - Top 5 Mistakes People Make About the Book of Abraham (Kerry Muhlestein)]]"
+  - "[[Ward Radio - Debunking Mike Wingers Irrefutable Proof Mormonism is FALSE]]"
 tags: [apologetics, joseph-smith, book-of-abraham, tradition/lds]
 #type/rebuttal
 ---
@@ -34,16 +35,22 @@ Even setting aside the missing-scroll point, "translation" in Joseph's prophetic
 
 The critics' case (associated with Egyptologist [[Robert Ritner]] and others) is not frivolous. (a) The surviving fragments include the very vignette reproduced as Facsimile 1, and the adjacent text is a Book of Breathings — so the recovered papyrus is *connected* to the Book of Abraham, not random, which makes the "wrong scroll" reply harder. (b) The "missing scroll" is, by definition, unavailable for inspection, so the defense rests partly on an absence of evidence. (c) Some early Latter-day Saint sources (the Egyptian Alphabet and Grammar) appear to tie specific characters on the surviving papyrus to specific Book of Abraham passages, which a critic reads as Joseph treating the recovered fragment as his source. What survives is the genuinely contested core: whether Joseph's source was the extant fragment or a lost roll is not settled by the fragment alone, so the confident claim "the papyrus proves him wrong" overreaches — but the missing-scroll defense remains an inference, not a demonstration.
 
+## The Same Point Against Mike Winger
+[[Cardon Ellis]] and [[Luke Hansen]] make the identical reply to [[Mike Winger]]'s "long scroll theory" objection: primary-source descriptions report a scroll so long it "practically went out the door" when unrolled, whereas the surviving fragments are tiny shards. Winger argues that because the text *beside* Facsimile 1 is a Book of Breathings (not Abraham), Joseph fabricated the rest — but the Book of Abraham *itself* directs the reader to "the picture at the beginning of this record" (so its text is *not* adjacent to its facsimile), and in contemporary papyri the text matches the neighboring vignette only ~50% of the time. Joseph's own quote: "much to our joy we discovered that *one of the scrolls* contained the writings of Abraham" — i.e., not all of them. See [[The Hand of Abraham Phrase Is Ancient Copyist Usage Not Autograph]].[^2]
+
 ## Best Quote
 > The eyewitness sources say he was translating from a different scroll that we no longer have — so the argument is illusory. — [[Kerry Muhlestein]] *(paraphrase)* [^1]
 
 ## Referenced in
 - [[Kerry Muhlestein]]
+- [[Mike Winger]]
 - [[Ward Radio - Top 3 Myths in the Book of Abraham (Kerry Muhlestein)]] (source)
 - [[Ward Radio - Top 5 Mistakes People Make About the Book of Abraham (Kerry Muhlestein)]] (source)
+- [[Ward Radio - Debunking Mike Wingers Irrefutable Proof Mormonism is FALSE]] (source)
 
 ## References
 [^1]: [[Ward Radio - Top 3 Myths in the Book of Abraham (Kerry Muhlestein)|Ward Radio - Top 3 Myths in the Book of Abraham]], [03:30]–[09:30], https://youtu.be/N8mz4qlp8t4
+[^2]: [[Ward Radio - Debunking Mike Wingers Irrefutable Proof Mormonism is FALSE|Ward Radio - Debunking Mike Winger's Irrefutable Proof]], [39:00]–[44:30], https://youtu.be/TMzmV92fXsA
 
 ---
 See also: [[Concepts]] · [[Book of Abraham]] · [[Kerry Muhlestein]] · [[Translating a Text Versus Interpreting a Drawing Are Different Claims]] · [[Ward Radio - Top 3 Myths in the Book of Abraham (Kerry Muhlestein)]]
