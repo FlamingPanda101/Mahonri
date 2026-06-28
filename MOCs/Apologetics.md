@@ -5,7 +5,7 @@ tags: [moc]
 
 # Apologetics — Map of Content
 
-Auto-generated index. **519 sources** ingested. Browse Concepts / Scriptures / People folders or the graph; author tiers in [[Authority Ledger]]; channels in [[Sources Index]].
+Auto-generated index. **520 sources** ingested. Browse Concepts / Scriptures / People folders or the graph; author tiers in [[Authority Ledger]]; channels in [[Sources Index]].
 
 ## Sources Ingested
 
@@ -278,6 +278,7 @@ Auto-generated index. **519 sources** ingested. Browse Concepts / Scriptures / P
 | [[The Counsel of Trent - Rebutting Rationality Rules Critique of Matt Walsh]] | B | ethics, gender |
 | [[The Counsel of Trent - Refuting the Student Who Schooled Charlie Kirk]] | C | abortion, ethics, morality |
 | [[The Counsel of Trent - The Argument for God Atheists Fear the Most]] | B | existence-of-god, fine-tuning |
+| [[The Counsel of Trent - The Assisted Suicide Dystopia Is Here]] | B | ethics, euthanasia |
 | [[The Counsel of Trent - The Female Sin No One Talks About]] | C | moral-theology, virtue-ethics |
 | [[The Counsel of Trent - The Moral Madness of Atheism]] | C | atheism, moral-argument |
 | [[The Counsel of Trent - The Question Unpleasant Protestants Cant Answer]] | C | authority, gospel, justification, perspicuity, sola-scriptura |
