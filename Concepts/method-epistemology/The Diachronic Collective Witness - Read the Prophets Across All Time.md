@@ -4,7 +4,6 @@ scripture:
   - "[[Matthew 19.3-9|Matthew 19:3-9]]"
 related:
   - "[[The Collective Witness Model of Knowing]]"
-  - "[[Collective Witness Epistemology]]"
   - "[[Priesthood Ban Origins]]"
   - "[[A Man of His Time Without Excusing the Sin]]"
 sources:

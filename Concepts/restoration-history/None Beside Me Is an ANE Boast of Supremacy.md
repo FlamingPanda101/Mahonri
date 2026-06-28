@@ -4,7 +4,7 @@ scripture:
   - "[[Zephaniah 2.15|Zephaniah 2:15]]"
   - "[[Isaiah 43.10|Isaiah 43:10]]"
 related:
-  - "[[Shema Echad Means Covenant Loyalty Not Ontology]]"
+  - "[[Echad and the Shema as a Loyalty Pledge]]"
   - "[[Ancient Judaism Affirmed a Divine Spectrum]]"
   - "[[Monotheism Is a 17th-Century Invention]]"
 sources:

@@ -4,7 +4,7 @@ related:
   - "[[Naturalistic Debunking of Spiritual Experience]]"
   - "[[Spiritual Experience Is the Lens Not the Picture]]"
   - "[[Do Not Argue Spiritual Experience to Be Valid]]"
-  - "[[Collective Witness Epistemology]]"
+  - "[[The Collective Witness Model of Knowing]]"
 sources:
   - "[[Light and Truth Letter - Austin Fife]]"
 tags: [apologetics, challenges, ces-letter, spiritual-witness, epistemology, topic/challenges]

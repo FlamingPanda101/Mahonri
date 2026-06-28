@@ -2,7 +2,7 @@
 title: "The Green Book Debunks Objective Value"
 related:
   - "[[Some Things Merit Our Response - Ordinate Affections]]"
-  - "[[The Doctrine of Objective Value - The Tao]]"
+  - "[[The Tao - Lewis's Universal Doctrine of Objective Value]]"
   - "[[Men Without Chests - The Trained Emotions]]"
   - "[[Ethical Emotivism as O'Connor's Metaethic]]"
   - "[[Moral Relativism Is Self-Contradictory]]"

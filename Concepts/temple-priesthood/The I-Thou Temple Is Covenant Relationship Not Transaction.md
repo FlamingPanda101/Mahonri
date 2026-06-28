@@ -23,7 +23,7 @@ Michael Myrrono reads the temple through [[Martin Buber]]'s distinction between 
 
 1. **It reframes the "earning" criticism at the level of *posture*, not mechanics.** Where [[The Endowment Is Learning Heaven Not Earning Heaven]] answers the works-charge by appeal to *enactment*, the Buber move answers it by appeal to *relational intent*: the same outward covenant is meritorious bargaining if held as I-It and grace-formed relationship if held as I-Thou. This pre-empts the caricature of temple covenants as a contract for blessings. *Rating: a genuine philosophical reframe.*
 
-2. **Buber is a serious, mainstream source.** *I and Thou* (1923) is a canonical text in 20th-century philosophy of religion; invoking it is not fringe proof-texting. The I-It/I-Thou grammar maps cleanly onto the biblical covenant idea (*hesed*, covenant loyalty), which the vault already treats in [[Covenant Relationship Over Theology Quiz]] and [[Shema Echad Means Covenant Loyalty Not Ontology]]. *Rating: strong sourcing.*
+2. **Buber is a serious, mainstream source.** *I and Thou* (1923) is a canonical text in 20th-century philosophy of religion; invoking it is not fringe proof-texting. The I-It/I-Thou grammar maps cleanly onto the biblical covenant idea (*hesed*, covenant loyalty), which the vault already treats in [[Covenant Relationship Over Theology Quiz]] and [[Echad and the Shema as a Loyalty Pledge]]. *Rating: strong sourcing.*
 
 3. **The marriage analogy has biblical precedent.** Scripture itself figures the God-Israel and Christ-Church bond as marriage (Hosea; Eph 5), and profaning that bond as adultery/harlotry. Myrrono's move — sacred union profaned by instrumentalizing the partner — is the prophets' own logic transposed. *Rating: well-grounded analogy.*
 

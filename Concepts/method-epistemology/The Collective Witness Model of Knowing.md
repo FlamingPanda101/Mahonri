@@ -1,13 +1,18 @@
 ---
 title: "The Collective Witness Model of Knowing"
+aliases:
+  - "Collective Witness Epistemology"
 related:
   - "[[The Heresy of Authority Alone]]"
   - "[[The Heresy of Feelings Alone]]"
   - "[[Fallible But Reliable - Why Authority Still Counts]]"
   - "[[Natural vs Supernatural Witnesses]]"
   - "[[Inspired vs Infallible vs Ultimate - A Distinction]]"
+  - "[[The Five Witnesses of Reality]]"
+  - "[[Worldview as the Prioritization of Witnesses]]"
 sources:
   - "[[Thoughtful Faith - The Collective Witness Model (No Trump Card)]]"
+  - "[[Thoughtful Faith - Collective Witness Epistemology]]"
 tags: [topic/epistemology, topic/personal-revelation, topic/authority, tradition/lds, course/tf-level-1]
 #type/argument
 ---
@@ -25,6 +30,8 @@ tags: [topic/epistemology, topic/personal-revelation, topic/authority, tradition
 5. **The tools are domain-weighted.** Some witnesses suit some inquiries better: sense data and empirical evidence weigh heavily in the physical world; intuition weighs heavily in beauty and moral obligation; in institutional religious practice authority "may be given more weight than mere intuition."[^4]
 6. **Even science is not single-witness.** Empirical experience and mathematical reasoning can conflict (quantum mechanics, relativity); scientific consensus is a reliable authority but "certainly is not infallible" and must be checked against reason, outcomes, and evidence.[^3]
 7. **No magic formula — walk by faith.** "There is no magic formula, there is no trump card." As Paul said, "we see through a glass darkly" ([[1 Corinthians 13.12]]) and "we walk by faith" ([[2 Corinthians 5.7]]). The goal is to use *all* the tools and not assume one "Reigns Supreme."[^2]
+8. **The courtroom analogy quantifies convergence.** Hansen frames the model on the image of a judge hearing witnesses: one witness to an accident gives some confidence; when four more independently describe the same thing the same way, confidence rises. Knowledge works "by the number and nature of corroborating witnesses, never by attaining certainty."[^5]
+9. **Everyone already appeals to these witnesses.** Any justification of a claim appeals to one or a combination of the witnesses; an arbitrary opinion is one no witness backs. Hansen illustrates with the chain reason → authority → outcomes used to justify "the universe is billions of years old."[^6] Those who ignore some witnesses, or over-emphasize/misapply them, get a distorted map "even if they're quite sincere" — "as if they will have one eye closed."[^7]
 
 ## Best Quotes
 > "This collective witness model of knowing the world is like a system of checks and balances or a system of triangulation where independent factors come together to mutually validate the reality of something." [^3]
@@ -33,11 +40,18 @@ tags: [topic/epistemology, topic/personal-revelation, topic/authority, tradition
 
 > "We have been endowed with a collective set of tools to come to know the reality that surrounds us, and if we want to see all of reality properly we must utilize all of these tools and not assume that one Reigns Supreme." [^4]
 
+> "We never have a hundred percent rational certainty, but we can be more or less sure of any given proposition based on the number and nature of the witnesses that convey to us that this is real." [^5]
+
+> "People essentially always look back and appeal to one of these five witnesses or some combination of these witnesses to back up what they're saying and justify what they say they know is true." [^6]
+
 ## References
 [^1]: [[Thoughtful Faith - The Collective Witness Model (No Trump Card)|Thoughtful Faith - The Collective Witness Model]], [01:32]–[02:01], https://youtu.be/VH0sipXnSJ8
 [^2]: [[Thoughtful Faith - The Collective Witness Model (No Trump Card)|Thoughtful Faith - The Collective Witness Model]], [08:32]–[10:01], https://youtu.be/VH0sipXnSJ8
 [^3]: [[Thoughtful Faith - The Collective Witness Model (No Trump Card)|Thoughtful Faith - The Collective Witness Model]], [09:31]–[10:30], https://youtu.be/VH0sipXnSJ8
 [^4]: [[Thoughtful Faith - The Collective Witness Model (No Trump Card)|Thoughtful Faith - The Collective Witness Model]], [10:01]–[11:00], https://youtu.be/VH0sipXnSJ8
+[^5]: [[Thoughtful Faith - Collective Witness Epistemology|Thoughtful Faith — Collective Witness Epistemology]], [05:31], https://youtu.be/e8cwjC7TG3U
+[^6]: [[Thoughtful Faith - Collective Witness Epistemology|Thoughtful Faith — Collective Witness Epistemology]], [07:30], https://youtu.be/e8cwjC7TG3U
+[^7]: [[Thoughtful Faith - Collective Witness Epistemology|Thoughtful Faith — Collective Witness Epistemology]], [08:30], https://youtu.be/e8cwjC7TG3U
 
 ---
 See also: [[Concepts]] · [[Apologetics]] · [[Thoughtful Faith - The Collective Witness Model (No Trump Card)]]

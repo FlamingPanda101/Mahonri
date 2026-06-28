@@ -23,7 +23,7 @@ Jonah Barnes is a Latter-day Saint apologist associated with **Plain and Preciou
 In the debate-prep conversation, Barnes reinforced several of Hansen's key moves: that ancient Sumerian, Assyrian, and Babylonian cultures *had* gendered plural pronouns yet the Hebrew authors deliberately chose singular masculine for God; that "begotten" denotes source and origin regardless of verb aspect; that abstract natures are "Greek thought" alien to Hebrew categories; and that "no god besides me" reflects covenant loyalty among the gods of the nations rather than ontological denial. He closed with a personal testimony framing the Godhead as Joseph Smith's restoration of "the divinity of man." See:
 - [[Begotten Implies Source and Origin]]
 - [[Bene Elohim Are Sons Not a Different Species]]
-- [[Shema Echad Means Covenant Loyalty Not Ontology]]
+- [[Echad and the Shema as a Loyalty Pledge]]
 - [[Mystery Is Special Pleading Not Humility]]
 
 ## On the garment and the covering of Christ (The Lost Gems of Genesis)

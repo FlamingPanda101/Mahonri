@@ -3,7 +3,7 @@ title: "We Make Men Without Chests - The Great Irony"
 related:
   - "[[Men Without Chests - The Trained Emotions]]"
   - "[[The Green Book Debunks Objective Value]]"
-  - "[[The Doctrine of Objective Value - The Tao]]"
+  - "[[The Tao - Lewis's Universal Doctrine of Objective Value]]"
   - "[[Some Things Merit Our Response - Ordinate Affections]]"
   - "[[Atheisms Four Bad Implications]]"
 sources:

@@ -6,7 +6,7 @@ scripture:
 related:
   - "[[The Father Is Greater Than I]]"
   - "[[The Godhead Model vs the Trinity Model]]"
-  - "[[Shema Echad Means Covenant Loyalty Not Ontology]]"
+  - "[[Echad and the Shema as a Loyalty Pledge]]"
 sources:
   - "[[Thoughtful Faith - The Trinity vs the Godhead Debate Prep]]"
 tags:
@@ -27,7 +27,7 @@ The objection (role-played as a critic): if the LDS Father is a "higher God" tha
 
 1. **Worship is relational devotion, not ritual transaction.** Hansen rejects the model of worship as "doing the right sacrifices so God will bless you with a good harvest." Worship is "a type of fullness of relationship that gives total honor to he which is able to save you" — devotion and following, grounded in the object's *ability to act* for our salvation. (Evidence: a substantive theological reframing; coheres with LDS Christ-centered devotion.) [^2]
 2. **Graded honor within the Godhead.** There is "a sense in which I worship the Godhead" and "another sense in which the Father is preeminent." Even Jesus "gives all glory to the Father" and taught us to pray *to the Father in Jesus' name* — so honoring the Father supremely is *following Jesus' own pattern*, not denigrating him. (Evidence: rests on Jesus' deferral to the Father in the Gospels; the "percentage of honor" question is rebuffed as a category error.) [^3]
-3. **Deuteronomy = covenant loyalty.** The Shema/Deuteronomy demand is a *pledge of allegiance* (catechism) to Yahweh amid the gods of the nations — covenant fidelity — not a metaphysical proof of unipersonality (see [[Shema Echad Means Covenant Loyalty Not Ontology]]). Asked "who or what is Yahweh?", the answer is "three whos and one what," and worshiping all of them together as the Godhead is acceptable. [^4]
+3. **Deuteronomy = covenant loyalty.** The Shema/Deuteronomy demand is a *pledge of allegiance* (catechism) to Yahweh amid the gods of the nations — covenant fidelity — not a metaphysical proof of unipersonality (see [[Echad and the Shema as a Loyalty Pledge]]). Asked "who or what is Yahweh?", the answer is "three whos and one what," and worshiping all of them together as the Godhead is acceptable. [^4]
 4. **Steelman.** The critic's serious point is that Scripture reserves worship (*latreia*) for God *alone* (Deut 6:13; the angel of Revelation refusing worship), and the New Testament *does* direct worship to Jesus ([[John 20.28|John 20:28]]; Phil 2:10–11; Heb 1:6). If the Son is ontologically subordinate, worshiping him risks the very idolatry Deuteronomy forbids — which is why Trinitarianism insists the worship-worthiness of Jesus *entails* his full deity-as-one-God. (Evidence: a strong biblical-theological challenge; the worship-of-Jesus data is a leading argument for high Christology, cf. Bauckham, Hurtado.) The LDS reply: worship can be rightly rendered to the Son *because the Father has exalted him* and the persons mutually indwell, with the Father remaining preeminent — graded honor within one Godhead, not idolatry. [^1]
 
 ## Best Quotes

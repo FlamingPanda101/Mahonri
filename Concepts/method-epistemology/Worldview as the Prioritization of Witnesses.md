@@ -1,7 +1,7 @@
 ---
 title: "Worldview as the Prioritization of Witnesses"
 related:
-  - "[[Collective Witness Epistemology]]"
+  - "[[The Collective Witness Model of Knowing]]"
   - "[[The Five Witnesses of Reality]]"
 sources:
   - "[[Thoughtful Faith - Collective Witness Epistemology]]"
@@ -12,7 +12,7 @@ tags: [apologetics, epistemology, worldview, witnesses, tradition/lds]
 # Worldview as the Prioritization of Witnesses
 
 ## The Point
-A corollary [[Jacob Hansen]] draws from [[Collective Witness Epistemology]]: because the [[The Five Witnesses of Reality|five witnesses]] are "literally the tools we use to map reality," *how a person feels about them — which ones they prioritize and how they apply them — is the foundation of that person's worldview*. Disagreements between worldviews are, at root, disagreements about which witnesses to trust and how to weigh them.[^1]
+A corollary [[Jacob Hansen]] draws from [[The Collective Witness Model of Knowing]]: because the [[The Five Witnesses of Reality|five witnesses]] are "literally the tools we use to map reality," *how a person feels about them — which ones they prioritize and how they apply them — is the foundation of that person's worldview*. Disagreements between worldviews are, at root, disagreements about which witnesses to trust and how to weigh them.[^1]
 
 ## Argument
 1. **Witnesses are the mapping tools.** The five witnesses are the faculties by which anyone maps reality, so one's stance toward them shapes one's whole picture of the world.[^1]

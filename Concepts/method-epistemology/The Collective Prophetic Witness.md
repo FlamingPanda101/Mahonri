@@ -2,7 +2,7 @@
 title: "The Collective Prophetic Witness"
 related:
   - "[[Outliers Against the Collective Prophetic Witness May Be Uninspired]]"
-  - "[[Collective Witness Epistemology]]"
+  - "[[The Collective Witness Model of Knowing]]"
   - "[[The Diachronic Collective Witness - Read the Prophets Across All Time]]"
   - "[[Rejecting Biblical Inerrancy Solves the Moral Contradiction Problem]]"
   - "[[God Works Through Fallible Prophets]]"
@@ -21,7 +21,7 @@ The principle does double duty: it dissolves apparent moral contradictions (e.g.
 ## Key notes linking the cluster
 
 - [[Outliers Against the Collective Prophetic Witness May Be Uninspired]] — the worked mechanism (the women-silent test case) and the anti-cafeteria guardrail.
-- [[Collective Witness Epistemology]] and [[The Collective Witness Model of Knowing]] — the epistemology stated in general form.
+- [[The Collective Witness Model of Knowing]] — the epistemology stated in general form.
 - [[The Diachronic Collective Witness - Read the Prophets Across All Time]] — reading prophets *across* time as one corpus.
 - [[Rejecting Biblical Inerrancy Solves the Moral Contradiction Problem]] — the inerrancy-rejection payoff.
 - [[God Works Through Fallible Prophets]] and [[Prophets Are Fallible Not Divine]] — why individual prophetic error does not defeat the collective.

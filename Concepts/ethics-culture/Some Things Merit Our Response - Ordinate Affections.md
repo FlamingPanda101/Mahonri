@@ -2,7 +2,7 @@
 title: "Some Things Merit Our Response - Ordinate Affections"
 related:
   - "[[The Green Book Debunks Objective Value]]"
-  - "[[The Doctrine of Objective Value - The Tao]]"
+  - "[[The Tao - Lewis's Universal Doctrine of Objective Value]]"
   - "[[Men Without Chests - The Trained Emotions]]"
   - "[[Morality Is the Well-Being of Conscious Creatures]]"
 sources:

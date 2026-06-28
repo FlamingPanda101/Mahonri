@@ -1,7 +1,7 @@
 ---
 title: "The Five Witnesses of Reality"
 related:
-  - "[[Collective Witness Epistemology]]"
+  - "[[The Collective Witness Model of Knowing]]"
   - "[[100 Percent Rational Certainty Is Essentially Impossible]]"
   - "[[Worldview as the Prioritization of Witnesses]]"
 sources:
@@ -13,7 +13,7 @@ tags: [apologetics, epistemology, witnesses, intuition, reason, authority, tradi
 # The Five Witnesses of Reality
 
 ## The Point
-The catalog at the heart of [[Collective Witness Epistemology]]: [[Jacob Hansen]] identifies five faculties that act as independent witnesses to reality — **intuition, outcomes (fruits), sense data, reason, and authority**. He does not claim the list is exhaustive ("there may be many more"); these are simply the witnesses people most commonly appeal to when justifying a knowledge claim.[^1]
+The catalog at the heart of [[The Collective Witness Model of Knowing]]: [[Jacob Hansen]] identifies five faculties that act as independent witnesses to reality — **intuition, outcomes (fruits), sense data, reason, and authority**. He does not claim the list is exhaustive ("there may be many more"); these are simply the witnesses people most commonly appeal to when justifying a knowledge claim.[^1]
 
 ## Argument
 Hansen derives each witness from a test case — "how do you know X?":
@@ -23,7 +23,7 @@ Hansen derives each witness from a test case — "how do you know X?":
 4. **Authority.** How do you know electrons exist, having never run the experiments? Trusted authorities witness that they do; Hansen notes how much we believe on authority rather than direct experience.[^5]
 5. **Intuition.** How do you know it is wrong to pour boiling water on a sleeping baby? It is "just self-evident" — witnessed by moral intuition. We act with ~99.9% confidence that some things are wrong (racism, animal abuse, child molestation) on intuition alone, with no empirical evidence.[^6]
 
-**Closing claims (steelman):** the five are not privileged as the *only* witnesses — Hansen is explicit it "is just a model." Their authority comes from being what people actually appeal to, and they are domain-specific, so they can conflict (see [[Collective Witness Epistemology]]).[^7]
+**Closing claims (steelman):** the five are not privileged as the *only* witnesses — Hansen is explicit it "is just a model." Their authority comes from being what people actually appeal to, and they are domain-specific, so they can conflict (see [[The Collective Witness Model of Knowing]]).[^7]
 
 ## Best Quotes
 > "We now have five witnesses: intuition, outcomes, sense data, reason, and authority. Now there may be many more, but for now these are the ones that come to mind." [^1]

@@ -3,7 +3,7 @@ title: "Men Without Chests - The Trained Emotions"
 related:
   - "[[The Green Book Debunks Objective Value]]"
   - "[[Some Things Merit Our Response - Ordinate Affections]]"
-  - "[[The Doctrine of Objective Value - The Tao]]"
+  - "[[The Tao - Lewis's Universal Doctrine of Objective Value]]"
   - "[[We Make Men Without Chests - The Great Irony]]"
   - "[[Reason Presupposes Emotion - The Neuroscience Reply to Materialism]]"
 sources:
@@ -27,7 +27,7 @@ Ward situates the chapter's argument as Lewis's "segue from the aesthetic questi
 > "The average pupil... tends towards sterility of sentiment, not excessive fertility of sentiment." [^4]
 
 ## LDS Connection
-The "chest" — trained sentiment mediating reason and appetite — names something Restoration discipleship targets directly: the formation of a *new heart* whose desires are aligned with truth. The gospel does not merely inform the intellect or restrain the appetite; it works to "sanctify... your hearts" (Helaman 3:35) until the Saints can say "we have no more disposition to do evil, but to do good continually" (Mosiah 5:2) — a description of the chest fully irrigated. This is why charity, "the pure love of Christ," is something one must *pray* to be "filled with" (Moroni 7:48): right feeling is cultivated, not assumed. Lewis's diagnosis — that modern education *starves* the heart — parallels the warning that in the last days many will be "without natural affection" (2 Timothy 3:3). And it answers the materialist who treats moral motivation as mere neurochemistry: the chest must be *educated toward objective good* ([[The Doctrine of Objective Value - The Tao]]), not just stimulated, which is the burden of the [[Reason Presupposes Emotion - The Neuroscience Reply to Materialism]] critique of [[The Moral Landscape - Sam Harris]].
+The "chest" — trained sentiment mediating reason and appetite — names something Restoration discipleship targets directly: the formation of a *new heart* whose desires are aligned with truth. The gospel does not merely inform the intellect or restrain the appetite; it works to "sanctify... your hearts" (Helaman 3:35) until the Saints can say "we have no more disposition to do evil, but to do good continually" (Mosiah 5:2) — a description of the chest fully irrigated. This is why charity, "the pure love of Christ," is something one must *pray* to be "filled with" (Moroni 7:48): right feeling is cultivated, not assumed. Lewis's diagnosis — that modern education *starves* the heart — parallels the warning that in the last days many will be "without natural affection" (2 Timothy 3:3). And it answers the materialist who treats moral motivation as mere neurochemistry: the chest must be *educated toward objective good* ([[The Tao - Lewis's Universal Doctrine of Objective Value]]), not just stimulated, which is the burden of the [[Reason Presupposes Emotion - The Neuroscience Reply to Materialism]] critique of [[The Moral Landscape - Sam Harris]].
 
 ## References
 [^1]: [[After Humanity - Michael Ward|After Humanity (Ward, 2021)]], pp.97–98

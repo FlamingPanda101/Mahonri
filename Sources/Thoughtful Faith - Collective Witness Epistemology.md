@@ -24,13 +24,13 @@ A solo explainer by **[[Jacob Hansen]]** (Thoughtful Faith), the opening epistem
 ## Summary
 - Following [[René Descartes]] (developed in the prior course video), Hansen holds that **100% rational certainty is impossible about essentially anything**; to "know" something is a statement of *high confidence*, not perfect certainty. See [[100 Percent Rational Certainty Is Essentially Impossible]] and [[Know and Believe Mark Points on a Confidence Spectrum]].[^2]
 - He proposes **five faculties that act as independent witnesses** to reality: intuition, outcomes (fruits), sense data, reason, and authority. See [[The Five Witnesses of Reality]].[^3]
-- The core model — **[[Collective Witness Epistemology]]** — uses a courtroom analogy: as more independent witnesses corroborate a proposition, confidence rises; knowledge works by the *number and nature* of witnesses, never by reaching certainty.[^4]
+- The core model — **[[The Collective Witness Model of Knowing]]** — uses a courtroom analogy: as more independent witnesses corroborate a proposition, confidence rises; knowledge works by the *number and nature* of witnesses, never by reaching certainty.[^4]
 - Witnesses are suited to different questions and sometimes **conflict** (e.g., sense data vs. scientific authority on time dilation), forcing one to lower confidence in a proposition.[^5]
 - How a person weighs and prioritizes these witnesses **constitutes their worldview**; refusing to account for all of them, or over-emphasizing/misapplying some, yields a distorted map of reality. See [[Worldview as the Prioritization of Witnesses]].[^6]
 - (Front-matter housekeeping) Hansen opens by recommending the **Saints Unscripted** "Faith and Beliefs" videos by David Snell as a faithful resource for hard topics.[^7]
 
 ## Concepts
-- [[Collective Witness Epistemology]]
+- [[The Collective Witness Model of Knowing]]
 - [[The Five Witnesses of Reality]]
 - [[Worldview as the Prioritization of Witnesses]]
 - [[100 Percent Rational Certainty Is Essentially Impossible]] (premise, from prior video)

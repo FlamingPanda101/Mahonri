@@ -26,7 +26,7 @@ Christian Mario is an Eastern Orthodox apologist who engages in cross-confession
 Against Hansen's appeal to personal supernatural experience, Mario argues that "calling something supernatural truth without a public revelation" is "emotionalism that's made to seem theological," since any mystic can claim private certainty. He presses Hansen's "no perfect rational certainty" thesis as a self-refuting **performative contradiction** ("a rationally certain statement about certainty") and offers the patristic counter-definition of knowledge as "the illumination of the *nous*" through "synergy with divine grace." See:
 - [[The Logical Uncertainty Principle Challenges the Cogito]]
 - [[Natural vs Supernatural Witnesses]]
-- [[Collective Witness Epistemology]]
+- [[The Collective Witness Model of Knowing]]
 
 ## Metaphysics: The Orthodox Case Against the Organizer-God
 
