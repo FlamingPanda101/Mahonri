@@ -2,6 +2,7 @@
 aliases:
   - "Katherine Smith"
   - "Catherine Smith"
+  - "Katharine Smith"
   - "Katharine Smith Salisbury"
 tags:
   - "#type/person"
@@ -24,7 +25,11 @@ Her experience supports the weight/tangibility evidence and undercuts hallucinat
 - [[Informal Witnesses Were Not Primed]]
 - [[No Shared Hallucination]]
 
+## Tactile Encounter with the Plates
+In a separate retelling she recalled "seeing a package on the table containing the gold plates," picking them up to "judge the weight" — they "were heavy like gold" — and rippling her fingers along the edges, feeling separate metal plates and hearing "the tinkle of sound that they made."[^2] Her tactile testimony parallels that of [[William Smith]] and [[Emma Smith]]; see [[Natural vs Supernatural Witnesses]] and [[Informal Witnesses of the Golden Plates]].
+
 [^1]: [[Daniel C. Peterson - The Book of Mormon Witnesses Lied Tricked or Telling the Truth|Witnesses Lied Tricked or Telling the Truth]], [03:30]–[04:32], https://youtu.be/DK22Onq9JgE
+[^2]: [[WardRadio - Book of Mormon Witnesses Are Unimpeachable|Ward Radio - Book of Mormon Witnesses Are Unimpeachable]], [13:00], https://youtu.be/VcnjatilcC8
 
 ---
-See also: [[People]]
+See also: [[People]] · [[WardRadio - Book of Mormon Witnesses Are Unimpeachable]]

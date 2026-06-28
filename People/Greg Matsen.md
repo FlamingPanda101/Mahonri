@@ -1,12 +1,15 @@
 ---
 aliases:
   - "Greg Matsen"
+  - "Greg Matson"
+  - "Greg Madson"
   - "Cwic Media"
 tags:
   - "#type/person"
   - "#tradition/lds"
   - "#role/apologist"
   - "#role/educator"
+  - "#role/podcaster"
 ---
 
 # Greg Matsen
@@ -40,6 +43,9 @@ death and resurrection, defending Joseph Smith's "alive Abraham" reading against
 the critics' "dead Osiris" charge via the feet-apart / hands-up iconographic
 convention.[^3] See [[The Facsimiles Encode Abraham's Endowment Through the Osiris Myth]].
 
+### Cwic Show: the Structure of Plural Marriage
+On his *Cwic Show* (rendered "Greg Madson" in some auto-transcripts), Matsen is cited by [[Jacob Hansen]]'s Thoughtful Faith for a clarifying point about plural marriage: it "is between a man and a woman... It is always a marriage between one man and one woman" — a man enters "several marriages with one woman each," which is why it is *plural* marriages (plural) rather than one marriage to many women. The point is used to block the claim that polygamy is a precedent for redefining marriage as something other than a man-woman union.[^4] See [[Polygamy Doctrine Did Not Change Only the Exaltation-Requires-Polygamy Idea Did]] and [[Gay Marriage Is Not Analogous to the Priesthood Ban or Polygamy]].
+
 [^1]: [[The Stick of Joseph - Temple Knowledge Encoded in Egyptian Mythology|Stick of Joseph - Egyptian Temple]], [00:30],
 https://youtu.be/bm21JF7Ai-E
 
@@ -49,5 +55,7 @@ https://youtu.be/bm21JF7Ai-E
 [^3]: [[The Stick of Joseph - Temple Knowledge Encoded in Egyptian Mythology|Stick of Joseph - Egyptian Temple]], [54:30],
 https://youtu.be/bm21JF7Ai-E
 
+[^4]: [[Thoughtful Faith - Can Eternal Truth Be Altered Dealing With Change In The Mormon Church|Thoughtful Faith - Dealing With Change]], [38:30]–[39:00], https://youtu.be/rI7INCEoDQU
+
 ---
-See also: [[People]] · [[David Butler (Stick of Joseph)]] · [[The Stick of Joseph - Temple Knowledge Encoded in Egyptian Mythology]]
+See also: [[People]] · [[David Butler (Stick of Joseph)]] · [[The Stick of Joseph - Temple Knowledge Encoded in Egyptian Mythology]] · [[Polygamy Doctrine Did Not Change Only the Exaltation-Requires-Polygamy Idea Did]]
