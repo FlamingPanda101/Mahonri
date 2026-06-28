@@ -1,6 +1,6 @@
 # Consolidation Report
 
-*Scanned 2026-06-28 13:42 — 2983 concept notes.*
+*Scanned 2026-06-28 15:02 — 2983 concept notes.*
 
 Auto-detected. **Nothing was changed** — review and merge via Mahonri (tell it: merge note X into note Y) or by hand.
 
@@ -22,12 +22,11 @@ Auto-detected. **Nothing was changed** — review and merge via Mahonri (tell it
 - `Feminism Tracks Material Conditions Not Christian Doctrine` ↔ `Abolition Tracks Material Conditions Not Christian Conviction`  (similarity 0.82)
 - `Anthropic Fine-Tuning Points to a Designer` ↔ `Cosmic Fine-Tuning Points to a Designer (Turek)`  (similarity 0.82)
 
-## Broken wiki-links (9)
+## Broken wiki-links (8)
 - in **Canon - Development and Closure.md** → `[[99-meta/Consolidation Report]]` (no such note)
 - in **Canon - Early Fluidity and Debate.md** → `[[99-meta/Consolidation Report]]` (no such note)
 - in **Hell - Development of the Concept.md** → `[[99-meta/Consolidation Report]]` (no such note)
 - in **Son of Man - Development of the Title.md** → `[[99-meta/Consolidation Report]]` (no such note)
-- in **Lamanite Means Filthy Unbeliever in the Reformed Egyptian Glyphs.md** → `[[Jacob 1.14]]` (no such note)
 - in **How the Trinity Was Invented.md** → `[[99-meta/Consolidation Report]]` (no such note)
 - in **Satan - Development of the Figure.md** → `[[99-meta/Consolidation Report]]` (no such note)
 - in **Bes.md** → `[[Consolidation Report]]` (no such note)
