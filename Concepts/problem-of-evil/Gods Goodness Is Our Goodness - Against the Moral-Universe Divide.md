@@ -15,13 +15,14 @@ tags:
   - topic/great-apostasy
   - by/terryl-givens
   - tradition/lds
-#type/objection
+  - type/objection
+authority: C
 ---
 
 # Gods Goodness Is Our Goodness - Against the Moral-Universe Divide
 
 ## The Claim (Objection)
-[[Terrell Givens|Terryl Givens]] calls this his "most scathing critique of Christianity gone awry": the doctrine that **"God's goodness is not our goodness,"** or, as he attributes to [[Augustine]], that **"his justice is not our justice."** Severing continuity between God's moral nature and ours, Givens argues, is "morally incomprehensible" and "intellectually indefensible," and — crucially — it is the move that made historical atrocity *sayable*: a "whole history of abuses became possible once we say there is no continuity between God's nature and our nature, between his moral universe and our moral universe." He frames it with [[Marcion|Marcion]]'s original question and Elie Wiesel's: "If God's moral universe isn't our moral universe, then what's the use of any of this?"[^1][^2]
+[[Terryl Givens]] calls this his "most scathing critique of Christianity gone awry": the doctrine that **"God's goodness is not our goodness,"** or, as he attributes to [[Augustine]], that **"his justice is not our justice."** Severing continuity between God's moral nature and ours, Givens argues, is "morally incomprehensible" and "intellectually indefensible," and — crucially — it is the move that made historical atrocity *sayable*: a "whole history of abuses became possible once we say there is no continuity between God's nature and our nature, between his moral universe and our moral universe." He frames it with [[Marcion|Marcion]]'s original question and Elie Wiesel's: "If God's moral universe isn't our moral universe, then what's the use of any of this?"[^1][^2]
 
 ## Supporting Evidence
 1. **It licenses atrocity by redescription — rate: strong moral argument.** Givens: "Why are you burning him at the stake? Well, God's love looks... Why are you damning infants to hell? Well, we don't understand God's justice. We're doing it lovingly." If "good" can mean anything when applied to God, then crusades, inquisitions, and terrorizing "dissenting Christians" can all be re-narrated as love. See [[Hell for Gods Glory Is Narcissism Not Love]].[^2]

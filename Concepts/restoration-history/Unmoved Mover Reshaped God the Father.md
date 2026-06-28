@@ -18,7 +18,7 @@ tags:
   - by/ward-radio
   - tradition/lds
   - type/claim
-#type/claim
+authority: C
 ---
 
 # Unmoved Mover Reshaped God the Father

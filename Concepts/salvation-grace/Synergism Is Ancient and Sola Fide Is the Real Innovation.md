@@ -9,6 +9,7 @@ related:
   - "[[The Pelagian Controversy on Grace and Human Ability]]"
 sources:
   - "[[All Those In Favor - Three Tactics to Evangelize Mormons]]"
+authority: C
 tags: ["#apologetics/method", "#tradition/lds", "#type/claim", "#topic/grace", "#topic/justification"]
 ---
 

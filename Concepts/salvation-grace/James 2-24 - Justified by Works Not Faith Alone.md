@@ -7,6 +7,7 @@ related:
   - "[[Initial vs Ongoing Justification]]"
 sources:
   - "[[Council of Trent - James 2 Not By Faith Alone]]"
+authority: B
 tags: [apologetics, justification, sola-fide, james, tradition/catholic]
 #type/claim
 ---

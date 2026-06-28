@@ -7,6 +7,7 @@ related:
   - "[[Infinitism Accepts an Endless Chain of Reasons]]"
 sources:
   - "[[Wireless Philosophy - The Epistemic Regress Problem (Kevin McCain)]]"
+authority: B
 tags:
   - topic/epistemology
   - topic/justification

@@ -1,6 +1,7 @@
 ---
 title: "Debate - LDS Satanic Ritual Abuse Allegations"
 tags: [debate-map, church-history]
+authority: C
 ---
 #type/debate-map
 

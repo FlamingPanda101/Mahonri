@@ -11,6 +11,7 @@ related:
   - "[[The Vernal Holley Map Places Book of Mormon Geography Wrong]]"
 sources:
   - "[[Ward Radio - Ask Me Anything About Book of Mormon Geography]]"
+authority: C
 tags:
   - "#type/claim"
   - "#topic/book-of-mormon-geography"

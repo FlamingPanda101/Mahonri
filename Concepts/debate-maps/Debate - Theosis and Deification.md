@@ -1,5 +1,6 @@
 ---
 title: "Debate - Theosis and Deification"
+authority: C
 tags: [debate-map, god-trinity]
 ---
 #type/debate-map

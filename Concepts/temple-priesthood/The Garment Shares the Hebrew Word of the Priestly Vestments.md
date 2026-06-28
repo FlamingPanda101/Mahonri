@@ -10,6 +10,7 @@ related:
   - "[[Guardians of Sacred Space and the Password Motif]]"
 sources:
   - "[[Moronis Standard - The Temple Ceremony Was Destroyed Twice and Restored in 1842]]"
+authority: C
 tags: [apologetics/temple, tradition/lds, type/claim, topic/endowment, topic/garment]
 #type/claim
 ---

@@ -10,6 +10,7 @@ tags:
   - topic/apologetics-critique
   - topic/costly-signaling
   - by/dan-mcclellan
+authority: B
 ---
 #type/claim
 
@@ -41,7 +42,7 @@ tags:
 - [[The Bible Was Wrong and Consensus Determines Morality]]
 - [[Biblical Modesty Refers to Wealth Not Sexuality]]
 - [[Apologist Misremembers and Hallucinates Bible Passages]]
-- [[Joshua HS]]
+- Joshua HS (Reformation Red Pill)
 
 ---
 [^1]: [[Dan McClellan - Biblical Slavery and the Reformation Red Pill Rebuttal|Dan McClellan — Biblical Slavery and the Reformation Red Pill Rebuttal]], [04:32]–[05:00], https://youtu.be/9k9TOmOP5iQ

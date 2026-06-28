@@ -1,5 +1,8 @@
 ---
 aliases: ["Israel and Judah Divided", "United Monarchy Fictional"]
+sources:
+  - "[[Data Over Dogma - Why the Bible Began with Jacob Wright]]"
+authority: B
 tags:
   - "#apologetics/biblical-origins"
   - "#tradition/academic-biblical-studies"

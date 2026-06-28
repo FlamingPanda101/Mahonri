@@ -5,6 +5,7 @@ tags:
   - "#apologetics/atheism"
   - "#tradition/lds"
   - "#type/claim"
+authority: C
 related:
   - "[[Free Will - Atheist Determinism vs LDS Co-Eternality]]"
   - "[[Calvinism Consistency with Atheism on Free Will]]"

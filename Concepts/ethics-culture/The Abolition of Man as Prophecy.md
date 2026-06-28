@@ -8,6 +8,7 @@ related:
 sources:
   - "[[After Humanity - Michael Ward]]"
 tags: [apologetics, ethics, natural-law, objective-morality, subjectivism, topic/ethics]
+authority: B
 ---
 
 # The Abolition of Man as Prophecy
@@ -26,7 +27,7 @@ Ward classifies the book as "largely a jeremiad, largely a negative case" — "c
 > "He is simply charting the likely course of unchecked subjectivism, saying in effect, 'This philosophical error leads to sub-humanity and if a sub-human fate is what we want, that's the fate we'll get.'" [^6]
 
 ## LDS Connection
-Ward's framing of Lewis as a prophet who both diagnoses his age and forecasts its trajectory honors a category central to Latter-day Saint thought: the prophet who "tells forth and foretells." Latter-day Saints likewise read present moral decline as the predictable fruit of abandoning **eternal, objective moral law** — the warning of 2 Nephi 2 that agency turned against eternal law is self-destructive, and the modern apostolic counsel that a society which calls "evil good, and good evil" (Isaiah 5:20; 2 Nephi 15:20) is charting its own ruin. Lewis's insistence that "the choice is ours" mirrors the LDS emphasis on **agency**: the prophecy is conditional, a foretold consequence we remain free to avert. This is the same subjectivist drift that secular projects like [[The Moral Landscape - Sam Harris]] now try to reverse from within naturalism, while Lewis insists the correction can only come from within the [[The Tao - Lewis's Universal Doctrine of Objective Value|Tao]] itself (see [[Moral Relativism Is Self-Contradictory]]).
+Ward's framing of Lewis as a prophet who both diagnoses his age and forecasts its trajectory honors a category central to Latter-day Saint thought: the prophet who "tells forth and foretells." Latter-day Saints likewise read present moral decline as the predictable fruit of abandoning **eternal, objective moral law** — the warning of 2 Nephi 2 that agency turned against eternal law is self-destructive, and the modern apostolic counsel that a society which calls "evil good, and good evil" (Isaiah 5:20; 2 Nephi 15:20) is charting its own ruin. Lewis's insistence that "the choice is ours" mirrors the LDS emphasis on **agency**: the prophecy is conditional, a foretold consequence we remain free to avert. This is the same subjectivist drift that secular projects like [[The Moral Landscape - Grounding Value in Conscious Well-Being|The Moral Landscape (Sam Harris)]] now try to reverse from within naturalism, while Lewis insists the correction can only come from within the [[The Tao - Lewis's Universal Doctrine of Objective Value|Tao]] itself (see [[Moral Relativism Is Self-Contradictory]]).
 
 ## References
 [^1]: [[After Humanity - Michael Ward|After Humanity (Ward, 2021)]], p.265

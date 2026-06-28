@@ -7,6 +7,7 @@ related:
   - "[[Editing Revealed Scripture Is Compatible with Divine Origin]]"
 sources:
   - "[[Saints Unscripted - Responding to 5 Changes to the Book of Mormon]]"
+authority: C
 tags: [apologetics, book-of-mormon, textual-criticism, translation, tradition/lds]
 #type/rebuttal
 ---

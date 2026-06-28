@@ -10,6 +10,7 @@ related:
   - "[[The Garment Shares the Hebrew Word of the Priestly Vestments]]"
 sources:
   - "[[The Stick of Joseph - Why ALL Christians Should Wear a Sacred Garment]]"
+authority: C
 tags: ["#apologetics/temple", "#tradition/lds", "#type/claim", "#topic/garment"]
 #type/claim
 ---

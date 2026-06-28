@@ -12,6 +12,7 @@ tags:
   - "#topic/joseph-smith"
   - "#topic/prophecy"
   - "#tradition/lds"
+authority: C
 ---
 
 #type/claim

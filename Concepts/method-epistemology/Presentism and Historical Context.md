@@ -18,7 +18,7 @@ tags:
 
 ## Overview
 
-**Presentism** is the historiographical error of judging people of the past by the moral standards, knowledge, and sensibilities of the present, rather than reading them in the context of their own time. The note as used here is the version [[Daniel Peterson]] presses in defense of [[Brigham Young]] on Ward Radio: critics extract a 19th-century figure's words and conduct, strip the context, and grade them on a 21st-century rubric.
+**Presentism** is the historiographical error of judging people of the past by the moral standards, knowledge, and sensibilities of the present, rather than reading them in the context of their own time. The note as used here is the version [[Daniel C. Peterson|Daniel Peterson]] presses in defense of [[Brigham Young]] on Ward Radio: critics extract a 19th-century figure's words and conduct, strip the context, and grade them on a 21st-century rubric.
 
 ## The Claim
 

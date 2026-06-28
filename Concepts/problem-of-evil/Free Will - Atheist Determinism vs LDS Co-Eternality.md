@@ -5,6 +5,7 @@ tags:
   - "#apologetics/atheism"
   - "#tradition/lds"
   - "#type/claim"
+authority: C
 related:
   - "[[Atheisms Four Bad Implications]]"
   - "[[Creation Ex Nihilo Leads to Determinism]]"
@@ -170,7 +171,7 @@ discourse, and the very concept of "you" as an agent.
 - [[Stick of Joseph - Atheism is Unreasonable and Stupid]]
 - [[Sam Harris]]
 - [[Christopher Hitchens]]
-- [[Alex O'Connor]]
+- [[Alex OConnor]]
 - [[Joseph Smith]]
 - [[D&C 130.20-21|D&C 130:20-21]]
 

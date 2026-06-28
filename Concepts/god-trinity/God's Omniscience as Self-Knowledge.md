@@ -10,6 +10,7 @@ related:
 sources:
   - "[[Five Proofs of the Existence of God - Edward Feser]]"
 tags: [apologetics, natural-theology, existence-of-god, classical-theism, divine-attributes, topic/existence-of-god]
+authority: B
 ---
 
 # God's Omniscience as Self-Knowledge

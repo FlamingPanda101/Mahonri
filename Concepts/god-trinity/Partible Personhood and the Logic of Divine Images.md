@@ -14,6 +14,7 @@ tags:
   - "#apologetics/trinity"
   - "#tradition/academic-biblical-studies"
   - "#type/claim"
+authority: B
 ---
 
 # Partible Personhood and the Logic of Divine Images
