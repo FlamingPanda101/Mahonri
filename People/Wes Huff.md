@@ -5,8 +5,8 @@ tags:
   - type/person
   - tradition/evangelical
   - role/apologist
-authority: C
-authority_reason: "Christian apologist; represents common apologetic arguments (here critiqued as foil). Not peer-reviewed scholarship."
+authority: B
+authority_reason: "Wesley Huff is a PhD candidate in New Testament and Christian Origins at the University of Toronto (specializing in the transmission of early NT manuscripts) and Central Canada director of Apologetics Canada. Tier B when speaking within his field — textual criticism of the NT and the Quran — where he presents mainstream text-critical scholarship competently; weaker (closer to C) on topics outside it, e.g. his creation-ex-nihilo thread, which Dan McClellan critiqued for leaning on outdated apologetic translations."
 ---
 
 # Wes Huff
@@ -33,8 +33,17 @@ Dan McClellan's response (see [[Dan McClellan - Wes Huff Creation Ex Nihilo Resp
 
 McClellan's diagnostic: "Wes is just pulling uncritically from more than 50-year-old translations that have been widely panned and widely criticized by scholars as overly apologetic and as trying to read more significance into these texts than we really can. In other words, Wes is doing what Wes does."[^1]
 
+## Comparing the Quran with the New Testament
+
+In his own area of academic specialty, Huff delivered a lecture ("Two Books") comparing the **transmission histories** of the New Testament and the Quran. Here he is on much firmer ground than in the creation-ex-nihilo episode, presenting standard text-critical scholarship: the NT as a *free transmission* recoverable from its many variants, versus the Quran as a *controlled transmission* standardized by [[Uthman]]. See:
+
+- [[The Quran Is a Controlled Transmission and the New Testament Is a Free Transmission]]
+- [[Textual Multivocality and Tenacity Trace the New Testament to the Autographs]]
+- [[The Quran Has Its Own Manuscript Variants]]
+
 ## Key Sources
 
-- [[Dan McClellan - Wes Huff Creation Ex Nihilo Response]] (critique of Huff's claims)
+- [[Wes Huff - Comparing the Quran with the New Testament]] (his academic specialty — NT/Quran textual transmission)
+- [[Dan McClellan - Wes Huff Creation Ex Nihilo Response]] (critique of Huff's claims outside his specialty)
 
 [^1]: [[Dan McClellan - Wes Huff Creation Ex Nihilo Response|Dan McClellan - Wes Huff Creation Ex Nihilo Response]], [10:00]-[10:31], https://youtu.be/VxpTLp6jCLI

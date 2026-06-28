@@ -3,6 +3,8 @@ title: "Quranic Textual History Is Cleaner Than the Bible's"
 related:
   - "[[The Quran Parallels the Doctrine and Covenants Not the Book of Mormon]]"
   - "[[Muhammad and Joseph Smith Are Apples to Oranges]]"
+  - "[[The Quran Is a Controlled Transmission and the New Testament Is a Free Transmission]]"
+  - "[[The Quran Has Its Own Manuscript Variants]]"
 sources:
   - "[[Stick of Joseph - Did Muhammad Undercut Joseph Smith with Dan Peterson]]"
 tags: [apologetics, topic/quran, topic/textual-criticism, topic/manuscripts, topic/islam, tradition/lds]

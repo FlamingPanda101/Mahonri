@@ -12,6 +12,7 @@ related:
   - "[[Chancel Screens and Veils Demarcating Sacred Space]]"
 sources:
   - "[[The Stick of Joseph - Why ALL Christians Should Wear a Sacred Garment]]"
+  - "[[The Stick of Joseph - Why LDS Garments Are the Most Christian Symbol Ever (Jonah Barnes)]]"
 tags: ["#apologetics/temple", "#tradition/lds", "#type/claim", "#topic/garment"]
 #type/claim
 ---
@@ -41,10 +42,16 @@ tags: ["#apologetics/temple", "#tradition/lds", "#type/claim", "#topic/garment"]
 
 > "Your garment of light is the veil of the temple, because in some sense you are putting on the body of the Lord as part of gaining access to the atonement." [^2]
 
+**Corroborating source ([[Jonah Barnes]]).** In a separate Stick of Joseph conversation, Jonah Barnes makes the identical veil-equation independently and presses it further: the garment is "the most Christian symbol in the world," because "you're wearing the veil of the temple," "you're wearing his blood, the blood of the lamb."[^4] He reads the Day-of-Atonement high priest who "has the name of the Lord on his forehead" and "wears robes that match the veil" as "putting on the body of the Lord," landing on the same rejection of the Protestant "temple obsolete" reading of the torn veil.[^5]
+
+> "You think the cross is Christian? That ain't nothing. You're wearing his blood, the blood of the lamb. You're wearing the shroud of Turin. You're wearing the veil of the temple." — [[Jonah Barnes]] [^4]
+
 ## References
 [^1]: [[The Stick of Joseph - Why ALL Christians Should Wear a Sacred Garment|Stick of Joseph - Sacred Garment (Barnes)]], [16:30], https://youtu.be/6IotRPZLAAA
 [^2]: [[The Stick of Joseph - Why ALL Christians Should Wear a Sacred Garment|Stick of Joseph - Sacred Garment (Barnes)]], [17:00], https://youtu.be/6IotRPZLAAA
 [^3]: [[The Stick of Joseph - Why ALL Christians Should Wear a Sacred Garment|Stick of Joseph - Sacred Garment (Barnes)]], [17:30], https://youtu.be/6IotRPZLAAA
+[^4]: [[The Stick of Joseph - Why LDS Garments Are the Most Christian Symbol Ever (Jonah Barnes)|Stick of Joseph - Garment, Most Christian Symbol (Jonah Barnes)]], [03:30], https://youtu.be/pzcRy8b0mMI
+[^5]: [[The Stick of Joseph - Why LDS Garments Are the Most Christian Symbol Ever (Jonah Barnes)|Stick of Joseph - Garment, Most Christian Symbol (Jonah Barnes)]], [00:00], https://youtu.be/pzcRy8b0mMI
 
 ---
-See also: [[Concepts]] · [[We Wear the Divine Name - The Tetragrammaton on the High Priest and the Garment]] · [[Hebrews 10.19-22]] · [[The Garment Is the Covering of Christ]]
+See also: [[Concepts]] · [[We Wear the Divine Name - The Tetragrammaton on the High Priest and the Garment]] · [[Hebrews 10.19-22]] · [[The Garment Is the Covering of Christ]] · [[Jonah Barnes]]
