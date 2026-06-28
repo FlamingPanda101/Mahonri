@@ -15,6 +15,9 @@ Sandra Tanner is a prominent former Latter-day Saint who, with her late husband 
 ## In Beshears's account
 Used to show that "Christian" cannot be reduced to LDS church-membership status. See [[Are Mormons Christian (Beshears)]].
 
+## On the Book of Abraham
+In a Thoughtful Faith video, [[Jacob Hansen]] reports speaking with Sandra Tanner about the Book of Abraham and characterizes the Tanners' character-matching work (matching Book of Abraham manuscript characters to the surviving papyri) as the 50-plus-year-old research that current critics still recycle without engaging the newer cipher/missing-scroll scholarship. See [[The Kirtland Egyptian Papers Are a Cipher Project Not a Translation Tool]] and [[Joseph Smith Declined to Translate the Hypocephalus Characters of Facsimile 2]].
+
 ## References
 [^1]: [[Mormon Book Reviews - 40 Questions about Mormonism with Kyle Beshears|Mormon Book Reviews - 40 Questions about Mormonism with Kyle Beshears]], [69:00], https://youtu.be/_RlsOPIzt3c
 

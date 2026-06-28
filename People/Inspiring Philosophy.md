@@ -32,3 +32,18 @@ as an example of an apologist who misuses the Tacitus Cleitae passage (*Annals*
   argument from consciousness to a personal source.
 - [[Tacitus Cleitae Passage Does Not Support Roman Census of Client Kingdoms]] —
   misreading of Tacitus corrected by McClellan and classicists.
+
+## Guest on Thoughtful Faith: Debunking Bart Ehrman
+
+Michael Jones appeared on [[Jacob Hansen]]'s Thoughtful Faith to rebut [[Bart Ehrman]]
+on New Testament reliability. Despite his own videos critical of Latter-day Saint
+beliefs (and Hansen's reciprocal critiques), the two collaborate here on shared
+ground — Gospel authorship, dating, and reliability:
+- [[Internal Anonymity Was the Convention of Ancient Biography]] (citing [[Simon Gathercole]])
+- [[Attributing Gospels to Mark and Luke Argues for Authenticity]]
+- [[Unanimous Patristic Attestation of the Gospel Authors]]
+- [[Onomastic Congruence Shows the Gospels Used Eyewitness Sources]] (citing [[Luke VanderLaan]] and [[Richard Bauckham]])
+- [[The High-Greek Objection Ignores Scribes and Amanuenses]]
+- [[The Abrupt Ending of Acts Dates It Before 62 AD]] and [[Post-70 Dating Presupposes Prophecy Is Impossible]]
+- [[High Christology Is Already Present in Mark Not a Late Development]]
+- Source: [[Thoughtful Faith - Debunking Bart Ehrman on the New Testament Ft Inspiring Philosophy]]

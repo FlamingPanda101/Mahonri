@@ -33,9 +33,20 @@ In a Plain and Precious Publishing interview with [[Dave Butler]] on a chapter o
 - [[Sacred Secrecy Is Pearls Before Swine Not Shame]]
 - [[The Garment Is the Covering of Christ]]
 
+## On the Great Forsaken (All Things Apocryphal)
+In a Thoughtful Faith in-studio interview on his book *All Things Apocryphal*, Barnes develops "the Great Forsaken" — a pre-Christian apostasy in which the post-exilic Deuteronomistic scribes redacted out plain and precious truths (the atoning Messiah, the divine mother, the Gentile mission). He argues Jesus quoted Deuteronomy ironically against the scribes, that Christ restores excised Micah verses in 3 Nephi, that the Old Testament is the least reliable scripture, and that the cure is "reliable not infallible" guides rather than "scribalism." See:
+- [[The Great Forsaken - A Pre-Christian Apostasy of the Scribes]]
+- [[Jesus Quotes Deuteronomy Against the Deuteronomists]]
+- [[Christ Restores Suppressed Verses of Micah in Third Nephi]]
+- [[The Old Testament Is Less Reliable Than the New Testament]]
+- [[Scribalism Is the Idolatry of an Infallible Book]]
+- [[No Infallible Source Only Reliable Guides]]
+- [[The Book of Mormon Rescued Us From Two Apostasies]]
+
 ## Key Sources
 - [[Thoughtful Faith - The Trinity vs the Godhead Debate Prep]]
 - [[The Stick of Joseph - Why ALL Christians Should Wear a Sacred Garment]]
+- [[Thoughtful Faith - Why The Old Testament Is The Least Reliable Of All Scripture]] (the Great Forsaken)
 
 ## Sources
 [^1]: [[Thoughtful Faith - The Trinity vs the Godhead Debate Prep|Thoughtful Faith - The Trinity vs the Godhead Debate Prep]], [01:01], https://youtu.be/qCRhIPPz4Qk

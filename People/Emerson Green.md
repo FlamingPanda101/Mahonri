@@ -20,6 +20,16 @@ Green's verdict, after reading "the critics, the defenses, and [working] through
 ## On Animal Suffering
 Green, with [[Alex OConnor|Alex O'Connor]], also names evolutionary animal suffering — predation and death across hundreds of millions of years before humans — as "the hardest version" of the problem of evil for finite theism. See [[Animal Suffering Is the Hardest Test for Finite Theism]].[^3]
 
+## On Mormonism's Philosophical Advantages and the Critics' Double Standards
+In a New Heretics interview repackaged by Thoughtful Faith, Green explains why he defends (without joining) the Latter-day Saints: Mormonism is a "short step" from naturalism, and the standard anti-Mormon arguments (phantom prophecy, proper names, 19th-century influence, private revelation) are self-refuting double standards; he also rejects the self-conscious-fraud model of Joseph Smith after reading *Rough Stone Rolling*. See:
+- [[Naturalism Is a Short Step to Mormonism]]
+- [[Phantom Prophecy Both Prophets Re-Reveal Lost Predictions of Themselves]]
+- [[Q X and W Are Absent From Book of Mormon Names as From Ancient Hebrew]]
+- [[Cultural Influence on Scripture Proves Too Much Against Christianity Too]]
+- [[Conflating the Book of Mormon Text With Interpretations of It]]
+- [[The Eyewitness Double Standard Favors the Gold Plates Over the Resurrection]]
+- [[The Fuller Picture of Joseph Smith Undercuts the Self-Conscious-Fraud Model]]
+
 ## References
 [^1]: [[Moronis Standard - These Philosophers Werent Looking for Mormonism|Moroni's Standard — Philosophers]], [00:00]–[00:30], https://youtu.be/ICk0_uNb0J0
 [^2]: [[Moronis Standard - These Philosophers Werent Looking for Mormonism|Moroni's Standard — Philosophers]], [27:31]–[28:00], https://youtu.be/ICk0_uNb0J0

@@ -55,11 +55,28 @@ Hansen interviewed documentary historian [[Brian Hales]] on the "implications ca
 - [[Joseph Smith Never Issued a Blanket Denial of Polygamy]]
 - [[The Eyewitness Asymmetry Refutes the Polygamy Conspiracy Theory]]
 
+## The Pragmatic Argument for the Restored Gospel and the True-Church Trilemma
+
+In a solo Thoughtful Faith monologue, Hansen extends his pragmatic/Pascalian argument from God's existence to the *church* question, arguing the seeker faces only three options (LDS church / another church / no true church) and that critics who say "no true church" yet damn Mormons for bad theology contradict themselves. See:
+- [[The Three Options for the Seeker - True Church Other Church or No True Church]]
+- [[The No-True-Church Critic Smuggles In a Creedal Minimum]]
+- [[The Burning-Building Argument for Urgency Cuts Against the Critic]]
+
+## Curating Book of Abraham, Enoch, and Old Testament Research
+
+In long-form Thoughtful Faith videos Hansen (often with [[Hayden Carroll]] or [[Jonah Barnes]]) frames and transmits others' research: the Kirtland Egyptian Papers as a cipher, Joseph's deferral on Facsimile 2, Cirillo's Enoch parallels, and the "Great Forsaken." See:
+- [[The Kirtland Egyptian Papers Are a Cipher Project Not a Translation Tool]]
+- [[Cirillo Catalogs Substantial Enoch Parallels Beyond Dispute]]
+- [[The Old Testament Is Less Reliable Than the New Testament]]
+- [[No Infallible Source Only Reliable Guides]]
+
 ## Key Sources
 
 - [[Gavin Ortlund - Protestant and Mormon Discuss the Trinity]] (Truth Unites, with Gavin Ortlund)
 - [[Ward Radio - The Top 5 Questions Atheists CANNOT Answer]] (with Hayden Carroll)
 - [[Thoughtful Faith - Was Joseph Smith A Polygamist Ft Brian Hales]] (with Brian Hales)
+- [[Thoughtful Faith - The One Question Every Christian Must Answer]] (true-church trilemma)
+- [[Thoughtful Faith - Why The Old Testament Is The Least Reliable Of All Scripture]] (with Jonah Barnes)
 
 ## Sources
 [^1]: [[Gavin Ortlund - Protestant and Mormon Discuss the Trinity|Gavin Ortlund - Protestant and Mormon Discuss the Trinity]], [02:31], https://youtu.be/7Y9_unCe__M

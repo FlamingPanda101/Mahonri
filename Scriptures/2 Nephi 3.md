@@ -16,6 +16,7 @@ In the [[Ward Radio - The Sword of Laban Was the Sword of Joshua|Don Bradley int
 ## Used in
 - [[The Brass Plates Were Begun by Joseph of Egypt]]
 - [[The Sword of Laban Was the Sword of Joshua Forged by Joseph in Egypt]]
+- [[Phantom Prophecy Both Prophets Re-Reveal Lost Predictions of Themselves]] — the latter-day-seer prophecy here (paralleling JST Genesis 50:33) is the target of Cameron Bertuzzi's "phantom prophecy" charge, rebutted by Emerson Green
 
 ---
 See also: [[Scriptures]] · [[1 Nephi 5]] · [[Joseph of Egypt]]

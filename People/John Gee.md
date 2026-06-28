@@ -17,6 +17,9 @@ John Gee earned a Ph.D. in Egyptology from Yale and is a senior research fellow 
 ## Book of Mormon Egyptian Names
 [[Matthew Bowen]] credits Gee with the leading etymology of **Nephi** — derived from Egyptian *nfr* ("good, fine, beautiful"), with the third weak radical (the *r*) dropping out of pronunciation to yield something like *Nephi/Neiphi*.[^2] This underwrites the goodliness wordplay in [[Nephi Means Good and Fair - The Goodliness Inclusio]]. In the Routledge volume Gee handled the Egyptian material while Bowen focused on Hebrew.[^1] See also [[Pahoran Paanchi Pacumeni - Egyptian Names in One Chapter]].
 
+## Book of Abraham Facsimiles
+Gee is cited (in a Thoughtful Faith video) for two facsimile points: he found a *labeled* hypocephalus showing Egyptologists had been "mostly wrong" about its figures, and he documents the Osiris↔Abraham substitution behind Luke 16's "bosom of Abraham." See [[Egyptologists Disagree Across Time and Place on What a Drawing Means]] and [[Egyptians Mixed Jewish and Egyptian Religious Iconography]].
+
 ## References
 [^1]: [[Informed Saints - Are Book of Mormon Names Real|Informed Saints - Are Book of Mormon Names Real]], [06:00], https://youtu.be/hsQ8ALfG3ic
 [^2]: [[Informed Saints - Are Book of Mormon Names Real|Informed Saints - Are Book of Mormon Names Real]], [28:31], https://youtu.be/hsQ8ALfG3ic

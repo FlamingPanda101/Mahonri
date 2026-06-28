@@ -29,6 +29,7 @@ is inherently illegitimate "folk magic."[^2]
 ## Used In
 
 - [[Seer Stones and Divining Rods as Revelatory Means]]
+- [[Thoughtful Faith - Weird Magic Stones And Mormonism]] — a Thoughtful Faith short uses this verse as a *tu quoque*: the same instrument-mediated revelation mocked in Mormonism is recorded of Joseph of Egypt
 
 [^1]: [[The Holy Rebellion - The Problem With Calling Joseph Smith a Con Man|The Holy Rebellion - The Problem With Calling Joseph Smith a Con Man]], [74:34]–[75:01], https://youtu.be/ePeZwR5rsQc
 [^2]: [[The Holy Rebellion - The Problem With Calling Joseph Smith a Con Man|The Holy Rebellion - The Problem With Calling Joseph Smith a Con Man]], [74:02]–[75:01], https://youtu.be/ePeZwR5rsQc

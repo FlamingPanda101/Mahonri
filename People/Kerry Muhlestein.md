@@ -28,6 +28,9 @@ Argues the leading attack — Joseph mistranslated the surviving papyrus — fai
 ## Method and Epistemology
 Catalogs the method-level mistakes people make about the Book of Abraham — unexamined assumptions, over-simplifying a multivalent 3,000-year record, trusting sound bites, half-hearted one-sided research, and the sophistry that revelation is not real knowledge. See [[Questioning Assumptions Is the First Defense of the Book of Abraham]], [[Everyone Has a Faith-Choice Bias and Admitting It Is More Objective]], and [[Revelation Is a Valid Source of Knowledge]].[^3]
 
+## On the Facsimiles (Thoughtful Faith interview)
+In a Thoughtful Faith interview, Muhlestein develops the facsimile defense further: Egyptologists' readings of a drawing shift across a 3,000-year span and have been demonstrably wrong (the labeled hypocephalus); and the Greco-Roman-era priests who owned the papyri (e.g. Hor) are documented to have mixed Jewish and Egyptian iconography, so an Abraham-association is expected. See [[Egyptologists Disagree Across Time and Place on What a Drawing Means]] and [[Egyptians Mixed Jewish and Egyptian Religious Iconography]].
+
 ## References
 [^1]: [[Ward Radio - Top 3 Myths in the Book of Abraham (Kerry Muhlestein)|Ward Radio - Top 3 Myths in the Book of Abraham]], [03:30]–[09:30], https://youtu.be/N8mz4qlp8t4
 [^2]: [[Ward Radio - Top 3 Myths in the Book of Abraham (Kerry Muhlestein)|Ward Radio - Top 3 Myths in the Book of Abraham]], [03:00]–[03:30], https://youtu.be/N8mz4qlp8t4

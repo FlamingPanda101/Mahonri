@@ -59,5 +59,8 @@ Barnes recounts Nibley pressing a scholar friend for an alternative explanation 
 
 [^1]: [[Ward Radio - The Top Ten Lost LDS Writings of the Apocrypha|Ward Radio - Top Ten Lost LDS Writings of the Apocrypha]], [21:30]-[25:30], https://youtu.be/SlTpqmVv5RM
 
+## Also attested by Cirillo
+The non-LDS scholar [[Salvatore Cirillo]] independently lists the Mahijah/Mahawai name among his "beyond dispute" Enoch parallels (re-narrated in a Thoughtful Faith video), set against a rediscovery timeline in which the *Book of the Giants* was unavailable until 1946. See [[Cirillo Catalogs Substantial Enoch Parallels Beyond Dispute]] and [[The Enoch Rediscovery Timeline Postdates Joseph Smith]].
+
 ---
-See also: [[Concepts]] · [[Jonah Barnes]] · [[Hugh Nibley]] · [[Enoch]] · [[Ward Radio - The Top Ten Lost LDS Writings of the Apocrypha]] · [[Moses 6]]
+See also: [[Concepts]] · [[Jonah Barnes]] · [[Hugh Nibley]] · [[Enoch]] · [[Salvatore Cirillo]] · [[Ward Radio - The Top Ten Lost LDS Writings of the Apocrypha]] · [[Moses 6]]

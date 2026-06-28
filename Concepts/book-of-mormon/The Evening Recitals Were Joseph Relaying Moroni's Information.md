@@ -42,5 +42,10 @@ The critic has a real reply. (a) The whole defense is internal to Lucy's narrati
 [^5]: [[Keystone - Why the Joseph Smith Storyteller Theory Fails|Keystone - Storyteller Theory Fails]], [02:31], https://youtu.be/UXmk7ECJCH0
 [^6]: [[Keystone - Why the Joseph Smith Storyteller Theory Fails|Keystone - Storyteller Theory Fails]], [01:01], https://youtu.be/UXmk7ECJCH0
 
+## Corroboration: Smoot's Open Letter to Trent Horn
+[[Stephen Smoot]] makes the identical argument against [[Trent Horn]], who cited the "amusing recitals" to portray Joseph as "a clever storyteller who possessed the requisite imagination to produce the Book of Mormon." Smoot: Lucy "explicitly couches these amusing recitals in the context of Joseph receiving instruction from the angel about the coming forth of the record... never does Lucy hint that her son was an imaginative storyteller spinning yarn within the family. Rather, the family interpreted Joseph's accounts as a sign that he was truly inspired of God." He stresses that until then Joseph "had never read the Bible through" and "was less inclined to the study of books than any of the Smith children" — so "you cannot enlist Lucy Mack Smith or her memoir as evidence" that Joseph had a wild imagination, even if you wish to believe he did.[^7]
+
+[^7]: [[Thoughtful Faith - Debunking Trent Horns Flawed Arguments Against The Book of Mormon Open Letter by Stephen Smoot|Smoot Open Letter to Trent Horn]], [08:00]–[11:00], https://youtu.be/7wnah9_Hn04
+
 ---
-See also: [[Lucy Mack Smith]] · [[William Smith]] · [[Angel Moroni]] · [[Joseph Smith]] · [[Keystone - Why the Joseph Smith Storyteller Theory Fails]]
+See also: [[Lucy Mack Smith]] · [[William Smith]] · [[Angel Moroni]] · [[Joseph Smith]] · [[Keystone - Why the Joseph Smith Storyteller Theory Fails]] · [[Thoughtful Faith - Debunking Trent Horns Flawed Arguments Against The Book of Mormon Open Letter by Stephen Smoot]]

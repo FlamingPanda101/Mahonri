@@ -39,6 +39,11 @@ The Darius comparison is one or two artifacts against thousands of examples of a
 
 > "If our plates had been sufficiently large we should have written in Hebrew; but the Hebrew hath been altered by us." — Mormon (cited)[^3]
 
+## Corroboration: Smoot's Open Letter to Trent Horn
+[[Stephen Smoot]]'s open letter to [[Trent Horn]] makes the same point and adds a metallurgical line. He cites the **1923 experiment** (the transcript's "jna hudall" is [[Janne Sjodahl]], phonetically garbled): the test "yield[ed] almost six chapters of the Book of Mormon in Hebrew onto a simple 7×8 inch sheet of paper." He further cites researcher **Jerry Grover**, who concluded the gold plates "as described at the time of Joseph Smith are consistent with metallurgical properties and techniques known in the old world prior to 600 BC and in the new world prior to AD 400, and are consistent with metal plates created to be both capable of supporting ancient engravings and to be preserved without corrosion." Smoot notes a *forthcoming* work includes "actual metallurgical experimentation and reproduction," and asks whether Horn was even aware of these studies before claiming the plates were "metallurgically impossible."[^6]
+
+[^6]: [[Thoughtful Faith - Debunking Trent Horns Flawed Arguments Against The Book of Mormon Open Letter by Stephen Smoot|Smoot Open Letter to Trent Horn]], [18:00]–[19:00], https://youtu.be/7wnah9_Hn04
+
 ## References
 [^1]: [[Keystone - What This Catholic Apologist Isnt Telling You About the Plates|Keystone - Catholic Apologist on the Plates]], [04:30], https://youtu.be/ffLI8NAbDeo
 [^2]: [[Keystone - What This Catholic Apologist Isnt Telling You About the Plates|Keystone - Catholic Apologist on the Plates]], [04:30]–[05:00], https://youtu.be/ffLI8NAbDeo
@@ -47,4 +52,4 @@ The Darius comparison is one or two artifacts against thousands of examples of a
 [^5]: [[Keystone - What This Catholic Apologist Isnt Telling You About the Plates|Keystone - Catholic Apologist on the Plates]], [06:00]–[06:30], https://youtu.be/ffLI8NAbDeo
 
 ---
-See also: [[Concepts]] · [[Janne Sjodahl]] · [[Trent Horn]] · [[John Gee]] · [[Keystone - What This Catholic Apologist Isnt Telling You About the Plates]]
+See also: [[Concepts]] · [[Janne Sjodahl]] · [[Trent Horn]] · [[John Gee]] · [[Keystone - What This Catholic Apologist Isnt Telling You About the Plates]] · [[Thoughtful Faith - Debunking Trent Horns Flawed Arguments Against The Book of Mormon Open Letter by Stephen Smoot]]

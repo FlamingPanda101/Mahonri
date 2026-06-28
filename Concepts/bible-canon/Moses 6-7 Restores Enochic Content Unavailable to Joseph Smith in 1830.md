@@ -49,5 +49,8 @@ The grieving, emotionally present God of Moses 7 is "dramatically different from
 [^3]: [[Moronis Standard - The Book Too Messianic for Your Bible 1 Enoch|Moroni's Standard - 1 Enoch]], [21:01], https://youtu.be/AejF3vKJvfY
 [^4]: [[Moronis Standard - The Book Too Messianic for Your Bible 1 Enoch|Moroni's Standard - 1 Enoch]], [21:31], https://youtu.be/AejF3vKJvfY
 
+## Corroborated by Cirillo's thesis
+A non-LDS master's thesis ([[Salvatore Cirillo]]) independently catalogues these and further parallels (Son of Man, foreseeing Noah, the personified earth, Mahijah, "lad," enthronement) and judges them "beyond dispute," with the matching ancient texts untranslated or undiscovered until decades after 1832. See [[Cirillo Catalogs Substantial Enoch Parallels Beyond Dispute]] and [[The Enoch Rediscovery Timeline Postdates Joseph Smith]].
+
 ---
-See also: [[Moses 7]] · [[1 Enoch]] · [[LDS Theology as Restoration of Early Christianity]] · [[Documentary Hypothesis Strengthens the Restoration]]
+See also: [[Moses 7]] · [[1 Enoch]] · [[Salvatore Cirillo]] · [[LDS Theology as Restoration of Early Christianity]] · [[Documentary Hypothesis Strengthens the Restoration]]
