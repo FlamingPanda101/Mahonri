@@ -53,7 +53,7 @@ In his *Dialogue Gospel Study* session, [[Dan McClellan]] retells the same devel
 [^4]: [[Data Over Dogma - Is Hell Actually in the Bible|Data Over Dogma - Hell]], [15:30]-[16:00], https://youtu.be/TXksqIiBUns
 [^5]: [[Data Over Dogma - Is Hell Actually in the Bible|Data Over Dogma - Hell]], [16:00]-[17:01], https://youtu.be/TXksqIiBUns
 [^6]: [[Data Over Dogma - Is Hell Actually in the Bible|Data Over Dogma - Hell]], [26:32]-[28:32], https://youtu.be/TXksqIiBUns
-[^7]: [[Dan McClellan - Seeing the Old Testament Clearly (Dialogue Gospel Study)|Dan McClellan - Seeing the Old Testament Clearly]], https://youtu.be/FpF9o0-8ZKk
+[^7]: [[Dan McClellan - Seeing the Old Testament Clearly (Dialogue Gospel Study)|Dan McClellan - Seeing the OT Clearly]], [41:40], [42:44], https://youtu.be/FpF9o0-8ZKk
 
 ---
 See also: [[Concepts]] · [[Sheol Was the Undifferentiated Realm of All the Dead]] · [[Data Over Dogma - Is Hell Actually in the Bible]]

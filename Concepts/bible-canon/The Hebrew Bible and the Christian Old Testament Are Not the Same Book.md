@@ -50,7 +50,7 @@ The point lands differently for Latter-day Saints. (a) It reinforces the Restora
 > The Christian rendering of *almah* as "virgin" at Isaiah 7:14 is offered as the primary example of how "Christian translations frequently manipulate the Hebrew to support Christian theology" (per the session summary).
 
 ## References
-[^1]: [[Dan McClellan - Seeing the Old Testament Clearly (Dialogue Gospel Study)|Dan McClellan - Seeing the Old Testament Clearly]], https://youtu.be/FpF9o0-8ZKk
+[^1]: [[Dan McClellan - Seeing the Old Testament Clearly (Dialogue Gospel Study)|Dan McClellan - Seeing the OT Clearly]], [17:28], [17:41], [17:59], [18:56], [19:25], https://youtu.be/FpF9o0-8ZKk
 
 ---
 See also: [[Concepts]] · [[Dan McClellan]] · [[Malachi 4]] · [[2 Chronicles 36]] · [[Dan McClellan - Seeing the Old Testament Clearly (Dialogue Gospel Study)]]

@@ -42,7 +42,7 @@ This is the historical engine behind the Book of Mormon's "plain and precious th
 [^2]: [[The Stick of Joseph - Margaret Barker on the School of Isaiah and the Temple|Barker - School of Isaiah & the Temple]], [10:30], https://youtu.be/PjuTrmCd2hY
 [^3]: [[The Stick of Joseph - Margaret Barker on the School of Isaiah and the Temple|Barker - School of Isaiah & the Temple]], [13:00], https://youtu.be/PjuTrmCd2hY
 [^4]: [[The Stick of Joseph - Margaret Barker on the School of Isaiah and the Temple|Barker - School of Isaiah & the Temple]], [14:30], https://youtu.be/PjuTrmCd2hY
-[^5]: [[Dan McClellan - Seeing the Old Testament Clearly (Dialogue Gospel Study)|Dan McClellan - Seeing the Old Testament Clearly]], https://youtu.be/FpF9o0-8ZKk
+[^5]: [[Dan McClellan - Seeing the Old Testament Clearly (Dialogue Gospel Study)|Dan McClellan - Seeing the OT Clearly]], [22:30], [37:06], [37:30], https://youtu.be/FpF9o0-8ZKk
 
 ---
 See also: [[Concepts]] · [[Margaret Barker]] · [[Dan McClellan]] · [[The Stick of Joseph - Margaret Barker on the School of Isaiah and the Temple]]

@@ -45,7 +45,7 @@ The point is double-edged and worth stating carefully. (a) Methodologically it r
 > McClellan explains (per the session summary) that Daniel was "written to look like it dates to the Babylonian exile centuries earlier, but its specific apocalyptic 'prophecies' were aimed at giving hope to 2nd-century-BCE Jews."
 
 ## References
-[^1]: [[Dan McClellan - Seeing the Old Testament Clearly (Dialogue Gospel Study)|Dan McClellan - Seeing the Old Testament Clearly]], https://youtu.be/FpF9o0-8ZKk
+[^1]: [[Dan McClellan - Seeing the Old Testament Clearly (Dialogue Gospel Study)|Dan McClellan - Seeing the OT Clearly]], [42:44], https://youtu.be/FpF9o0-8ZKk
 
 ---
 See also: [[Concepts]] · [[Dan McClellan]] · [[Daniel]] · [[Antiochus IV Epiphanes]] · [[Dan McClellan - Seeing the Old Testament Clearly (Dialogue Gospel Study)]]

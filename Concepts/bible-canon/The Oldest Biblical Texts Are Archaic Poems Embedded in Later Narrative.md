@@ -52,7 +52,7 @@ The composite, layered picture is congenial to the Restoration's account of scri
 > McClellan explains (per the session summary) that the earliest narrative historical prose was written in the Northern Kingdom of Israel in the 9th–8th century BCE.
 
 ## References
-[^1]: [[Dan McClellan - Seeing the Old Testament Clearly (Dialogue Gospel Study)|Dan McClellan - Seeing the Old Testament Clearly]], https://youtu.be/FpF9o0-8ZKk
+[^1]: [[Dan McClellan - Seeing the Old Testament Clearly (Dialogue Gospel Study)|Dan McClellan - Seeing the OT Clearly]], [29:05], [30:52], [33:34], [33:51], https://youtu.be/FpF9o0-8ZKk
 
 ---
 See also: [[Concepts]] · [[Dan McClellan]] · [[Judges 5]] · [[Exodus 15]] · [[Deuteronomy 32]] · [[Dan McClellan - Seeing the Old Testament Clearly (Dialogue Gospel Study)]]

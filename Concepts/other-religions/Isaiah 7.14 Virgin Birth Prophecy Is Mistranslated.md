@@ -74,4 +74,4 @@ In his *Dialogue Gospel Study* session, [[Dan McClellan]] makes the same case in
 [^7]: [[Data Over Dogma - Prophecies Nativity and Sorry Apologetics|Data Over Dogma — Prophecies, Nativity, and Sorry Apologetics]], [12:31]-[13:00], https://youtu.be/VEfI1TgWVHY
 [^8]: [[Data Over Dogma - Prophecies Nativity and Sorry Apologetics|Data Over Dogma — Prophecies, Nativity, and Sorry Apologetics]], [16:30]-[17:02], https://youtu.be/VEfI1TgWVHY
 [^9]: [[Data Over Dogma - Prophecies Nativity and Sorry Apologetics|Data Over Dogma — Prophecies, Nativity, and Sorry Apologetics]], [18:31]-[21:30], https://youtu.be/VEfI1TgWVHY
-[^10]: [[Dan McClellan - Seeing the Old Testament Clearly (Dialogue Gospel Study)|Dan McClellan - Seeing the Old Testament Clearly]], https://youtu.be/FpF9o0-8ZKk
+[^10]: [[Dan McClellan - Seeing the Old Testament Clearly (Dialogue Gospel Study)|Dan McClellan - Seeing the OT Clearly]], [20:54], [21:18], [21:33], [21:58], https://youtu.be/FpF9o0-8ZKk

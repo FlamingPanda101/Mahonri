@@ -45,7 +45,7 @@ The vault's primary voice here is [[Hayden Carroll]]; [[Dan McClellan]] supplies
 [^4]: [[Lets Talk - Apologetics Course How to Talk to Protestants and Evangelicals|Apologetics Course]], [71:30]–[72:00], https://youtu.be/L-lxxWjN8D4
 [^5]: [[Lets Talk - Apologetics Course How to Talk to Protestants and Evangelicals|Apologetics Course]], [72:00]–[72:30], https://youtu.be/L-lxxWjN8D4
 [^6]: [[Lets Talk - Apologetics Course How to Talk to Protestants and Evangelicals|Apologetics Course]], [71:30]–[72:00], https://youtu.be/L-lxxWjN8D4
-[^7]: [[Dan McClellan - Seeing the Old Testament Clearly (Dialogue Gospel Study)|Dan McClellan - Seeing the Old Testament Clearly]], https://youtu.be/FpF9o0-8ZKk
+[^7]: [[Dan McClellan - Seeing the Old Testament Clearly (Dialogue Gospel Study)|Dan McClellan - Seeing the OT Clearly]], [13:06], [46:16], [47:54], https://youtu.be/FpF9o0-8ZKk
 
 ---
 See also: [[Concepts]] · [[Trinity Was Constructed Not Revealed]] · [[Lets Talk - Apologetics Course How to Talk to Protestants and Evangelicals]]

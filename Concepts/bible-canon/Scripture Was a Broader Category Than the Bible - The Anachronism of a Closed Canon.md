@@ -53,7 +53,7 @@ In his *Dialogue Gospel Study* session, [[Dan McClellan]] restates the point blu
 [^5]: [[Dan McClellan - Responding to Wes Huff on the Biblical Canon|McClellan - Canon vs Wes Huff]], [05:30], https://youtu.be/iU7hKviVFw8
 [^6]: [[Dan McClellan - Responding to Wes Huff on the Biblical Canon|McClellan - Canon vs Wes Huff]], [04:01], https://youtu.be/iU7hKviVFw8
 [^7]: [[Dan McClellan - Responding to Wes Huff on the Biblical Canon|McClellan - Canon vs Wes Huff]], [03:31], https://youtu.be/iU7hKviVFw8
-[^8]: [[Dan McClellan - Seeing the Old Testament Clearly (Dialogue Gospel Study)|Dan McClellan - Seeing the Old Testament Clearly]], https://youtu.be/FpF9o0-8ZKk
+[^8]: [[Dan McClellan - Seeing the Old Testament Clearly (Dialogue Gospel Study)|Dan McClellan - Seeing the OT Clearly]], [26:30], [33:34], [33:51], https://youtu.be/FpF9o0-8ZKk
 
 ---
 See also: [[Concepts]] · [[Dan McClellan]] · [[Book of Enoch - Quoted as Scripture in Jude]] · [[Dan McClellan - Responding to Wes Huff on the Biblical Canon]]
