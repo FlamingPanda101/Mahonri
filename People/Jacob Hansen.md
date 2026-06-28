@@ -70,8 +70,19 @@ In long-form Thoughtful Faith videos Hansen (often with [[Hayden Carroll]] or [[
 - [[The Old Testament Is Less Reliable Than the New Testament]]
 - [[No Infallible Source Only Reliable Guides]]
 
+## The Great Apostasy, the Brothers Slur, and Substitutional Patriarchy (Ward Radio)
+On Ward Radio, Hansen argued the Great Apostasy "definitely happened": the creedal God matches Aristotle's unmoved mover, perfect-being theology reads the Bible through a Greek lens, loss of apostolic authority bred the christological factions, and Constantine's creeds won by state power. He also intervened on the Cliffe Knechtle reaction (traditional Christianity does *not* teach universal divine sonship — adoption only / image-bearers) and endorsed [[Trent Horn]]'s "substitutional patriarchy." See:
+- [[Perfect-Being Theology Reads the Bible Through a Greek Lens]]
+- [[Loss of Apostolic Authority Caused the Christological Factions]]
+- [[The Creeds Won by State Power Not Persuasion]]
+- [[The Brothers Slur Twists Universal Divine Sonship]]
+- [[Substitutional Patriarchy - The Government Replaces the Husband]]
+
 ## Key Sources
 
+- [[Ward Radio - The Great Apostasy DEFINITELY Happened]]
+- [[Ward Radio - The Great Replacement of Men Is Happening]]
+- [[Ward Radio - Responding to Cliffe Knechtles Mormon Comments on PBD Podcast]]
 - [[Gavin Ortlund - Protestant and Mormon Discuss the Trinity]] (Truth Unites, with Gavin Ortlund)
 - [[Ward Radio - The Top 5 Questions Atheists CANNOT Answer]] (with Hayden Carroll)
 - [[Thoughtful Faith - Was Joseph Smith A Polygamist Ft Brian Hales]] (with Brian Hales)

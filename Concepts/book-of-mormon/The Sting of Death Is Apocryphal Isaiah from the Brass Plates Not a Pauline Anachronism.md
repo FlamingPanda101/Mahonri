@@ -11,6 +11,7 @@ related:
   - "[[The Brass Plates Were Begun by Joseph of Egypt]]"
 sources:
   - "[[Ward Radio - Apocryphal Isaiah Reveals the True Identity of Abinadi]]"
+  - "[[Ward Radio - Isaiahs Lost Prophecies How They Support the Book of Mormon]]"
 tags: [apologetics, book-of-mormon, anachronisms, apocrypha, brass-plates, tradition/lds, type/rebuttal]
 #type/claim
 ---
@@ -51,6 +52,10 @@ This is a textbook instance of the vault's preferred move on Book of Mormon "ana
 [^1]: [[Ward Radio - Apocryphal Isaiah Reveals the True Identity of Abinadi|Ward Radio — The True Identity of Abinadi]], [01:00]–[01:30], https://youtu.be/4F4jr7jFVxo
 [^2]: [[Ward Radio - Apocryphal Isaiah Reveals the True Identity of Abinadi|Ward Radio — The True Identity of Abinadi]], [21:00]–[22:30], https://youtu.be/4F4jr7jFVxo
 [^3]: [[Ward Radio - Apocryphal Isaiah Reveals the True Identity of Abinadi|Ward Radio — The True Identity of Abinadi]], [27:30]–[28:30], https://youtu.be/4F4jr7jFVxo
+[^4]: [[Ward Radio - Isaiahs Lost Prophecies How They Support the Book of Mormon|Ward Radio - Isaiah's Lost Prophecies]], [35:00]–[40:30], https://youtu.be/TlMgkYSUKBk
+
+## Also attested by Ward Radio — Isaiah's Lost Prophecies
+A second Ward Radio panel ([[Cardon Ellis]], [[Jonah Barnes]], [[David John Butler]]) restates the same argument in the context of the Ascension of Isaiah: in the Gospel of Nicodemus, Isaiah in the underworld declares "death, where is thy sting? hell, where is thy victory?" and announces himself the *origin* of the sting-of-death prophecy, so Paul ([[1 Corinthians 15.55|1 Cor 15:55]]) and the Nephite prophets ([[Abinadi]], [[Aaron]], [[Mormon]]) all quote a brass-plates Isaiah. They tie it to [[Nephi and Isaiah Shared the Same Ascension Vision]] and the [[The Great Forsaken - A Pre-Christian Apostasy of the Scribes|Great Forsaken]].[^4]
 
 ---
-See also: [[Concepts]] · [[Ward Radio - Apocryphal Isaiah Reveals the True Identity of Abinadi]] · [[Abinadi]] · [[Mosiah 16.7-8]] · [[1 Corinthians 15.55]]
+See also: [[Concepts]] · [[Ward Radio - Apocryphal Isaiah Reveals the True Identity of Abinadi]] · [[Ward Radio - Isaiahs Lost Prophecies How They Support the Book of Mormon]] · [[Abinadi]] · [[Mosiah 16.7-8]] · [[1 Corinthians 15.55]]

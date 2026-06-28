@@ -8,10 +8,12 @@ related:
 scripture: ["[[Matthew 7.16-20|Matthew 7:16-20]]"]
 sources:
   - "[[Ward Radio - Why Everyone Is Jealous of Our High Demand Religion]]"
+  - "[[Ward Radio - Responding to Cliffe Knechtles Mormon Comments on PBD Podcast]]"
 tags:
   - "#apologetics/sociology-of-religion"
   - "#tradition/lds"
   - "#type/claim"
+  - "by/ward-radio"
 ---
 
 # Creedal Latitude on Baptism but Not the Trinity
@@ -31,6 +33,8 @@ Creedal Christians tolerate enormous variance on the *mode of baptism* — a pra
 
 4. **The bodily-resurrection asymmetry (Evidence: pointed example).** The hosts add that some prominent Christian philosophers publicly debate whether Jesus rose *bodily* at all (citing a Capturing Christianity post on Philip Goff vs. Lydia McGrew) — questioning the resurrection itself — yet remain "Christian," while Latter-day Saints are excluded over the Trinity.[^5] *Strength: a sharp illustration that the boundary is not policing the resurrection (arguably more central) but the creed.*
 
+5. **Corroboration — the bigotry framing extends the latitude list (separate episode).** In the episode responding to evangelical apologist [[Cliff Knechtel|Cliffe Knechtle]]'s comments on the PBD podcast, [[Cardon Ellis]] presses the same asymmetry and names it *religious bigotry*: creedal Christians grant latitude on baptism (mode, even necessity), on Calvinist predestination ("people don't have free will — that's fine"), on differing canons, and on priesthood-of-all-believers vs. priesthood authority, but allow "no wiggle room whatsoever" on the one doctrine Latter-day Saints differ on. "When you're homing in on the only thing that one specific sect disagrees with you on and make that the defining characteristic… it means you're bigoted toward that group." [^6] *Strength: independently restates the consistency reductio and sharpens it into a charge of selective gatekeeping; the "free will / predestination" latitude is a fresh example beyond baptism.*
+
 **Steelman of the opposing view (the creedal / high-control reply):** A thoughtful creedal Christian would answer that the mode of baptism is, by long consensus, *adiaphora* (a thing indifferent) precisely because scripture does not fix it, whereas the Trinity is held to be the necessary grammar of monotheism — the boundary that keeps "God" from multiplying. On this view the asymmetry is principled, not arbitrary: latitude is granted exactly where scripture is silent and withheld exactly where (they argue) the identity of God is at stake. The "high-control" charge cuts the other way too — defining the boundary at the Trinity rather than at behavior is, for them, what *prevents* the faith from dissolving into anything-goes syncretism. The hosts' reply (that the Trinity is itself extra-scriptural and incoherent) is therefore load-bearing: the consistency argument only lands *given* the separate claims that "Trinity" is non-biblical and unintelligible, which the critic disputes. The argument also does not establish that latitude *should* extend to the Trinity — only that the current line is drawn at a doctrine less explicit than baptism.
 
 ## Best Quotes
@@ -40,6 +44,8 @@ Creedal Christians tolerate enormous variance on the *mode of baptism* — a pra
 > "If you're willing to divert orthodoxy from the River Jordan to spray bottles and still be in the body of Christ, Mr. Moore, why aren't you willing to go, okay, maybe you don't have to have an exact idea of the Trinity?"[^1]
 
 > "He calls God 'Father' 750 times in the New Testament and never says the word 'Trinity.'"[^4]
+
+> "When you're homing in on the only thing that one specific sect disagrees with you on and make that the defining characteristic… it means you're bigoted towards that group." [^6]
 
 ## References
 - [[Ward Radio - Why Everyone Is Jealous of Our High Demand Religion]]
@@ -54,6 +60,7 @@ Creedal Christians tolerate enormous variance on the *mode of baptism* — a pra
 [^3]: [[Ward Radio - Why Everyone Is Jealous of Our High Demand Religion|Ward Radio - High Demand Religion]], [16:02], https://youtu.be/9zsjCrOao7Q
 [^4]: [[Ward Radio - Why Everyone Is Jealous of Our High Demand Religion|Ward Radio - High Demand Religion]], [18:32], https://youtu.be/9zsjCrOao7Q
 [^5]: [[Ward Radio - Why Everyone Is Jealous of Our High Demand Religion|Ward Radio - High Demand Religion]], [12:31], https://youtu.be/9zsjCrOao7Q
+[^6]: [[Ward Radio - Responding to Cliffe Knechtles Mormon Comments on PBD Podcast|Ward Radio - Cliffe Knechtle on PBD]], [56:00]-[59:30], https://youtu.be/DWAxBSVfbtE
 
 ---
-See also: [[Apologetics]] · [[Ward Radio - Why Everyone Is Jealous of Our High Demand Religion]]
+See also: [[Apologetics]] · [[Ward Radio - Why Everyone Is Jealous of Our High Demand Religion]] · [[Ward Radio - Responding to Cliffe Knechtles Mormon Comments on PBD Podcast]]

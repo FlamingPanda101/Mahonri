@@ -10,6 +10,7 @@ related:
   - "[[Wisdom Personified as the Mother in Heaven]]"
 sources:
   - "[[Mormonism with the Murph - Josiahs Reforms Asherah First Temple and Atoning Messiah]]"
+  - "[[Ward Radio - Was Alma a High Priest of Heavenly Mother]]"
 tags: ["#apologetics/old-testament", "#tradition/lds", "#type/claim"]
 #type/claim
 ---
@@ -30,6 +31,9 @@ tags: ["#apologetics/old-testament", "#tradition/lds", "#type/claim"]
 
 **Steelman of the skeptical counter.** A critic answers that (a) "Lord God Almighty" is a perfectly ordinary KJV phrase Joseph Smith could lift straight from the English Bible (it occurs in Revelation in the KJV he knew), so its appearance in the Book of Mormon needs no Hebrew throne-name; (b) the back-translation to *Yahweh El Shaddai* is the apologist's reconstruction, not something in the text; (c) throne and judgment language is exactly where any author would reach for a high divine title, so the "clustering" is expected, not evidential; and (d) the loose, from-memory citation of the passages invites confirmation bias. Butler's reply is the *convergence*: the title is absent from the OT yet appears in two independently throne-soaked texts, and the [[Shaddai Is the Breasted God and Points to the Mother|Shaddai = mother]] reading supplies an independent reason the name belongs at the *family* throne.
 
+## Corroboration (Ward Radio)
+[[David Butler (Stick of Joseph)|David Butler]] makes the matching claim on Ward Radio ("Was Alma a High Priest of Heavenly Mother?"): Alma's baptismal formula "having authority from the **Almighty God**" ([[Mosiah 18.13|Mosiah 18:13]]) is itself a *Yahweh El Shaddai* / throne-name occurrence, situating Alma's ordinance in the Father-Mother-Son throne theology. See [[Alma Baptizes by the Authority of El Shaddai at the Waters of Mormon]]. [^7]
+
 ## Best Quotes
 > "There is a sacred name of God that does not appear in the Old Testament but appears four times in the Book of Mormon and… four times in the book of Revelation, and that is Lord God Almighty… it's Yahweh El Shaddai." [^1]
 
@@ -44,6 +48,7 @@ tags: ["#apologetics/old-testament", "#tradition/lds", "#type/claim"]
 [^4]: [[Mormonism with the Murph - Josiahs Reforms Asherah First Temple and Atoning Messiah|Murph - Josiah/Asherah w/ Butler & Day]], [52:03], https://youtu.be/Tyam3UlFAeA
 [^5]: [[Mormonism with the Murph - Josiahs Reforms Asherah First Temple and Atoning Messiah|Murph - Josiah/Asherah w/ Butler & Day]], [52:32], https://youtu.be/Tyam3UlFAeA
 [^6]: [[Mormonism with the Murph - Josiahs Reforms Asherah First Temple and Atoning Messiah|Murph - Josiah/Asherah w/ Butler & Day]], [53:30], https://youtu.be/Tyam3UlFAeA
+[^7]: [[Ward Radio - Was Alma a High Priest of Heavenly Mother|WARD RADIO - Was Alma a High Priest of Heavenly Mother]], [85:00], https://youtu.be/4FO56EVjz30
 
 ---
 See also: [[Concepts]] · [[Shaddai Is the Breasted God and Points to the Mother]] · [[The Book of Mormon Matches Pre-Reform First Temple Theology]] · [[Mormonism with the Murph - Josiahs Reforms Asherah First Temple and Atoning Messiah]]

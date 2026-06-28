@@ -1,7 +1,11 @@
 ---
 title: "Self-Worth Decoupled From Performance Combats Perfectionism"
 scripture: ["[[Matthew 5.48|Matthew 5:48]]"]
-related: ["[[Toxic Perfectionism Lower Among Religious Than Non-Religious]]"]
+related:
+  - "[[Toxic Perfectionism Lower Among Religious Than Non-Religious]]"
+  - "[[Scrupulosity Is an Anxiety Disorder Expressed Religiously]]"
+  - "[[Legalism Tries to Earn Gods Love Through Works Alone]]"
+  - "[[Maladaptive Perfectionism Leaves Mercy Out of Becoming Perfect]]"
 sources: ["[[Keystone - LDS Scholar Debunks Myths About Declining Membership]]"]
 tags:
   - "#topic/perfectionism"
@@ -29,6 +33,8 @@ The gospel message — "God loves you no matter what," failure can be made "100%
 4. **Standards must be *paired* with grace (Evidence: prescriptive nuance).** "You don't want to just have ... all these things we have to do without matching it with God loves us." A wrong "mental map" of mistake-and-recovery "leads them down a really bad path. That's not the gospel."[^5] Demand without grace is acknowledged as harmful.
 
 **Steelman of the opposing view:** The "100% clean / every blessing in the next life" framing is *conditional* in LDS practice (repentance, worthiness interviews, temple recommends, covenant-keeping), so a critic argues the theology actually *re-couples* worth to performance through eligibility gatekeeping — undercutting the "no matter what" claim. Whether the average member internalizes "God loves me unconditionally" or "I must qualify" is an empirical question the anecdote doesn't settle, and Dyer concedes some members hold the destructive "mental map." Social-desirability pressure and theology are also not mutually exclusive; both could inflate scores.
+
+**Clinical companion.** Dr. [[Kawika Allen]] develops the same diagnosis with clinical vocabulary: contingent self-worth that catastrophizes on failure is **maladaptive perfectionism** and, in its religious form, **scrupulosity** (an anxiety disorder), driven by **legalism** (earning love by works alone). His prescription matches Dyer's mechanism — anchor worth in identity ("you are enough"), distinguish corrective **guilt** from identity-**shame**, and **stay with Christ in the moment** rather than waiting to qualify. See [[Scrupulosity Is an Anxiety Disorder Expressed Religiously]], [[Legalism Tries to Earn Gods Love Through Works Alone]], [[Maladaptive Perfectionism Leaves Mercy Out of Becoming Perfect]], and [[Stay With Christ in the Moment of Scrupulosity]].
 
 ## Best Quotes
 

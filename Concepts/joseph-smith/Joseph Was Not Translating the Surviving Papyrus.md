@@ -8,6 +8,7 @@ sources:
   - "[[Ward Radio - Top 3 Myths in the Book of Abraham (Kerry Muhlestein)]]"
   - "[[Ward Radio - Top 5 Mistakes People Make About the Book of Abraham (Kerry Muhlestein)]]"
   - "[[Ward Radio - Debunking Mike Wingers Irrefutable Proof Mormonism is FALSE]]"
+  - "[[All Those In Favor - Egyptologist Responds to Criticisms of the Book of Abraham - Kerry Muhlestein]]"
 tags: [apologetics, joseph-smith, book-of-abraham, tradition/lds]
 #type/rebuttal
 ---
@@ -24,6 +25,8 @@ Egyptologist [[Kerry Muhlestein]] (on [[Ward Radio]]) answers the **leading atta
 
 ### 1. Eyewitnesses describe a long scroll, not the surviving fragments — rate: moderate-to-strong (historical testimony)
 Contemporary descriptions of the papyri Joseph worked from (a "long roll") do not match the recovered fragments, which are comparatively small. On Muhlestein's reading, the historical record points to a separate scroll as the translation source — the so-called "missing scroll" — so identifying the Book of Breathings fragment as Joseph's source begs the question.[^1]
+
+Muhlestein sharpens the chronology decisively: *every* eyewitness who describes the source in enough detail says it was the *long scroll*, and they say so **after** the point when Facsimile 1's papyrus was demonstrably already glued onto its separate backing paper. So to claim Joseph translated the text beside the vignette, "you just have to say, well, I know better than the people who were there — they were all wrong, I'm right," which inverts the evidence. He adds two confirming tests: text and adjacent illustration align only "quite often but not all the time" even in modern books, and the Book of Abraham twice points to "the drawing *at the beginning of the record*" (implying the text was *not* next to its facsimile).[^3]
 
 ### 2. Most of the papyri were lost — rate: strong (provenance)
 Only a portion of the original papyri survived to the present; much of the collection was dispersed or destroyed (a large part is held to have burned in the 1871 Chicago fire). The surviving fragments are therefore not the whole of what Joseph possessed, weakening any claim that "the" source text is in hand. See [[Most of the Book of Abraham Papyri Burned in the Chicago Fire]].[^1]
@@ -51,6 +54,7 @@ The critics' case (associated with Egyptologist [[Robert Ritner]] and others) is
 ## References
 [^1]: [[Ward Radio - Top 3 Myths in the Book of Abraham (Kerry Muhlestein)|Ward Radio - Top 3 Myths in the Book of Abraham]], [03:30]–[09:30], https://youtu.be/N8mz4qlp8t4
 [^2]: [[Ward Radio - Debunking Mike Wingers Irrefutable Proof Mormonism is FALSE|Ward Radio - Debunking Mike Winger's Irrefutable Proof]], [39:00]–[44:30], https://youtu.be/TMzmV92fXsA
+[^3]: [[All Those In Favor - Egyptologist Responds to Criticisms of the Book of Abraham - Kerry Muhlestein|ATIF - Egyptologist Responds to Book of Abraham Criticisms]], [33:30]–[37:30], https://youtu.be/YcrP4BrknHI
 
 ---
-See also: [[Concepts]] · [[Book of Abraham]] · [[Kerry Muhlestein]] · [[Translating a Text Versus Interpreting a Drawing Are Different Claims]] · [[Ward Radio - Top 3 Myths in the Book of Abraham (Kerry Muhlestein)]]
+See also: [[Concepts]] · [[Book of Abraham]] · [[Kerry Muhlestein]] · [[Translating a Text Versus Interpreting a Drawing Are Different Claims]] · [[Ward Radio - Top 3 Myths in the Book of Abraham (Kerry Muhlestein)]] · [[All Those In Favor - Egyptologist Responds to Criticisms of the Book of Abraham - Kerry Muhlestein]]

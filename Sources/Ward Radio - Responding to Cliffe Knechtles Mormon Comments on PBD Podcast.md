@@ -16,7 +16,7 @@ A Ward Radio livestream in which host **[[Cardon Ellis]]**, with **[[Jacob Hanse
 - **The Layman groups Mormons as Christian.** Bet-David's premise ("within Christianity… the difference between non-denominational Christians, Catholicism, and LDS/Mormonism") treats Latter-day Saints as a Christian branch; Knechtle never corrects him. The hosts argue this self-evident "by their fruits" classification only gets blocked by creedal gatekeeping. See [[The Layman Groups Latter-day Saints as Christian]].
 - **The "Jesus and Lucifer are brothers" charge.** Knechtle calls it a "fundamental teaching" and a "big error." The hosts answer that it is *nowhere* a discussion-one missionary tenet; that LDS scripture never presents Christ and Satan as begotten-equal brothers; and they walk through [[Moses 1.10|Moses 1]] to locate where the confusion comes from (Satan claiming "I am the only begotten" — and Moses rejecting him). See [[Moses 1 Shows Satan Falsely Claims to Be the Only Begotten]].
 - **Children of God vs. image-bearers.** Jacob notes the deeper asymmetry: traditional Christianity does *not* hold all people are children of God (only adopted sons upon belief; otherwise mere "image bearers"), whereas the LDS universal divine sonship is the very doctrine the "brothers" slur twists. See [[The Brothers Slur Twists Universal Divine Sonship]].
-- **The bigotry / double-standard argument.** Cardon's thesis: creedal Christians tolerate wild latitude on baptism (mode, necessity) and on Calvinist predestination, but allow *zero* latitude only on the Trinity — the one doctrine Latter-day Saints differ on — which makes the singling-out religious bigotry, not honest critique. See [[Creedal Latitude on Everything but the Trinity Is Bigotry]].
+- **The bigotry / double-standard argument.** Cardon's thesis: creedal Christians tolerate wild latitude on baptism (mode, necessity) and on Calvinist predestination, but allow *zero* latitude only on the Trinity — the one doctrine Latter-day Saints differ on — which makes the singling-out religious bigotry, not honest critique. See [[Creedal Latitude on Baptism but Not the Trinity]].
 - **Polygamy as a fair critique.** The hosts concede Knechtle's polygamy objection is "A-tier" / legitimate (unlike the brothers trope), faulting only his claim that the Bible is uniformly against it.
 - **"Created" misstep.** Knechtle calls Christ "a created angel"… err, calls Lucifer created and implies Jesus was created; the hosts clarify LDS teaching that intelligence/spirit is eternal and uncreated, so Christ is not "created."
 
@@ -24,7 +24,7 @@ A Ward Radio livestream in which host **[[Cardon Ellis]]**, with **[[Jacob Hanse
 - [[The Layman Groups Latter-day Saints as Christian]]
 - [[Moses 1 Shows Satan Falsely Claims to Be the Only Begotten]]
 - [[The Brothers Slur Twists Universal Divine Sonship]]
-- [[Creedal Latitude on Everything but the Trinity Is Bigotry]]
+- [[Creedal Latitude on Baptism but Not the Trinity]]
 
 ## Entities
 - People: [[Cardon Ellis]] · [[Jacob Hansen]] · [[Luke Hansen]] · [[Brad Whitbeck]] · [[Jonah Barnes]] · [[Cliff Knechtel|Cliffe Knechtle]] · Patrick Bet-David (PBD, Protestant interlocutor) · Ed Decker, the Tanners (named as source of the trope)

@@ -7,6 +7,7 @@ related:
   - "[[Judge the Book of Abraham by Its Fruits]]"
 sources:
   - "[[Ruslan KD - Pressing a Mormon Apologist on if LDS Are Christians]]"
+  - "[[All Those In Favor - Egyptologist Responds to Criticisms of the Book of Abraham - Kerry Muhlestein]]"
 tags: ["#apologetics/book-of-abraham", "#tradition/lds", "#type/claim"]
 ---
 
@@ -21,7 +22,7 @@ The standard critic's argument is: we have recovered fragments of [[Joseph Smith
 
 1. **The argument hinges on a missing premise.** Hansen's framing: "people say... 'we have' — I'm going to say *some* — 'of Joseph Smith's papyri, and they don't talk about Abraham, therefore Joseph's translation was wrong.' But you noticed I said *some*. We don't have all of the papyri that Joseph had."[^1] *Rating: a valid logical point about the burden of proof* — to indict the translation from the fragments, a critic must first show the fragments *are* the relevant source, which the destruction of the rest blocks.
 
-2. **The historical loss is documentable.** "An enormous amount of the papyri that Joseph owned was bought by the Chicago Museum and was burned in the Great Chicago Fire of the 1870s."[^1] *Rating: substantially historical* — a large part of the original collection did pass into a Chicago museum and was lost; the surviving fragments (the "Joseph Smith Papyri" rediscovered in 1967) are a subset, not the whole.
+2. **The historical loss is documentable.** "An enormous amount of the papyri that Joseph owned was bought by the Chicago Museum and was burned in the Great Chicago Fire of the 1870s."[^1] *Rating: substantially historical* — a large part of the original collection did pass into a Chicago museum and was lost; the surviving fragments (the "Joseph Smith Papyri" rediscovered in 1967) are a subset, not the whole. [[Kerry Muhlestein]] specifies that Joseph owned a "larger roll and a shorter roll and a bunch of fragments," that "the larger roll and the shorter roll were destroyed in the Great Chicago Fire," and that the witnesses describe him translating from the (now-burned) larger roll — leaving only the fragments, which are *not* the source of the Book of Abraham.[^3]
 
 3. **The companion "catalyst theory."** Hansen pairs this with the catalyst model — Joseph received genuine revelation *about* Abraham that he believed was tied to the papyri, and may simply have been mistaken about which physical scroll carried it; the revelation stands even if the connection to a given fragment fails. See [[A Prophet Is Not an Academic Translator]] and [[The Book of Abraham Has Only Three Apologetic Exits - Reel]]. *Rating: a fallback that survives even if the missing-scroll defense is granted away.*
 
@@ -42,6 +43,7 @@ This is a burden-of-proof move within the Book of Abraham debate: it does not pr
 ## References
 [^1]: [[Ruslan KD - Pressing a Mormon Apologist on if LDS Are Christians|Ruslan KD - Are LDS Christian]], [51:01], https://youtu.be/VcdzUy4MfFY
 [^2]: [[Ruslan KD - Pressing a Mormon Apologist on if LDS Are Christians|Ruslan KD - Are LDS Christian]], [52:30], https://youtu.be/VcdzUy4MfFY
+[^3]: [[All Those In Favor - Egyptologist Responds to Criticisms of the Book of Abraham - Kerry Muhlestein|ATIF - Egyptologist Responds to Book of Abraham Criticisms]], [21:00]–[22:00], https://youtu.be/YcrP4BrknHI
 
 ---
-See also: [[Concepts]] · [[Ruslan KD - Pressing a Mormon Apologist on if LDS Are Christians]] · [[Book of Abraham]] · [[Jacob Hansen]]
+See also: [[Concepts]] · [[Ruslan KD - Pressing a Mormon Apologist on if LDS Are Christians]] · [[Book of Abraham]] · [[Jacob Hansen]] · [[All Those In Favor - Egyptologist Responds to Criticisms of the Book of Abraham - Kerry Muhlestein]]

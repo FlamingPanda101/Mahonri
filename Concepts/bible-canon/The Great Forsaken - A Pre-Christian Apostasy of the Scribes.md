@@ -11,6 +11,7 @@ related:
   - "[[The Book of Mormon Rescued Us From Two Apostasies]]"
 sources:
   - "[[Thoughtful Faith - Why The Old Testament Is The Least Reliable Of All Scripture]]"
+  - "[[Ward Radio - Isaiahs Lost Prophecies How They Support the Book of Mormon]]"
 tags:
   - apologetics/canon
   - topic/great-apostasy
@@ -54,6 +55,10 @@ The thesis is a maximal reconstruction stitched from disputed texts. (a) **Jubil
 [^4]: [[Thoughtful Faith - Why The Old Testament Is The Least Reliable Of All Scripture|TF - Great Forsaken]], [10:30], https://youtu.be/DKmO2JuMb5U
 [^5]: [[Thoughtful Faith - Why The Old Testament Is The Least Reliable Of All Scripture|TF - Great Forsaken]], [14:30], https://youtu.be/DKmO2JuMb5U
 [^6]: [[Thoughtful Faith - Why The Old Testament Is The Least Reliable Of All Scripture|TF - Great Forsaken]], [27:00], https://youtu.be/DKmO2JuMb5U
+[^7]: [[Ward Radio - Isaiahs Lost Prophecies How They Support the Book of Mormon|Ward Radio - Isaiah's Lost Prophecies]], [25:30]-[31:00], https://youtu.be/TlMgkYSUKBk
+
+## Restated on Ward Radio — Isaiah's Lost Prophecies
+[[Jonah Barnes]] reprises "the Great Forsaken" on Ward Radio with [[Cardon Ellis]] and [[David John Butler]], expanding the etymology to Jubilees 1:3 (the people will "forsake," Hebrew *shakach/shik*, the law, sabbaths, festivals, and ordinances) and contrasting it with the post-apostolic "Great Apostasy" (Greek *apostasis*, driven by hellenization) — the pre-Christian forsaking being driven instead by the Deuteronomistic scribes and Assyrian, not Greek, influence. He ties it to [[Nephi and Isaiah Shared the Same Ascension Vision]] and the brass-plates Isaiah.[^7]
 
 ---
-See also: [[Jonah Barnes]] · [[Great Apostasy]] · [[Deuteronomistic Corruption of the Old Testament]] · [[Jacob 5]]
+See also: [[Jonah Barnes]] · [[Great Apostasy]] · [[Deuteronomistic Corruption of the Old Testament]] · [[Jacob 5]] · [[Ward Radio - Isaiahs Lost Prophecies How They Support the Book of Mormon]]

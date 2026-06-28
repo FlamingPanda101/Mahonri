@@ -10,6 +10,7 @@ related:
 sources:
   - "[[The Stick of Joseph - What Ancient Scripture Reveals About the Family of Heaven]]"
   - "[[The Stick of Joseph - Was the Divine Feminine Erased from the Bible]]"
+  - "[[Ward Radio - Was Alma a High Priest of Heavenly Mother]]"
 tags:
   - "#apologetics/divine-feminine"
   - "#topic/heavenly-mother"
@@ -44,6 +45,9 @@ Most lexicographers do **not** accept "breasted God" as the meaning of *Shaddai*
 ### 6. Independent corroboration from Margaret Barker (rating: strengthens; non-LDS scholar, same claim)
 In a separate on-camera interview, [[Margaret Barker]] makes the **same core argument independently**: *shaddai* derives from *shad* (breast), so *El Shaddai* is most naturally "**the God with breasts**," and the KJV "God Almighty" of [[Exodus 6.3|Exodus 6:3]] is "not an accurate translation" but part of a program to "bury the lady." Barker ties this to the physical evidence she works from — the thousands of breasted [[The Judean Pillar Figurines Were the Smashed Mother in the First Temple|Judean pillar figurines]] ("we found hundreds of them"). [^7] That a non-LDS biblical scholar reaches the breasted-God reading from a different evidentiary base (archaeology + her temple-theology reconstruction) adds weight beyond Butler's etymological case. See [[The Judean Pillar Figurines Were the Smashed Mother in the First Temple]] and [[Deborah and Asenath Preserve the Lady of the Bush]].
 
+### 7. Re-presented and applied to Alma (Ward Radio) — rate: strengthens reach (same argument, new payoff)
+In the Ward Radio live stream "Was Alma a High Priest of Heavenly Mother?", [[David Butler (Stick of Joseph)|David Butler]] reprises the full *shad*/*Shaddayim*/*Eloah*-parallel case, adds that the Deuteronomist recasts the breasted goddess as *shedim* ("demons"; see [[Eloah Is a Feminine Form of God Recast as Demons by the Deuteronomists]]), and then applies it: Alma baptizes "having authority from the Almighty God" = **El Shaddai** at the Waters of Mormon. See [[Alma Baptizes by the Authority of El Shaddai at the Waters of Mormon]]. [^8]
+
 ## Best Quotes
 
 > "It might mean that **El Shaddai is the breasted God**... suggesting that it's a female divinity." [^1]
@@ -62,6 +66,7 @@ In a separate on-camera interview, [[Margaret Barker]] makes the **same core arg
 [^5]: [[The Stick of Joseph - What Ancient Scripture Reveals About the Family of Heaven|Stick of Joseph - Family of Heaven]], [62:02], https://youtu.be/5E4uSkrqe9w
 [^6]: [[The Stick of Joseph - What Ancient Scripture Reveals About the Family of Heaven|Stick of Joseph - Family of Heaven]], [52:30], https://youtu.be/5E4uSkrqe9w
 [^7]: [[The Stick of Joseph - Was the Divine Feminine Erased from the Bible|Stick of Joseph - Divine Feminine (Barker)]], [05:30], https://youtu.be/ubuPNswy8VQ
+[^8]: [[Ward Radio - Was Alma a High Priest of Heavenly Mother|WARD RADIO - Was Alma a High Priest of Heavenly Mother]], [54:00], https://youtu.be/4FO56EVjz30
 
 ---
 See also: [[Genesis 49.25|Genesis 49:25]] · [[Mark Smith]] · [[Frank Moore Cross]] · [[Wisdom Personified as the Mother in Heaven]] · [[Margaret Barker]]

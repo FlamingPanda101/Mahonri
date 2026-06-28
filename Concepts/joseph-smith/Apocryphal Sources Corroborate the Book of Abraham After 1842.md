@@ -8,6 +8,7 @@ related:
   - "[[Book of Abraham]]"
 sources:
   - "[[Light and Truth Letter - Austin Fife]]"
+  - "[[Ward Radio - Biggest Apologetic Nightmare Book of Abraham Debunked Again]]"
 tags: [apologetics, challenges, ces-letter, book-of-abraham, topic/challenges]
 ---
 # Apocryphal Sources Corroborate the Book of Abraham After 1842
@@ -38,9 +39,13 @@ Because these details are attested across multiple, independent ancient sources,
 ## LDS Connection
 This is a textual companion to [[Judge the Book of Abraham by Its Fruits]] and to [[Abraham as a Backstory to Genesis]]: rather than defending the translation method, it argues that the *content* of the [[Book of Abraham]] carries ancient fingerprints Joseph Smith could not have manufactured in 1842. It mirrors the same evidentiary move Latter-day Saint apologists make for the Book of Mormon ([[Multiple Attestation - Corroborating Apocryphal Sources]]).
 
+## Corroboration (Ward Radio)
+[[Jonah Barnes]] makes the same argument on Ward Radio, listing his "top five proofs" that the Book of Abraham text impossibly predicts later-recovered apocrypha (human sacrifice in Abraham's day, Abraham's opposition to idols, Chaldea importing Egyptian idolatry, Abraham as astronomer, Lucifer's envy of Michael in Abraham 3) — and pairs it with the [[The Book of Abraham Debate Plays a Provenance vs Content Double Standard|provenance-vs-content double standard]]. See [[Ward Radio - Biggest Apologetic Nightmare Book of Abraham Debunked Again]]. [^3]
+
 ## References
 [^1]: [[Light and Truth Letter - Austin Fife|Light and Truth Letter (Fife, 2024)]], p.97.
 [^2]: [[Light and Truth Letter - Austin Fife|Light and Truth Letter (Fife, 2024)]], p.98.
+[^3]: [[Ward Radio - Biggest Apologetic Nightmare Book of Abraham Debunked Again|WARD RADIO - Book of Abraham Nightmare Debunked Again]], [36:30], https://youtu.be/wIKzqVMMP3c
 
 ---
 See also: [[Concepts]] · [[Light and Truth Letter - Austin Fife]]

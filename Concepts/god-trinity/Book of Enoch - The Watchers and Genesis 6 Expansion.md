@@ -6,6 +6,7 @@ related:
   - "[[Book of Enoch - Problem of Evil Through Fallen Angels]]"
   - "[[Book of Enoch - Cosmetic Arts as Angelic Corruption]]"
   - "[[Book of Enoch - Overview and Structure]]"
+  - "[[The Nephilim Were Apostate Sethite Priesthood-Holders Not Supernatural Giants]]"
 sources:
   - "[[Data Over Dogma - Left Behind The Book of Enoch|Data Over Dogma — Left Behind: The Book of Enoch]]"
 tags: [apologetics, book-of-enoch, watchers, nephilim, divine-council, angels]
@@ -61,6 +62,10 @@ McClellan makes an important theological-historical point:
 > "In Genesis 6 they're Bene Elohim, they're Gods, children of Gods... they get renegotiated — the pantheon gets reduced, gets renegotiated, and they become angels." [^10]
 
 In the earliest Hebrew worldview, the Bene Elohim are lesser divine beings in YHWH's council — not "angels" in the later sense. 1 Enoch itself participates in this renegotiation, turning divine beings into a specific category of (fallen) angelic beings. This theological downgrading reflects the shift from Israelite henotheism toward Jewish monotheism.
+
+## Competing LDS Reading
+
+A very different, minority reconstruction is offered by [[Jonah Barnes]] on Ward Radio: the Watchers were **not** heavenly beings at all but **mortal Sethite priesthood-holders** ("overseers"/"bishops") who apostatized, with the real sin being sterilization and child sacrifice — see [[The Nephilim Were Apostate Sethite Priesthood-Holders Not Supernatural Giants]] and [[The Sin of the Nephilim Was Sterilization Abortion and Child Sacrifice]]. That reading runs *against* the plainly angelic frame described here and the earliest Jewish-Christian interpretation, but is grounded in Joseph Smith's "sons of God = covenant title" in Moses 6-7.
 
 ## References
 

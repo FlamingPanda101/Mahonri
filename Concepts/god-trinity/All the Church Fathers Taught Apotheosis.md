@@ -10,6 +10,7 @@ related:
   - "[[Same-Species-as-God as the Core LDS Distinctive]]"
 sources:
   - "[[Ward Radio - All the Church Fathers Secretly Taught Mormon Doctrine Apotheosis]]"
+  - "[[Ward Radio - A New Generation of Anti Mormons That Need New Material]]"
 tags:
   - apologetics
   - topic/theosis
@@ -57,6 +58,10 @@ The popular Ward Radio version of the vault's central patristic-deification case
 ## References
 [^1]: [[Ward Radio - All the Church Fathers Secretly Taught Mormon Doctrine Apotheosis|Ward Radio - Church Fathers Apotheosis]], [22:30]–[27:30], https://youtu.be/zQBsNBHCjOw
 [^2]: [[Ward Radio - All the Church Fathers Secretly Taught Mormon Doctrine Apotheosis|Ward Radio - Church Fathers Apotheosis]], [30:00]–[51:30], https://youtu.be/zQBsNBHCjOw
+[^3]: [[Ward Radio - A New Generation of Anti Mormons That Need New Material|Ward Radio - New Generation of Anti Mormons]], [06:30]–[08:00], https://youtu.be/cZoco9h89FA
+
+## Reused against the "Are Mormons Christian?" reel
+A later Ward Radio reaction panel ([[Cardon Ellis]], [[Dalton Williams]], [[Devin Barnes]], [[Braden Gospel Guardian|Braden]]) deploys the same exchange-formula chain — read aloud from a non-LDS interfaith source — to rebut an Instagram reel claiming deification is a uniquely Mormon error, naming Irenaeus, Clement of Alexandria, Ephrem, Gregory of Nazianzus, and Gregory of Nyssa. They pair it with [[Genesis 3 Affirms Humans Became Like God It Was Not Only a Lie]] and NT proof-texts (2 Peter 1:4, Romans 8:17). See also [[Define Christianity Before Contrasting It With Mormonism]].[^3]
 
 ---
-See also: [[Concepts]] · [[Theosis]] · [[Justin Martyr]] · [[Athanasius]] · [[Clement of Alexandria]]
+See also: [[Concepts]] · [[Theosis]] · [[Justin Martyr]] · [[Athanasius]] · [[Clement of Alexandria]] · [[Ward Radio - A New Generation of Anti Mormons That Need New Material]]

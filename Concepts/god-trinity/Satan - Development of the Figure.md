@@ -5,7 +5,8 @@ related:
   - "[[Book of Enoch - The Watchers and Genesis 6 Expansion]]"
   - "[[Book of Enoch - Problem of Evil Through Fallen Angels]]"
   - "[[The Wheat and Tares as Sons of the Devil Sown by Satan]]"
-sources: []
+sources:
+  - "[[Dan McClellan - Satan isnt in the Old Testament]]"
 tags: ["#apologetics/divine-council", "#tradition/academic-biblical-studies", "#type/reference"]
 ---
 
@@ -23,6 +24,13 @@ The flagship source is [[Book of Enoch - Origin of the Satan Figure]]: Asael/She
 - [[Book of Enoch - The Watchers and Genesis 6 Expansion]] — the Genesis 6:1–4 "sons of God" episode expanded into the rebellion narrative.
 - [[Book of Enoch - Problem of Evil Through Fallen Angels]] — the Enochic theodicy that comes with the figure.
 - [[The Satanic Fall May Have Influenced the Natural Order]] and [[The Wheat and Tares as Sons of the Devil Sown by Satan]] — downstream NT/theological uses.
+
+### The Hebrew-Bible baseline (from [[Dan McClellan - Satan isnt in the Old Testament]])
+The "before" state against which the development is measured — four atomic notes establishing that the Old Testament has *no* named Satan:
+- [[Satan in the Hebrew Bible Is a Generic Noun for an Adversary]] — bare *satan* = "adversary," used of humans and even the angel of Yahweh (Numbers 22:22).
+- [[Ha-Satan Is a Council Office Not a Personal Name]] — *ha-satan* in [[Job 1]] and [[Zechariah 3]] is a council prosecutor, not a name.
+- [[Genesis 3 Isaiah 14 and Ezekiel 28 Are Not About Satan]] — the classic prooftexts are a snake and two human kings.
+- [[1 Chronicles 21 Is the Only Possible Old Testament Satan]] — the single contested candidate (McClellan: generic; [[Esther Hamori]]: a personal name).
 
 ## The Steelman
 

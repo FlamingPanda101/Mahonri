@@ -43,10 +43,37 @@ In a Thoughtful Faith in-studio interview on his book *All Things Apocryphal*, B
 - [[No Infallible Source Only Reliable Guides]]
 - [[The Book of Mormon Rescued Us From Two Apostasies]]
 
+## On the Book of Abraham (Ward Radio reaction)
+As guest on [[Cardon Ellis]]'s Ward Radio, Barnes answers an evangelical video branding the Book of Abraham "the biggest apologetic nightmare for Mormons." His core moves: critics run a **provenance-vs-content double standard** (attacking the Book of Abraham only on its papyri while attacking the Book of Mormon only on content); Egyptian is **not** "easily translatable"; the facsimiles have lacunae; and the *text* impossibly predicts post-1842 apocrypha (Apocalypse of Abraham, Jubilees, Jasher) — his "top five proofs" from *The Lost Gems of Genesis*. His one-liner: "Have you read it?" See:
+- [[The Book of Abraham Debate Plays a Provenance vs Content Double Standard]]
+- [[Ancient Egyptian Is Not Easily Translatable]]
+- [[Lion-Couch Legs Apart Signal a Living Exalted Figure Not a Forgery]]
+- [[Apocryphal Sources Corroborate the Book of Abraham After 1842]] (existing; corroborated)
+
+## On the Giants/Nephilim (The Lost Gems of Genesis)
+In a Ward Radio segment on Genesis 6, Barnes (against [[Michael Heiser]]) argues the **Nephilim/Watchers were mortal Sethite priesthood-holders** ("overseers"/"bishops"), not supernatural giants; that "Nephilim" is a consonantal pun (mighty/fallen/abortion) while *gigantes* means "earth-born"; and that the sin triggering the Flood was **sterilization, abortion, and child sacrifice** to extend long lifespans (whence the post-Flood lifespan cap). He repeatedly disclaims being a Hebraist and frames it as his own synthesis. See:
+- [[The Nephilim Were Apostate Sethite Priesthood-Holders Not Supernatural Giants]]
+- [[The Sin of the Nephilim Was Sterilization Abortion and Child Sacrifice]]
+- [[Nephilim Is a Premasoretic Triliteral Pun Meaning Mighty Fallen and Abortion]]
+
+## On The Lost Gems of Genesis and Bart Ehrman (Ward Radio)
+In further Ward Radio interviews promoting *The Lost Gems of Genesis* and *The Key to the Keystone*, Barnes argued: the apocrypha reveal Cain killed Abel by sawing his throat with a flint (Joseph's "swear by thy throat" hint) and that Cain's luring of Abel is the "first weaponization of empathy"; that Joseph chose the Adam-and-Eve "battlefield" before the matching texts surfaced; that Lucifer fell out of jealousy of *Adam* and that Abraham 3 is the selection of the first man (Michael/Adam), not the redeemer; and that Bart Ehrman's canon scholarship accidentally vindicates the Book of Mormon's claim of pre-Christian messianism. See:
+- [[The Apocrypha Reveals How Cain Killed Abel by the Throat]]
+- [[Cain Weaponizes Empathy to Lure Abel - The First Crybully]]
+- [[Joseph Smith Chose the Adam-and-Eve Battlefield Before the Texts Surfaced]]
+- [[Lucifer Fell Out of Jealousy of Adam in the Apocrypha]]
+- [[Abraham 3 Is the Selection of Adam Not the Redeemer]]
+- [[Ehrman Is Right That the Canon Lacks the Suffering Messiah]]
+
 ## Key Sources
+- [[Ward Radio - The Apocryphal Book Reveals How Cain Actually Killed Abel]]
+- [[Ward Radio - The Apocryphal Secret Behind Lucifers Fall]]
+- [[Ward Radio - The Book of Mormon Was Right Bart Ehrman the Apocrypha and the Corruption of the Canon]]
 - [[Thoughtful Faith - The Trinity vs the Godhead Debate Prep]]
 - [[The Stick of Joseph - Why ALL Christians Should Wear a Sacred Garment]]
 - [[Thoughtful Faith - Why The Old Testament Is The Least Reliable Of All Scripture]] (the Great Forsaken)
+- [[Ward Radio - Biggest Apologetic Nightmare Book of Abraham Debunked Again]]
+- [[Ward Radio - Who Are the Giants in the Bible (Jonah Barnes)]]
 
 ## Sources
 [^1]: [[Thoughtful Faith - The Trinity vs the Godhead Debate Prep|Thoughtful Faith - The Trinity vs the Godhead Debate Prep]], [01:01], https://youtu.be/qCRhIPPz4Qk

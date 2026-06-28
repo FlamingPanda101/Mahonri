@@ -1,12 +1,17 @@
 ---
 title: "Nephite Cement Construction Was Confirmed at Teotihuacan"
+scripture:
+  - "[[Helaman 3.7|Helaman 3:7]]"
 related:
   - "[[The Anachronism List Is Trending Toward the Book of Mormon]]"
   - "[[Mesoamerican Metallurgy Is Trending Earlier Toward Book of Mormon Times]]"
   - "[[Absence of Evidence Is Not Evidence of Absence in New World Archaeology]]"
   - "[[Convergence Not Proof Is the Standard for Book of Mormon Historicity]]"
+  - "[[The Three Types of Anachronism - Verified Alleged and Reversed]]"
+  - "[[The Anachronism Reversal Rate Trends Toward the Book of Mormon Over Time]]"
 sources:
   - "[[Light and Truth Letter - Austin Fife]]"
+  - "[[By His Fruits - Book of Mormon Anachronisms Explained and Debunked]]"
 tags: [apologetics, challenges, ces-letter, book-of-mormon, topic/challenges]
 ---
 # Nephite Cement Construction Was Confirmed at Teotihuacan
@@ -32,6 +37,10 @@ This is one of the items on the [[The Anachronism List Is Trending Toward the Bo
 
 > "Critics ridiculed the Book of Mormon for describing indigenous people who used cement. Since the publication of the Book of Mormon, several ancient sites have confirmed the use of cement in the Americas, including Teotihuacán." [^3]
 
+## The Heber J. Grant Story (By His Fruits)
+
+By His Fruits frames the same reversal through a period anecdote: a newly-doctored young man told a young [[Heber J. Grant]] he could "point out two lies in the Book of Mormon" — that the ancients "made houses of cement" and "were expert in the use of cement" — and that "that alone should disprove the Book of Mormon." Grant replied "that does not bother me one particle because I have read the book... and I've asked God if the book is true. And if my children don't discover cement made by the ancients, I believe my grandchildren will." The video notes that since then "they found houses of cement" and "that the people were expert in the use of cement" — a once-confident disproof now reversed.[^4] This is presented as a textbook case of the [[The Three Types of Anachronism - Verified Alleged and Reversed|alleged-to-reversed]] migration and of [[Enough Evidence to Prevent Scoffing Not Enough to Remove Faith|faith preceding the evidence]].
+
 ## LDS Connection
 
 Helaman 3 is one of the Book of Mormon's most quietly specific passages: it ties a population movement, a deforested northern land, and a particular building technology together. The convergence with Teotihuacán's lime-concrete apartment compounds — in the right place and the right century — illustrates the book's recurring pattern of incidental accuracy that critics first mocked and later abandoned (cf. [[Absence of Evidence Is Not Evidence of Absence in New World Archaeology]]).
@@ -41,6 +50,7 @@ Helaman 3 is one of the Book of Mormon's most quietly specific passages: it ties
 [^1]: [[Light and Truth Letter - Austin Fife|Light and Truth Letter (Fife, 2024)]], p.66
 [^2]: [[Light and Truth Letter - Austin Fife|Light and Truth Letter (Fife, 2024)]], p.66
 [^3]: [[Light and Truth Letter - Austin Fife|Light and Truth Letter (Fife, 2024)]], p.67
+[^4]: [[By His Fruits - Book of Mormon Anachronisms Explained and Debunked|By His Fruits - Book of Mormon Anachronisms]], [08:30]–[09:30], https://youtu.be/VTYdNL6RxjI
 
 ---
-See also: [[Concepts]] · [[Light and Truth Letter - Austin Fife]]
+See also: [[Concepts]] · [[Light and Truth Letter - Austin Fife]] · [[By His Fruits - Book of Mormon Anachronisms Explained and Debunked]] · [[Helaman 3.7|Helaman 3:7]]

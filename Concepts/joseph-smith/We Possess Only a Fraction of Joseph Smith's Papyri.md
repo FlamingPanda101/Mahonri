@@ -8,6 +8,7 @@ related:
   - "[[Translating a Text Versus Interpreting a Drawing Are Different Claims]]"
 sources:
   - "[[Ward Radio - Answering Common BAD Assumptions About the Book of Abraham]]"
+  - "[[All Those In Favor - Egyptologist Responds to Criticisms of the Book of Abraham - Kerry Muhlestein]]"
 tags:
   - apologetics
   - topic/book-of-abraham
@@ -32,6 +33,8 @@ After the 1966 rediscovery of papyrus fragments at the Met, critics ([[Cameron B
 ### 3. Witnesses place the text on a different roll, and most is lost (rated: strong for the math)
 "Witness accounts agree that the Book of Abraham was on only one of the rolls of papyrus Joseph purchased. It is estimated that we only have about 2 to 3% of the papyri originally in Joseph's possession ... it's convenient for Cameron to assume we have the exact papyri Joseph translated, but chances are we probably don't."[^1] (Much of the rest is thought to have burned; see [[Most of the Book of Abraham Papyri Burned in the Chicago Fire]].)
 
+[[Kerry Muhlestein]] independently puts the figure at "less than 10%" and adds a quantitative basis for the lost long scroll: a non-LDS mathematician derived a formula predicting a papyrus roll's length from the spacing of its winding creases, and [[John Gee]] applied it to estimate the long scroll — the one witnesses say Joseph translated from — at roughly **42 feet** (with the shorter scroll still ~20+ feet), leaving ample room for the Abraham text the surviving fragments lack.[^2]
+
 ## Counter-arguments / related
 A critic answers: (a) the surviving fragments include the very Facsimile 1 vignette Joseph attached to the Book of Abraham *and* the adjacent Book of Breathings text, so the "different lost scroll" claim must explain why the one piece we *do* have is the one Joseph illustrated; (b) "2–3% survives" is an estimate, and missing-scroll appeals are inherently unfalsifiable — they can absolve any mismatch; and (c) the 50%-correlation and Abr. 1:12 points are real but don't *establish* a separate source, only permit one. The LDS reply concedes it cannot prove the lost-scroll scenario but argues the critic equally cannot prove the recovered fragments *were* the source — so the "we caught him red-handed" rhetoric overclaims (pairs with [[Joseph Was Not Translating the Surviving Papyrus]]).
 
@@ -45,6 +48,7 @@ A standard Book of Abraham defense that blunts the "Met fragments = mistranslati
 
 ## References
 [^1]: [[Ward Radio - Answering Common BAD Assumptions About the Book of Abraham|Ward Radio - BAD Assumptions]], [11:30]–[13:00], https://youtu.be/r5ojK_VY04E
+[^2]: [[All Those In Favor - Egyptologist Responds to Criticisms of the Book of Abraham - Kerry Muhlestein|ATIF - Egyptologist Responds to Book of Abraham Criticisms]], [30:30]–[33:00], [38:00], https://youtu.be/YcrP4BrknHI
 
 ---
-See also: [[Concepts]] · [[Cameron Bertuzzi]] · [[Book of Abraham]]
+See also: [[Concepts]] · [[Cameron Bertuzzi]] · [[Book of Abraham]] · [[All Those In Favor - Egyptologist Responds to Criticisms of the Book of Abraham - Kerry Muhlestein]]

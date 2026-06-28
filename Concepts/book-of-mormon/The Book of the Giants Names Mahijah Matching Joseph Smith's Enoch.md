@@ -10,6 +10,8 @@ related:
   - "[[Confirmed Anachronisms Are Reverse-Anachronisms Joseph Could Not Have Known]]"
 sources:
   - "[[Ward Radio - The Top Ten Lost LDS Writings of the Apocrypha]]"
+  - "[[Ward Radio - Joseph Smith Was a Prophet and Ethiopic Book of Enoch Proves It]]"
+  - "[[Ward Radio - New Discoveries Reveal the Sin of The Giants and Why God Flooded the Earth]]"
 tags: ["#apologetics/book-of-mormon", "#tradition/lds", "#type/claim", "topic/apocrypha", "topic/enoch", "topic/book-of-moses", "by/ward-radio"]
 ---
 
@@ -62,5 +64,11 @@ Barnes recounts Nibley pressing a scholar friend for an alternative explanation 
 ## Also attested by Cirillo
 The non-LDS scholar [[Salvatore Cirillo]] independently lists the Mahijah/Mahawai name among his "beyond dispute" Enoch parallels (re-narrated in a Thoughtful Faith video), set against a rediscovery timeline in which the *Book of the Giants* was unavailable until 1946. See [[Cirillo Catalogs Substantial Enoch Parallels Beyond Dispute]] and [[The Enoch Rediscovery Timeline Postdates Joseph Smith]].
 
+## Re-narrated in two later Ward Radio episodes
+[[Jonah Barnes]] repeats the Mahijah/Mahujah match in two further episodes, adding the anecdote that Dead Sea Scrolls scholar [[Matthew Black]] reportedly conceded "someday we will find out where Joseph got that" — framed as an "academic god of the gaps."[^2] In the Sin-of-the-Giants episode the *Book of the Giants* (first translated 1971) is woven into the broader [[The Sin of the Giants Was Sterilization to Stop the Messiahs Birth|antediluvian sterilization]] thesis.[^3]
+
+[^2]: [[Ward Radio - Joseph Smith Was a Prophet and Ethiopic Book of Enoch Proves It|Ward Radio - Ethiopic Enoch Proves It]], [18:30]-[24:30], https://youtu.be/Pp0xAti_pNs
+[^3]: [[Ward Radio - New Discoveries Reveal the Sin of The Giants and Why God Flooded the Earth|Ward Radio - Sin of the Giants]], [08:00]-[10:30], https://youtu.be/CPOtfKTSbWc
+
 ---
-See also: [[Concepts]] · [[Jonah Barnes]] · [[Hugh Nibley]] · [[Enoch]] · [[Salvatore Cirillo]] · [[Ward Radio - The Top Ten Lost LDS Writings of the Apocrypha]] · [[Moses 6]]
+See also: [[Concepts]] · [[Jonah Barnes]] · [[Hugh Nibley]] · [[Matthew Black]] · [[Enoch]] · [[Salvatore Cirillo]] · [[Ward Radio - The Top Ten Lost LDS Writings of the Apocrypha]] · [[Moses 6]]

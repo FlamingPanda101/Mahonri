@@ -4,6 +4,7 @@ scripture: "[[Mosiah 17.2|Mosiah 17:2]]"
 related:
   - "[[Book of Mormon Names Show Authorial Wordplay]]"
   - "[[Attestation Versus Wordplay - Two Levels of Evidence]]"
+  - "[[Mormon Puns on Almas Name as Virgin Concealed and Young Man]]"
 sources:
   - "[[Informed Saints - Are Book of Mormon Names Real]]"
 tags: [apologetics, book-of-mormon, onomastics, alma, by/matthew-bowen, tradition/lds]

@@ -9,11 +9,13 @@ related:
   - "[[Loss of the Divine Family Is the Core Apostasy]]"
 sources:
   - "[[Ward Radio - The Great Apostasy Deep Dive with Mike Day and Dave Butler]]"
+  - "[[Ward Radio - The Great Apostasy DEFINITELY Happened]]"
 tags:
   - topic/impassibility
   - topic/aristotle
   - topic/doctrine-of-god
   - by/mike-day
+  - by/ward-radio
   - tradition/lds
   - type/claim
 #type/claim
@@ -31,6 +33,8 @@ Aristotle's "unmoved mover" — a being that causes all motion but is itself unm
 
 ### 2. The biblical God is the opposite (rating: strong; canonical)
 "The Bible describes a God with passions, especially a God that's embodied. Jesus is embodied. But God also has passions in the Old Testament — he's sorry, he gets angry, he smells the sacrifice. This is a Yahweh narrative." Contrast [[D&C 130.20-21|D&C 130:22]]: the Father has a body of flesh and bones. The impassible/immaterial Mover is irreconcilable with this. [^2]
+
+**Corroboration (separate Ward Radio episode).** [[Jacob Hansen]] makes the identical argument in a later Ward Radio episode, opening with "why does the god of Aristotle sound exactly like the god that emerged in the creedal tradition?" and listing Aristotle's God as "unmoved mover, pure actuality or being itself, timeless, spaceless, immaterial, without passions, without parts, without change" — matching the Athanasian Creed's "without body, parts, or passions" — against the embodied, passionate biblical God. [^4]
 
 ### 3. The apologists' marketing pitch (rating: moderate; reconstructed)
 Day reconstructs the sales pitch to a Platonist: "the *logos*, the *nous*, the mind, is actually God the Father, and God the Father sent his son who is the *logos*... and he took upon himself flesh." The unmoved-mover Father plus the incarnate-*logos* Son lets the apologist "talk the same language" as the philosophically educated. [^3]
@@ -53,6 +57,7 @@ Classical theists argue divine impassibility and immateriality are not Aristotle
 [^1]: [[Ward Radio - The Great Apostasy Deep Dive with Mike Day and Dave Butler|Ward Radio - The Great Apostasy]], [149:30]–[150:30] and [157:30]–[158:01], https://youtu.be/WnFgxDinydY
 [^2]: [[Ward Radio - The Great Apostasy Deep Dive with Mike Day and Dave Butler|Ward Radio - The Great Apostasy]], [150:30]–[151:00], https://youtu.be/WnFgxDinydY
 [^3]: [[Ward Radio - The Great Apostasy Deep Dive with Mike Day and Dave Butler|Ward Radio - The Great Apostasy]], [152:01]–[152:30], https://youtu.be/WnFgxDinydY
+[^4]: [[Ward Radio - The Great Apostasy DEFINITELY Happened|Ward Radio - The Great Apostasy Definitely Happened]], [01:30]-[03:00], https://youtu.be/eBBpqI9IXmE
 
 ---
-See also: [[Aristotle]] · [[Plato]] · [[Richard Hopkins]] · [[Augustine]]
+See also: [[Aristotle]] · [[Plato]] · [[Richard Hopkins]] · [[Augustine]] · [[Jacob Hansen]]
