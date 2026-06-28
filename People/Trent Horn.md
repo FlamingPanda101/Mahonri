@@ -44,6 +44,16 @@ Horn's "3 Reasons I'm Not Mormon" gives his three biggest Catholic objections to
 - [[The New Testament Never Predicts a Total Apostasy]] (Reason 3 — the Great Apostasy)
 - Source: [[The Counsel of Trent - 3 Reasons Im Not Mormon]] [^5]
 
+## Assisted Suicide / Euthanasia (sanctity-of-life case)
+Horn's video "The Assisted Suicide Dystopia Is Here" argues legalized assisted suicide is a slippery slope already pushing the poor, disabled, and mentally ill toward death. He pairs a conceptual slope ("where do you draw the line?", invoking Nazi Germany's "life unworthy of life") with a dossier of systemic-abuse cases, then rebuts the three standard pro-euthanasia arguments (animal-mercy, "death with dignity", "do you just want people to suffer?"). He recommends [[Stephanie Gray Connors]]' *Start with What*. See:
+- [[Assisted Suicide Cannot Draw a Principled Line]]
+- [[The MAID Abuse Cases Show Death Offered as Cost-Saving]]
+- [[The Suicide-Pod Nitrogen Hypocrisy]]
+- [[We Show Humans More Mercy Than Animals Not Less]]
+- [[Dignity Is How You Face Death Not the Manner of It]]
+- [[Refusing Extraordinary Means Is Not Choosing to Suffer]] (cites [[Karol Wojtyla (John Paul II)|John Paul II]])
+- Source: [[The Counsel of Trent - The Assisted Suicide Dystopia Is Here]]
+
 ## Fine-Tuning Apologetics (largely shared with LDS natural theology)
 Two Horn episodes defend the fine-tuning argument and answer atheist objections — pro-theism natural theology Latter-day Saints largely share:
 - [[Fine-Tuning Targets the Constants Not the Universe's Hospitality]], [[The Extremophile Objection Confuses Surviving Life With Forming Life]], [[Carroll Conflates the Gravitational and Cosmological Constants]], [[The Weakless Universe Just Pushes the Fine-Tuning Back a Step]], [[The Boltzmann Brain Problem Defeats the Multiverse Escape]] (source: [[The Counsel of Trent - Rebutting Atheist Objections to the Fine-Tuning Argument]])

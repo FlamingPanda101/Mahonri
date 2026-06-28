@@ -44,5 +44,8 @@ The objection (O'Connor): the air-we-breathe thesis is unfalsifiable because *ev
 [^4]: [[Uncommon Ground - Did Christianity Give Us Our Morality|Uncommon Ground - Christianity and Western Morality]], [95:31]–[96:03], https://youtu.be/-ZnVNM8lkGw
 [^5]: [[Uncommon Ground - Did Christianity Give Us Our Morality|Uncommon Ground - Christianity and Western Morality]], [101:02]–[101:30], https://youtu.be/-ZnVNM8lkGw
 
+## See also (cross-source)
+For the *practical* critique of assisted suicide — its slippery-slope logic and documented abuses — see [[Trent Horn]]'s parallel treatment: [[Assisted Suicide Cannot Draw a Principled Line]], [[The MAID Abuse Cases Show Death Offered as Cost-Saving]], [[Dignity Is How You Face Death Not the Manner of It]], and [[Refusing Extraordinary Means Is Not Choosing to Suffer]] (source: [[The Counsel of Trent - The Assisted Suicide Dystopia Is Here]]). Scrivener's note is about the practice's pagan *provenance*; Horn's notes are about its present-day *mechanics*.
+
 ---
 See also: [[Concepts]]
