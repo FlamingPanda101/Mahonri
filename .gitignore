@@ -4,3 +4,20 @@
 .trash/
 .DS_Store
 Thumbs.db
+
+# --- secrets / runtime state — NEVER commit (guards _tooling/ too) ---
+.env
+*.env
+state.db
+state.db-*
+gateway_state.json
+*.token
+*.pem
+*.key
+auth.lock
+
+# --- regenerable / huge artifacts ---
+_tooling/scripts/transcripts/
+_tooling/scripts/embeddings/
+*.npy
+99-meta/_broken-links.json
