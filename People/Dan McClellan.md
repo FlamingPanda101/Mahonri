@@ -90,6 +90,9 @@ In a January 2026 *Dialogue Gospel Study* session hosted by [[Christian Kimball]
 
 See source note [[Dan McClellan - Seeing the Old Testament Clearly (Dialogue Gospel Study)]].
 
+## As Foil: Abortion and Feminism (Thoughtful Faith)
+[[Jacob Hansen]] sharply criticizes McClellan's framing of the pro-life movement as a backlash against feminism and a descendant of Jerry Falwell's segregation politics. Hansen charges this is "dogma, not data" — it erases the unborn ("those little girls"), conflates the feminist waves, and reflects (he claims) a pattern of selecting whatever data "pisses off white evangelical men." Note the irony that elsewhere McClellan is cited *approvingly* in this vault on biblical-studies points; here he is the target. See [[The Pro-Life-as-Anti-Feminism Narrative Is Dogma Not Data]] and source [[Thoughtful Faith - Mormon Beliefs On Abortion Are More Controversial Than You Think]].[^3]
+
 ## Key Sources
 
 - [[Dan McClellan - Seeing the Old Testament Clearly (Dialogue Gospel Study)]] (Dialogue Gospel Study, 2026)
@@ -102,3 +105,4 @@ See source note [[Dan McClellan - Seeing the Old Testament Clearly (Dialogue Gos
 ## Sources
 [^1]: [[Dan McClellan - Apologetics Cannot Rescue Biblical Contradictions|Dan McClellan — Apologetics Cannot Rescue Biblical Contradictions]], [17:32]–[18:31], https://youtu.be/58jtIUIRWGY
 [^2]: [[McClellan - The Fundamental Contradiction of the Trinity|Dan McClellan - The Fundamental Contradiction of the Trinity]], [00:30]–[01:33], https://youtu.be/tYNRD2hC4yI
+[^3]: [[Thoughtful Faith - Mormon Beliefs On Abortion Are More Controversial Than You Think|TF - Mormon Beliefs On Abortion]], [59:30]–[64:30], https://youtu.be/KvvFGOe7o_s

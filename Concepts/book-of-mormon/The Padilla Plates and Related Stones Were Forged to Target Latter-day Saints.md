@@ -17,7 +17,7 @@ tags: [apologetics, book-of-mormon, archaeology, forgery, tradition/lds]
 
 ## The Claim
 
-[[Jerry Grover]] and [[Josh Galey]] argue that the **Padilla plates** (and the related "lock stone" and stele held by [[Jerry Ainsworth]]) are forgeries *specifically crafted to deceive Latter-day Saints* — they copy symbols from the Book of Mormon "characters document" and were fashioned to fit a Mesoamerican reading of the Book of Mormon. Unlike the [[The Michigan Relics Are 100 Percent Forgeries|Michigan Relics]] (a generic money-making scam), these are *uniquely pernicious* because they target believers.[^1]
+[[Jerry Grover]] and [[Josh Gailey|Josh Galey]] argue that the **Padilla plates** (and the related "lock stone" and stele held by [[Jerry Ainsworth]]) are forgeries *specifically crafted to deceive Latter-day Saints* — they copy symbols from the Book of Mormon "characters document" and were fashioned to fit a Mesoamerican reading of the Book of Mormon. Unlike the [[The Michigan Relics Are 100 Percent Forgeries|Michigan Relics]] (a generic money-making scam), these are *uniquely pernicious* because they target believers.[^1]
 
 ## Supporting Evidence
 

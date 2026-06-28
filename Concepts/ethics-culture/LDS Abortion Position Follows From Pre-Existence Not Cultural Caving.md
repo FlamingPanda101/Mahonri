@@ -39,8 +39,12 @@ tags:
 
 > "It's never the woman's choice. She always has to get a spiritual confirmation first that that pregnancy can be terminated."[^5]
 
+## Corroboration: Thoughtful Faith "Mormon Beliefs On Abortion"
+[[Jacob Hansen]] develops the same position at length with the guest "Luke." Key additions: (a) the church's exact verbiage is softer than "always forgivable" — "as far as has been revealed, a person may repent and be forgiven for the sin of abortion," holding the cards close to the chest.[^7] (b) The exceptions are not a blank check: they require *spiritual confirmation* ("a discussion... between you and your father in heaven"), and even then Hansen guesses justification applies maybe ~10% of even the rape/incest cases.[^8] (c) The grounding is the **sacred-human-body-on-a-spectrum** model — a body alive and developing but not yet a full person, illustrated by the exhumed-corpse and dead-grandma examples (a dead body is still treated as sacred, yet may be disturbed for a higher purpose like solving a murder).[^9] This is the same metaphysic as [[The IVF Reductio Against Conception-as-Ensoulment]]; the consistency challenge that drives it is [[The Morning-After-Pill Prosecution Dilemma]].
+
 ## References
 - [[Ward Radio - Catholics Critique Mormonism on the Daily Wire]]
+- [[Thoughtful Faith - Mormon Beliefs On Abortion Are More Controversial Than You Think]]
 - [[Jacob Hansen]]
 - [[Cardon Ellis]]
 - [[Joe Heschmeyer]]
@@ -53,3 +57,6 @@ tags:
 [^4]: [[Ward Radio - Catholics Critique Mormonism on the Daily Wire|Ward Radio - Catholics Critique Mormonism on the Daily Wire]], [106:01]–[107:31], https://youtu.be/avv9JKaagSo
 [^5]: [[Ward Radio - Catholics Critique Mormonism on the Daily Wire|Ward Radio - Catholics Critique Mormonism on the Daily Wire]], [108:01]–[109:01], https://youtu.be/avv9JKaagSo
 [^6]: [[Ward Radio - Catholics Critique Mormonism on the Daily Wire|Ward Radio - Catholics Critique Mormonism on the Daily Wire]], [109:30]–[110:01], https://youtu.be/avv9JKaagSo
+[^7]: [[Thoughtful Faith - Mormon Beliefs On Abortion Are More Controversial Than You Think|TF - Mormon Beliefs On Abortion]], [14:30]–[15:00], https://youtu.be/KvvFGOe7o_s
+[^8]: [[Thoughtful Faith - Mormon Beliefs On Abortion Are More Controversial Than You Think|TF - Mormon Beliefs On Abortion]], [34:30]–[35:30], https://youtu.be/KvvFGOe7o_s
+[^9]: [[Thoughtful Faith - Mormon Beliefs On Abortion Are More Controversial Than You Think|TF - Mormon Beliefs On Abortion]], [18:30]–[20:00], https://youtu.be/KvvFGOe7o_s

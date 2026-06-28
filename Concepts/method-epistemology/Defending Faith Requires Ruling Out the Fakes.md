@@ -16,7 +16,7 @@ tags: [apologetics, method-epistemology, archaeology, tradition/lds]
 
 ## The Claim
 
-The governing thesis of the episode: a believer who wants to defend the Book of Mormon must **actively debunk the forged artifacts**, because "eliminating the bad gives you clarity of vision" on the genuine evidence. [[Josh Galey]] frames the whole exercise as *delighting in truth and denouncing deception* ([[2 Nephi 33]]), even when it means telling fellow believers their cherished artifact is fake.[^1]
+The governing thesis of the episode: a believer who wants to defend the Book of Mormon must **actively debunk the forged artifacts**, because "eliminating the bad gives you clarity of vision" on the genuine evidence. [[Josh Gailey|Josh Galey]] frames the whole exercise as *delighting in truth and denouncing deception* ([[2 Nephi 33]]), even when it means telling fellow believers their cherished artifact is fake.[^1]
 
 ## Supporting Evidence
 
@@ -48,4 +48,4 @@ There is a real tension the slogan can paper over. (a) The same "wait for future
 [^4]: [[Ward Radio - Fake Book of Mormon Artifacts|Ward Radio - Fake Book of Mormon Artifacts]], [90:00]–[91:00], https://youtu.be/F17iYkhv_tQ
 
 ---
-See also: [[Concepts]] · [[Josh Galey]] · [[2 Nephi 33]] · [[Forensics Can Override Poor Provenance]] · [[Ward Radio - Fake Book of Mormon Artifacts]]
+See also: [[Concepts]] · [[Josh Gailey|Josh Galey]] · [[2 Nephi 33]] · [[Forensics Can Override Poor Provenance]] · [[Ward Radio - Fake Book of Mormon Artifacts]]

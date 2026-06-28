@@ -18,7 +18,7 @@ authority_reason: "A Ward Radio live stream hosted by Cardon Ellis with Jerry Gr
 
 # Ward Radio — Fake Book of Mormon Artifacts!!!
 
-A [[Ward Radio]] live stream hosted by [[Cardon Ellis]] with [[Jerry Grover]] (geologist/linguist) and [[Josh Galey]], debunking forged artifacts misused as Book-of-Mormon evidence. The thrust is unusual for the channel: the LDS panel is the one *attacking* claimed artifacts — Michigan Relics, the Bat Creek Stone, the Los Lunas Decalogue Stone, the Padilla plates — arguing that ruling out fakes is necessary to defend the genuine case. All four artifact debunkings are **new to the vault**; the methodology (provenance, forensics) connects to the existing artifact/provenance cluster.
+A [[Ward Radio]] live stream hosted by [[Cardon Ellis]] with [[Jerry Grover]] (geologist/linguist) and [[Josh Gailey|Josh Galey]], debunking forged artifacts misused as Book-of-Mormon evidence. The thrust is unusual for the channel: the LDS panel is the one *attacking* claimed artifacts — Michigan Relics, the Bat Creek Stone, the Los Lunas Decalogue Stone, the Padilla plates — arguing that ruling out fakes is necessary to defend the genuine case. All four artifact debunkings are **new to the vault**; the methodology (provenance, forensics) connects to the existing artifact/provenance cluster.
 
 ## Summary
 
@@ -43,7 +43,7 @@ A [[Ward Radio]] live stream hosted by [[Cardon Ellis]] with [[Jerry Grover]] (g
 
 ## People Referenced
 
-- [[Cardon Ellis]] (host) · [[Jerry Grover]] · [[Josh Galey]] (panel)
+- [[Cardon Ellis]] (host) · [[Jerry Grover]] · [[Josh Gailey|Josh Galey]] (panel)
 - [[James E. Talmage]] (debunked Michigan Relics) · [[Wayne May]] (promotes them)
 - [[John Emmert]] (Bat Creek discoverer) · [[Jerry Ainsworth]] (held Padilla stones) · [[Mark Hofmann]] (forgery parallel) · [[Michael Coe]] (Grolier skeptic)
 - Richard Stamps, Ray Matheny, Jesús Padilla Orozco, Cyrus Gordon, Scott Wolter, Frank Hibben — mentioned

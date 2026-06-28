@@ -3,7 +3,7 @@ title: "Sexual Signaling in Moderation Is God-Designed and Good"
 related:
   - "[[Modesty Is Moderation and the Avoidance of Vanity]]"
   - "[[The Law of Chastity as a Family-Stability Engine]]"
-  - "[[Our Sexual Natures Are Good Not Shameful]]"
+  - "[[Biblical Modesty Refers to Wealth Not Sexuality]]"
 sources:
   - "[[Thoughtful Faith - Modesty And Sex A Different Approach]]"
 tags: [apologetics, ethics, modesty, sexuality, embodiment, tradition/lds, by/thoughtful-faith]
@@ -18,7 +18,7 @@ tags: [apologetics, ethics, modesty, sexuality, embodiment, tradition/lds, by/th
 ## Supporting Evidence
 
 1. **Attraction cues are built-in and not bad.** Fashion research ties what we find attractive to subconscious health/fertility signals: men's suits with shoulder pads (broad shoulders signal fitness), clothing that accentuates a narrow waist, makeup accentuating signs of fertility, men dressing to signal status. "We have an animal nature and that animal nature is not inherently bad; it just needs to be... moderated." *Rating: moderate; the evolutionary-signaling claims are popular-science generalizations, but the theological use (the body and its cues are good) is the load-bearing point.* [^2]
-2. **Moderated sexual signaling produces real beauty.** "So much of what we call beautiful in both men and women is tied to this design by God for us to be sexual beings." Ballet and ballroom dance are beautiful precisely because of "our complementary sexual natures as men and women, and that is okay. A world without any sexuality is not the world that God wants." *Rating: moderate-strong as a theological aesthetics claim within an embodied-God framework — cf. [[Our Sexual Natures Are Good Not Shameful]].* [^3]
+2. **Moderated sexual signaling produces real beauty.** "So much of what we call beautiful in both men and women is tied to this design by God for us to be sexual beings." Ballet and ballroom dance are beautiful precisely because of "our complementary sexual natures as men and women, and that is okay. A world without any sexuality is not the world that God wants." *Rating: moderate-strong as a theological aesthetics claim within an embodied-God framework.* [^3]
 3. **The fire analogy fixes the boundary.** Sexuality is "the best analogy [for] fire": "a controlled flame can cut through steel — it's extremely powerful, but only when it's controlled," whereas "bringing a flamethrower to roast a marshmallow is a bad idea." So the goal is "to be attractive without either being gaudy and vain or frumpy and flat" — beauty without crossing "into lewdness and vanity." *Rating: strong as the organizing image; ties the positive good to the [[Modesty Is Moderation and the Avoidance of Vanity|moderation]] thesis.* [^4]
 4. **Context sets the signal's meaning.** "In a tribe in Africa a woman going topless does not sexually signal... the way a topless woman would [at] your local neighborhood barbecue. A one-piece swimsuit in 1900 would have been a big sexual signal whereas today it's not." So "how we dress is about sending a message," and one should be *intentional* about that message. *Rating: moderate-strong; grounds why standards shift across cultures and eras without being arbitrary.* [^5]
 

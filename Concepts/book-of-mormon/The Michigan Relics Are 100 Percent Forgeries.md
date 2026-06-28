@@ -17,7 +17,7 @@ tags: [apologetics, book-of-mormon, archaeology, forgery, tradition/lds]
 
 ## The Claim
 
-[[Josh Galey]] argues that the **Michigan Relics** — a corpus of ~3,000 inscribed slate, clay, and copper objects "found" in Michigan from the 1890s to ~1920 — are *entirely* forgeries, and that Latter-day Saints (notably [[Wayne May]]) should stop citing any of them as Book-of-Mormon evidence. Tellingly, two of the best debunkers were themselves Latter-day Saints: apostle-scientist [[James E. Talmage]] and archaeologist Richard Stamps.[^1]
+[[Josh Gailey|Josh Galey]] argues that the **Michigan Relics** — a corpus of ~3,000 inscribed slate, clay, and copper objects "found" in Michigan from the 1890s to ~1920 — are *entirely* forgeries, and that Latter-day Saints (notably [[Wayne May]]) should stop citing any of them as Book-of-Mormon evidence. Tellingly, two of the best debunkers were themselves Latter-day Saints: apostle-scientist [[James E. Talmage]] and archaeologist Richard Stamps.[^1]
 
 ## Supporting Evidence
 
@@ -49,4 +49,4 @@ A defender (e.g., the live-chat "Latter-day Chad") raises real cautions. (a) *De
 [^4]: [[Ward Radio - Fake Book of Mormon Artifacts|Ward Radio - Fake Book of Mormon Artifacts]], [15:30]–[17:00], [21:30]–[23:00], https://youtu.be/F17iYkhv_tQ
 
 ---
-See also: [[Concepts]] · [[Josh Galey]] · [[James E. Talmage]] · [[Wayne May]] · [[Ward Radio - Fake Book of Mormon Artifacts]]
+See also: [[Concepts]] · [[Josh Gailey|Josh Galey]] · [[James E. Talmage]] · [[Wayne May]] · [[Ward Radio - Fake Book of Mormon Artifacts]]

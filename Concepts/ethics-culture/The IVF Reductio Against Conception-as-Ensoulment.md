@@ -68,8 +68,17 @@ Both Hansen and Heschmeyer end up agreeing that **abortion is not *always* murde
 [^7]: [[Thoughtful Faith - Live Debate Mormon vs Protestant vs Catholic|TF - Tri Debate]], [103:31]–[104:00], https://youtu.be/g03Swz8FqJk
 [^8]: [[Thoughtful Faith - Live Debate Mormon vs Protestant vs Catholic|TF - Tri Debate]], [32:31]–[33:01], https://youtu.be/g03Swz8FqJk
 
+## Corroboration: Thoughtful Faith "Mormon Beliefs On Abortion"
+[[Jacob Hansen]] runs the **same IVF reductio** with the guest "Luke": if every fertilized egg is a person, then IVF (which fertilizes many eggs and discards the surplus) makes the woman a mass murderer, and one would have to "ban sex" in favor of higher-implantation IVF — absurd consequences that, Hansen argues, track back to the conception-ensoulment premise.[^9] He adds the natural-loss point (30–60% of fertilized eggs never implant) and the **double-effect** framing borrowed from just-war reasoning (you may justly kill in war for a higher good; surplus IVF embryos may be "disposed of" in pursuit of children because they are sacred *bodies*, not yet ensouled persons).[^10] The church's IVF guidance ("discourages" donor gametes but leaves it to "prayerful consideration") fits the *gray-area*, sacred-body model rather than a strict person-at-conception rule.[^11] The consistency lever Hansen uses to motivate the whole position is [[The Morning-After-Pill Prosecution Dilemma]].
+
+[^9]: [[Thoughtful Faith - Mormon Beliefs On Abortion Are More Controversial Than You Think|TF - Mormon Beliefs On Abortion]], [36:00]–[40:00], https://youtu.be/KvvFGOe7o_s
+[^10]: [[Thoughtful Faith - Mormon Beliefs On Abortion Are More Controversial Than You Think|TF - Mormon Beliefs On Abortion]], [41:30]–[43:30], https://youtu.be/KvvFGOe7o_s
+[^11]: [[Thoughtful Faith - Mormon Beliefs On Abortion Are More Controversial Than You Think|TF - Mormon Beliefs On Abortion]], [37:30]–[39:00], https://youtu.be/KvvFGOe7o_s
+
 ## See also
 - [[LDS Abortion Position Follows From Pre-Existence Not Cultural Caving]]
+- [[The Morning-After-Pill Prosecution Dilemma]]
 - [[Homicide Is Not Always Murder - The Mens Rea Distinction]]
 - [[Abortion and Euthanasia as Pagan Not Christian]]
 - [[Origins of the Soul - Traducianism vs Creationism vs Preexistence]]
+- [[Thoughtful Faith - Mormon Beliefs On Abortion Are More Controversial Than You Think]]

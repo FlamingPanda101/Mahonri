@@ -17,7 +17,7 @@ tags: [apologetics, book-of-mormon, archaeology, forgery, tradition/lds]
 
 ## The Claim
 
-[[Josh Galey]] gives a pros-and-cons assessment of the **Bat Creek Stone** — an inscribed stone reported from an 1889 Smithsonian mound excavation in Tennessee, later read as Paleo-Hebrew — and concludes it is **probably a fake**; and that *even if genuine*, its Hellenistic-period script post-dates Lehi, so it has **nothing to do with the Book of Mormon** regardless.[^1]
+[[Josh Gailey|Josh Galey]] gives a pros-and-cons assessment of the **Bat Creek Stone** — an inscribed stone reported from an 1889 Smithsonian mound excavation in Tennessee, later read as Paleo-Hebrew — and concludes it is **probably a fake**; and that *even if genuine*, its Hellenistic-period script post-dates Lehi, so it has **nothing to do with the Book of Mormon** regardless.[^1]
 
 ## Supporting Evidence
 
@@ -53,4 +53,4 @@ The authenticity case has live defenders and the verdict is not unanimous. (a) F
 [^5]: [[Ward Radio - Fake Book of Mormon Artifacts|Ward Radio - Fake Book of Mormon Artifacts]], [44:30]–[45:30], [49:00]–[54:00], https://youtu.be/F17iYkhv_tQ
 
 ---
-See also: [[Concepts]] · [[Josh Galey]] · [[John Emmert]] · [[Mark Hofmann]] · [[Ward Radio - Fake Book of Mormon Artifacts]]
+See also: [[Concepts]] · [[Josh Gailey|Josh Galey]] · [[John Emmert]] · [[Mark Hofmann]] · [[Ward Radio - Fake Book of Mormon Artifacts]]

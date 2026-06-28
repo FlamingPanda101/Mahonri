@@ -18,7 +18,7 @@ authority_reason: "A Ward Radio episode hosted by Cardon Ellis with Kwaku El, Jo
 
 # Ward Radio — Debunking Joseph Smith's Fake Affair with Fanny Alger (feat. Don Bradley)
 
-A [[Ward Radio]] episode hosted by [[Cardon Ellis]] with [[Kwaku El]], [[Josh Galey]], and [[Brad Whitbeck]], featuring historian [[Don Bradley]]. The premise: separate fact from fiction about [[Fanny Alger]] — was it [[Joseph Smith]]'s earliest plural marriage or an adulterous affair? Bradley (who reached his conclusions while an ex-Mormon atheist) argues, with manuscript forensics and a reconstructed timeline, that it was **plural marriage, not adultery**, and that the popular "affair" narrative rests on a misquote and a misdated source. Josh Galey deliberately plays the skeptic throughout. Much of the historical detail is **new to the vault**; the surrounding polygamy material overlaps the existing polygamy cluster.
+A [[Ward Radio]] episode hosted by [[Cardon Ellis]] with [[Kwaku El]], [[Josh Gailey|Josh Galey]], and [[Brad Whitbeck]], featuring historian [[Don Bradley]]. The premise: separate fact from fiction about [[Fanny Alger]] — was it [[Joseph Smith]]'s earliest plural marriage or an adulterous affair? Bradley (who reached his conclusions while an ex-Mormon atheist) argues, with manuscript forensics and a reconstructed timeline, that it was **plural marriage, not adultery**, and that the popular "affair" narrative rests on a misquote and a misdated source. Josh Galey deliberately plays the skeptic throughout. Much of the historical detail is **new to the vault**; the surrounding polygamy material overlaps the existing polygamy cluster.
 
 ## Summary
 
@@ -47,7 +47,7 @@ A [[Ward Radio]] episode hosted by [[Cardon Ellis]] with [[Kwaku El]], [[Josh Ga
 ## People Referenced
 
 - [[Don Bradley]] (guest historian)
-- [[Cardon Ellis]] · [[Kwaku El]] · [[Josh Galey]] · [[Brad Whitbeck]] (hosts)
+- [[Cardon Ellis]] · [[Kwaku El]] · [[Josh Gailey|Josh Galey]] · [[Brad Whitbeck]] (hosts)
 - [[Fanny Alger]] · [[Joseph Smith]] · [[Emma Smith]] · [[Oliver Cowdery]]
 - [[Mosiah Hancock]] · [[Levi Hancock]] · [[William McLellin]] (barn rumor) · [[John C. Bennett]]
 - [[Brian Hales]] · [[Dan Vogel]] · [[Todd Compton]] (published historians who conclude polygamy)

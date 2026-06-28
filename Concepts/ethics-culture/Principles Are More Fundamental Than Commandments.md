@@ -46,5 +46,8 @@ This is a sharply Latter-day Saint reading of the Sermon on the Mount: the Resto
 [^7]: [[Thoughtful Faith - What Is Morality Part 4 - Is There Such a Thing as a Moral Absolute|TF — Moral Absolutes]], [07:30]–[08:01], https://youtu.be/gz1KeUwOaiQ
 [^8]: [[Thoughtful Faith - What Is Morality Part 4 - Is There Such a Thing as a Moral Absolute|TF — Moral Absolutes]], [08:01]–[08:50], https://youtu.be/gz1KeUwOaiQ
 
+## Applied to Modesty
+Hansen applies this exact framework to **modesty** in a later video, treating dress standards as context-bound *applications* of the deeper principle of moderation / anti-vanity (and quoting the same "principles are concentrated truth packaged for application" passage). This is why he applauds the new *For the Strength of Youth* for teaching principles rather than rules. See [[Modesty Is Moderation and the Avoidance of Vanity]] and [[Sexual Signaling in Moderation Is God-Designed and Good]].
+
 ---
-See also: [[Concepts]] · [[Thoughtful Faith - What Is Morality Part 4 - Is There Such a Thing as a Moral Absolute]]
+See also: [[Concepts]] · [[Thoughtful Faith - What Is Morality Part 4 - Is There Such a Thing as a Moral Absolute]] · [[Modesty Is Moderation and the Avoidance of Vanity]]

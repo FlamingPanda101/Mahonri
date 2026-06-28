@@ -21,7 +21,7 @@ Jerry Ainsworth was a Latter-day Saint author who wrote on Mesoamerican Book of 
 
 ## Relevance to the vault
 
-In [[Ward Radio - Fake Book of Mormon Artifacts]], [[Jerry Grover]] and [[Josh Galey]] discuss Ainsworth as the holder and promoter of objects tied to the forger **Dr. Jesús Padilla Orozco** — the "lock stone" and a stele bearing symbols copied from the characters document, fashioned to target Mesoamerican Book of Mormon believers. Grover notes these were never subjected to formal examination, lack provenance, share lettering with the demonstrably fraudulent Padilla plates, and disappeared after Ainsworth's death; Ainsworth's group reportedly tried to get the stele placed in the Mexico City Temple. The verdict: dubious, almost certainly forged, and unusable as evidence. See [[The Padilla Plates and Related Stones Were Forged to Target Latter-day Saints]].
+In [[Ward Radio - Fake Book of Mormon Artifacts]], [[Jerry Grover]] and [[Josh Gailey|Josh Galey]] discuss Ainsworth as the holder and promoter of objects tied to the forger **Dr. Jesús Padilla Orozco** — the "lock stone" and a stele bearing symbols copied from the characters document, fashioned to target Mesoamerican Book of Mormon believers. Grover notes these were never subjected to formal examination, lack provenance, share lettering with the demonstrably fraudulent Padilla plates, and disappeared after Ainsworth's death; Ainsworth's group reportedly tried to get the stele placed in the Mexico City Temple. The verdict: dubious, almost certainly forged, and unusable as evidence. See [[The Padilla Plates and Related Stones Were Forged to Target Latter-day Saints]].
 
 ## Referenced in
 - [[Ward Radio - Fake Book of Mormon Artifacts]] (source)
