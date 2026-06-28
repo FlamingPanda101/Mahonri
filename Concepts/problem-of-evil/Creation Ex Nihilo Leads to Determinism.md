@@ -31,7 +31,7 @@ aligned against LDS theology on the free will question.
 
 ## Supporting Evidence
 
-### 1. The Logic of Creation Ex Nihilo (Evidence Rating: Primary — Doctrinal Analysis)
+### 1. The Logic of Creation Ex Nihilo (Evidence Rating: C — commentary, not primary evidence)
 
 [[Hayden Carroll]] lays out the argument:[^1]
 

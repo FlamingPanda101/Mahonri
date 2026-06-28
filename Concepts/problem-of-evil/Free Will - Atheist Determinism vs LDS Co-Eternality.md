@@ -54,7 +54,7 @@ Carroll steelmans the atheist position: "If you eat food, why did you eat food?
 Because you were hungry. Well, why were you hungry? Because your biology and
 chemical [processes] made you. It leads you to do things."[^2]
 
-### 2. The Leading Atheists All Concede No Free Will (Evidence Rating: Primary — Consistent Testimony from Opponents)
+### 2. The Leading Atheists All Concede No Free Will (Evidence Rating: C — paraphrased by a tier-C source)
 
 > "The real strong hitters, right, Sam Harris, Christopher Hitchens, Alex
 > O'Connor, they all agree that yeah, we actually don't have free will. If
@@ -66,7 +66,7 @@ This is significant because it's not just one atheist's view — it's the
 consistent position of the most prominent atheist intellectuals. They recognize
 that materialism + causal determinism = no libertarian free will.
 
-### 3. LDS Co-Eternality as the Unique Solution (Evidence Rating: Primary — Doctrinal)
+### 3. LDS Co-Eternality as the Unique Solution (Evidence Rating: C — commentary, not primary evidence)
 
 The LDS solution rests on [[Joseph Smith]]'s teaching that human intelligences
 are co-eternal with God:

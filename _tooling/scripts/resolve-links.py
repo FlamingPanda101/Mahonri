@@ -41,7 +41,7 @@ resolvable = {n.lower() for n in names} | set(aliases.keys())
 link_re = re.compile(r'\[\[([^\]\|#\^]+)')
 broken, where = Counter(), defaultdict(list)
 for f in files:
-    if os.sep + "99-meta" + os.sep in f: continue   # docs (Protocol/RESUME/Consolidation) hold illustrative [[examples]], not real links
+    if (os.sep + "99-meta" + os.sep in f) or (os.sep + "_tooling" + os.sep in f): continue   # docs (Protocol/RESUME/Guide) + the _tooling brain-backup hold illustrative [[examples]], not real links
     for m in link_re.finditer(texts[f]):
         tgt = m.group(1).strip()
         if not tgt: continue
