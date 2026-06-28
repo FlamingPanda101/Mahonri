@@ -6,6 +6,7 @@ related:
   - "[[Native American Slavery and the Buy-or-Watch-Them-Die Dilemma]]"
 sources:
   - "[[Lets Get Real - Why Its Easier to Flatten Brigham Young]]"
+  - "[[FAIR Conference Podcast 83 - Daniel C. Peterson - Brigham Young and Slavery]]"
 tags:
   - apologetics
   - topic/slavery-in-utah
@@ -31,6 +32,10 @@ That [[Brigham Young]] was "pro-slavery" and a hater of Black people — the nat
 
 5. **Billy Johnson vision (rated: faith claim, not historical proof).** A Ghanaian pioneer reported Brigham appearing to him in vision after Joseph's death-era racism — used by Peterson to argue Brigham "grew beyond" his earthly limitations. See [[Billy Johnson]] and [[Brigham Young as Spiritual Man Not Just Colonizer]]. *Steelman:* a posthumous vision report cannot establish Brigham's mortal attitudes; it functions theologically, not historically.
 
+6. **The explicit anti-slavery statements (rated: strong; documentary — Peterson at FAIR).** Presenting the same case to a FAIR audience, [[Daniel C. Peterson]] stresses that "throughout his life ... from an early period" Brigham said "it is not right to own property in human flesh. Chattel slavery is immoral. It does damage not only to the slave but to the person who owns the slave ... it has no place in Utah. I will not allow it here." Peterson: "Get that out of your mind that Brigham Young favored slavery. He didn't. Absolutely did not."[^6]
+
+7. **Sally and Chief Kanosh (rated: moderate; mitigating).** Brigham also bought and freed a Paiute or Goshute woman, **Sally**, captured by Utes; she grew up free in his household and later married Chief Kanosh. Peterson reads this alongside Green Flake as a pattern of buying the enslaved "and then freeing them," not holding them as chattel.[^7] See [[Native American Slavery and the Buy-or-Watch-Them-Die Dilemma]].
+
 **Steelman of the critic overall:** Kind treatment of *individuals* coexists with structural racism — Brigham still articulated the priesthood-and-race teaching and held that whites should lead. Peterson grants exactly this: "Was he a racist by my standards in the early 21st century? Yes — but so was Abraham Lincoln. ... But did he treat individual Black people poorly? No, apparently not."[^5] The claim is narrow: *personal opposition to slavery and personal decency*, not absolution from the racial views of his era.
 
 ## Best Quotes
@@ -43,6 +48,7 @@ That [[Brigham Young]] was "pro-slavery" and a hater of Black people — the nat
 
 ## References
 - [[Lets Get Real - Why Its Easier to Flatten Brigham Young]]
+- [[FAIR Conference Podcast 83 - Daniel C. Peterson - Brigham Young and Slavery]]
 - [[Amy Tanner Thiriot]]
 - [[Utah 1852 Act Was Servitude Not Slavery]]
 - [[Abraham Lincoln]]
@@ -50,6 +56,8 @@ That [[Brigham Young]] was "pro-slavery" and a hater of Black people — the nat
 
 ---
 [^1]: [[Lets Get Real - Why Its Easier to Flatten Brigham Young|Let's Get Real - Why It's Easier to Flatten Brigham Young]], [50:32]–[51:30], https://youtu.be/dssLIsMniWU
+[^6]: [[FAIR Conference Podcast 83 - Daniel C. Peterson - Brigham Young and Slavery|FAIR - Daniel C. Peterson - Brigham Young and Slavery]], [20:00]–[20:42], https://youtu.be/z6mCE6-AYnU
+[^7]: [[FAIR Conference Podcast 83 - Daniel C. Peterson - Brigham Young and Slavery|FAIR - Daniel C. Peterson - Brigham Young and Slavery]], [35:31]–[36:31], https://youtu.be/z6mCE6-AYnU
 [^2]: [[Lets Get Real - Why Its Easier to Flatten Brigham Young|Let's Get Real - Why It's Easier to Flatten Brigham Young]], [54:31]–[55:03], https://youtu.be/dssLIsMniWU
 [^3]: [[Lets Get Real - Why Its Easier to Flatten Brigham Young|Let's Get Real - Why It's Easier to Flatten Brigham Young]], [53:33]–[54:31], https://youtu.be/dssLIsMniWU
 [^4]: [[Lets Get Real - Why Its Easier to Flatten Brigham Young|Let's Get Real - Why It's Easier to Flatten Brigham Young]], [56:30]–[57:00], https://youtu.be/dssLIsMniWU

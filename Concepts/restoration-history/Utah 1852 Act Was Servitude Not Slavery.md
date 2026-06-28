@@ -4,8 +4,10 @@ related:
   - "[[Brigham Young Personally Opposed Slavery]]"
   - "[[Native American Slavery and the Buy-or-Watch-Them-Die Dilemma]]"
   - "[[A Man of His Time Without Excusing the Sin]]"
+  - "[[The 1852 Act Was Patterned on Northern Gradual-Emancipation Law]]"
 sources:
   - "[[Lets Get Real - Why Its Easier to Flatten Brigham Young]]"
+  - "[[FAIR Conference Podcast 83 - Daniel C. Peterson - Brigham Young and Slavery]]"
 tags:
   - apologetics
   - topic/slavery-in-utah
@@ -31,6 +33,8 @@ Critics (and Peterson's own former view) hold that [[Brigham Young]] "saw a bill
 
 5. **Parallel to Lincoln's compensated-emancipation logic (rated: moderate).** Both [[Abraham Lincoln]] and Joseph Smith had floated using federal land-sale proceeds to compensate owners and resettle freed people (the backdrop to Liberia) — good-faith attempts by slavery's opponents to avoid civil war.[^7] See [[A Man of His Time Without Excusing the Sin]].
 
+6. **The verbatim provisions confirm it (rated: strong; documentary — Peterson at FAIR).** Reading the same two books before a FAIR audience, [[Daniel C. Peterson]] enumerates the statute's text: it limited the term of service; "unambiguously recognized servants as human beings with personal agency" who could testify in court (even against a master) and, if the court found the master in breach, be *freed* rather than transferred; labor could be sold only "with the consent of the servant"; it forbade the breaking up of families and forbade and "severely punished" sexual abuse; it required masters to provide "comfortable habitations, clothing, bedding, sufficient food, and ... recreation"; it barred slave-hunting posses; and it mandated 18 months of education between ages 6 and 20 — "in stark contrast to the slave codes ... which made it a crime to teach a slave to read and write." Most decisively, **Section 3 provided that children born to an enslaved mother are born free**, "the really clear gradual emancipation aspect."[^8] See [[The 1852 Act Was Patterned on Northern Gradual-Emancipation Law]].
+
 ## Best Quotes
 
 > "It turned out the 1852 bill wasn't a slave bill. It was a bill for servitude. ... Brigham didn't want it called slavery. He went out of his way to say that he loathed slavery. He said, You cannot own human flesh. Chattel slavery is an abomination."[^2]
@@ -41,6 +45,7 @@ Critics (and Peterson's own former view) hold that [[Brigham Young]] "saw a bill
 
 ## References
 - [[Lets Get Real - Why Its Easier to Flatten Brigham Young]]
+- [[FAIR Conference Podcast 83 - Daniel C. Peterson - Brigham Young and Slavery]]
 - [[Paul Reeve]]
 - [[LaJean Carruth]]
 - [[Christopher Rich]]
@@ -49,6 +54,7 @@ Critics (and Peterson's own former view) hold that [[Brigham Young]] "saw a bill
 
 ---
 [^1]: [[Lets Get Real - Why Its Easier to Flatten Brigham Young|Let's Get Real - Why It's Easier to Flatten Brigham Young]], [37:00]–[37:32], https://youtu.be/dssLIsMniWU
+[^8]: [[FAIR Conference Podcast 83 - Daniel C. Peterson - Brigham Young and Slavery|FAIR - Daniel C. Peterson - Brigham Young and Slavery]], [23:00]–[27:00], https://youtu.be/z6mCE6-AYnU
 [^2]: [[Lets Get Real - Why Its Easier to Flatten Brigham Young|Let's Get Real - Why It's Easier to Flatten Brigham Young]], [37:32]–[38:00], https://youtu.be/dssLIsMniWU
 [^3]: [[Lets Get Real - Why Its Easier to Flatten Brigham Young|Let's Get Real - Why It's Easier to Flatten Brigham Young]], [44:30]–[45:00], https://youtu.be/dssLIsMniWU
 [^4]: [[Lets Get Real - Why Its Easier to Flatten Brigham Young|Let's Get Real - Why It's Easier to Flatten Brigham Young]], [38:30]–[39:32], https://youtu.be/dssLIsMniWU

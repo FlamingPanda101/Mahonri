@@ -5,6 +5,7 @@ related:
   - "[[Brigham Young Personally Opposed Slavery]]"
 sources:
   - "[[Lets Get Real - Why Its Easier to Flatten Brigham Young]]"
+  - "[[FAIR Conference Podcast 83 - Daniel C. Peterson - Brigham Young and Slavery]]"
 tags:
   - apologetics
   - topic/slavery-in-utah
@@ -30,6 +31,8 @@ That Latter-day Saints — including [[Brigham Young]], who acquired at least on
 
 5. **Scope (rated: contextualizing).** Black chattel slaves in Utah were few — "probably at most 30... at any given time" (e.g., Green Flake, Hark Lay) — so the Native American slavery problem was arguably "a bigger issue" practically, though both were minor relative to Brigham's settlement agenda.[^6]
 
+6. **The Indian Indenture Act was a response to this dilemma (rated: strong — Peterson at FAIR).** Telling the same dashed-against-a-rock account to a FAIR audience, [[Daniel C. Peterson]] notes the Saints feared that buying children both (a) created a market — "you start buying slaves ... they'll bring them to you. More slaves" — and (b) exposed them to federal prosecution for violating the territory's slavery prohibition. The legislature's answer was a companion **Indian Indenture Act** authorizing Saints to purchase captives *but not own them as slaves* — bringing the children into households as indentured wards who "grew up free." Brigham's own ward Sally was acquired this way; he "bought several slaves we know of, including black slaves, and then freed them."[^8] See [[Brigham Young Personally Opposed Slavery]].
+
 ## Best Quotes
 
 > "The biggest slave trading operation in the American West was the Ute Indian tribe. They would go out and capture people from other... tribes, and then offer them for sale."[^2]
@@ -40,12 +43,14 @@ That Latter-day Saints — including [[Brigham Young]], who acquired at least on
 
 ## References
 - [[Lets Get Real - Why Its Easier to Flatten Brigham Young]]
+- [[FAIR Conference Podcast 83 - Daniel C. Peterson - Brigham Young and Slavery]]
 - [[Utah 1852 Act Was Servitude Not Slavery]]
 - [[Brigham Young Personally Opposed Slavery]]
 - [[Brigham Young]]
 
 ---
 [^1]: [[Lets Get Real - Why Its Easier to Flatten Brigham Young|Let's Get Real - Why It's Easier to Flatten Brigham Young]], [43:02]–[43:31], https://youtu.be/dssLIsMniWU
+[^8]: [[FAIR Conference Podcast 83 - Daniel C. Peterson - Brigham Young and Slavery|FAIR - Daniel C. Peterson - Brigham Young and Slavery]], [17:00]–[18:30] and [35:31]–[36:31], https://youtu.be/z6mCE6-AYnU
 [^2]: [[Lets Get Real - Why Its Easier to Flatten Brigham Young|Let's Get Real - Why It's Easier to Flatten Brigham Young]], [41:30]–[42:00], https://youtu.be/dssLIsMniWU
 [^3]: [[Lets Get Real - Why Its Easier to Flatten Brigham Young|Let's Get Real - Why It's Easier to Flatten Brigham Young]], [42:00]–[43:02], https://youtu.be/dssLIsMniWU
 [^4]: [[Lets Get Real - Why Its Easier to Flatten Brigham Young|Let's Get Real - Why It's Easier to Flatten Brigham Young]], [42:31]–[43:02], https://youtu.be/dssLIsMniWU

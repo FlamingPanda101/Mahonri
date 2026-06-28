@@ -6,6 +6,7 @@ related:
   - "[[Utah 1852 Act Was Servitude Not Slavery]]"
 sources:
   - "[[Lets Get Real - Why Its Easier to Flatten Brigham Young]]"
+  - "[[FAIR Conference Podcast 83 - Daniel C. Peterson - Brigham Young and Slavery]]"
 tags:
   - apologetics
   - topic/race
@@ -31,6 +32,8 @@ Two opposite errors are addressed. (1) Critics condemn [[Brigham Young]] outrigh
 
 5. **Culture vs. conduct (rated: moderate, biographical).** Peterson illustrates with his own mother, raised in St. George, who occasionally used an offensive term but "never used it in a harmful way" and "never... unkind to anyone... over any racial issue." He regrets having raised her publicly, because listeners then demanded he "condemn" her — refusing to, "I'll not condemn my mother. She was a really good woman." The distinction: inherited *language/assumptions* differ from how one actually *treats* people.[^7]
 
+6. **"Think yourself into the mindset" — the Wilberforce frame (rated: strong; the clearest statement).** At FAIR, Peterson grounds the same point in Eric Metaxas's *Amazing Grace*: for 5,000 years "slavery was as accepted as birth and marriage and death ... the idea of human civilization without slavery was unimaginable," so that even Wilberforce and the abolitionists dared at first only to fight the slave *trade*, not slavery itself. Reading the past requires "think[ing] ourselves into this mindset" rather than projecting 21st-century moral clarity backward. Peterson still concludes plainly: "obviously I don't believe in slavery. ... Humans don't have a right to own other human beings."[^8] This is the disciplined form of the "man of his time" point — historical empathy that refuses to become endorsement.
+
 ## Best Quotes
 
 > "That isn't Brigham Young. That's Abraham Lincoln. Because it was in the air. ... don't judge Brigham Young harshly for believing what Abraham Lincoln and abolitionists thought at the same time."[^3]
@@ -41,13 +44,16 @@ Two opposite errors are addressed. (1) Critics condemn [[Brigham Young]] outrigh
 
 ## References
 - [[Lets Get Real - Why Its Easier to Flatten Brigham Young]]
+- [[FAIR Conference Podcast 83 - Daniel C. Peterson - Brigham Young and Slavery]]
 - [[Presentism in Historical Judgment]]
 - [[Abraham Lincoln]]
+- [[William Wilberforce]]
 - [[Brigham Young]]
 - [[Brigham Young Personally Opposed Slavery]]
 
 ---
 [^1]: [[Lets Get Real - Why Its Easier to Flatten Brigham Young|Let's Get Real - Why It's Easier to Flatten Brigham Young]], [29:30]–[30:00] and [33:31]–[34:02], https://youtu.be/dssLIsMniWU
+[^8]: [[FAIR Conference Podcast 83 - Daniel C. Peterson - Brigham Young and Slavery|FAIR - Daniel C. Peterson - Brigham Young and Slavery]], [09:00]–[10:30] and [40:00]–[40:30], https://youtu.be/z6mCE6-AYnU
 [^2]: [[Lets Get Real - Why Its Easier to Flatten Brigham Young|Let's Get Real - Why It's Easier to Flatten Brigham Young]], [33:00]–[33:31], https://youtu.be/dssLIsMniWU
 [^3]: [[Lets Get Real - Why Its Easier to Flatten Brigham Young|Let's Get Real - Why It's Easier to Flatten Brigham Young]], [34:31]–[35:31], https://youtu.be/dssLIsMniWU
 [^4]: [[Lets Get Real - Why Its Easier to Flatten Brigham Young|Let's Get Real - Why It's Easier to Flatten Brigham Young]], [33:31]–[34:02], https://youtu.be/dssLIsMniWU
