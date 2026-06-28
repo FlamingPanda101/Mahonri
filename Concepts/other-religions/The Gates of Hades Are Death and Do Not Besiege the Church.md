@@ -62,3 +62,5 @@ The rejoinder presupposes that "the church" in view is the *institution* and tha
 - [[Sheol Was the Undifferentiated Realm of All the Dead]]
 - [[Jack P. Lewis]]
 - [[Jacob Hansen]]
+- [[The Gates of Hell Objection to Apostasy Conflates Survival With Soundness]] — Marvelous Wonder's parallel reframing (survival ≠ soundness; *hades* not torment).
+- [[Temple Work for the Dead Fulfills the Gates of Hell Promise]] — the restorational "fulfillment" extension of the same verse.

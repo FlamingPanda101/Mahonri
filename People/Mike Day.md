@@ -16,9 +16,13 @@ He frames apostasy as a **gradual falling away** rather than a single mutiny, bu
 ## On Lehi's journey and the holy of holies (Stick of Joseph)
 With [[Dave Butler]] on *The Stick of Joseph* (bonus content for Butler's *In the Language of Adam*), Day contributes the connection that the temple's innermost room, the *debir*, is "the room of the bee" — the bee being **Deborah** (*d'vorah*), the prophetess of Judges 4 who sits under a tree on a mountain dispensing judgment like Jesus on the mount. See [[The Holy of Holies Is the Room of the Bee Debir and Deborah]] and [[Nahom Is the Tabernacle Room of Mourning and Comfort]] (Day quotes Baker & Ricks on "comfort" as kingly empowerment).
 
+## On Freemasonry and the Endowment (Stick of Joseph)
+Day co-hosts (with [[David Butler (Stick of Joseph)|Dave Butler]]) a follow-up episode featuring two practicing Master Masons who are endowed Latter-day Saints, on what Masonry illuminates about [[Joseph Smith]]'s mind and the temple. See [[Joseph Saw an Order of Priesthood in Masonry - Restoration Gathers Fragments]], [[The Masons-Worship-Lucifer Charge Misreads Albert Pike]], and [[Freemasonry Schooled the Saints in a Symbolic Language for the Temple]].
+
 ## Source
 - [[Ward Radio - The Great Apostasy Deep Dive with Mike Day and Dave Butler]]
 - [[The Stick of Joseph - A New Way of Viewing Lehis Journey in the Book of Mormon]]
+- [[The Stick of Joseph - Real LDS Freemasons on the Endowment]]
 
 ---
 See also: [[David Butler (Stick of Joseph)]] · [[Dave Butler]] · [[Ward Radio]] · [[The Stick of Joseph - A New Way of Viewing Lehis Journey in the Book of Mormon]]

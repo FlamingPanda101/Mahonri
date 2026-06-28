@@ -16,6 +16,8 @@ Peter's Pentecost answer to "what shall we do?" couples **repentance and baptism
 
 ## Used in
 - [[Every Person Gets a Fair Opportunity Through Proxy Ordinances]]
+- [[The Causal Eis Reading of Acts 2.38 Lacks Greek Support]] — Heschmeyer vs Ryan on whether *eis* can mean "because of" (Marcus vs Mantey).
+- [[The New Testament Repeatedly Says Baptism Saves]]
 
 ## Cross-references
 - [[1 Corinthians 15.29|1 Corinthians 15:29]] — baptism for the dead.

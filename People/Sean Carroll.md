@@ -22,6 +22,9 @@ In conversation with [[Alex OConnor|Alex O'Connor]], Carroll mounts a layered na
 - He delivers his signature verdict — fine-tuning "is the best argument that people have for the existence of God. But it's a terrible argument" — and argues fine-tuning is actually [[Fine-Tuning Is Evidence for Naturalism Not Theism|evidence for naturalism]], since only naturalism *needs* physical, information-processing life.[^2]
 - He presses a Bayesian objection that [[Theism Doesn't Predict the Universe We Observe|theism does not predict]] a vast, galaxy-filled, human-marginal, lawfully "invisible" cosmos, making theistic accommodation a "post hoc copout."[^3]
 
+## The "Probability Is One" Clip (Rebutted by Trent Horn)
+[[Trent Horn]] (and physicist Michael Strauss) argue that Carroll's debate-clip claim — that the early universe's expansion-rate probability is "one" under the correct general-relativity equations — equivocates between the **gravitational constant** (what he was asked about) and the **cosmological constant / expansion rate** (what he answered about), two distinct quantities. See [[Carroll Conflates the Gravitational and Cosmological Constants]] (source: [[The Counsel of Trent - Rebutting Atheist Objections to the Fine-Tuning Argument]]).
+
 ## References
 [^1]: [[Alex OConnor - The Fine-Tuning Argument is Terrible - Sean Carroll|O'Connor & Carroll - Fine-Tuning]], [02:01]–[06:31], https://youtu.be/gRp0ent1Z0A
 [^2]: [[Alex OConnor - The Fine-Tuning Argument is Terrible - Sean Carroll|O'Connor & Carroll - Fine-Tuning]], [06:31]–[08:30], https://youtu.be/gRp0ent1Z0A

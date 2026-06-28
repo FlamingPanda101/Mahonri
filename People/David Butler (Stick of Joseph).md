@@ -57,6 +57,9 @@ As guest on [[Cardon Ellis]]'s Ward Radio, Butler argues that **Alma the Elder b
 
 This reprises arguments he develops on his own channel — [[Nephi's Tree Is Asherah the Divine Mother]], [[Shaddai Is the Breasted God and Points to the Mother]], [[Yahweh El Shaddai Is a Throne-Name Preserved in the Book of Mormon]] — from [[Ward Radio - Was Alma a High Priest of Heavenly Mother]].
 
+### Freemasonry and the Endowment (with two LDS Master Masons)
+Butler (with co-host [[Mike Day]]) hosts a follow-up episode featuring Josh Flansberg and Robert Kay — practicing Master Masons who are also endowed Latter-day Saints — on what Masonry reveals about [[Joseph Smith]]'s mind and the temple endowment. See [[Joseph Saw an Order of Priesthood in Masonry - Restoration Gathers Fragments]], [[The Masons-Worship-Lucifer Charge Misreads Albert Pike]], and [[Freemasonry Schooled the Saints in a Symbolic Language for the Temple]] (source: [[The Stick of Joseph - Real LDS Freemasons on the Endowment]]).
+
 [^1]: [[Stick of Joseph - Atheism is Unreasonable and Stupid|Stick of Joseph - Atheism is Unreasonable and Stupid]], [49:01]–[49:30],
 https://youtu.be/aqOzROuIAHM
 
