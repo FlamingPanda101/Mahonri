@@ -24,7 +24,7 @@ On *Uncommon Knowledge*, Peter Robinson interviews **[[Stephen C. Meyer]]** abou
 - [[Three Theological Presuppositions Behind the Rise of Science]]
 - [[The Universe Had a Beginning - A Cause Beyond Matter and Time]]
 - [[Fine-Tuning the Goldilocks Universe Points to a Mind]]
-- [[Digital Information in DNA Requires a Master Programmer]]
+- [[DNA as Digital Code - The Information Enigma]]
 
 ## References
 [^1]: [[Hoover Institution - Stephen Meyer on Intelligent Design and The Return of the God Hypothesis|Meyer — Return of the God Hypothesis]], [01:31], https://youtu.be/z_8PPO-cAlA

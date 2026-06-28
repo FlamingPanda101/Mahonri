@@ -7,7 +7,7 @@ related:
   - "[[The Nephilim Were Apostate Sethite Priesthood-Holders Not Supernatural Giants]]"
   - "[[Nephilim Is a Premasoretic Triliteral Pun Meaning Mighty Fallen and Abortion]]"
   - "[[Book of Enoch - The Watchers and Genesis 6 Expansion]]"
-  - "[[Problem of Evil - Enochic Theodicy]]"
+  - "[[Book of Enoch - Problem of Evil Through Fallen Angels]]"
 sources:
   - "[[Ward Radio - Who Are the Giants in the Bible (Jonah Barnes)]]"
 tags: [apologetics, apocrypha, book-of-enoch, nephilim, ethics-culture, tradition/lds]

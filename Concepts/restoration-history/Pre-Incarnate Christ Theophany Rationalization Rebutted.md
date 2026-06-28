@@ -58,7 +58,7 @@ In other words, even the NT's own framework for "seeing God through Jesus" is fu
 
 - [[Limited Essence Theophany Rationalization Rebutted]] — the second common harmonization, equally circular
 - [[Rationalization C - The Third Thing Harmonization]] — both rationalizations instantiate this broader pattern
-- [[Jesus as Divine Image in John's Gospel]] — the "divine image" logic vs. direct OT theophany
+- [[Image Christology in the Gospel of John]] — the "divine image" logic vs. direct OT theophany
 - [[Bible Contradiction - Gods Visibility Gen 32 vs John 1]] — the full contradiction
 
 ## References

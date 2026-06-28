@@ -3,7 +3,7 @@ title: "The Temple Is a Womb and the Patron Is the Child Being Born"
 scripture:
   - "[[John 3.5|John 3:5]]"
 related:
-  - "[[The Amniotic Veil and the Veiled Birth Type the Temple Veil]]"
+  - "[[Veiled Birth and the Caul Are a Type of the Temple Veil]]"
   - "[[The Placenta Is the Tree of Life and the Cord Is the Iron Rod]]"
   - "[[The Veil Marks Sanctity Not Shame and Is Meant to Be Traversed]]"
   - "[[Eve Was Recreated in Eden as a Heavenly Mother Figure]]"
@@ -41,4 +41,4 @@ The reading reframes a recurring pastoral problem — women feeling "erased" or 
 [^3]: [[Ward Radio - The Hidden Feminine Symbolism of LDS Temple Ritual|Ward Radio - Feminine Symbolism of the Temple]], [18:30], https://youtu.be/POPZq3V52S4
 
 ---
-See also: [[Concepts]] · [[The Amniotic Veil and the Veiled Birth Type the Temple Veil]] · [[The Placenta Is the Tree of Life and the Cord Is the Iron Rod]]
+See also: [[Concepts]] · [[Veiled Birth and the Caul Are a Type of the Temple Veil]] · [[The Placenta Is the Tree of Life and the Cord Is the Iron Rod]]

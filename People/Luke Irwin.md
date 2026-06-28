@@ -26,7 +26,7 @@ Irwin's work is relevant to the [[Pre-Incarnate Christ Theophany Rationalization
 
 - [[Bible Contradiction - Gods Visibility Gen 32 vs John 1]]
 - [[Pre-Incarnate Christ Theophany Rationalization Rebutted]]
-- [[Jesus as Divine Image in John's Gospel]]
+- [[Image Christology in the Gospel of John]]
 
 ## Key Works
 

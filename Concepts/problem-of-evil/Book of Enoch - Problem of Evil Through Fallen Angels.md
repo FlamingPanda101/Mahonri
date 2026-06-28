@@ -1,9 +1,11 @@
 ---
 title: "Book of Enoch — Problem of Evil Through Fallen Angels"
+aliases:
+  - "Problem of Evil - Enochic Theodicy"
 related:
   - "[[Book of Enoch - The Watchers and Genesis 6 Expansion]]"
   - "[[Book of Enoch - Origin of the Satan Figure]]"
-  - "[[Problem of Evil - Enochic Theodicy]]"
+  - "[[Christology - Enochic Background]]"
 sources:
   - "[[Data Over Dogma - Left Behind The Book of Enoch|Data Over Dogma — Left Behind: The Book of Enoch]]"
 tags: [apologetics, book-of-enoch, theodicy, problem-of-evil, angels]
@@ -59,7 +61,10 @@ Even after the flood, evil persists because the Watchers' spirits become the dem
 | Augustinian | Original sin transmitted through human generation | Christian theology |
 | Irenaean | Soul-making — evil as necessary for moral development | Christian theology |
 
-1 Enoch's theodicy is distinctive in locating evil's origin in heavenly rather than earthly rebellion, and in tying evil specifically to forbidden knowledge and technological civilization — a particularly pessimistic view of human progress.
+1 Enoch's theodicy is distinctive in locating evil's origin in heavenly rather than earthly rebellion, and in tying evil specifically to forbidden knowledge and technological civilization — a particularly pessimistic view of human progress. Its account of a personal adversary and fallen spirits fed directly into New Testament demonology (see [[Christology - Enochic Background]]).
+
+## Steelman / Caveats
+The Enochic theodicy only *relocates* the question (why did God make angels able to rebel, or permit it?), so it does not dissolve the problem of evil so much as push it up a level — the same regress that attends any free-will defense. It also does little to address **natural evil** (disease, disaster) not traceable to the Watchers. Its value is historical and conceptual: it shows how Second Temple Judaism imagined evil's source, and it shaped later Jewish and Christian thought, whatever its philosophical adequacy.
 
 ## References
 

@@ -5,7 +5,7 @@ scripture:
   - "[[1 Nephi 11]]"
 related:
   - "[[The Temple Is a Womb and the Patron Is the Child Being Born]]"
-  - "[[The Amniotic Veil and the Veiled Birth Type the Temple Veil]]"
+  - "[[Veiled Birth and the Caul Are a Type of the Temple Veil]]"
   - "[[Nephi's Tree Is Asherah the Divine Mother]]"
   - "[[Lehi's Dream Recapitulates the Eden-Temple Return]]"
 sources:

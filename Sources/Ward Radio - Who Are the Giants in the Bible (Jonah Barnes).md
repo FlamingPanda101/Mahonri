@@ -39,7 +39,7 @@ A [[Ward Radio]] segment in which [[Cardon Ellis]] interviews [[Jonah Barnes]] o
 - [[Book of Enoch - The Watchers and Genesis 6 Expansion]]
 - [[Book of Enoch - Origin of the Satan Figure]]
 - [[Book of Enoch - Cosmetic Arts as Angelic Corruption]]
-- [[Problem of Evil - Enochic Theodicy]]
+- [[Book of Enoch - Problem of Evil Through Fallen Angels]]
 
 ## People
 - [[Cardon Ellis]] (host)

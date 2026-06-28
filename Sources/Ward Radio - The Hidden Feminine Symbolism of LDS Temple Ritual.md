@@ -21,7 +21,7 @@ An all-women Ward Radio panel (hosted by **Tia**, with **[[Britney Ward Radio|Br
 ## Concepts
 - [[The Temple Is a Womb and the Patron Is the Child Being Born]]
 - [[The Placenta Is the Tree of Life and the Cord Is the Iron Rod]]
-- [[The Amniotic Veil and the Veiled Birth Type the Temple Veil]]
+- [[Veiled Birth and the Caul Are a Type of the Temple Veil]]
 
 ## People
 - Tia (Ward Radio Women host) · [[Britney Ward Radio|Britney]] · Rachel · Joy · Megan (convert guest)

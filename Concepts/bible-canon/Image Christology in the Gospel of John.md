@@ -1,10 +1,14 @@
 ---
 title: "Image Christology in the Gospel of John"
+aliases:
+  - "Jesus as Divine Image in John's Gospel"
 scripture: "[[John 14.9|John 14:9]]"
 related:
   - "[[I and the Father Are One Means Mutual Indwelling]]"
   - "[[Divine Images Explain Jesus Relationship to God]]"
   - "[[John 20-28 - My Lord and My God (Divine Image)]]"
+  - "[[Pre-Incarnate Christ Theophany Rationalization Rebutted]]"
+  - "[[Anthropomorphic God in the Hebrew Bible]]"
 sources:
   - "[[Dan McClellan - I and the Father Are One John 10 Trinity Rebuttal]]"
 tags: [christology, divine-images, mutual-indwelling, logos, john]
@@ -27,8 +31,11 @@ John's portrait of Jesus is best understood as **image christology**: Jesus is "
 ### 3. It integrates the whole passage (strong, synthetic)
 Image christology ties together the strands McClellan develops elsewhere: the mutual indwelling of [[I and the Father Are One Means Mutual Indwelling]], the divinizing Logos of [[Psalm 82 as Israel Divinized at Sinai]], and his broader "divine images" model in [[Divine Images Explain Jesus Relationship to God]]. The result is "an entirely different picture... Jesus identifying as the one mutually indwelling the father... identifying as the son of god as divine." [^4]
 
-### 4. Steelman of the opposing view
-A Trinitarian / Nicene reader holds that "whoever has seen me has seen the Father" and "my Lord and my God" express *consubstantial* deity, not merely mediated presence, and that the image-bearing language (e.g. Col 1:15, Heb 1:3) is itself a statement of full deity. McClellan grants Jesus is "the son of God in the fullest sense," "set apart and sent into the world to reveal the father" [^5] — his disagreement is over *mechanism* (mediated divine presence vs. shared essence), which he argues better fits John operating "on its own terms" before later Trinitarian formulation.
+### 4. It dissolves the John 1:18 contradiction and distinguishes the OT theophanies (strong, synthetic)
+Because a divine image makes the deity *present* without one seeing "God's own self," John 14:9 ("whoever has seen me has seen the Father") is fully compatible with [[John 1.18|John 1:18]]'s "no one has ever seen God" — the two verses describe *mediated* presence, not direct vision. This image-mediation is also a *different* mechanism from the direct, unmediated Old Testament theophanies (Jacob and Moses seeing God "face to face"): recognizing the two mechanisms removes the need to harmonize them by force. This is the constructive flip-side of [[Pre-Incarnate Christ Theophany Rationalization Rebutted]].
+
+### 5. Steelman of the opposing view
+A Trinitarian / Nicene reader holds that "whoever has seen me has seen the Father" and "my Lord and my God" express *consubstantial* deity, not merely mediated presence, and that the image-bearing language (e.g. Col 1:15, Heb 1:3) is itself a statement of full deity. McClellan grants Jesus is "the son of God in the fullest sense," "set apart and sent into the world to reveal the father" [^5] — his disagreement is over *mechanism* (mediated divine presence vs. shared essence), which he argues better fits John operating "on its own terms" before later Trinitarian formulation. The image reading need not deny John's high Christology (the Logos who "was God," John 1:1); it claims only that the *visibility* language works by presence-bearing, which lets John affirm both Jesus's divinity and the Father's invisibility without contradiction.
 
 ## Best Quotes
 > "Jesus bears the divine presence, divine agency, divine authority and manifests it. So that anyone who sees Jesus... is seeing God. Not because Jesus is God but because Jesus bears God's presence." [^2]
