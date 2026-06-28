@@ -7,8 +7,10 @@ related:
   - "[[Joseph Was Not Translating the Surviving Papyrus]]"
   - "[[A Prophet Is Not an Academic Translator]]"
   - "[[Joseph Smith Declined to Translate the Hypocephalus Characters of Facsimile 2]]"
+  - "[[No Theory Yet Accounts for All the Kirtland Egyptian Papers Evidence]]"
 sources:
   - "[[Thoughtful Faith - The Book of Abraham NEW Research That Proves Critics Wrong]]"
+  - "[[All Those In Favor - Egyptologist Responds to Criticisms of the Book of Abraham - Kerry Muhlestein]]"
 tags:
   - apologetics/book-of-abraham
   - topic/kirtland-egyptian-papers
@@ -39,6 +41,8 @@ Since Grant Heward and Jerald Tanner in the 1960s, the strongest argument agains
 
 **Implication.** If the Alphabet/Grammar are a cipher built *from* the Book of Abraham (and from earlier English revelations), they cannot be the tool that *produced* it. The text "must have been translated by Joseph Smith in the same way he had produced the Book of Mormon ... by revelation" — see [[A Prophet Is Not an Academic Translator]] and [[Joseph Was Not Translating the Surviving Papyrus]]. The Book-of-Abraham manuscripts with papyri characters in the margin (the Tanners' best exhibit) are then specimens of this cipher work, not interlinear translations.[^8]
 
+**Independent confirmation (Muhlestein).** [[Kerry Muhlestein]], working separately, reaches a converging negative result: a character-by-character correlation between the grammar/alphabet and the Book-of-Abraham manuscripts yields only ~2% — "less than what you would expect by happenstance" — so it is "mathematically demonstrable that he didn't use the grammar to translate." He likewise found the grammar mixes in characters that are *not* Egyptian (some from Book-of-Mormon characters, some invented), which the makers knew weren't Egyptian — and concludes no current theory (LDS or critical) yet explains all the documents. See [[No Theory Yet Accounts for All the Kirtland Egyptian Papers Evidence]].[^9]
+
 ## Steelman of the Critic
 The cipher thesis is contested. (a) It is a minority reconstruction; the Joseph Smith Papers editors and many scholars still read the Alphabet documents as *some kind of* engagement with translating the papyri, and the direction of dependence is exactly what is disputed. (b) Even granting the cipher reading, the critic can shift entirely to the **facsimiles**, whose published explanations Egyptologists judge incorrect, sidestepping the alphabet documents altogether (the video's own answer is [[Translating a Text Versus Interpreting a Drawing Are Different Claims]] and [[Joseph Smith Declined to Translate the Hypocephalus Characters of Facsimile 2]]). (c) "Pure language" motivations and a cipher function are not mutually exclusive with the men *believing* they were recovering Egyptian, so the label argument shows confusion in 1835 Kirtland more than it vindicates the modern translation. The honest LDS position keeps both the catalyst theory and the missing-scroll theory live; see [[Most of the Book of Abraham Papyri Burned in the Chicago Fire]].
 
@@ -57,6 +61,7 @@ The cipher thesis is contested. (a) It is a minority reconstruction; the Joseph 
 [^6]: [[Thoughtful Faith - The Book of Abraham NEW Research That Proves Critics Wrong|TF - Book of Abraham]], [25:00], https://youtu.be/_W0MmzxUXc4
 [^7]: [[Thoughtful Faith - The Book of Abraham NEW Research That Proves Critics Wrong|TF - Book of Abraham]], [32:00], https://youtu.be/_W0MmzxUXc4
 [^8]: [[Thoughtful Faith - The Book of Abraham NEW Research That Proves Critics Wrong|TF - Book of Abraham]], [41:30], https://youtu.be/_W0MmzxUXc4
+[^9]: [[All Those In Favor - Egyptologist Responds to Criticisms of the Book of Abraham - Kerry Muhlestein|ATIF - Egyptologist Responds to Book of Abraham Criticisms]], [55:30]–[58:30], https://youtu.be/YcrP4BrknHI
 
 ---
-See also: [[Grammar and Alphabet of the Egyptian Language]] · [[W. W. Phelps]] · [[William Schryver]] · [[Book of Abraham]]
+See also: [[Grammar and Alphabet of the Egyptian Language]] · [[W. W. Phelps]] · [[William Schryver]] · [[Book of Abraham]] · [[No Theory Yet Accounts for All the Kirtland Egyptian Papers Evidence]] · [[All Those In Favor - Egyptologist Responds to Criticisms of the Book of Abraham - Kerry Muhlestein]]

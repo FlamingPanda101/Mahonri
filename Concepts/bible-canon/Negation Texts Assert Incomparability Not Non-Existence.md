@@ -10,6 +10,7 @@ related:
   - "[[Deutero-Isaiah Theory]]"
 sources:
   - "[[Dan McClellan - Engaging Gavin Ortlund on Monotheism]]"
+  - "[[Alex OConnor - There Are Multiple Gods in the Bible Not Just One - Dan McClellan]]"
 tags:
   - topic/monotheism
   - topic/deutero-isaiah
@@ -43,6 +44,8 @@ Just as huge, intimidating empires are real yet "make them look like nothing" be
 ### 4. Nathan McDonald's monograph (rating: strong; peer-reviewed support)
 McClellan cites [[Nathan McDonald]]'s *Deuteronomy and the Meaning of Monotheism* (esp. ch. 2 §3 on Deut 4:35, 39): this negation rhetoric expresses **proximity, presence within someone's domain, or rhetorical relevance** — not ontological exclusivity. [^5]
 
+In conversation with [[Alex OConnor]], McClellan supplies McDonald's decisive parallel and a self-refuting proof-text. McDonald shows the "there is none besides" formula is *scope-limited* (his example: someone asked "do you have a sword?" answers "there is none" — not "swords don't exist," but "not here"), and it always appears in the context of "I'm the one who saves you... there is no other," i.e. *"I'm the only one for you."* The clincher: the **identical** phrase "I am, and there is none besides me" is placed in the mouth of **Babylon** in Isaiah 47 (and of Nineveh/Moab in [[Zephaniah 2.15|Zephaniah 2:15]]) — and Babylon plainly is not claiming to be the only nation on earth. So even if the formula does not *prove* polytheism, it cannot be used to *rule out* other gods. (O'Connor's gloss: Ed Sheeran singing "you are the only one" to a stadium of thousands is not confused about other women.)[^8]
+
 ### 5. Steelman of the opposing view
 Ortlund's strongest counter (which McClellan engages at length) is that the negation language is tied to predicates that *cannot* be reduced to incomparability: declaring the future, "no god formed before me nor shall there be after me," eternality. The Broncos cannot say they predated all other teams. [^6] McClellan answers: the "formed" predicate is idol-polemic (yatsar), and even pre-existence/sole-creator claims are paralleled in the Amun-Ra material, so they still do not isolate monotheism (see [[Rhetoric of Incomparability Is Not Monotheism]]).
 
@@ -62,6 +65,7 @@ Ortlund's strongest counter (which McClellan engages at length) is that the nega
 [^5]: [[Dan McClellan - Engaging Gavin Ortlund on Monotheism|Dan McClellan - Engaging Gavin Ortlund on Monotheism]], [32:31]–[33:01], https://youtu.be/LhL86fKYeAc
 [^6]: [[Dan McClellan - Engaging Gavin Ortlund on Monotheism|Dan McClellan - Engaging Gavin Ortlund on Monotheism]], [33:01]–[34:30], https://youtu.be/LhL86fKYeAc
 [^7]: [[Dan McClellan - Engaging Gavin Ortlund on Monotheism|Dan McClellan - Engaging Gavin Ortlund on Monotheism]], [31:02]–[31:32], https://youtu.be/LhL86fKYeAc
+[^8]: [[Alex OConnor - There Are Multiple Gods in the Bible Not Just One - Dan McClellan|O'Connor - Multiple Gods (McClellan)]], [46:00]–[51:30], https://youtu.be/HIrW5ic1G1I
 
 ---
-See also: [[Dan McClellan]] · [[Nathan McDonald]] · [[Deutero-Isaiah Theory]]
+See also: [[Dan McClellan]] · [[Nathan McDonald]] · [[Deutero-Isaiah Theory]] · [[Alex OConnor - There Are Multiple Gods in the Bible Not Just One - Dan McClellan]]

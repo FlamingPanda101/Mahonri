@@ -15,6 +15,10 @@ Paired with King Benjamin's sermon ([[Mosiah 4.11]]) to frame the bi-natured hum
 
 - [[Doctrine of Divine Childhood Versus Total Depravity]]
 - [[Same-Species-as-God as the Core LDS Distinctive in Theosis]]
+- [[Moses 1 Shows Satan Falsely Claims to Be the Only Begotten]]
+
+## Note: Satan's false "Only Begotten" claim (Moses 1:12-22)
+Later in the same chapter, Satan confronts Moses ("worship me"); Moses answers "I am a son of God, in the similitude of his Only Begotten… where is thy glory, that I should worship thee?" and Satan falsely cries "I am the Only Begotten, worship me." This passage *distinguishes* Christ and Satan and is cited against the "Jesus and Lucifer are brothers" slur. See [[Moses 1 Shows Satan Falsely Claims to Be the Only Begotten]].
 
 ---
 See also: [[Scriptures]]

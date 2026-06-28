@@ -14,6 +14,7 @@ The most-cited proof text in LDS missionary discussions and apologetics that an 
 ## Used in
 - [[Apostasy as Gradual Falling Away Not Single Event]]
 - [[Ward Radio - The Great Apostasy Deep Dive with Mike Day and Dave Butler]]
+- [[Loss of Apostolic Authority Caused the Christological Factions]]
 
 ---
 See also: [[Scriptures]] · [[Amos 8.11-12|Amos 8:11-12]]

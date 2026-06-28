@@ -21,3 +21,5 @@ From the Book of Moses (Pearl of Great Price, LDS Restoration canon). Cited by h
 ## Used in
 - [[Learning by Experience over Book Learning]]
 - [[God Works Through Fallible Prophets]]
+- [[The Apocrypha Reveals How Cain Killed Abel by the Throat]] (the Cain narrative, Moses 5:29-31: "swear by thy throat," Master Mahan, "murder to get gain")
+- [[Murder to Get Gain Inverts the Order of Sacrifice]]

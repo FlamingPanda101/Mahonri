@@ -12,6 +12,8 @@ The classic LDS premortal-existence text: Abraham is shown the "intelligences...
 
 ## Used in
 - [[The Canon Affirms Literal Divine Sonship and Premortal Existence]]
+- [[Abraham 3 Is the Selection of Adam Not the Redeemer]]
+- [[Moses 4 and Abraham 3 Are Two Different Premortal Scenes]]
 
 ---
 See also: [[Scriptures]] · [[Abraham]] · [[Pearl of Great Price]]

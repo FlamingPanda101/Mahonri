@@ -33,10 +33,10 @@ In Genesis 37 one strand has the **Midianites** draw Joseph from the pit and sel
 [[1 Samuel|1 Samuel 17]] credits **David**; [[2 Samuel|2 Samuel 21:19]] credits **Elhanan** son of Jaare-oregim the Bethlehemite. The Chronicler "fixes" this (1 Chron 20:5, Elhanan killed Goliath's *brother*), which itself signals an early perceived contradiction.
 
 ### 4. How King Ahaziah was killed (rated: strong)
-2 Kings 9 and 2 Chronicles 22 give incompatible circumstances and locations for Ahaziah's death — a Kings-vs-Chronicles divergence of the kind the Chronicler routinely introduces.
+2 Kings 9 and 2 Chronicles 22 give incompatible circumstances and locations for Ahaziah's death — a Kings-vs-Chronicles divergence of the kind the Chronicler routinely introduces. *McClellan works this case in detail in a separate video — see the dedicated note [[The Death of Ahaziah Contradiction]] ([[2 Kings 9.27|2 Kings 9:27]] vs [[2 Chronicles 22.8-9|2 Chronicles 22:8-9]]).*
 
 ### 5. How Judas died (rated: strong)
-[[Matthew 27.5|Matthew 27:5]]: Judas **hangs himself** after returning the silver. Acts 1:18: Judas **buys a field** with the money and **falls headlong, bursting open**. The two also disagree on who bought the field and why it is called the Field of Blood.
+[[Matthew 27.5|Matthew 27:5]]: Judas **hangs himself** after returning the silver. Acts 1:18: Judas **buys a field** with the money and **falls headlong, bursting open**. The two also disagree on who bought the field and why it is called the Field of Blood. *Worked in detail in a separate McClellan video — see the dedicated note [[The Death of Judas Contradiction]] ([[Matthew 27.3-5|Matthew 27:3-5]] vs [[Acts 1.18-19|Acts 1:18-19]]), and the probability argument in [[Stacked Improbable Harmonizations Multiply Down to a Sliver]].*
 
 ### 6. The two nativity accounts, Matthew vs Luke (rated: strong)
 Matthew and Luke give materially different infancy narratives (genealogies, the magi vs the shepherds, the flight to Egypt vs the return to Nazareth, dating under Herod vs the Quirinius census — cf. [[Luke 2.2-3|Luke 2:2-3]], [[Luke 2.39|Luke 2:39]]). McClellan treats their reconciliation as possible-but-unevidenced.

@@ -7,6 +7,7 @@ related:
   - "[[Greco-Roman Jewish Creation View Was Material Substrate]]"
 sources:
   - "[[Dan McClellan - Wes Huff Creation Ex Nihilo Response]]"
+  - "[[Alex OConnor - There Are Multiple Gods in the Bible Not Just One - Dan McClellan]]"
 tags:
   - apologetics/creation-ex-nihilo
   - tradition/academic-biblical-studies
@@ -49,6 +50,8 @@ Irenaeus, in *Against Heresies*, consolidated and expanded the doctrine, making 
 McClellan explains why the doctrine emerged when it did:
 
 > "It is because of their philosophical debates with Gnostics and with other Greco-Roman philosophers who are arguing that nothing can come from nothing. And they're arguing about the resurrection. They're arguing about the morality of unformed pre-existent matter. And they come up with creation out of nothing. They are the originators of this doctrine."[^3]
+
+Retelling this to [[Alex OConnor]], McClellan dates the first recognizable articulation to "around 170 CE" and fills in the concrete resurrection debate that drove it: Greek philosophers asked why anyone would want a "disgusting body back after it has died and decomposed or passed through the digestive system of an animal." Christians first answered that a whole human can be made from "just a little bit of semen" (so God creates from very little), then made the leap to "God created the universe out of nothing" — and could therefore reconstitute a body from nothing. Only *after* this did they reread Romans, Colossians, Hebrews, and 2 Maccabees 7:28 (the "out of what is not" texts) as teaching *ex nihilo*, when in their own period "what is not" meant unformed matter in a state of non-being.[^8]
 
 Key pressures that produced the doctrine:
 - **Gnostic dualism:** The Gnostic claim that matter is evil required an evil creator (demiurge) distinct from the good God. Creation ex nihilo undercut this by making the one good God the creator of matter itself.
@@ -131,3 +134,4 @@ The steelman: The doctrine developed organically from seeds present in Scripture
 [^5]: [[Dan McClellan - Wes Huff Creation Ex Nihilo Response|Dan McClellan - Wes Huff Creation Ex Nihilo Response]], [16:30]-[17:01], https://youtu.be/VxpTLp6jCLI
 [^6]: [[Dan McClellan - Wes Huff Creation Ex Nihilo Response|Dan McClellan - Wes Huff Creation Ex Nihilo Response]], [21:01]-[21:31], https://youtu.be/VxpTLp6jCLI
 [^7]: [[Dan McClellan - Wes Huff Creation Ex Nihilo Response|Dan McClellan - Wes Huff Creation Ex Nihilo Response]], [23:00]-[23:30], https://youtu.be/VxpTLp6jCLI — quoting Wes Huff's tweet conclusion
+[^8]: [[Alex OConnor - There Are Multiple Gods in the Bible Not Just One - Dan McClellan|O'Connor - Multiple Gods (McClellan)]], [11:30]-[13:00], [24:00]-[27:30], https://youtu.be/HIrW5ic1G1I

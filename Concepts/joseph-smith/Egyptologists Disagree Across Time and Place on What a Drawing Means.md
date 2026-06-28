@@ -6,6 +6,7 @@ related:
   - "[[Facsimile 3 Identifications Vindicate Joseph Smith by Coincidence]]"
 sources:
   - "[[Thoughtful Faith - The Book of Abraham NEW Research That Proves Critics Wrong]]"
+  - "[[All Those In Favor - Egyptologist Responds to Criticisms of the Book of Abraham - Kerry Muhlestein]]"
 tags:
   - apologetics/book-of-abraham
   - topic/facsimiles
@@ -27,7 +28,7 @@ The standard one-line attack is: "Joseph Smith says the facsimile means X; Egypt
 
 2. **The same figure can mean different things in different settings (rate: moderate, Egyptology).** "You see a drawing of a person ... and then you find out, oh well actually in this setting it's a different figure that looks the same ... That happens to Egyptologists all the time."[^3]
 
-3. **John Gee's labeled hypocephalus overturned both camps (rate: strong, concrete).** For Facsimile 2's type (a hypocephalus), Egyptologists had split into camps over what certain figures meant, "but we couldn't say for sure because they weren't labeled." [[John Gee]] found an example where those figures *were* labeled — "and it turns out that we were mostly wrong. Both camps were mostly wrong." So the confident "Egyptologists say it means this" had been wrong on exactly such figures.[^4]
+3. **John Gee's labeled hypocephalus overturned both camps (rate: strong, concrete).** For Facsimile 2's type (a hypocephalus), Egyptologists had split into camps over what certain figures meant, "but we couldn't say for sure because they weren't labeled." [[John Gee]] found an example where those figures *were* labeled — "and it turns out that we were mostly wrong. Both camps were mostly wrong." So the confident "Egyptologists say it means this" had been wrong on exactly such figures.[^4] Muhlestein retells the same Gee hypocephalus episode in a second interview, and adds a structural point: the facsimiles date to ~200 BC while most comparanda are far earlier, so "we often just keep giving the answers we know from this time period and putting them on top of this time period," which "is kind of shaky ground."[^8]
 
 4. **A political-cartoon thought experiment (rate: moderate, illustrative).** Show someone 2,000 years from now a modern political cartoon with no text and "who knows what meaning they would come up with." Pictures are interpretively underdetermined; treating Joseph's reading as a failed *translation* mistakes the category — see [[Translating a Text Versus Interpreting a Drawing Are Different Claims]].[^5]
 
@@ -52,6 +53,7 @@ That experts have erred on some identifications does not mean they err on *these
 [^5]: [[Thoughtful Faith - The Book of Abraham NEW Research That Proves Critics Wrong|TF - Book of Abraham]], [57:30], https://youtu.be/_W0MmzxUXc4
 [^6]: [[Thoughtful Faith - The Book of Abraham NEW Research That Proves Critics Wrong|TF - Book of Abraham]], [67:30], https://youtu.be/_W0MmzxUXc4
 [^7]: [[Thoughtful Faith - The Book of Abraham NEW Research That Proves Critics Wrong|TF - Book of Abraham]], [59:00], https://youtu.be/_W0MmzxUXc4
+[^8]: [[All Those In Favor - Egyptologist Responds to Criticisms of the Book of Abraham - Kerry Muhlestein|ATIF - Egyptologist Responds to Book of Abraham Criticisms]], [09:00]–[12:00], https://youtu.be/YcrP4BrknHI
 
 ---
-See also: [[Kerry Muhlestein]] · [[John Gee]] · [[Book of Abraham]]
+See also: [[Kerry Muhlestein]] · [[John Gee]] · [[Book of Abraham]] · [[All Those In Favor - Egyptologist Responds to Criticisms of the Book of Abraham - Kerry Muhlestein]]

@@ -34,6 +34,9 @@ After Horn's August 2024 debate with [[Jacob Hansen]] on whether the Book of Mor
 - [[Book of Mormon Names Show Authorial Wordplay]] (Horn must show *specific* borrowing)
 - Source: [[Thoughtful Faith - Debunking Trent Horns Flawed Arguments Against The Book of Mormon Open Letter by Stephen Smoot]] [^4]
 
+## Substitutional Patriarchy (reacted to on Ward Radio)
+Horn's *Council of Trent* video "What's Making Young Women So Liberal" advances the thesis of **substitutional patriarchy** — as feminism vilified men, the government stepped into the husband/father's provider-protector role, so unmarried young women increasingly "marry the state." A Ward Radio panel led by [[Jacob Hansen]] reacts approvingly and applies it to LDS retention. See [[Substitutional Patriarchy - The Government Replaces the Husband]] (source: [[Ward Radio - The Great Replacement of Men Is Happening]]).
+
 ## References
 [^1]: [[Council of Trent - James 2 Not By Faith Alone|Trent Horn - James 2]], [18:02], https://youtu.be/0LwEgFig00A
 [^2]: [[The Counsel of Trent - A Case for Infant Baptism|The Counsel of Trent - Infant Baptism]], [03:30]–[04:30], https://youtu.be/YyD74bf0gHw

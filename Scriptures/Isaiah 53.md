@@ -16,6 +16,7 @@ Cited via Avraham Gileadi: a chiasm "spanning the whole book of Mosiah" culminat
 - [[Avraham Gileadi]]
 - [[The Stick of Joseph - From Jew to Latter-day Saint Avraham Gileadis Conversion Story]]
 - [[Moronis Standard - Why Jews Didnt Recognize Their Messiah]] — the Suffering Servant as the messianic core obscured by canon-narrowing
+- [[Ehrman Is Right That the Canon Lacks the Suffering Messiah]] — Bart Ehrman's claim that no pre-Christian Jew read Isaiah 53 as a suffering Messiah, repurposed as Book of Mormon evidence
 
 ---
 See also: [[Scriptures]]

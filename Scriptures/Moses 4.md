@@ -12,6 +12,8 @@ A pre-mortal council deliberates over the plan of salvation, with competing prop
 ## Used in
 - [[Cross-Cultural Convergence on a Divine Council Is the Oldest Picture of God]]
 - [[Divine Council and Deification Were Native to the Hebrew Bible]]
+- [[Moses 4 and Abraham 3 Are Two Different Premortal Scenes]] (Jonah Barnes: this is the redeemer-council, distinct from Abraham 3's selection of the first man)
+- [[Lucifer Fell Out of Jealousy of Adam in the Apocrypha]]
 
 ---
 See also: [[Scriptures]] · [[Moronis Standard - The Oldest Belief About God Was Not Monotheism]] · [[Moses]]

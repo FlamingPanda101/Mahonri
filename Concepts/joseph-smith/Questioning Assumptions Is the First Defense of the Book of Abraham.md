@@ -5,6 +5,7 @@ related:
   - "[[Translating a Text Versus Interpreting a Drawing Are Different Claims]]"
 sources:
   - "[[Ward Radio - Top 5 Mistakes People Make About the Book of Abraham (Kerry Muhlestein)]]"
+  - "[[All Those In Favor - Egyptologist Responds to Criticisms of the Book of Abraham - Kerry Muhlestein]]"
 tags: [apologetics, joseph-smith, book-of-abraham, method-epistemology, tradition/lds]
 #type/method
 ---
@@ -26,7 +27,7 @@ Muhlestein's catalogue: (1) making **unexamined assumptions** and treating them 
 The leading attack assumes the recovered fragments are the translation source; once that assumption is *questioned*, the historical "missing scroll" evidence reframes the whole debate. So "question your assumptions" is not abstract — it is exactly what dissolves the headline objection. See [[Joseph Was Not Translating the Surviving Papyrus]] and the text-vs-drawing distinction in [[Translating a Text Versus Interpreting a Drawing Are Different Claims]].[^1]
 
 ### 3. Claimed objectivity is itself a bias — rate: moderate (epistemology)
-Muhlestein adds that everyone carries a faith-choice bias and that asserting pure objectivity is the *least* objective posture ("cynicism is not intelligence"), and he defends revelation as a viable epistemology (Alma 32's repeatable experiment; his own UCLA knee story). These are companion points to the assumptions critique, treated in the vault's related method notes. (Those notes — on faith-choice bias and on revelation as knowledge — were referenced by the source but are not yet created, so they are named here as plain text rather than linked.)[^1]
+Muhlestein adds that everyone carries a faith-choice bias and that asserting pure objectivity is the *least* objective posture ("cynicism is not intelligence"), and he defends revelation as a viable epistemology (Alma 32's repeatable experiment; his own UCLA knee story). These are companion points to the assumptions critique, treated in the vault's related method notes. (Those notes — on faith-choice bias and on revelation as knowledge — were referenced by the source but are not yet created, so they are named here as plain text rather than linked.)[^1] In a second interview he states the point bluntly: "anyone who tells you they are approaching this objectively is lying to themselves or to you" — because "you either think revelation is possible or not," and that prior commitment is an inescapable starting point.[^2]
 
 ## Steelman of the Opposing View
 
@@ -41,6 +42,7 @@ The method counsel cuts both ways. (a) "Question your assumptions" is **symmetri
 
 ## References
 [^1]: [[Ward Radio - Top 5 Mistakes People Make About the Book of Abraham (Kerry Muhlestein)|Ward Radio - Top 5 Mistakes About the Book of Abraham]], [07:30]–[09:00], https://youtu.be/903kVobBwTI
+[^2]: [[All Those In Favor - Egyptologist Responds to Criticisms of the Book of Abraham - Kerry Muhlestein|ATIF - Egyptologist Responds to Book of Abraham Criticisms]], [49:00]–[50:00], https://youtu.be/YcrP4BrknHI
 
 ---
-See also: [[Concepts]] · [[Book of Abraham]] · [[Kerry Muhlestein]] · [[Joseph Was Not Translating the Surviving Papyrus]] · [[Ward Radio - Top 5 Mistakes People Make About the Book of Abraham (Kerry Muhlestein)]]
+See also: [[Concepts]] · [[Book of Abraham]] · [[Kerry Muhlestein]] · [[Joseph Was Not Translating the Surviving Papyrus]] · [[Ward Radio - Top 5 Mistakes People Make About the Book of Abraham (Kerry Muhlestein)]] · [[All Those In Favor - Egyptologist Responds to Criticisms of the Book of Abraham - Kerry Muhlestein]]

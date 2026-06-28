@@ -33,6 +33,7 @@ probation.
 ## Used In
 
 - [[Simulation Theory Aligns with LDS Second Estate]]
+- [[Abraham 3 Is the Selection of Adam Not the Redeemer]] — a *contrasting* reading: Jonah Barnes argues this council selects the **first man (Michael/Adam)**, not the Redeemer (noting the word "redeem" never appears in Abraham 3), distinguishing it from the redeemer-council of [[Moses 4]]. See also [[Moses 4 and Abraham 3 Are Two Different Premortal Scenes]].
 
 ## Cross-Tradition Readings
 

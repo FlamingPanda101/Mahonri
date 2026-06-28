@@ -7,8 +7,10 @@ related:
   - "[[Impotence Rhetoric Is Idol Polemic Not Ontological Denial]]"
   - "[[Yatsar Formed in Isaiah Targets Manufactured Idols]]"
   - "[[Melammu - Divine Radiance in Ancient Near East]]"
+  - "[[Laban's Teraphim and the God of Nahor Distinguish Idol From Deity]]"
 sources:
   - "[[Dan McClellan - Engaging Gavin Ortlund on Monotheism]]"
+  - "[[Alex OConnor - There Are Multiple Gods in the Bible Not Just One - Dan McClellan]]"
 tags:
   - topic/idol-polemic
   - topic/idolatry
@@ -35,6 +37,8 @@ McClellan distinguishes the **idol** (the manufactured material medium) from the
 In [[1 Corinthians 8.4-6|1 Corinthians 8:4–6]] / [[1 Corinthians 10.20|1 Cor 10:20]] Paul declares "an idol is nothing in the world," yet then says that those who sacrifice to idols are actually sacrificing to real entities ("demons... gods they did not know"). The idol is nothing; the deity behind it is not. [^2]
 
 > "that's precisely what Paul says when he says we know that an idol is nothing in the world but then goes on to point out that when they're worshiping Idols they're actually worshiping an entity that is distinct from the idol" [^2]
+
+Restating the point for [[Alex OConnor]] (against [[Gavin Ortlund]]'s use of [[2 Kings 19.18|2 Kings 19:18]]), McClellan adds a Genesis example that shows the biblical narrator himself distinguishing idol from deity: Laban calls his stolen *teraphim* "my gods," yet separately swears by the real "God of Nahor" (with a plural verb) — a deity he no longer has any statue of. The idol-polemic denigrates the object; the indexed deity persists. See [[Laban's Teraphim and the God of Nahor Distinguish Idol From Deity]].[^8]
 
 ### 3. Israel's own cult works the same way (rating: moderate; McClellan's monograph)
 The Hebrew Bible itself treats material media as the actual presence of Yahweh — e.g., the **Ark of the Covenant**, associated with and spoken of as if it *were* the deity. The idol polemic is the late literary layers denigrating the very practice the rest of the text takes for granted. [^3]
@@ -63,6 +67,7 @@ Ortlund's reading has surface support: 2 Kings 19:18 *does* say the nations' god
 [^5]: [[Dan McClellan - Engaging Gavin Ortlund on Monotheism|Dan McClellan - Engaging Gavin Ortlund on Monotheism]], [45:31]–[46:00], https://youtu.be/LhL86fKYeAc
 [^6]: [[Dan McClellan - Engaging Gavin Ortlund on Monotheism|Dan McClellan - Engaging Gavin Ortlund on Monotheism]], [17:32]–[18:01], https://youtu.be/LhL86fKYeAc
 [^7]: [[Dan McClellan - Engaging Gavin Ortlund on Monotheism|Dan McClellan - Engaging Gavin Ortlund on Monotheism]], [16:31], https://youtu.be/LhL86fKYeAc
+[^8]: [[Alex OConnor - There Are Multiple Gods in the Bible Not Just One - Dan McClellan|O'Connor - Multiple Gods (McClellan)]], [53:30]–[59:30], https://youtu.be/HIrW5ic1G1I
 
 ---
-See also: [[Paul the Apostle]] · [[Dan McClellan]] · [[Divine Images Explain Jesus Relationship to God]]
+See also: [[Paul the Apostle]] · [[Dan McClellan]] · [[Divine Images Explain Jesus Relationship to God]] · [[Laban's Teraphim and the God of Nahor Distinguish Idol From Deity]]

@@ -13,7 +13,7 @@ authority_reason: "Latter-day Saint film producer (producer of the short film 'T
 
 ## Bio
 
-Selene Anderson is a film producer who joined the project that became *The Angel* (2021 onward), a folk-horror short by filmmaker Barrett Bergen set in a 19th-century Latter-day Saint polygamous family. Researching the period for the film drew her into the history of plural marriage and Latter-day Saint women's history; she went on to share her research at the (then newly launched) Journal of Mormon Polygamy conference and on the [[Cwic Show]].
+Selene Anderson is a film producer who joined the project that became *The Angel* (2021 onward), a folk-horror short by filmmaker Barrett Bergen set in a 19th-century Latter-day Saint polygamous family. Researching the period for the film drew her into the history of plural marriage and Latter-day Saint women's history; she went on to share her research at the (then newly launched) Journal of Mormon Polygamy conference and on the *Cwic Show*.
 
 ## Contribution to the source
 

@@ -6,9 +6,11 @@ related:
   - "[[Noetic Effects of Sin Explain Interpretive Disagreement]]"
   - "[[Material vs Formal Sufficiency - The Home Depot Analogy]]"
   - "[[No Final Interpreter - The Protestant Adjudication Problem]]"
+  - "[[Protestant Disunity Is Evidence Against Perspicuity]]"
 sources:
   - "[[Ward Radio - Sola Scriptura Debate Rogers vs Horn]]"
-tags: [apologetics, sola-scriptura, perspicuity, authority, tradition/catholic]
+  - "[[Gray Area Faith - Sola Scriptura Debate LDS vs Calvinist (Apologia Utah)]]"
+tags: [apologetics, sola-scriptura, perspicuity, authority, tradition/catholic, tradition/lds]
 #type/objection
 ---
 
@@ -36,6 +38,8 @@ Horn: "99% of scripture can be clear, but to kill a soul you only need 0.1% of s
 > [Rogers] "The fact that somebody else fails to accurately understand something doesn't prove that thing itself is not clear."[^6]
 
 > "There are things where even just a handful of passages is all it takes for somebody to fall down the rabbit hole of heresy. Unless you have an authority beyond scripture ... sola scriptura doesn't provide that."[^3]
+
+**Parallel from the Latter-day Saint side.** In a separate debate, [[Shiloh Lofgren]] presses the same point empirically — sola-scriptura Protestants cannot agree on what baptism does, and a Ligonier *State of Theology* survey found ~43% of Bible-supreme evangelicals denying the deity of Christ (2020) or the personhood of the Holy Spirit (2025). See [[Protestant Disunity Is Evidence Against Perspicuity]].
 
 ## References
 [^1]: [[Ward Radio - Sola Scriptura Debate Rogers vs Horn|Sola Scriptura Debate - Rogers vs Horn]], [23:31], https://youtu.be/_J1xk13NSUs

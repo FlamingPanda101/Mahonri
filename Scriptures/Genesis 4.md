@@ -14,6 +14,8 @@ The "crying blood" of Abel is the seed the apocryphal traditions expand — eart
 
 ## Used in
 - [[Blood of Abel - Unburiable Tradition]]
+- [[The Apocrypha Reveals How Cain Killed Abel by the Throat]]
+- [[Cain Weaponizes Empathy to Lure Abel - The First Crybully]]
 
 ---
 See also: [[Scriptures]]

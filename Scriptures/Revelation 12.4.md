@@ -31,6 +31,8 @@ This verse illustrates the trajectory of the Satan figure's development:
 - [[Book of Enoch - Origin of the Satan Figure]]
 - [[Book of Enoch - The Watchers and Genesis 6 Expansion]]
 - [[Book of Enoch - Overview and Structure]]
+- [[Lucifer Fell Out of Jealousy of Adam in the Apocrypha]] — the "war in heaven" (Michael vs. the dragon) as symbolic premortal conflict
+- [[Jesus and Lucifer Were Two Plans in the War in Heaven]]
 
 ---
 

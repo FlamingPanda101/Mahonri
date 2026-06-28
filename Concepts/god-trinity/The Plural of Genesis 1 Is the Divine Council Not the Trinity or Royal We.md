@@ -11,6 +11,7 @@ related:
   - "[[The Image of God Is Physical Resemblance Passed Father to Son]]"
 sources:
   - "[[FAIR - Genesis 1 and Joseph Smith's Cosmology]]"
+  - "[[Alex OConnor - There Are Multiple Gods in the Bible Not Just One - Dan McClellan]]"
 tags: ["#apologetics/creation", "#tradition/lds", "#type/claim", "#topic/divine-council", "#topic/monotheism"]
 ---
 
@@ -28,7 +29,7 @@ Smoot evaluates four readings of the plural and argues only the fourth survives:
 
 1. **Royal "we" (*pluralis majestatis*) — fails.** Monarchs sometimes speak of themselves in the plural to signal majesty (e.g. God in the Quran; European royalty). But this is **unattested for God anywhere else in the Hebrew Bible** — Gen 1:26 would be the lone exception, which is special pleading. The one biblical *pluralis majestatis* (a Persian king in Aramaic Ezra) is neither God nor Hebrew. [^1] *(Strong: the absence of any other Hebrew-Bible instance of God self-addressing in the plural is a real problem for this reading.)*
 
-2. **The Trinity — fails as eisegesis.** Reading Father/Son/Spirit into Gen 1:26 imports a Christian doctrine that "only evolved much later" onto an Israelite text written (Smoot dates) before ~600 BC — "isogesis [eisegesis] in its purest form." Smoot notes that even many Christian apologists and theologians are now moving away from arguing the Trinity from Gen 1:26-27. [^2] *(Strong on the historical point; see Steelman below for the canonical/retrospective defense.)*
+2. **The Trinity — fails as eisegesis.** Reading Father/Son/Spirit into Gen 1:26 imports a Christian doctrine that "only evolved much later" onto an Israelite text written (Smoot dates) before ~600 BC — "isogesis [eisegesis] in its purest form." Smoot notes that even many Christian apologists and theologians are now moving away from arguing the Trinity from Gen 1:26-27. [^2] *(Strong on the historical point; see Steelman below for the canonical/retrospective defense.)* [[Dan McClellan]] adds a **selective-harmonization** objection in conversation with [[Alex OConnor]]: the plural divine self-address is not unique to 1:26 — it recurs at Gen 3:22 ("the human has become like one of *us*") and Gen 11:7 (Babel: "let *us* go down") — yet God's *other* self-deliberations ("I will do X," "I have changed my mind") are singular. A Trinitarian reading must arbitrarily declare *these* plurals to be the Trinity while the surrounding singulars are not, and "you can just pick whichever fits." Saying "1:26 is the Trinity" also fails to remove the problem, because the same primeval-history plurals (plus the *bene elohim* of Gen 6) point to plural gods regardless.[^7]
 
 3. **Self-deliberation / address to the earth or to wisdom — too weak.** (Treated implicitly.) These ad hoc readings lack the textual support and ANE parallels that the council reading enjoys. [^3]
 
@@ -64,6 +65,7 @@ The sharpest, fairest formulation: the divine-council reading is the best *histo
 [^4]: [[FAIR - Genesis 1 and Joseph Smith's Cosmology|FAIR - Genesis 1 Cosmology]], [37:00]–[38:30], https://youtu.be/DTMdqfVEozw
 [^5]: [[FAIR - Genesis 1 and Joseph Smith's Cosmology|FAIR - Genesis 1 Cosmology]], [38:30]–[39:31], https://youtu.be/DTMdqfVEozw
 [^6]: [[FAIR - Genesis 1 and Joseph Smith's Cosmology|FAIR - Genesis 1 Cosmology]], [39:31]–[44:30], https://youtu.be/DTMdqfVEozw
+[^7]: [[Alex OConnor - There Are Multiple Gods in the Bible Not Just One - Dan McClellan|O'Connor - Multiple Gods (McClellan)]], [32:30]–[35:30], https://youtu.be/HIrW5ic1G1I
 
 ---
-See also: [[Concepts]] · [[FAIR - Genesis 1 and Joseph Smith's Cosmology]] · [[Divine Council and Deification Were Native to the Hebrew Bible]] · [[Psalm 82 Is About Divine Council Not Human Judges]]
+See also: [[Concepts]] · [[FAIR - Genesis 1 and Joseph Smith's Cosmology]] · [[Divine Council and Deification Were Native to the Hebrew Bible]] · [[Psalm 82 Is About Divine Council Not Human Judges]] · [[Alex OConnor - There Are Multiple Gods in the Bible Not Just One - Dan McClellan]]

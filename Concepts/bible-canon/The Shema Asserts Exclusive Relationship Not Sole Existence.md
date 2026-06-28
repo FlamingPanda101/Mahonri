@@ -9,6 +9,7 @@ related:
   - "[[Deuteronomy Acknowledges Other Gods While Using Negation Rhetoric]]"
 sources:
   - "[[Dan McClellan - Engaging Gavin Ortlund on Monotheism]]"
+  - "[[Alex OConnor - There Are Multiple Gods in the Bible Not Just One - Dan McClellan]]"
 tags:
   - topic/shema
   - topic/monotheism
@@ -36,6 +37,8 @@ In [[Song of Songs 6.8-9|Song of Songs 6:8–9]], amid sixty queens, eighty conc
 
 > "she is one this is grammatically analogous to Adonai which is the masculine form of one and what does this mean it does not mean she's the only one that exists we've just acknowledged the existence of numerous other women she's the only one for me because it's about an exclusive relationship" [^2]
 
+McClellan gives [[Alex OConnor]] the same Song of Songs parallel and attributes the exclusive-relationship reading of the "there is no other" rhetoric to [[Nathan McDonald]]'s *Deuteronomy and the Meaning of Monotheism*: the phrase is scope-limited and means "I'm the only one *for you*," directly analogous to the lover's "my dove is one" among the concubines and maidens.[^5]
+
 ### 3. Coheres with the rest of Deuteronomy and Israel's inheritance theology (rating: strong)
 The Shema's exclusivity flows from Israel being Yahweh's allotted purview (see [[Deuteronomy 32.8-9|Deut 32:8–9]], [[Deuteronomy Acknowledges Other Gods While Using Negation Rhetoric]]): the people in Yahweh's domain "have nothing to do with any other gods but Adonai because Adonai is *ha-Elohim* in that purview." [^3]
 
@@ -53,6 +56,7 @@ A monotheist can object that *echad* in Deut 6:4 may mean "Yahweh is a *unity* /
 [^2]: [[Dan McClellan - Engaging Gavin Ortlund on Monotheism|Dan McClellan - Engaging Gavin Ortlund on Monotheism]], [38:32]–[39:02], https://youtu.be/LhL86fKYeAc
 [^3]: [[Dan McClellan - Engaging Gavin Ortlund on Monotheism|Dan McClellan - Engaging Gavin Ortlund on Monotheism]], [37:30]–[38:00], https://youtu.be/LhL86fKYeAc
 [^4]: [[Dan McClellan - Engaging Gavin Ortlund on Monotheism|Dan McClellan - Engaging Gavin Ortlund on Monotheism]], [39:02]–[39:31], https://youtu.be/LhL86fKYeAc
+[^5]: [[Alex OConnor - There Are Multiple Gods in the Bible Not Just One - Dan McClellan|O'Connor - Multiple Gods (McClellan)]], [47:30]–[49:00], https://youtu.be/HIrW5ic1G1I
 
 ---
-See also: [[Dan McClellan]] · [[Song of Songs 6.8-9|Song of Songs 6:8-9]] · [[Deuteronomy 6.4|Deuteronomy 6:4]]
+See also: [[Dan McClellan]] · [[Song of Songs 6.8-9|Song of Songs 6:8-9]] · [[Deuteronomy 6.4|Deuteronomy 6:4]] · [[Alex OConnor - There Are Multiple Gods in the Bible Not Just One - Dan McClellan]]

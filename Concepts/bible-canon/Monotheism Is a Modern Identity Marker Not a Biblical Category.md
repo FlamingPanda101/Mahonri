@@ -8,6 +8,7 @@ related:
 sources:
   - "[[Dan McClellan - Engaging Gavin Ortlund on Monotheism]]"
   - "[[Dan McClellan - Responding to Claims About Other Gods in the Bible]]"
+  - "[[Alex OConnor - There Are Multiple Gods in the Bible Not Just One - Dan McClellan]]"
 tags:
   - topic/monotheism
   - topic/terminology
@@ -43,6 +44,9 @@ Ortlund's position — and that of [[Larry Hurtado]] and [[Benjamin Sommer]] —
 ### 5. McClellan's published treatments (rating: cite-forward)
 He notes a paper presented at a Brown University conference (forthcoming edited volume) and an entry in the *Oxford Research Encyclopedia of Religion* developing the historiography of the term. [^2]
 
+### 6. Restated to Alex O'Connor (rating: corroborating)
+In the [[Alex OConnor]] interview McClellan makes the same case: "monotheism first pops up in the 17th century," has "always been used primarily as an identity marker and a value judgment" (monotheists = good people), and the modern attempt to keep it in the Bible — e.g. redefining Yahweh as "species unique" (a [[Michael Heiser]] term) — is driven by communities needing ideological continuity: "we get our beliefs from the Bible, monotheism is one of those beliefs, so obviously it must be in the Bible." He concludes that once everything is "situated historically, we don't see what people understand today to be monotheism in the Bible," so it "is not a helpful analytical framework to impose upon" it.[^6]
+
 ## Best Quotes
 
 > "this just raises that observation without engaging the concerns that have been expressed... for the way the concept of monotheism has been revised and redefined for no other reason than that that is necessary in order to find it in the Bible" [^5]
@@ -57,6 +61,7 @@ He notes a paper presented at a Brown University conference (forthcoming edited 
 [^3]: [[Dan McClellan - Engaging Gavin Ortlund on Monotheism|Dan McClellan - Engaging Gavin Ortlund on Monotheism]], [13:32]–[14:02], https://youtu.be/LhL86fKYeAc
 [^4]: [[Dan McClellan - Engaging Gavin Ortlund on Monotheism|Dan McClellan - Engaging Gavin Ortlund on Monotheism]], [56:31]–[57:00], https://youtu.be/LhL86fKYeAc
 [^5]: [[Dan McClellan - Engaging Gavin Ortlund on Monotheism|Dan McClellan - Engaging Gavin Ortlund on Monotheism]], [10:31]–[11:31], https://youtu.be/LhL86fKYeAc
+[^6]: [[Alex OConnor - There Are Multiple Gods in the Bible Not Just One - Dan McClellan|O'Connor - Multiple Gods (McClellan)]], [09:30]–[14:30], https://youtu.be/HIrW5ic1G1I
 
 ---
-See also: [[Dan McClellan]] · [[Gavin Ortlund]] · [[Religion as Anachronistic Category]]
+See also: [[Dan McClellan]] · [[Gavin Ortlund]] · [[Religion as Anachronistic Category]] · [[Alex OConnor - There Are Multiple Gods in the Bible Not Just One - Dan McClellan]]
