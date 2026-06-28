@@ -7,6 +7,7 @@ related:
   - "[[Trent Horns Word-Count Argument Uses Wrong Parameters]]"
 sources:
   - "[[Ward Radio - The Impossible Science of Faking the Gold Plates]]"
+  - "[[Keystone - What This Catholic Apologist Isnt Telling You About the Plates]]"
 tags: [apologetics, gold-plates, book-of-mormon, reformed-egyptian, epigraphy, tradition/lds]
 #type/claim
 ---
@@ -59,6 +60,10 @@ But the point here is narrower: such small characters are *attested*, so the tex
 *can* fit — addressing the capacity objection in
 [[Trent Horns Word-Count Argument Uses Wrong Parameters]].
 
+### 5. Keystone: the eyewitness and Egyptological testimony
+
+A [[Keystone]] rebuttal corroborates the small-character claim from the documents: Joseph Smith's Wentworth letter says the plates were "filled with engravings... the characters were small and beautifully engraved"; [[John Whitmer]] reported "fine engravings on both sides"; and Egyptologist [[John Gee]] found "even this font size is comparable to the character size of many other ancient engraved Hebrew characters." Keystone also notes a single plate model holds ~128 characters per side (full-scale ~230 on the first plate), far more than critics assume.[^7] See [[The Book of Mormon Fits on the Plates - Sjodahl Hebrew Test]].
+
 ## Best Quotes
 
 > "Some of them come out to as small as like 2 millimeters... I have examples that are as small as 1.6 millimeters."[^2]
@@ -75,3 +80,7 @@ But the point here is narrower: such small characters are *attested*, so the tex
 [^4]: [[Ward Radio - The Impossible Science of Faking the Gold Plates|Ward Radio - Faking the Gold Plates]], [32:00]-[32:32], https://youtu.be/2ZfA9RGzOpk
 [^5]: [[Ward Radio - The Impossible Science of Faking the Gold Plates|Ward Radio - Faking the Gold Plates]], [31:31]-[32:00], https://youtu.be/2ZfA9RGzOpk
 [^6]: [[Ward Radio - The Impossible Science of Faking the Gold Plates|Ward Radio - Faking the Gold Plates]], [31:31]-[32:00], https://youtu.be/2ZfA9RGzOpk
+[^7]: [[Keystone - What This Catholic Apologist Isnt Telling You About the Plates|Keystone - Catholic Apologist on the Plates]], [02:30]-[06:00], https://youtu.be/ffLI8NAbDeo
+
+---
+See also: [[Concepts]] · [[The Book of Mormon Fits on the Plates - Sjodahl Hebrew Test]] · [[John Gee]] · [[Keystone - What This Catholic Apologist Isnt Telling You About the Plates]]

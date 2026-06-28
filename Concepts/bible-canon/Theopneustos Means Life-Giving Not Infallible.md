@@ -7,6 +7,7 @@ related:
   - "[[Sola Scriptura - Scripture Self-Attests Its Authority]]"
 sources:
   - "[[Lets Talk - Apologetics Course How to Talk to Protestants and Evangelicals]]"
+  - "[[Keystone - This Is Why Weaponizing 2 Timothy 3-16 Is a Problem]]"
 tags: [apologetics, canon, greek, linguistics, sola-scriptura, tradition/lds]
 #type/rebuttal
 ---
@@ -34,12 +35,16 @@ Carroll argues "the concept of infallibility of man did not exist at the time th
 
 > "The concept of infallibility of man did not exist at the time this was written."[^3]
 
+## Corroboration from Keystone (Poirier)
+A separate [[Keystone]] explainer gives this "life-giving" gloss a much stronger scholarly footing than the bare assertion above: it cites the published monograph of New Testament scholar [[John C. Poirier]], who found that in the era 2 Timothy was written *theopneustos* was used for **sandals, burial ointments, and streams of water** — i.e. *life-giving / vivifying* things, none of which are "inerrant." Keystone also reports independent agreement from non-LDS scholars (Rev. Dr. [[Angela Parker]]; Dr. Anna Cwikla) and from [[Dan McClellan]] that the inerrantist "inspired" reading is a third-century development traceable to [[Origen]]. This is the dedicated, well-sourced treatment — see [[Theopneustos Was Used for Sandals Ointments and Streams Not Inerrancy]].[^6]
+
 ## References
 [^1]: [[Lets Talk - Apologetics Course How to Talk to Protestants and Evangelicals|Apologetics Course]], [75:31]–[76:30], https://youtu.be/L-lxxWjN8D4
 [^2]: [[Lets Talk - Apologetics Course How to Talk to Protestants and Evangelicals|Apologetics Course]], [76:00]–[76:30], https://youtu.be/L-lxxWjN8D4
 [^3]: [[Lets Talk - Apologetics Course How to Talk to Protestants and Evangelicals|Apologetics Course]], [76:30]–[77:00], https://youtu.be/L-lxxWjN8D4
 [^4]: [[Lets Talk - Apologetics Course How to Talk to Protestants and Evangelicals|Apologetics Course]], [75:31]–[76:00], https://youtu.be/L-lxxWjN8D4
 [^5]: [[Lets Talk - Apologetics Course How to Talk to Protestants and Evangelicals|Apologetics Course]], [76:00]–[76:30], https://youtu.be/L-lxxWjN8D4
+[^6]: [[Keystone - This Is Why Weaponizing 2 Timothy 3-16 Is a Problem|Keystone - Weaponizing 2 Timothy 3:16]], [03:00]–[04:30], https://youtu.be/dKw8pnoFwc8
 
 ---
-See also: [[Concepts]] · [[2 Timothy 3.14-17|2 Timothy 3:16]] · [[Lets Talk - Apologetics Course How to Talk to Protestants and Evangelicals]]
+See also: [[Concepts]] · [[2 Timothy 3.14-17|2 Timothy 3:16]] · [[Theopneustos Was Used for Sandals Ointments and Streams Not Inerrancy]] · [[Lets Talk - Apologetics Course How to Talk to Protestants and Evangelicals]]

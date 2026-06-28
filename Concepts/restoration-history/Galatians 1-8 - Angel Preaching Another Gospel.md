@@ -8,6 +8,7 @@ related:
 sources:
   - "[[WardRadio - Top 9 Misconstrued Scriptures]]"
   - "[[The Stick of Joseph - This Argument Against Mormons Doesnt Work Anymore]]"
+  - "[[Keystone - This Is Why Weaponizing Galatians 1-8 Is a Problem]]"
 tags: [apologetics, gospel-definition, judaizers, angels, tradition/lds]
 #type/rebuttal
 ---
@@ -32,6 +33,9 @@ The "another gospel" is Judaizing legalism, mapped across the whole epistle — 
 ### 3. Latter-day Saints preach the same gospel
 The Church affirms Paul's own gospel as defined in [[1 Corinthians 15.1-4|1 Corinthians 15:1-4]] — Christ's death, burial, and resurrection. The argument only bites if you *presuppose* the LDS gospel is "different," which begs the question. Hence the importance of the [[Definition of Gospel]] [^4].
 
+### 4. Keystone: angels are not the problem; the gospel's content is
+A [[Keystone]] explainer reinforces this: Paul "himself was visited by angels on multiple occasions," and Revelation shows an angel "having the everlasting gospel to preach" ([[Revelation 14.6|Revelation 14:6]]) — so "the problem is not angels." Paul's point is that "no matter who or what the source is, if they're teaching that Christ is not our savior, it's wrong." Keystone also frames the whole verse as begging the question — see [[Galatians 1-8 Begs the Question - The Swiss Army Verse]].[^7]
+
 ## Counter-arguments / related
 - [[Revelation 22 - Add or Take Away Rebutted]] — companion "no new revelation" argument.
 
@@ -42,6 +46,7 @@ The Church affirms Paul's own gospel as defined in [[1 Corinthians 15.1-4|1 Cori
 [^4]: [[WardRadio - Top 9 Misconstrued Scriptures|Ward Radio - Top 9 Misconstrued Scriptures]], [12:31], https://youtu.be/lkiUEqR5OBI
 [^5]: [[The Stick of Joseph - This Argument Against Mormons Doesnt Work Anymore|Stick of Joseph - This Argument Doesn't Work Anymore]], [06:30], https://youtu.be/IXTZJhKn7Dw
 [^6]: [[The Stick of Joseph - This Argument Against Mormons Doesnt Work Anymore|Stick of Joseph - This Argument Doesn't Work Anymore]], [07:30], https://youtu.be/IXTZJhKn7Dw
+[^7]: [[Keystone - This Is Why Weaponizing Galatians 1-8 Is a Problem|Keystone - Weaponizing Galatians 1:8]], [04:00]–[04:45], https://youtu.be/7I_gcjhiXyk
 
 ---
-See also: [[Apologetics]] · [[WardRadio - Top 9 Misconstrued Scriptures]] · [[The Stick of Joseph - This Argument Against Mormons Doesnt Work Anymore]] · [[Colton Miller]]
+See also: [[Apologetics]] · [[Galatians 1-8 Begs the Question - The Swiss Army Verse]] · [[WardRadio - Top 9 Misconstrued Scriptures]] · [[The Stick of Joseph - This Argument Against Mormons Doesnt Work Anymore]] · [[Colton Miller]]

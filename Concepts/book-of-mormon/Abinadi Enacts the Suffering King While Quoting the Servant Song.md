@@ -6,6 +6,7 @@ related:
   - "[[Mosiah 14]]"
   - "[[Jonah Barnes]]"
   - "[[Laban and Nephi Enact the Two Goats of the Day of Atonement]]"
+  - "[[The Sting of Death Is Apocryphal Isaiah from the Brass Plates Not a Pauline Anachronism]]"
 sources:
   - "[[The Stick of Joseph - Oral Traditions of Isaiah Revealed]]"
 tags: [apologetics, book-of-mormon, servant-song, topic/book-of-mormon, topic/sacral-kingship, type/claim]

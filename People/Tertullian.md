@@ -15,9 +15,13 @@ Cited by [[Trent Horn]] as evidence that the early fathers' use of "word of God"
 ## Opposition to Infant Baptism (c. AD 206)
 Tertullian is the only prominent pre-Reformation writer to recommend *against* infant baptism — but [[Trent Horn]] argues his testimony actually presupposes an *established, elaborate* practice (he objects to godparents' burdens) and that his reasons were not credobaptist: he affirmed baptismal regeneration and original guilt ("every soul, by reason of its birth, has its nature in Adam"), delaying baptism only to avoid post-baptismal sin after his Montanist turn. See [[Tertullian's Opposition Presupposes an Established Practice]] and [[Infant Baptism Preceded Its Theological Rationale]].[^2]
 
+## First to Use *Trinitas* — but Not a Trinitarian
+Tertullian was the first Christian author to use the Latin word *trinitas* (late 2nd / early 3rd century), which creedal apologists cite as evidence the Trinity is early. A Thoughtful Faith commentator concedes the coinage but argues — citing the Stanford Encyclopedia of Philosophy's treatment — that Tertullian's **subordinationist, economic** view of God "is not the same as the later Nicene Trinity." See [[Tertullian Coined Trinitas but Was Not a Trinitarian]] and [[No Theologian in the First Three Centuries Was Trinitarian]].[^3]
+
 ## References
 [^1]: [[Council of Trent - The Word of God Fallacy|Trent Horn - The Protestant Word of God Fallacy]], [16:31], https://youtu.be/tr_NwgndUFk
 [^2]: [[The Counsel of Trent - A Case for Infant Baptism|The Counsel of Trent - Infant Baptism]], [20:30]–[23:00], https://youtu.be/YyD74bf0gHw
+[^3]: [[Thoughtful Faith - Creedal Christianitys Hidden Influence EXPOSED|Thoughtful Faith - Creedal Christianity's Hidden Influence EXPOSED]], [09:30]–[10:30], https://youtu.be/fcN8DssaRp8
 
 ---
 See also: [[People]] · [[Irenaeus of Lyons]] · [[Justin Martyr]] · [[Tertullian's Opposition Presupposes an Established Practice]]

@@ -6,6 +6,7 @@ related:
   - "[[One Anachronism Does Not Disprove the Book of Mormon]]"
   - "[[The Direction of the Evidence Runs Opposite to How Fraud Behaves]]"
   - "[[God Withholds the Slam Dunk to Preserve Faith]]"
+  - "[[The Sting of Death Is Apocryphal Isaiah from the Brass Plates Not a Pauline Anachronism]]"
 sources:
   - "[[Ward Radio - More Archaeological Evidences of the Book of Mormon]]"
 tags: [apologetics, book-of-mormon, anachronisms, method, tradition/lds]

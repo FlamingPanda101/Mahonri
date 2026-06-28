@@ -36,5 +36,7 @@ The single Greek word Protestants lean on hardest for biblical infallibility is 
 [^4]: [[Lets Talk w Hayden Carroll - Why Jesus Would Reject Protestantism|Hayden Carroll - Jesus Reject Protestantism]], [10:02], https://youtu.be/N1uEquY9GJE
 [^5]: [[Lets Talk w Hayden Carroll - Why Jesus Would Reject Protestantism|Hayden Carroll - Jesus Reject Protestantism]], [10:31], https://youtu.be/N1uEquY9GJE
 
+> A [[Keystone]] explainer reaches the same negative conclusion by a different route — [[John C. Poirier]]'s lexical study showing *theopneustos* was used in the period for sandals, ointments, and streams (life-giving things, not error-free ones). See [[Theopneustos Was Used for Sandals Ointments and Streams Not Inerrancy]].
+
 ---
-See also: [[Concepts]] · [[Hayden Carroll]] · [[2 Timothy 3.16-17|2 Timothy 3:16]] · [[Theopneustos Means Life-Giving Not Infallible]]
+See also: [[Concepts]] · [[Hayden Carroll]] · [[2 Timothy 3.16-17|2 Timothy 3:16]] · [[Theopneustos Means Life-Giving Not Infallible]] · [[Theopneustos Was Used for Sandals Ointments and Streams Not Inerrancy]]

@@ -7,6 +7,7 @@ related:
   - "[[Witness Descriptions Constrain Any Fabrication Hypothesis]]"
 sources:
   - "[[Ward Radio - The Impossible Science of Faking the Gold Plates]]"
+  - "[[Keystone - What This Catholic Apologist Isnt Telling You About the Plates]]"
 tags: [apologetics, gold-plates, book-of-mormon, trent-horn, text-capacity, tradition/lds]
 #type/rebuttal
 ---
@@ -54,6 +55,10 @@ plates) — but there are thousands of examples of ancient metal writing. A swee
 generalization from a tiny, unrepresentative sample is methodologically invalid.
 See [[Translation Density Shows the Book of Mormon Text Fits]].[^5]
 
+### 5. Keystone: Horn assumes ~42 characters per side and uses a scaled-down model
+
+A separate [[Keystone]] rebuttal of the same Horn reel reverse-engineers his numbers: 270,000 words ÷ 80 words/character = 3,375 characters ÷ 40 plates ÷ 2 sides ≈ **only 42 characters per side** — an unexplained, implausibly low assumption. Keystone contacted the maker of the very plate model Horn shows on screen: it actually holds ~**128 characters per side**, and Horn was displaying the **3/4-scale** model — the full-scale model has ~**230 characters** on the front of the first plate (almost 5½× Horn's figure). Horn's own plate dimensions (6×8 in) and seal fraction (~2/3) are also only *some* of the eyewitness estimates ([[Orson Pratt]], [[Martin Harris]], [[David Whitmer]] gave 7×8 or 6×9, and ~1/2 sealed), leaving far more room than he represents.[^7] The positive demonstration that the text fits is [[The Book of Mormon Fits on the Plates - Sjodahl Hebrew Test]].
+
 ## Steelman of the Opposing View
 
 Horn's instinct is reasonable: 270,000 words *is* a lot of text, and the upper
@@ -79,3 +84,7 @@ density, and a representative artifact sample, and the text fits.[^6]
 [^4]: [[Ward Radio - The Impossible Science of Faking the Gold Plates|Ward Radio - Faking the Gold Plates]], [28:31]-[29:00], https://youtu.be/2ZfA9RGzOpk
 [^5]: [[Ward Radio - The Impossible Science of Faking the Gold Plates|Ward Radio - Faking the Gold Plates]], [33:31]-[34:30], https://youtu.be/2ZfA9RGzOpk
 [^6]: [[Ward Radio - The Impossible Science of Faking the Gold Plates|Ward Radio - Faking the Gold Plates]], [38:00]-[38:30], https://youtu.be/2ZfA9RGzOpk
+[^7]: [[Keystone - What This Catholic Apologist Isnt Telling You About the Plates|Keystone - Catholic Apologist on the Plates]], [01:00]-[04:00], https://youtu.be/ffLI8NAbDeo
+
+---
+See also: [[Concepts]] · [[The Book of Mormon Fits on the Plates - Sjodahl Hebrew Test]] · [[Trent Horn]] · [[Keystone - What This Catholic Apologist Isnt Telling You About the Plates]]

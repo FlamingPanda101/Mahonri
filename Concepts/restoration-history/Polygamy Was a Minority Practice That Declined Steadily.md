@@ -7,6 +7,7 @@ related:
   - "[[Young Marriage in Early Utah Was Multi-Causal Not Mormon Deviance]]"
 sources:
   - "[[Keystone - Polygamy Expert Debunks All the Myths]]"
+  - "[[Keystone - What Exmo Reddit Gets Wrong About LDS Polygamy]]"
 tags:
   - "#topic/polygamy"
   - "#topic/demography"
@@ -30,6 +31,8 @@ The popular image of a wholly polygamous nineteenth-century Utah is false. Using
 
 4. **Yet it touched many lives cumulatively.** Over the whole period, "tens of thousands" were part of a plural family at some point, and even monogamous families likely had polygamous relatives — so it was "normal... part of the fabric of society" without ever being the majority arrangement at any one time.[^5] *Rating: moderate — a fair both-and framing reconciling "minority practice" with "culturally pervasive."*
 
+5. **A second community confirms the peak-then-monogamy-minority pattern.** A separate [[Keystone]] video cites a demographic snapshot of *three different wards in Salt Lake City* at polygamy's height: in 1860, 44% of women were married polygamously, 36% monogamously, and 20% were unmarried — so even at the peak "there were still plenty of men and women who chose monogamy." Notably, polygamy was *least* common in the ward composed of 95% immigrants.[^6] *Rating: moderate–strong — an independent locality corroborating the Manti figures and the "not everyone practiced it" point.*
+
 ## Steelman of the Opposing View
 A critic notes that 43% at peak is not a trivial fringe, that a single community (Manti) may not represent leadership circles or other settlements where rates differed, and that focusing on the *declining* curve can understate how central and mandatory-feeling polygamy was during the 1850s "Reformation" zeal. The disciplined conclusion: the statistics decisively refute the "everyone was polygamous" myth and document a real, steady decline, while conceding that at its height plural marriage was a substantial minority — not a rare exception — and that one town's numbers generalize only cautiously.
 
@@ -44,6 +47,7 @@ A critic notes that 43% at peak is not a trivial fringe, that a single community
 [^3]: [[Keystone - Polygamy Expert Debunks All the Myths|Keystone - Polygamy Myths]], [33:00], https://youtu.be/QT0npDPQYPw
 [^4]: [[Keystone - Polygamy Expert Debunks All the Myths|Keystone - Polygamy Myths]], [34:00], https://youtu.be/QT0npDPQYPw
 [^5]: [[Keystone - Polygamy Expert Debunks All the Myths|Keystone - Polygamy Myths]], [34:30], https://youtu.be/QT0npDPQYPw
+[^6]: [[Keystone - What Exmo Reddit Gets Wrong About LDS Polygamy|Keystone - Exmo Reddit on LDS Polygamy]], [02:30]–[03:00], https://youtu.be/JGnWdOeVbjE
 
 ---
-See also: [[Kathryn Daynes]] · [[Britney Chapman Nash]] · [[Keystone - Polygamy Expert Debunks All the Myths]]
+See also: [[Kathryn Daynes]] · [[Britney Chapman Nash]] · [[Keystone - Polygamy Expert Debunks All the Myths]] · [[Keystone - What Exmo Reddit Gets Wrong About LDS Polygamy]]

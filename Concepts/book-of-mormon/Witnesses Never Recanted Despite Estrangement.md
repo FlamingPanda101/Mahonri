@@ -8,6 +8,7 @@ related:
   - "[[Mass Hallucination Hypnosis Theory Rebutted]]"
 sources:
   - "[[WardRadio - Book of Mormon Witnesses Are Unimpeachable]]"
+  - "[[Keystone - What This Early Apostate Revealed About the Book of Mormon]]"
 tags: [apologetics, book-of-mormon, witnesses, tradition/lds]
 ---
 
@@ -31,7 +32,10 @@ David Whitmer, with twelve guns leveled at the prisoners' breasts and ordered to
 
 This concession is why critics must reach for [[Mass Hallucination Hypnosis Theory Rebutted|hallucination]] rather than fraud [^7]. *Rating: a hostile-witness admission, the most probative kind.*
 
-### 4. Excommunication as evidence FOR reliability
+### 4. The apostate-insider witness: William McLellin
+A [[Keystone]] episode adds a distinct case: former apostle [[William McLellin]], who left the church *permanently*, never repudiated the Book of Mormon and in an 1880 letter recorded [[Oliver Cowdery]] and [[David Whitmer]] reaffirming it under threat of death in 1833 ("though the mob kill us, yet we must die declaring its truth"), and eight-witness [[Hiram Page]] refusing to deny it while being beaten ("How can I deny what I know to be true?"). McLellin: "We should lie if we did, for we know nothing against its credibility or divine truth." See [[William McLellin Affirmed the Book of Mormon While Rejecting Church Leadership]].[^9]
+
+### 5. Excommunication as evidence FOR reliability
 The episode inverts the usual move: Oliver's continued testimony **during** his excommunication "is evidence for reliability," since a fraud-exposer had every incentive and opportunity to recant and did not [^8].
 
 ## Steelman (Opposing View)
@@ -55,6 +59,7 @@ The episode inverts the usual move: Oliver's continued testimony **during** his 
 [^6]: [[WardRadio - Book of Mormon Witnesses Are Unimpeachable|Ward Radio - Book of Mormon Witnesses Are Unimpeachable]], [68:31], https://youtu.be/VcnjatilcC8
 [^7]: [[WardRadio - Book of Mormon Witnesses Are Unimpeachable|Ward Radio - Book of Mormon Witnesses Are Unimpeachable]], [67:00], https://youtu.be/VcnjatilcC8
 [^8]: [[WardRadio - Book of Mormon Witnesses Are Unimpeachable|Ward Radio - Book of Mormon Witnesses Are Unimpeachable]], [57:30], https://youtu.be/VcnjatilcC8
+[^9]: [[Keystone - What This Early Apostate Revealed About the Book of Mormon|Keystone - Early Apostate on the Book of Mormon]], [02:00]–[05:30], https://youtu.be/hbxjwZqlwkU
 
 ---
-See also: [[Apologetics]] · [[WardRadio - Book of Mormon Witnesses Are Unimpeachable]]
+See also: [[Apologetics]] · [[William McLellin Affirmed the Book of Mormon While Rejecting Church Leadership]] · [[WardRadio - Book of Mormon Witnesses Are Unimpeachable]]

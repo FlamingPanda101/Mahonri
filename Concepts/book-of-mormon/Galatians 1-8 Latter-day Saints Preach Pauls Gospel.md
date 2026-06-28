@@ -8,6 +8,7 @@ related:
 sources:
   - "[[Ward Radio - Just Post This When Anti-Mormons Mention Galatians 1-8]]"
   - "[[The Stick of Joseph - This Argument Against Mormons Doesnt Work Anymore]]"
+  - "[[Keystone - This Is Why Weaponizing Galatians 1-8 Is a Problem]]"
 tags: [apologetics, gospel-definition, book-of-mormon, tradition/lds]
 #type/rebuttal
 ---
@@ -31,6 +32,9 @@ The hosts cite [[Joseph Smith]]: "the fundamental principles of our religion are
 ### 4. The Book of Mormon's own gospel statement matches Paul — strong (corroborating source)
 On a separate episode, [[Colton Miller]] and [[Josh (Latter-day Christian)|Josh]] read the resurrected Christ's self-definition of "my gospel" in 3 Nephi 27:13-16 (the Father sent him to be "lifted up upon the cross... that I might draw all men unto me") and pair it with [[Mosiah 3.8|Mosiah 3:17]] ("no other name... nor any other way... whereby salvation can come... only in and through the name of Christ") — arguing this is "pretty similar to what the Bible teaches." They add an UNO-reverse: since Galatians 1:8 makes *Paul's* gospel the standard, and Paul's epistle greetings name **two separate beings** ("Grace... from God our Father, and from the Lord Jesus Christ," Ephesians 1; Colossians 1), the *trinitarian* preacher may be the one teaching "another gospel" than Paul's. See [[Differentiated Worship Vocabulary in the New Testament Refutes the Trinity]].[^7][^8]
 
+### 5. Keystone: the same gospel, plus the "begging the question" frame — strong (corroborating source)
+A [[Keystone]] explainer makes the identical core move and adds the logical diagnosis: deploying Galatians 1:8 *begs the question* by presupposing the accuser already has "the fully correct gospel." Keystone independently quotes [[Joseph Smith]]'s 1838 "appendages" statement and the [[1 Corinthians 15.1-4|1 Corinthians 15:1-4]] definition, notes Paul himself was visited by angels (so the "angel" objection fails — cf. [[Revelation 14.6|Revelation 14:6]]'s angel with "the everlasting gospel"), and cites [[Dieter F. Uchtdorf]]: "salvation cannot be bought with a currency of obedience. It is purchased by the blood of the Son of God." See [[Galatians 1-8 Begs the Question - The Swiss Army Verse]].[^9]
+
 ### Steelman of the opposing view
 A careful critic would say "gospel" (εὐαγγέλιον) in Paul includes the *whole* apostolic deposit — Christology, soteriology, the nature of God — not merely a three-line résumé of facts; and LDS additions (eternal progression, plurality of gods, temple ordinances) constitute a materially different *system* even if the resurrection slogan matches. **Response:** the rebuttal's force is that Paul himself reduces "the gospel I preached" to the death-burial-resurrection kernel in 1 Cor 15, and Joseph Smith calls everything else "appendages." Whether the LDS *system* differs is a separate debate from whether the *gospel Paul names* is shared — and on Paul's own terms it is shared, so Galatians 1:8 (about "another **gospel**") is the wrong proof-text. The dispute belongs under doctrine-of-God topics, not this verse.
 
@@ -52,6 +56,7 @@ A careful critic would say "gospel" (εὐαγγέλιον) in Paul includes the
 [^6]: [[Ward Radio - Just Post This When Anti-Mormons Mention Galatians 1-8|Ward Radio - Galatians 1:8 Episode]], [10:30], https://youtu.be/0GGg_7bs1n8
 [^7]: [[The Stick of Joseph - This Argument Against Mormons Doesnt Work Anymore|Stick of Joseph - This Argument Doesn't Work Anymore]], [10:30], https://youtu.be/IXTZJhKn7Dw
 [^8]: [[The Stick of Joseph - This Argument Against Mormons Doesnt Work Anymore|Stick of Joseph - This Argument Doesn't Work Anymore]], [14:00], https://youtu.be/IXTZJhKn7Dw
+[^9]: [[Keystone - This Is Why Weaponizing Galatians 1-8 Is a Problem|Keystone - Weaponizing Galatians 1:8]], [02:30]–[05:30], https://youtu.be/7I_gcjhiXyk
 
 ---
-See also: [[Apologetics]] · [[Ward Radio - Just Post This When Anti-Mormons Mention Galatians 1-8]] · [[The Stick of Joseph - This Argument Against Mormons Doesnt Work Anymore]] · [[Colton Miller]]
+See also: [[Apologetics]] · [[Galatians 1-8 Begs the Question - The Swiss Army Verse]] · [[Ward Radio - Just Post This When Anti-Mormons Mention Galatians 1-8]] · [[The Stick of Joseph - This Argument Against Mormons Doesnt Work Anymore]] · [[Colton Miller]]

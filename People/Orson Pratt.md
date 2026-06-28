@@ -12,8 +12,12 @@ Member of the LDS **Quorum of the Twelve Apostles**, self-taught mathematician, 
 ## Public opposition to Adam-God
 For roughly eight years Pratt "taught publicly against the doctrine," publishing pamphlets and preaching as an apostle. [[T.B. Stenhouse]] singled him out as the only Mormon who "dared to make a public protest" against the "Adam deity." He eventually submitted to [[Brigham Young]] — who told him to "run new doctrine through me... before you teach it," while conceding "you are not perfect and neither am I" — but continued to disagree privately in council. [[Joe Heschmeyer]] argues Pratt "was right" and was punished for holding what the modern LDS Church now regards as the true position. See [[Cracking Down on Public Dissent Not Private Belief]] and [[Brigham Young Failed Prophet Argument]] [^1].
 
+## On the Plural Marriage Consent Process
+In 1853 sermons cited by [[Keystone]], Pratt set out the procedure for a plural marriage: a man must first obtain the consent of his existing wife, then consult "the president over the whole church," then the prospective wife's parents, and finally the woman herself — a "no" at any step normally ending the matter. See [[Plural Marriage Proposal Required a Chain of Consent]].[^2]
+
 ## References
 [^1]: [[WardRadio - Is Brigham Young a Heretic - Adam-God with Joe Heschmeyer|Ward Radio - Adam-God with Joe Heschmeyer]], [65:00], https://youtu.be/gFtj5rr1ekY
+[^2]: [[Keystone - What Exmo Reddit Gets Wrong About LDS Polygamy|Keystone - Exmo Reddit on LDS Polygamy]], [03:54]–[06:00], https://youtu.be/JGnWdOeVbjE
 
 ---
-See also: [[People]] · [[Authority Ledger]]
+See also: [[People]] · [[Authority Ledger]] · [[Plural Marriage Proposal Required a Chain of Consent]]
