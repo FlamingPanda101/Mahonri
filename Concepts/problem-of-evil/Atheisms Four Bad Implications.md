@@ -47,7 +47,7 @@ meaning.
 
 ## Supporting Evidence
 
-### 1. Atheist Thought Leaders Concede These Implications (Evidence Rating: Secondary — Concession from Opponents)
+### 1. Atheist Thought Leaders Concede These Implications (Argument weight: Secondary — Concession from Opponents)
 
 Carroll's argument draws much of its force from the fact that prominent atheist
 intellectuals *agree* with these implications:
@@ -67,7 +67,7 @@ intellectuals *agree* with these implications:
   agony of the in vain insecurity, the lack of any opportunity to recover or to
   regain composure."[^6]
 
-### 2. The Implications Are Interconnected (Evidence Rating: Tertiary — Structural)
+### 2. The Implications Are Interconnected (Argument weight: Tertiary — Structural)
 
 Carroll notes these four are not independent problems but form a chain:[^7]
 - If there's no free will, moral responsibility collapses (you can't blame
@@ -80,7 +80,7 @@ Carroll notes these four are not independent problems but form a chain:[^7]
   to whom it could matter, no standard by which it could matter, and no choice
   that could change anything.
 
-### 3. Most Atheists Are Inconsistent — They Live As If These Things Are Real (Evidence Rating: Tertiary — Pragmatic)
+### 3. Most Atheists Are Inconsistent — They Live As If These Things Are Real (Argument weight: Tertiary — Pragmatic)
 
 > "Most atheists who don't know a lot about the implications don't think that
 > way."[^3]

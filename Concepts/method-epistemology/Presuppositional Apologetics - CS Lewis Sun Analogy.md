@@ -29,7 +29,7 @@ accept God, "Zion will be built" — everything else will be clear.
 
 ## Supporting Evidence
 
-### 1. C.S. Lewis's Sun Analogy (Evidence Rating: Primary — [[C.S. Lewis]] Source)
+### 1. C.S. Lewis's Sun Analogy (Argument weight: Primary — [[C.S. Lewis]] Source)
 
 Butler recounts:
 
@@ -50,7 +50,7 @@ The analogy:
 This is an "inference to the best explanation" approach: theism is the
 hypothesis that, if true, makes the widest range of data coherent.
 
-### 2. Russell Brunson's Geometry Analogy (Evidence Rating: Secondary — Illustrative)
+### 2. Russell Brunson's Geometry Analogy (Argument weight: Secondary — Illustrative)
 
 Butler references a conversation with [[Russell Brunson]]:
 
@@ -74,7 +74,7 @@ The geometry analogy makes a specific epistemological claim: some truths are
 foundational rather than derived. You don't prove them; you accept them and
 observe the coherence they produce.
 
-### 3. The Pragmatic Test: "Everything Else Will Be Clear" (Evidence Rating: Tertiary — Experiential)
+### 3. The Pragmatic Test: "Everything Else Will Be Clear" (Argument weight: Tertiary — Experiential)
 
 > "That right there is the testimony that it is true — that God does live, that
 > Jesus is the Christ, that the restoration really is from God. And it's
@@ -85,7 +85,7 @@ as if God exists produces clarity, coherence, and flourishing that living as if
 He doesn't cannot match. This aligns with Alma 32's "experiment upon the word"
 — the proof is in the living.
 
-### 4. Not the Absence of Evidence (Evidence Rating: Secondary — Clarification)
+### 4. Not the Absence of Evidence (Argument weight: Secondary — Clarification)
 
 > "And that's not to say that there is not evidence for those things. There is
 > evidence for those things."[^3]
@@ -97,7 +97,7 @@ belief — at some point, you must accept the axiom. Even [[Alex O'Connor]]
 concedes: "I think it would take a personal experience with God" for him to
 believe.[^3]
 
-### 5. Hayden Carroll's Endorsement (Evidence Rating: Tertiary)
+### 5. Hayden Carroll's Endorsement (Argument weight: Tertiary)
 
 > "That presuppositional apologetic line of reasoning is masterful."
 > — [[Hayden Carroll]][^4]

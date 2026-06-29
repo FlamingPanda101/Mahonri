@@ -29,7 +29,7 @@ must affirm both that natural selection shapes populations AND that atheism
 
 ## Supporting Evidence
 
-### 1. Atheist Birth Rates Are Below Replacement (Evidence Rating: Secondary — Demographic)
+### 1. Atheist Birth Rates Are Below Replacement (Argument weight: Secondary — Demographic)
 
 [[Hayden Carroll]] presents the demographic data:
 
@@ -44,7 +44,7 @@ fall well below this threshold. Meanwhile:
 > "Latter-day Saints are having 12 kids. My dad has 11 siblings. Even Islam or
 > Muslims are having lots of kids. Catholics are having lots of kids."[^2]
 
-### 2. Natural Selection Logic Applied to Belief (Evidence Rating: Secondary — Internal Critique)
+### 2. Natural Selection Logic Applied to Belief (Argument weight: Secondary — Internal Critique)
 
 Carroll applies the atheist's own framework:[^2]
 
@@ -64,7 +64,7 @@ Note: "Better" here means "more reproductively successful," not "more true."
 But the argument creates an ironic tension: the worldview that claims to be the
 most rational is, by its own evolutionary logic, being naturally deselected.
 
-### 3. Parallel to Pascal's Wager (Evidence Rating: Tertiary — Rhetorical)
+### 3. Parallel to Pascal's Wager (Argument weight: Tertiary — Rhetorical)
 
 [[David Butler]] draws a parallel to [[Pascal's Wager]]: "It's like... when it
 comes down to it, kind of illogical to choose against it — to choose against it

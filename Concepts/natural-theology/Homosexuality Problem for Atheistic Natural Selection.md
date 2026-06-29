@@ -30,7 +30,7 @@ inclinations.
 
 ## Supporting Evidence
 
-### 1. The Natural Selection Logic (Evidence Rating: Secondary — Internal Critique)
+### 1. The Natural Selection Logic (Argument weight: Secondary — Internal Critique)
 
 [[Hayden Carroll]] engages an atheist student on ASU campus:
 
@@ -51,7 +51,7 @@ The logic:
 The atheist student's response: "I have no comment on that."[^1] — an
 acknowledgment of the difficulty.
 
-### 2. The Free Will Problem (Evidence Rating: Secondary — Internal Contradiction)
+### 2. The Free Will Problem (Argument weight: Secondary — Internal Contradiction)
 
 > "But you reject free will, too. So, natural selection is working to weed
 > those people out. It's not a position you probably want to hold, but you have
@@ -68,7 +68,7 @@ The bind for the atheist:
   selection has no opinion; it just selects for reproduction. A trait that
   precludes reproduction IS, in evolutionary terms, maladaptive.
 
-### 3. The LDS Solution: Free Will (Evidence Rating: Primary — Doctrinal)
+### 3. The LDS Solution: Free Will (Argument weight: Primary — Doctrinal)
 
 Carroll and [[David Butler]] present the LDS alternative:
 
@@ -88,7 +88,7 @@ The LDS framework:
   variety, but they "restrain themselves to enter into the order of marriage
   that is ordained by God."[^5]
 
-### 4. LDS Theology Provides a Unique Framework (Evidence Rating: Tertiary — Distinctiveness)
+### 4. LDS Theology Provides a Unique Framework (Argument weight: Tertiary — Distinctiveness)
 
 > "We are the only — I think — theists that I know of that believe we are
 > eternal, as far [as] in Christendom."[^5]

@@ -61,9 +61,10 @@ A typical **Concept note**:
 not the concept:
 - **A** peer-reviewed / primary source · **B** credentialed expert · **C** cited commentary
   (most YouTube apologists/podcasts) · **D** opinion / uncited · `unverified` if you can't tell.
-- A note may also rate an *individual evidence point* inline (e.g. "Evidence Rating: C —
-  commentary, not primary evidence"). That is the strength of that point, distinct from the
-  source's overall tier.
+- A note may tag individual points inline two ways: **`Evidence rating: Strong/Moderate/Weak`**
+  (how good that evidence is) and **`Argument weight: Primary/Secondary/Tertiary`** (how central
+  the point is to the argument). Both describe the *point*, not the *source* — never read a
+  "Primary" argument-weight as a primary source; the source's A/B/C/D tier is separate.
 
 ---
 

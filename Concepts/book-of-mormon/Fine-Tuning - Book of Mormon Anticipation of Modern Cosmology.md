@@ -30,7 +30,7 @@ which supports LDS truth claims against naturalistic critiques.
 
 ## Supporting Evidence
 
-### 1. Alma 30:44 Anticipates the Structure of Fine-Tuning Arguments (Evidence Rating: Primary — Scriptural)
+### 1. Alma 30:44 Anticipates the Structure of Fine-Tuning Arguments (Argument weight: Primary — Scriptural)
 
 The full argument is developed in [[Fine-Tuning and the Teleological Argument from Alma 30]]. The key textual features:
 
@@ -49,7 +49,7 @@ The full argument is developed in [[Fine-Tuning and the Teleological Argument fr
 [[David Butler]] notes that Alma is "the original teleological arguer way
 before St. Aquinas or any of the other early church fathers who used it."[^2]
 
-### 2. Joseph Smith's 19th-Century Context Lacked Fine-Tuning Science (Evidence Rating: Secondary — Historical)
+### 2. Joseph Smith's 19th-Century Context Lacked Fine-Tuning Science (Argument weight: Secondary — Historical)
 
 [[Hayden Carroll]]:
 
@@ -70,7 +70,7 @@ precise, life-permitting values, or that planetary orbits depend on gravitationa
 fine-tuning. Yet [[Alma 30.44|Alma 30:44]] speaks of cosmic order as evidence
 of God in ways that align with modern discoveries.
 
-### 3. Pre-Joseph Smith Design Arguments Were Biological, Not Cosmological (Evidence Rating: Secondary — Historical)
+### 3. Pre-Joseph Smith Design Arguments Were Biological, Not Cosmological (Argument weight: Secondary — Historical)
 
 Carroll acknowledges that "there were pre-Joseph Smith theologians who were
 using the teleological argument" — but these were biological design arguments
@@ -89,7 +89,7 @@ Smith were fabricating, he'd likely have produced a biological design argument
 like Paley's, not a cosmological one that would not be scientifically
 appreciated for over a century.
 
-### 4. D&C 130:20-21 and Eternal Physical Law (Evidence Rating: Primary — Scriptural)
+### 4. D&C 130:20-21 and Eternal Physical Law (Argument weight: Primary — Scriptural)
 
 [[D&C 130.20-21]] (revealed 1843): "There is a law, irrevocably decreed in
 heaven before the foundations of this world, upon which all blessings are

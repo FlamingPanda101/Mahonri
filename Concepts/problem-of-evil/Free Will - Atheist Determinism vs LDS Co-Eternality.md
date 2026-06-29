@@ -32,7 +32,7 @@ for genuine free will.
 
 ## Supporting Evidence
 
-### 1. Sam Harris and the Case for Determinism (Evidence Rating: Secondary — Cited Opponent)
+### 1. Sam Harris and the Case for Determinism (Argument weight: Secondary — Cited Opponent)
 
 [[Hayden Carroll]] discusses [[Sam Harris]]'s argument from his book *Free
 Will* (2012):
@@ -54,7 +54,7 @@ Carroll steelmans the atheist position: "If you eat food, why did you eat food?
 Because you were hungry. Well, why were you hungry? Because your biology and
 chemical [processes] made you. It leads you to do things."[^2]
 
-### 2. The Leading Atheists All Concede No Free Will (Evidence Rating: C — paraphrased by a tier-C source)
+### 2. The Leading Atheists All Concede No Free Will (Argument weight: Primary — Consistent Testimony from Opponents)
 
 > "The real strong hitters, right, Sam Harris, Christopher Hitchens, Alex
 > O'Connor, they all agree that yeah, we actually don't have free will. If
@@ -66,7 +66,7 @@ This is significant because it's not just one atheist's view — it's the
 consistent position of the most prominent atheist intellectuals. They recognize
 that materialism + causal determinism = no libertarian free will.
 
-### 3. LDS Co-Eternality as the Unique Solution (Evidence Rating: C — commentary, not primary evidence)
+### 3. LDS Co-Eternality as the Unique Solution (Argument weight: Primary — Doctrinal)
 
 The LDS solution rests on [[Joseph Smith]]'s teaching that human intelligences
 are co-eternal with God:
@@ -91,7 +91,7 @@ The D&C connection: [[D&C 130.20-21]] teaches that eternal law is
 agency operates within an eternal framework of law — not as a arbitrary grant
 from a sovereign God who could revoke it.[^5]
 
-### 4. An Unusual Alliance: LDS and Atheists Agree on Eternal Matter (Evidence Rating: Tertiary — Rhetorical)
+### 4. An Unusual Alliance: LDS and Atheists Agree on Eternal Matter (Argument weight: Tertiary — Rhetorical)
 
 > "This is what's I love so much about the LDS doctrine and what Joseph Smith
 > put forth is we're able to align with... they'll be like 'matter was neither

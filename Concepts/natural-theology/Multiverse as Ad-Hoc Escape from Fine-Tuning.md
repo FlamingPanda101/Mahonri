@@ -27,7 +27,7 @@ themselves would mock if theists made a parallel move.
 
 ## Supporting Evidence
 
-### 1. No Empirical Evidence for the Multiverse (Evidence Rating: Primary — Scientific)
+### 1. No Empirical Evidence for the Multiverse (Argument weight: Primary — Scientific)
 
 > "What empirical evidence do you have for a multiverse besides Spider-Man?"[^1]
 
@@ -42,7 +42,7 @@ science.
 > "I mean, theoretical — like there isn't mathematical theoretical evidence for
 > it. It's just an idea."[^2]
 
-### 2. The Multiverse Relocates the Problem (Evidence Rating: Secondary — Philosophical)
+### 2. The Multiverse Relocates the Problem (Argument weight: Secondary — Philosophical)
 
 Carroll argues that attributing fine-tuning to a multiverse doesn't *solve* the
 problem — it pushes it back one level:
@@ -56,7 +56,7 @@ traded one fine-tuning problem for another.
 This is the classic "Who designed the designer?" objection, applied to
 multiverse theory: "What fine-tuned the multiverse generator?"
 
-### 3. "You Sound Like a Theologian" (Evidence Rating: Tertiary — Rhetorical)
+### 3. "You Sound Like a Theologian" (Argument weight: Tertiary — Rhetorical)
 
 > "When they start bringing up the [multiverse], I say, 'You know what? You
 > kind of sound like a theologian who's trying to solve a problem they have,
@@ -75,7 +75,7 @@ resolve fine-tuning.
 > most campus atheists abandon the multiverse argument when challenged on
 > evidence.[^3]
 
-### 4. Constants Don't Change (Evidence Rating: Primary — Definitional)
+### 4. Constants Don't Change (Argument weight: Primary — Definitional)
 
 Related argument from [[Fine-Tuning and the Teleological Argument from Alma 30]]:
 

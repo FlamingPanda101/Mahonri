@@ -31,7 +31,7 @@ actually live with.
 
 ## Supporting Evidence
 
-### 1. Nietzsche's Diagnosis (Evidence Rating: Primary — Philosophical Source)
+### 1. Nietzsche's Diagnosis (Argument weight: Primary — Philosophical Source)
 
 > "Nihilism as a psychological state will have to be reached. It is necessary
 > first when we have sought a meaning in all events that is not there. So the
@@ -48,7 +48,7 @@ David Butler adds:
 
 > "When you die, you die. Like there's no eternal purpose."[^2]
 
-### 2. Atheists' Coping Mechanism: Invented Purpose (Evidence Rating: Secondary — Observation)
+### 2. Atheists' Coping Mechanism: Invented Purpose (Argument weight: Secondary — Observation)
 
 > "A lot of atheists will try to cope with that and say, 'Well, I just create
 > my own purpose.' But I'm like, 'Well, if you don't believe in free will, like
@@ -62,7 +62,7 @@ worldview denies. If determinism is true, the feeling that you're "creating
 purpose" is itself just chemical reactions playing out. You're not an author;
 you're a character reading lines you didn't write.
 
-### 3. Rosenberg: Atheism IS Nihilism (Evidence Rating: Primary — Atheist Source)
+### 3. Rosenberg: Atheism IS Nihilism (Argument weight: Primary — Atheist Source)
 
 As cited in [[Moral Argument Against Atheism]], [[Alex Rosenberg]] explicitly
 identifies atheism with nihilism. Carroll: "He says nihilism — he's talking
@@ -72,7 +72,7 @@ leads you to it."[^3]
 This is not a theist projecting nihilism onto atheism; it's a prominent atheist
 philosopher OWNING the label.
 
-### 4. The Psychological Reality (Evidence Rating: Tertiary — Existential)
+### 4. The Psychological Reality (Argument weight: Tertiary — Existential)
 
 Carroll and Butler paint the picture of what consistent nihilism would look
 like in practice:

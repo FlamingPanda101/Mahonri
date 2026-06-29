@@ -31,7 +31,7 @@ aligned against LDS theology on the free will question.
 
 ## Supporting Evidence
 
-### 1. The Logic of Creation Ex Nihilo (Evidence Rating: C — commentary, not primary evidence)
+### 1. The Logic of Creation Ex Nihilo (Argument weight: Primary — Doctrinal Analysis)
 
 [[Hayden Carroll]] lays out the argument:[^1]
 
@@ -53,7 +53,7 @@ position:
 > something out of our control. And so effectively, Sam Harris is right and I
 > would say the creedal Christians are in the same camp."[^1]
 
-### 2. Calvinism as the Consistent Ex Nihilo Position (Evidence Rating: Secondary — Theological)
+### 2. Calvinism as the Consistent Ex Nihilo Position (Argument weight: Secondary — Theological)
 
 [[Calvinism]] explicitly embraces this logic: if God created everything and
 ordains everything, then human choices are determined by God. Carroll notes:
@@ -66,7 +66,7 @@ See [[Calvinism Consistency with Atheism on Free Will]]. The Calvinist is the
 honest *ex nihilo* Christian — they recognize that creation out of nothing +
 divine sovereignty entails determinism.
 
-### 3. Non-Calvinist Christians Are Inconsistent (Evidence Rating: Tertiary — Pragmatic)
+### 3. Non-Calvinist Christians Are Inconsistent (Argument weight: Tertiary — Pragmatic)
 
 Most non-Calvinist Christians affirm both *creation ex nihilo* AND libertarian
 free will — but Carroll argues they haven't thought through the logical
@@ -81,7 +81,7 @@ simple foreknowledge) attempt to preserve free will within an *ex nihilo*
 framework, but Carroll's claim is that these are ad-hoc patches that don't
 address the root problem: if God created your nature, He caused your choices.
 
-### 4. The Atheist-Creedal Christian Alignment (Evidence Rating: Tertiary — Rhetorical)
+### 4. The Atheist-Creedal Christian Alignment (Argument weight: Tertiary — Rhetorical)
 
 Carroll finds it "actually hilarious when you think about it, how at the end of
 the day the atheist worldview of no free will and those who believe in *ex

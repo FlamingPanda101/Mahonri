@@ -30,7 +30,7 @@ requires no explanation from non-conscious origins.
 
 ## Supporting Evidence
 
-### 1. The Core Argument: Non-Conscious → No Consciousness (Evidence Rating: Secondary — Philosophical)
+### 1. The Core Argument: Non-Conscious → No Consciousness (Argument weight: Secondary — Philosophical)
 
 [[Hayden Carroll]] frames the argument:
 
@@ -56,7 +56,7 @@ sufficiently complex neural arrangements. Carroll challenges this: "How did non
 Bang conscious? And they always say, 'Well, no.' And I say, 'Then ask yourself
 this question.'"[^1]
 
-### 2. Daniel Dennett's Consistent Answer: Consciousness Is an Illusion (Evidence Rating: Primary — Atheist Source)
+### 2. Daniel Dennett's Consistent Answer: Consciousness Is an Illusion (Argument weight: Primary — Atheist Source)
 
 > "This is why Daniel Dennett says consciousness is an illusion. Because
 > consciousness — true consciousness — does not come from something that's
@@ -73,7 +73,7 @@ consciousness, so you must deny consciousness exists.
 > just — it's an illusion. We're just playing out. There is no self. It's a
 > trick the brain plays on us.'"[^2]
 
-### 3. The Self-Defeating Nature of Denying Consciousness (Evidence Rating: Secondary — Philosophical)
+### 3. The Self-Defeating Nature of Denying Consciousness (Argument weight: Secondary — Philosophical)
 
 Carroll notes the problem:
 
@@ -89,7 +89,7 @@ The denial of consciousness is self-defeating:
   "thoughts" (including Dennett's own) have no truth value — they're just
   neural events.
 
-### 4. The Theistic Alternative: Consciousness Is Fundamental (Evidence Rating: Primary — Doctrinal)
+### 4. The Theistic Alternative: Consciousness Is Fundamental (Argument weight: Primary — Doctrinal)
 
 Carroll presents the theistic solution:
 
@@ -107,7 +107,7 @@ Two levels of theistic response:
   even stronger answer: consciousness never "came from" non-consciousness
   because it has always existed.[^4]
 
-### 5. The Connection to Free Will and AI (Evidence Rating: Tertiary — Integration)
+### 5. The Connection to Free Will and AI (Argument weight: Tertiary — Integration)
 
 The consciousness problem connects to the other implications:
 

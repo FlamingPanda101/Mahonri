@@ -29,7 +29,7 @@ God and for the ancient authenticity of the Book of Mormon.
 
 ## Supporting Evidence
 
-### 1. The Fine-Tuning of Physical Constants (Evidence Rating: Primary)
+### 1. The Fine-Tuning of Physical Constants (Argument weight: Primary)
 
 Modern physics has identified approximately 20-30 physical constants and
 initial conditions whose values fall within extraordinarily narrow,
@@ -50,7 +50,7 @@ discussion):
 - **Earth's tilt and orbit:** The "Goldilocks zone" and axial tilt are
   precisely right for stable climate and seasons.[^2]
 
-### 2. Alma 30:44 — An Ancient Teleological Argument (Evidence Rating: Primary — Scriptural)
+### 2. Alma 30:44 — An Ancient Teleological Argument (Argument weight: Primary — Scriptural)
 
 Alma's rebuttal to the atheist Korihor in [[Alma 30.44|Alma 30:44]] invokes
 the cosmic order as evidence of a "Supreme Creator":
@@ -72,7 +72,7 @@ Key observations:
   striking anticipation of arguments that would not be formalized for over a
   millennium.
 
-### 3. The Constants as "Irrevocably Decreed in Heaven" (Evidence Rating: Primary — Scriptural)
+### 3. The Constants as "Irrevocably Decreed in Heaven" (Argument weight: Primary — Scriptural)
 
 Butler connects the physical constants to [[D&C 130.20-21]]:
 
@@ -87,7 +87,7 @@ eternal, and God himself operates in harmony with them. This distinguishes LDS
 theology from voluntarist theologies where God could have made any laws He
 wanted.[^5]
 
-### 4. Joseph Smith Could Not Have Known About Fine-Tuning (Evidence Rating: Secondary — Historical Inference)
+### 4. Joseph Smith Could Not Have Known About Fine-Tuning (Argument weight: Secondary — Historical Inference)
 
 > "First of all, Joseph Smith, if he wrote the Book of Mormon, he didn't know
 > about the fine-tuning argument. The fine-tuning argument was not — as far as
@@ -106,7 +106,7 @@ the teleological argument" for biological design, but "the physical constants,
 the scientific ones, the theologians didn't know. They've actually been
 verified or confirmed or validated in time."[^6]
 
-### 5. The "Constants Don't Change" Rebuttal to Infinite Time (Evidence Rating: Secondary — Logical)
+### 5. The "Constants Don't Change" Rebuttal to Infinite Time (Argument weight: Secondary — Logical)
 
 Some atheists respond: "Given infinite time, eventually the constants will
 align." Carroll identifies this as an oxymoron:
@@ -120,7 +120,7 @@ or isn't. The multiverse is an attempt to escape this by positing *different*
 constants in *different* universes, but this merely relocates the problem. See
 [[Multiverse as Ad-Hoc Escape from Fine-Tuning]].
 
-### 6. LDS Doctrine of Eternal Matter Aligns with Conservation Laws (Evidence Rating: Tertiary — Rhetorical)
+### 6. LDS Doctrine of Eternal Matter Aligns with Conservation Laws (Argument weight: Tertiary — Rhetorical)
 
 Butler notes that atheists often appeal to the law of conservation of
 mass-energy ("matter was neither created nor destroyed") — and LDS theology

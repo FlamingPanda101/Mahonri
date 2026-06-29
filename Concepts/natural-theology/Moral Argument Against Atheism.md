@@ -31,7 +31,7 @@ the belief that anything is truly right or wrong.
 
 ## Supporting Evidence
 
-### 1. Richard Dawkins: "No Evil, No Good" (Evidence Rating: Primary — Atheist Source)
+### 1. Richard Dawkins: "No Evil, No Good" (Argument weight: Primary — Atheist Source)
 
 > "The universe we observe has precisely the properties we should expect if
 > there is at bottom no design, no purpose, no evil, no good, nothing but
@@ -43,7 +43,7 @@ There is no objective "evil" or "good" — there are only physical facts. Dawkin
 is being consistent: if matter is all there is, moral properties (which are not
 physical) cannot exist.
 
-### 2. Alex Rosenberg: No Moral Difference Between Mother Teresa and Hitler (Evidence Rating: Primary — Atheist Source)
+### 2. Alex Rosenberg: No Moral Difference Between Mother Teresa and Hitler (Argument weight: Primary — Atheist Source)
 
 > "There's no moral difference between the acts of Mother Teresa and those of
 > Hitler. Nihilism rejects the distinction between acts that are morally right
@@ -57,7 +57,7 @@ Rosenberg, a professor of philosophy at Duke, is not a fringe figure. His
 statement is a clear, unambiguous admission from a credentialed atheist
 philosopher that atheism entails the collapse of moral distinctions.
 
-### 3. Alex O'Connor: Emotivism (Evidence Rating: Secondary — Atheist Source)
+### 3. Alex O'Connor: Emotivism (Argument weight: Secondary — Atheist Source)
 
 > "Alex O'Connor says he's an emotivist. When he says that something is wrong,
 > it's just him saying, 'I don't like that.' There's no eternal standard of
@@ -74,7 +74,7 @@ sophisticated emoting. Most people (including most atheists) don't live this
 way — they act as if some things are really wrong — but the logic of atheism
 demands it.
 
-### 4. The Campus Atheist Concedes the Point (Evidence Rating: Primary — Conversation)
+### 4. The Campus Atheist Concedes the Point (Argument weight: Primary — Conversation)
 
 Carroll engages a student:
 
@@ -94,7 +94,7 @@ on atheism, there's no basis for that judgment. Carroll then presses: if
 governments decide right and wrong, what about when Hitler WAS the government?
 The student has no answer.
 
-### 5. Practical Incoherence (Evidence Rating: Tertiary — Pragmatic)
+### 5. Practical Incoherence (Argument weight: Tertiary — Pragmatic)
 
 > "How do we have societies?"[^4]
 

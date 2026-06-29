@@ -28,7 +28,7 @@ will, a distinction that collapses under scrutiny.
 
 ## Supporting Evidence
 
-### 1. Calvinists and Atheists Agree: No Libertarian Free Will (Evidence Rating: Primary — Theological)
+### 1. Calvinists and Atheists Agree: No Libertarian Free Will (Argument weight: Primary — Theological)
 
 [[Hayden Carroll]] identifies Calvinism as uniquely honest among creedal
 Christians:
@@ -45,7 +45,7 @@ of divine sovereignty + *creation ex nihilo* and accept them. This is
 preferable (from a logical standpoint) to Arminians who try to hold both divine
 sovereignty and libertarian free will in tension.
 
-### 2. Calvinists Are "in the Atheist Camp as Far as Free Will Goes" (Evidence Rating: Primary)
+### 2. Calvinists Are "in the Atheist Camp as Far as Free Will Goes" (Argument weight: Primary)
 
 > "They're in the atheist camp as far as free will goes."[^1]
 
@@ -55,7 +55,7 @@ it's physical causation. For the Calvinist, it's God's eternal decree. The
 *experience* of choosing is preserved, but the *freedom* to have done otherwise
 is denied.
 
-### 3. The Internal Inconsistency: "Enslaved Will" vs. Divine Determinism (Evidence Rating: Secondary — Critique)
+### 3. The Internal Inconsistency: "Enslaved Will" vs. Divine Determinism (Argument weight: Secondary — Critique)
 
 Carroll identifies a remaining inconsistency:
 
@@ -74,7 +74,7 @@ The problem:[^3]
 4. Carroll: "Either in the end God will either choose us to be enslaved to him
    or we will be enslaved to [Satan]... So there is an inconsistency."[^3]
 
-### 4. The Performative Nature of Calvinist Preaching (Evidence Rating: Tertiary — Rhetorical)
+### 4. The Performative Nature of Calvinist Preaching (Argument weight: Tertiary — Rhetorical)
 
 David Butler adds: "What's the point of any of this? It's all very performative
 their preaching and stuff because... God created them. This is what God

@@ -28,7 +28,7 @@ formally preserved only in LDS theology among major Christian traditions.
 
 ## Supporting Evidence
 
-### 1. The Logic of the Disciples' Question (Evidence Rating: Primary — Scriptural)
+### 1. The Logic of the Disciples' Question (Argument weight: Primary — Scriptural)
 
 [[Hayden Carroll]] and [[David Butler]] walk through the logic:[^1]
 
@@ -45,7 +45,7 @@ formally preserved only in LDS theology among major Christian traditions.
 
 > "If he didn't exist before he was born, how could he have sinned?"[^2]
 
-### 2. Jesus Did Not Correct the Premise (Evidence Rating: Primary — Argument from Silence)
+### 2. Jesus Did Not Correct the Premise (Argument weight: Primary — Argument from Silence)
 
 > "He didn't correct them. He didn't say, 'Why are you asking that? That's a
 > dumb question. How could he?'"[^3]
@@ -61,7 +61,7 @@ misunderstandings (e.g., "Ye do err, not knowing the scriptures" — Matthew
 He engages the question on its own terms, suggests the premise was not
 problematic.
 
-### 3. Ancient Jewish Context (Evidence Rating: Secondary — Historical)
+### 3. Ancient Jewish Context (Argument weight: Secondary — Historical)
 
 Carroll notes:
 
@@ -77,7 +77,7 @@ The Dead Sea Scrolls also contain hints of pre-mortal existence. While
 mainstream rabbinic Judaism rejected pre-existence, it was a live option in the
 first-century context.
 
-### 4. Complementary Scriptures (Evidence Rating: Primary — Scriptural)
+### 4. Complementary Scriptures (Argument weight: Primary — Scriptural)
 
 [[Jeremiah 1.5|Jeremiah 1:5]]: "Before I formed thee in the belly I knew thee;
 and before thou camest forth out of the womb I sanctified thee, and I ordained
@@ -87,7 +87,7 @@ indicate pre-mortal existence.[^4]
 These texts, read together, form a cumulative case that pre-existence was a
 concept familiar to biblical authors — not a later LDS innovation.
 
-### 5. Creedal Christianity Has No Answer (Evidence Rating: Tertiary — Rhetorical)
+### 5. Creedal Christianity Has No Answer (Argument weight: Tertiary — Rhetorical)
 
 Carroll describes bringing this argument to other Christians:
 

@@ -35,7 +35,7 @@ plausible are applying inconsistent standards.[^1]
 
 ## Supporting Evidence
 
-### 1. The Core Parallel: Base Reality → Simulation → Return (Evidence Rating: Primary — Doctrinal)
+### 1. The Core Parallel: Base Reality → Simulation → Return (Argument weight: Primary — Doctrinal)
 
 Butler lays out the structural isomorphism between simulation theory and LDS
 theology:[^1]
@@ -65,7 +65,7 @@ LDS Plan of Salvation:
 > in our second estate — and then we are going to return back to base reality.
 > Reality is eternal life with God.\"[^1]
 
-### 2. Atheists Who Accept Simulation Theory Have Conceded the Conceptual Framework of Theism (Evidence Rating: Secondary — Logical Analysis)
+### 2. Atheists Who Accept Simulation Theory Have Conceded the Conceptual Framework of Theism (Argument weight: Secondary — Logical Analysis)
 
 The argument is not that simulation theory *proves* LDS theology, but that it
 concedes everything the atheist needs to grant to make theism rationally
@@ -92,7 +92,7 @@ reality is irrational,\" they are making a distinction without a difference.
 The only remaining dispute is the *identity* of the creator — not whether the
 concept of a creator is coherent.
 
-### 3. The AI Parallel: \"A Form of Godliness but Denying the Power Thereof\" (Evidence Rating: Secondary — Scriptural/Cultural)
+### 3. The AI Parallel: \"A Form of Godliness but Denying the Power Thereof\" (Argument weight: Secondary — Scriptural/Cultural)
 
 Butler extends the simulation/creation parallel to artificial intelligence:[^3]
 
@@ -117,7 +117,7 @@ creation from God.
 > to the way that all intelligent life forms operate, then it's like, yeah, of
 > course that happened [by chance].\"[^3]
 
-### 4. LDS Theology Uniquely Bridges the \"Natural\" / \"Supernatural\" Gap (Evidence Rating: Secondary — Doctrinal)
+### 4. LDS Theology Uniquely Bridges the \"Natural\" / \"Supernatural\" Gap (Argument weight: Secondary — Doctrinal)
 
 A standard atheist objection to the simulation theory parallel is that theism
 posits a \"supernatural\" God while the simulator is a \"natural\" advanced
@@ -138,7 +138,7 @@ creedal Christianity precisely because it doesn't have the incoherent
 \"immaterial being creating material reality\" problem.[^4] The simulation
 parallel works better for LDS theology than it does for classical theism.
 
-### 5. The \"Monopoly Analogy\" Connection: The Game Board Is the Simulation (Evidence Rating: Tertiary — Integration)
+### 5. The \"Monopoly Analogy\" Connection: The Game Board Is the Simulation (Argument weight: Tertiary — Integration)
 
 Butler's [[Monopoly Analogy for Lifes Purpose]] connects here: the \"game
 board\" IS the simulation. The rules of Monopoly (the \"physics\" of the game)

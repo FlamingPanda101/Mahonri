@@ -33,7 +33,7 @@ purpose outside the "game board" of mortality can life be lived well.
 
 ## Supporting Evidence
 
-### 1. The Analogy (Evidence Rating: Primary — Illustrative)
+### 1. The Analogy (Argument weight: Primary — Illustrative)
 
 Butler lays out the scenario:
 
@@ -51,7 +51,7 @@ The two levels:
 - **In-game purpose:** Acquire wealth and property, win.
 - **Meta-purpose:** Enjoy fellowship, build relationships, have fun.
 
-### 2. Taking the Game Too Seriously Destroys Relationships (Evidence Rating: Secondary — Practical)
+### 2. Taking the Game Too Seriously Destroys Relationships (Argument weight: Secondary — Practical)
 
 > "If you take it seriously and the whole purpose, right, is to get all the
 > things, you will ruin all your relationships. If everyone takes that deadly
@@ -64,7 +64,7 @@ means to an eternal end — you'll destroy the very relationships that make life
 meaningful. The person who "wins" the economic game but alienates everyone
 they love has missed the point of playing.
 
-### 3. Scriptural Grounding (Evidence Rating: Primary — Scriptural)
+### 3. Scriptural Grounding (Argument weight: Primary — Scriptural)
 
 Butler ties the analogy to the Book of Mormon:
 
@@ -80,7 +80,7 @@ sees the game board — who treats temporal concerns as ultimate. The "spiritual
 mind" sees the meta-purpose — eternal joy, covenant relationships, returning to
 God.
 
-### 4. Connection to the LDS Concept of Happiness as the End Goal (Evidence Rating: Primary — Doctrinal)
+### 4. Connection to the LDS Concept of Happiness as the End Goal (Argument weight: Primary — Doctrinal)
 
 Butler traces the chain of purpose:
 
@@ -96,7 +96,7 @@ ordinances) are means to the meta-purpose (joy, eternal life, eternal
 relationships). Confusing the mechanics for the purpose is the error of the
 Pharisees — and of the atheist who sees only material transactions.
 
-### 5. Atheism Traps You on the Game Board (Evidence Rating: Tertiary)
+### 5. Atheism Traps You on the Game Board (Argument weight: Tertiary)
 
 Without an eternal perspective, there IS no meta-purpose — the game board IS
 all there is. On atheism, the Monopoly game ends and the board goes back in the

@@ -28,7 +28,7 @@ cannot directly "see" the designer.
 
 ## Supporting Evidence
 
-### 1. The Analogy (Evidence Rating: Primary — Illustrative)
+### 1. The Analogy (Argument weight: Primary — Illustrative)
 
 Carroll presents the analogy to an atheist student:
 
@@ -49,7 +49,7 @@ improbability + specification. The folded laundry is both improbable AND
 specified (it matches an independently recognizable pattern — "foldedness").
 This is the same logical structure as the fine-tuning argument.
 
-### 2. The Student's Counter and Its Failure (Evidence Rating: Secondary — Illustrative)
+### 2. The Student's Counter and Its Failure (Argument weight: Secondary — Illustrative)
 
 The atheist student objects:
 
@@ -73,7 +73,7 @@ to know that it WAS folded by someone. The design inference doesn't require
 identifying the designer — it only requires concluding that chance is not the
 best explanation.
 
-### 3. "The Chance" Is Not Reasonable (Evidence Rating: Secondary — Probabilistic)
+### 3. "The Chance" Is Not Reasonable (Argument weight: Secondary — Probabilistic)
 
 > "The fact that he says it's a chance shows this — we the Sam Harrises, the
 > Christopher Hitchens will say that we are cult brainwashed lunatics who
@@ -87,7 +87,7 @@ Carroll's point: the atheist's willingness to accept that the universe's
 fine-tuning occurred by "chance" is on par with accepting that a dryer randomly
 folded your laundry. Both are logically possible; neither is reasonable.
 
-### 4. The Universality of Design Inference (Evidence Rating: Tertiary — Common Sense)
+### 4. The Universality of Design Inference (Argument weight: Tertiary — Common Sense)
 
 Butler extends the analogy:
 
