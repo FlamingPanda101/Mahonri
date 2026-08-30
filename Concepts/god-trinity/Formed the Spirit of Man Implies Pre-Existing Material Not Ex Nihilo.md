@@ -52,7 +52,7 @@ The guests characterize the ex-nihilo interpretation of these texts as a product
 [^1]: [[WARD RADIO - Sam Shamoun and the Las Vegas Miracle|Ward Radio — Las Vegas Miracle]], [57:32], https://youtu.be/q7D1fn_o6u8
 [^2]: [[WARD RADIO - Sam Shamoun and the Las Vegas Miracle|Ward Radio — Las Vegas Miracle]], [64:00], https://youtu.be/q7D1fn_o6u8
 [^3]: [[WARD RADIO - Sam Shamoun and the Las Vegas Miracle|Ward Radio — Las Vegas Miracle]], [61:30], https://youtu.be/q7D1fn_o6u8
-[^4]: [[WARD RADIO - Sam Shamoun and the Las Vegas Miracle|Ward Radio — Las Vegas Miracle]], [61:00], https://youtu.be/q7D1fn_o6u8
+[^4]: [[WARD RADIO - Sam Shamoun and the Las Vegas Miracle|Ward Radio — Las Vegas Miracle]], [61:01], https://youtu.be/q7D1fn_o6u8
 
 ---
 See also: [[Apologetics]] · [[Zechariah 12.1]] · [[Genesis 2.7]] · [[Bara Means Organize and Ex Nihilo Is a Second-Century Invention]]

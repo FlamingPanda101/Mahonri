@@ -1,7 +1,5 @@
 ---
 title: "A Trinitarian Critic Concedes LDS Exaltation Makes Heaven More Compelling"
-scripture:
-  - "[[2 Corinthians 12.2|2 Corinthians 12:2]]"
 related:
   - "[[Gods of Their Own Planets Is a Caricature of Exaltationist Theosis]]"
   - "[[Human Deification in Mormonism]]"

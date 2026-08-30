@@ -103,6 +103,10 @@ The broader passage (2 Maccabees 7:22–29) is a mother's speech to her son duri
 
 The mother's argument is: God formed you in my womb from materials that were "not you" — and God formed the world from materials that were "not the world." The analogy presupposes pre-existing biological material (the mother's body), just as the cosmic application presupposes pre-existing material substrate.
 
+### 9. Field instance: the Las Vegas debate (Ward Radio)
+
+The verse surfaces in live apologetics exactly as the scholarship predicts. In the Las Vegas debate, polemicist [[Sam Shamoun]] deployed 2 Maccabees 7:28 against two Latter-day Saints, who were momentarily stumped because "it's only found in the Catholic Bible... we don't read the Catholic version." Afterward they answered it two ways: (a) the *ex nihilo* reading is itself a mark of "Hellenistic influence... Greek philosophy seeping into the old church," and (b) the same apocryphal corpus contains the counter-verse [[Wisdom 11.17|Wisdom 11:17]] — God's hand "made the world of matter without form" — which presupposes pre-existing formless matter.[^14] See the linked spirit-formation argument at [[Formed the Spirit of Man Implies Pre-Existing Material Not Ex Nihilo]]. **Rating: illustrative** — a real-world instance, not new scholarly evidence.
+
 ## The Opposing View (Steelmanned)
 
 The strongest case for reading 2 Maccabees 7:28 as creation ex nihilo: The text says God made the world "not out of things that existed" (οὐκ ἐξ ὄντων). The most natural reading of "things that exist" is "anything that exists" — i.e., God didn't use any pre-existing material at all. The mother's speech contrasts God's creative power with human limitations: she didn't make her son's body (God did), and God made the whole cosmos. The rhetorical force of the passage is to emphasize God's absolute creative sovereignty, which is most naturally understood as creation without pre-existing materials. Origen, reading the text in the 3rd century, understood it this way — and he was a native Greek speaker closer to the text's composition than modern scholars.
@@ -142,3 +146,4 @@ The strongest case for reading 2 Maccabees 7:28 as creation ex nihilo: The text 
 [^11]: [[Dan McClellan - Wes Huff Creation Ex Nihilo Response|Dan McClellan - Wes Huff Creation Ex Nihilo Response]], [21:01]-[21:31], https://youtu.be/VxpTLp6jCLI
 [^12]: [[Dan McClellan - Wes Huff Creation Ex Nihilo Response|Dan McClellan - Wes Huff Creation Ex Nihilo Response]], [20:00]-[21:01], https://youtu.be/VxpTLp6jCLI — on Theophilus and Irenaeus as originators
 [^13]: [[Dan McClellan - Wes Huff Creation Ex Nihilo Response|Dan McClellan - Wes Huff Creation Ex Nihilo Response]], [15:31]-[16:02], https://youtu.be/VxpTLp6jCLI
+[^14]: [[WARD RADIO - Sam Shamoun and the Las Vegas Miracle|Ward Radio — Las Vegas Miracle]], [59:30], https://youtu.be/q7D1fn_o6u8

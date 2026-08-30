@@ -7,6 +7,7 @@ related:
   - "[[Scripture as the Test of Prophets and Revelation]]"
 sources:
   - "[[Council of Trent - The Self-Authenticating Canon Refuted]]"
+  - "[[Lets Talk w Hayden Carroll - Does the Bible Teach Sola Scriptura Debate]]"
 tags: [apologetics, canon, self-authentication, epistemology, mormonism, tradition/lds, tradition/reformed]
 #type/rebuttal
 ---
@@ -30,8 +31,13 @@ In both systems, even *asking* "where did the Bible (or the Book of Mormon) come
 ### 4. Scripture itself rejects the move — rate: strong
 "Scripture never makes this manipulative move. It doesn't say, if you're really one of the good ones, you'll know this is all true." On the contrary, [[Jeremiah]] warns "the heart is deceitful above all things" ([[Jeremiah 17.9|Jeremiah 17:9]]) — so a deep inner feeling "is not a terribly great predictor of X being true" [^4]. See [[Scripture as the Test of Prophets and Revelation]].
 
+## Reverse Deployment — Carroll Turns the Gambit on the Protestant (Fryberg debate, 2026)
+The same unfalsifiability tells in the LDS apologist's favor once the Protestant relocates *canon recognition* to a subjective spiritual leading. In the [[Lets Talk w Hayden Carroll - Does the Bible Teach Sola Scriptura Debate|Fryberg debate]], [[Hayden Carroll]] turns the move around: when [[Quinn Fryberg]] says God led the church to recognize the 66 books, that is "an unfalsifiable theological assertion" — and a Latter-day Saint could say the identical thing about the Book of Mormon. "If I said God led me to the Book of Mormon, you would say that's ludicrous... but what argument would you have against me? Because I'm using the same argument you are — God led me."[^5] The charge is **parity/underdetermination**: the Protestant's canon epistemology is no more falsifiable than the appeal it rejects, so "God led us to it" cannot by itself pick out *which* collection is scripture. **Fryberg's steelman (the interesting reply):** unfalsifiable ≠ false — he presses the one-way **speed of light**, which cannot be measured directly (only a two-way round trip) and is accepted merely as a "convention," yet treated as true; so a non-falsifiable claim can still be true and internally consistent, and Carroll's objection reduces to "it's a *weak* argument," not a refutation.[^6] **Assessment:** Fryberg is right that unfalsifiability alone does not entail falsehood; Carroll's stronger point is the discrimination one — an unfalsifiable "God led us" equally licenses the Catholic 73 or the Book of Mormon, so it cannot *distinguish* the Protestant canon. See [[The Canon Question Is Logically Prior to Canon Authority]] and [[Spirit-Guidance of Every Individual Is an Inefficient Model of Inspiration]].
+
 ## Best Quotes
 > "Moroni and John Calvin are doing the same move, the same trick... Same gambit. You can know on this subjective level that it's true if you're one of the chosen ones." [^1]
+
+> "If I said God led me to the Book of Mormon, you would say that's ludicrous. But... what argument would you have against me? Because I'm using the same argument you are — God led me." (Carroll, turning the move on the Protestant)[^5]
 
 > "The emperor must have clothes because if he doesn't, then I'm not one of the righteous ones." [^1]
 
@@ -44,6 +50,8 @@ In both systems, even *asking* "where did the Bible (or the Book of Mormon) come
 [^2]: [[Council of Trent - The Self-Authenticating Canon Refuted|Trent Horn & Joe Heschmeyer - Self-Authenticating Canon]], [12:34], https://youtu.be/j0Tf_oWchsI
 [^3]: [[Council of Trent - The Self-Authenticating Canon Refuted|Trent Horn & Joe Heschmeyer - Self-Authenticating Canon]], [13:43], https://youtu.be/j0Tf_oWchsI
 [^4]: [[Council of Trent - The Self-Authenticating Canon Refuted|Trent Horn & Joe Heschmeyer - Self-Authenticating Canon]], [14:03], https://youtu.be/j0Tf_oWchsI
+[^5]: [[Lets Talk w Hayden Carroll - Does the Bible Teach Sola Scriptura Debate|Carroll — Sola Scriptura Debate]], [104:01], https://youtu.be/JVlHP-Tq74A
+[^6]: [[Lets Talk w Hayden Carroll - Does the Bible Teach Sola Scriptura Debate|Carroll — Sola Scriptura Debate]], [127:31], https://youtu.be/JVlHP-Tq74A
 
 ---
-See also: [[Concepts]] · [[Council of Trent - The Self-Authenticating Canon Refuted]]
+See also: [[Concepts]] · [[Hayden Carroll]] · [[Quinn Fryberg]] · [[Council of Trent - The Self-Authenticating Canon Refuted]] · [[Lets Talk w Hayden Carroll - Does the Bible Teach Sola Scriptura Debate]]

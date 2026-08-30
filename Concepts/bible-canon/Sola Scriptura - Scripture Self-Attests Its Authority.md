@@ -7,6 +7,7 @@ related:
   - "[[Scripture as the Test of Prophets and Revelation]]"
 sources:
   - "[[Lets Talk w Hayden Carroll - Is the Bible the Final Authority Debate]]"
+  - "[[Lets Talk w Hayden Carroll - Does the Bible Teach Sola Scriptura Debate]]"
 tags: [apologetics, sola-scriptura, authority, tradition/protestant]
 #type/claim
 ---
@@ -33,8 +34,13 @@ Kelly marshals Elder M. Russell Ballard ("the Bible is a miracle... the bedrock 
 ### 5. Reductio: remove the book — rate: rhetorically strong
 Kelly's closing thrust: "Remove the Book of Mormon — would we still have Christianity? Yes. Remove the Bible — would we? No. If Joseph Smith never existed we still have Christianity; remove the Bible and we have no Christianity and no Joseph Smith."[^10] **Assessment:** establishes the Bible's *causal indispensability*, not its *infallibility/ultimacy* — the precise gap Hayden exploits all debate.
 
+## Second Debate — Fryberg's Four-Proposition Case (2026)
+[[Quinn Fryberg]] structures the affirmative as four propositions: scripture is (1) **God-breathed** and so divinely authoritative ([[2 Timothy 3.16-17|2 Tim 3:16-17]], [[2 Peter 1.20-21|2 Pet 1:20-21]], and Jesus treating written scripture as God presently speaking — "Have you not read?"), (2) **sufficient** to equip the church ([[Isaiah 55.10-11|Isa 55:10-11]], "my word... shall not return void"), (3) the **standard testing** competing authorities (Corban, [[Matthew 15.6|Matt 15:3-7]]; the Bereans, [[Acts 17.10-11|Acts 17:11]] — see [[Scripture as the Test of Prophets and Revelation]]), and (4) unaccompanied by any **continuing co-equal infallible authority** ([[Jude 1.3|Jude 3]] "once for all delivered"; [[Ephesians 2.19-22|Eph 2:19-20]]; and Revelation 21's New Jerusalem, whose 12 gates and 12 foundations show "no future revelator" added to the apostolic-prophetic foundation).[^13] His canon epistemology is the affirmative's answer to the recognition problem: "God is the one who decides what is scripture. Not the church... no council" — the church only *recognizes* what God inspired, and the Holy Spirit guides that recognition *infallibly* on the divine side even though the human side is fallible.[^14] **Assessment:** the four propositions robustly establish that scripture is *an* inspired, sufficient, testing authority; Carroll's standing reply is that none of them *identifies the 66-book collection* or shows God designated *it* as the sole infallible rule — the category-vs-collection gap of [[The Canon Question Is Logically Prior to Canon Authority]].
+
 ## Best Quotes
 > "We will start out with the Bible alone, taking it as the standard. Take up the Bible, compare the religion of Latter-day Saints with it, and see if we'll stand the test." (Kelly quoting Brigham Young)[^11]
+
+> "God is the one who decides what is scripture. Not the church, not the LDS church, not any church in history — no council decides what is scripture. The only thing we have to do as a church is to recognize what God has done." (Fryberg)[^14]
 
 > "Without knowing what we have in the scriptures, how would we know what Jesus taught?"[^12]
 
@@ -53,6 +59,8 @@ Kelly's closing thrust: "Remove the Book of Mormon — would we still have Chris
 [^10]: [[Lets Talk w Hayden Carroll - Is the Bible the Final Authority Debate|Let's Talk w/ Hayden Carroll - Is the Bible the Final Authority?]], [38:30], https://youtu.be/x5EbiJLb8U0
 [^11]: [[Lets Talk w Hayden Carroll - Is the Bible the Final Authority Debate|Let's Talk w/ Hayden Carroll - Is the Bible the Final Authority?]], [07:32], https://youtu.be/x5EbiJLb8U0
 [^12]: [[Lets Talk w Hayden Carroll - Is the Bible the Final Authority Debate|Let's Talk w/ Hayden Carroll - Is the Bible the Final Authority?]], [09:00], https://youtu.be/x5EbiJLb8U0
+[^13]: [[Lets Talk w Hayden Carroll - Does the Bible Teach Sola Scriptura Debate|Carroll — Sola Scriptura Debate]], [05:31], https://youtu.be/JVlHP-Tq74A
+[^14]: [[Lets Talk w Hayden Carroll - Does the Bible Teach Sola Scriptura Debate|Carroll — Sola Scriptura Debate]], [34:32], https://youtu.be/JVlHP-Tq74A
 
 ---
-See also: [[Concepts]] · [[Lets Talk w Hayden Carroll - Is the Bible the Final Authority Debate]]
+See also: [[Concepts]] · [[Quinn Fryberg]] · [[Scripture as the Test of Prophets and Revelation]] · [[The Canon Question Is Logically Prior to Canon Authority]] · [[Lets Talk w Hayden Carroll - Is the Bible the Final Authority Debate]] · [[Lets Talk w Hayden Carroll - Does the Bible Teach Sola Scriptura Debate]]

@@ -1,5 +1,5 @@
 ---
-aliases: ["1 John 2", "1 John 2:3-4", "1 John 2:9-11"]
+aliases: ["1 John 2", "1 John 2:3-4", "1 John 2:9-11", "1 John 2:27"]
 tags: [type/scripture, testament/new, topic/discipleship]
 ---
 
@@ -15,8 +15,14 @@ tags: [type/scripture, testament/new, topic/discipleship]
 ## Apologetic / historical application
 [[Andrea Woodmansee]] pairs this with [[Matthew 7.21|Matthew 7:21]] in the "I Never Knew You" episode: the dividing line at the door is not works performed (prophecy, exorcism) but whether one *knows* Christ — and John says we come to know him by keeping his commandments, which is to *love*, using the same verb (*agapaō*) as Matthew 22. See [[Knowing Christ Means Bearing His Image Not Performing Works]].
 
+## Contested use (1 John 2:27)
+> But the anointing which ye have received of him abideth in you, and ye need not that any man teach you. *(1 John 2:27, KJV)*
+
+[[Dan McClellan]] of *Data Over Dogma* lists this verse among the "thought-stopping" passages ("you do not need anyone to teach you") used to dismiss scholarship and end inquiry — noting wryly that "it's nice to be taught some things," since even translating the text requires trained scholars. In context, John's "anointing" reassures the community against specific secessionist false teachers (the "antichrists" of 2:18-19), not a blanket rejection of all instruction. See [[Proverbs 3.5-6 as a Thought-Stopping Cliche]].
+
 ## Used in
 - [[Knowing Christ Means Bearing His Image Not Performing Works]]
+- [[Proverbs 3.5-6 as a Thought-Stopping Cliche]]
 
 ---
-See also: [[Scriptures]] · [[Matthew 7.21]] · [[Matthew 22.37-39]] · [[The Stick of Joseph - I Never Knew You - Jesuss Most Haunting Statement]]
+See also: [[Scriptures]] · [[Matthew 7.21]] · [[Matthew 22.37-39]] · [[The Stick of Joseph - I Never Knew You - Jesuss Most Haunting Statement]] · [[Data Over Dogma - The Verse That Ends Every Argument]]

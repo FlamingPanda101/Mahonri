@@ -17,6 +17,8 @@ This clause (the **Comma Johanneum**) is **absent from the earliest Greek manusc
 - [[1 John 5-7 - Johannine Comma Interpolation]]
 - [[Trinity Is Fundamentally Contradictory]] — the Trinity's only near-explicit biblical "proof text" is itself a later interpolation, consistent with McClellan's thesis that the doctrine was constructed over the 2nd–5th c. CE rather than found in scripture. [^1]
 - [[The Bible Was Transmitted and Canonized by Fallible Human Process]] — a flagship example of a doctrinally significant interpolation
+- [[Erasmus Was Handed a Fabricated Manuscript to Restore the Comma]] — how the clause entered the printed Greek text (Codex Montfortianus)
+- [[What the Deuteronomists Cut Is What the Creeds Replaced]] — the Comma as the New Testament instance of "an institution shaping a text to support a doctrine it needed"
 
 ## References
 [^1]: [[McClellan - The Fundamental Contradiction of the Trinity|Dan McClellan - The Fundamental Contradiction of the Trinity]], [03:00], https://youtu.be/tYNRD2hC4yI

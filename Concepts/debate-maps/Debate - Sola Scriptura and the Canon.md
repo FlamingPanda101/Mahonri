@@ -53,7 +53,8 @@ That said, the affirmative is not without a principled reply: *recognition is po
 
 ## See also
 - [[Ward Radio - Sola Scriptura Debate Rogers vs Horn]] — the central formal debate (Reformed affirmative vs Catholic negative)
-- [[Lets Talk w Hayden Carroll - Is the Bible the Final Authority Debate]] — LDS negative vs Protestant affirmative
+- [[Lets Talk w Hayden Carroll - Is the Bible the Final Authority Debate]] — LDS negative vs Protestant affirmative (Carroll vs Kelly)
+- [[Lets Talk w Hayden Carroll - Does the Bible Teach Sola Scriptura Debate]] — second LDS-negative debate (Carroll vs [[Quinn Fryberg]]): the category-vs-collection pivot, the silent-years canon criterion, the θεόπνευστος lexical dispute, and patristic diversity
 - [[Council of Trent - The Self-Authenticating Canon Refuted]] — Horn & Heschmeyer on self-authentication and the canon
 - [[Council of Trent - The Word of God Fallacy]] — Horn on the load-bearing "word of God" premise
 - [[Lets Talk - Apologetics Course How to Talk to Protestants and Evangelicals]] — Carroll's three-presuppositions method

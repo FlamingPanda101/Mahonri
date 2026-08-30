@@ -43,3 +43,4 @@ If 2 Maccabees 7:28 were truly teaching creation ex nihilo (creation without any
 - [[Retroactive Reinterpretation of Creation Texts]]
 - [[2 Maccabees 7.28 Does Not Teach Creation Ex Nihilo]]
 - [[Creation Ex Nihilo Originated Late 2nd Century CE]]
+- [[Formed the Spirit of Man Implies Pre-Existing Material Not Ex Nihilo]]

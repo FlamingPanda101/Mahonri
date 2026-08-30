@@ -93,9 +93,13 @@ See source note [[Dan McClellan - Seeing the Old Testament Clearly (Dialogue Gos
 ## As Foil: Abortion and Feminism (Thoughtful Faith)
 [[Jacob Hansen]] sharply criticizes McClellan's framing of the pro-life movement as a backlash against feminism and a descendant of Jerry Falwell's segregation politics. Hansen charges this is "dogma, not data" — it erases the unborn ("those little girls"), conflates the feminist waves, and reflects (he claims) a pattern of selecting whatever data "pisses off white evangelical men." Note the irony that elsewhere McClellan is cited *approvingly* in this vault on biblical-studies points; here he is the target. See [[The Pro-Life-as-Anti-Feminism Narrative Is Dogma Not Data]] and source [[Thoughtful Faith - Mormon Beliefs On Abortion Are More Controversial Than You Think]].[^3]
 
+## Twisted Scripture: Proverbs 3:5-6 and Spiritual-Witness Epistemology
+In a *Data Over Dogma* "twisted scripture" episode with [[Dan Beecher]], McClellan dissects [[Proverbs 3.5-6|Proverbs 3:5-6]] ("lean not unto thine own understanding") as a **thought-stopping cliché** and uses it to attack the wider epistemology of "reading with the Holy Spirit." His load-bearing moves: the claim to Spirit-privileged understanding is "the definition of special pleading," disproved by the parity of contradictory sincere readers and reframed via cognitive science as intuition; scripture "has no independent inherent meaning of its own"; and the apologetic "choose to believe, then you'll get the evidence" (John Lennox's red Ferrari) is unfalsifiable, structurally identical to Carl Sagan's invisible dragon. As a believing Latter-day Saint he aims much of this at LDS "burning in the bosom" epistemology. See [[Proverbs 3.5-6 as a Thought-Stopping Cliche]], [[Reading With the Holy Spirit Is Special Pleading]], [[The Bible Has No Inherent Meaning Apart From Interpretation]], and [[Choose to Believe Then Get the Evidence Is Unfalsifiable]]; source note [[Data Over Dogma - The Verse That Ends Every Argument]].
+
 ## Key Sources
 
 - [[Dan McClellan - Seeing the Old Testament Clearly (Dialogue Gospel Study)]] (Dialogue Gospel Study, 2026)
+- [[Data Over Dogma - The Verse That Ends Every Argument]] (Data Over Dogma, 2025)
 - [[Dan McClellan - The Word Room Genesis 1 and 2 Response]] (YouTube, 2026)
 - [[Dan McClellan - Wes Huff Creation Ex Nihilo Response]] (YouTube, 2025)
 - [[Dan McClellan - Apologetics Cannot Rescue Biblical Contradictions]] (YouTube)

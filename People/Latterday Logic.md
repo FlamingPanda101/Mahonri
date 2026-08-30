@@ -24,7 +24,7 @@ He deployed [[Hayden Carroll]]'s [[The Button Thought Experiment for the Problem
 
 ## References
 [^1]: [[WARD RADIO - Sam Shamoun and the Las Vegas Miracle|Ward Radio — Las Vegas Miracle]], [08:30], https://youtu.be/q7D1fn_o6u8
-[^2]: [[WARD RADIO - Sam Shamoun and the Las Vegas Miracle|Ward Radio — Las Vegas Miracle]], [38:30], https://youtu.be/q7D1fn_o6u8
+[^2]: [[WARD RADIO - Sam Shamoun and the Las Vegas Miracle|Ward Radio — Las Vegas Miracle]], [38:00], https://youtu.be/q7D1fn_o6u8
 
 ---
 See also: [[People]] · [[Ward Radio]] · [[Gospel Guardian]] · [[Sam Shamoun]]

@@ -13,6 +13,9 @@ John Lennox is an Emeritus Professor of Mathematics at the University of Oxford 
 
 In this debate he represents biblical Christianity against [[Richard Dawkins]], arguing that the divide between them "is not science. We are both committed to it. What divides us is our worldviews."[^3] His characteristic moves include distinguishing evidence-based from blind faith, running the [[Atheism Undercuts the Rationality Science Requires|argument from reason]] against materialism, exposing the "who designed the designer" question as aimed only at *created* gods, and grounding objective morality and justice in God and the resurrection.
 
+## As Foil: The Red Ferrari Analogy
+In a *Diary of a CEO* interview, Lennox answered a skeptic's demand for evidence of God with an analogy: there is a red Ferrari parked outside just for you, and arguing on the couch will never settle it — "you just have to get up and go look," and once you sincerely commit you will find it is true. [[Dan McClellan]] and [[Dan Beecher]] critique this as unfalsifiable — structurally identical to [[Carl Sagan]]'s "invisible dragon in the garage" — because sincere seekers who look and find nothing are told "you didn't really try." The apologetic rejoinder is that Lennox is describing legitimate knowledge-by-acquaintance ("O taste and see," Ps 34:8; John 7:17), and that the Christian case is not *only* commit-then-see. See [[Choose to Believe Then Get the Evidence Is Unfalsifiable]] and source note [[Data Over Dogma - The Verse That Ends Every Argument]].
+
 ## Sources
 [^1]: [[Dawkins vs Lennox - The God Delusion Debate|Dawkins vs Lennox]], [13:31]–[14:31], https://youtu.be/zF5bPI92-5o
 [^2]: [[Dawkins vs Lennox - The God Delusion Debate|Dawkins vs Lennox]], [14:31]–[15:34], https://youtu.be/zF5bPI92-5o

@@ -7,6 +7,7 @@ related:
   - "[[Authorization - Divine Designation Required for an Infallible Canon]]"
 sources:
   - "[[Lets Talk w Hayden Carroll - Is the Bible the Final Authority Debate]]"
+  - "[[Lets Talk w Hayden Carroll - Does the Bible Teach Sola Scriptura Debate]]"
 tags: [apologetics, sola-scriptura, prophets, continuing-revelation, tradition/protestant]
 #type/claim
 ---
@@ -30,8 +31,13 @@ Kelly's closing names Joseph Smith alongside Charles Taze Russell, Ellen G. Whit
 ### 4. Hayden's counter-mechanism — rate: the live-authority alternative
 Pressed on how *he* tests a prophet, Hayden answers: the same way first-century Christians verified Peter or Paul — by a personal/spiritual experience and faith.[^7] Kelly turns this against him via the spirit-witness reliability problem: believers who accepted Tobit/Wisdom also "thought they were being Spirit-led."[^8] See [[The Church Once Accepted Books It Later Rejected]] and [[No Final Interpreter - The Protestant Adjudication Problem]]. The exchange exposes the core LDS-vs-Protestant fault line: *living authorized witness* vs. *fixed written standard*.
 
+### 5. Fryberg's Corban + Berea pattern (2026 debate) — rate: strong proof-texts, same limit
+In the [[Lets Talk w Hayden Carroll - Does the Bible Teach Sola Scriptura Debate|Fryberg debate]] the affirmative gives this argument its cleanest two-example form. **Corban** ([[Matthew 15.6|Matthew 15:3-7]]): Jesus does not reject religious tradition as a category but *evaluates* it by the written word — "by this you invalidate the word of God for the sake of your tradition" — so scripture judges even revered religious authority. **Berea** ([[Acts 17.10-11|Acts 17:11]]): the Bereans are *commended* for testing an apostle's (Paul's) preaching against the written scriptures, and "Paul does not rebuke them for testing even apostolic preaching by the scripture."[^10] **Assessment / Carroll's reply:** the Corban and Berea texts show scripture used as *a* standard by first-century Jews who already recognized the Tanakh; they do not designate the *modern 66-book collection* as the *sole infallible* rule — the resolution's actual burden (see [[The Canon Question Is Logically Prior to Canon Authority]]).
+
 ## Best Quotes
 > "Sola scriptura is the standard to know true doctrine from false doctrine... to know if a person claims divine revelation lines up with the scriptures... to test supernatural experiences to see if it's from God or the devil."[^3]
+
+> "Tradition is tested. Teaching is tested. Religious authority is tested. Again and again, scripture functions as the standard by which competing claims are judged." (Fryberg)[^11]
 
 > "Has God given us something today to know whether or not someone like a Joseph Smith, a Charles Taze Russell, an Ellen G. White... a Jim Jones, a whoever who claims to be a modern prophet — has he given us something we can examine? I believe the answer is clearly yes."[^6]
 
@@ -47,6 +53,8 @@ Pressed on how *he* tests a prophet, Hayden answers: the same way first-century 
 [^7]: [[Lets Talk w Hayden Carroll - Is the Bible the Final Authority Debate|Let's Talk w/ Hayden Carroll - Is the Bible the Final Authority?]], [56:32], https://youtu.be/x5EbiJLb8U0
 [^8]: [[Lets Talk w Hayden Carroll - Is the Bible the Final Authority Debate|Let's Talk w/ Hayden Carroll - Is the Bible the Final Authority?]], [65:31], https://youtu.be/x5EbiJLb8U0
 [^9]: [[Lets Talk w Hayden Carroll - Is the Bible the Final Authority Debate|Let's Talk w/ Hayden Carroll - Is the Bible the Final Authority?]], [69:00], https://youtu.be/x5EbiJLb8U0
+[^10]: [[Lets Talk w Hayden Carroll - Does the Bible Teach Sola Scriptura Debate|Carroll — Sola Scriptura Debate]], [13:30], https://youtu.be/JVlHP-Tq74A
+[^11]: [[Lets Talk w Hayden Carroll - Does the Bible Teach Sola Scriptura Debate|Carroll — Sola Scriptura Debate]], [15:00], https://youtu.be/JVlHP-Tq74A
 
 ---
-See also: [[Concepts]] · [[Lets Talk w Hayden Carroll - Is the Bible the Final Authority Debate]]
+See also: [[Concepts]] · [[Quinn Fryberg]] · [[Matthew 15.6|Matthew 15:6]] · [[Acts 17.10-11|Acts 17:11]] · [[Lets Talk w Hayden Carroll - Is the Bible the Final Authority Debate]] · [[Lets Talk w Hayden Carroll - Does the Bible Teach Sola Scriptura Debate]]

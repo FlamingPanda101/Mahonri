@@ -23,6 +23,7 @@ Dan McClellan and Dan Beecher of *Data Over Dogma* argue that **[[Proverbs 3.5-6
 2. **The hosts name the mechanism precisely.** They classify it as a "thought-stopping cliché" — a rhetorical move that ends inquiry rather than answering it, equivalent to "I'm right and you're wrong, the end."[^3] *(Evidence rating: Moderate — an apt description, not a data claim; Argument weight: Primary.)*
 3. **Scholarship agrees the verse is not anti-intellectual.** McClellan quotes the Hermeneia series: Proverbs 3:5 poses "a fundamental question. Is human insight the point of departure for sapiential reflection or does wisdom ultimately come from Adonai?" — a question about the *source* of wisdom, kin to [[Job]] and Ecclesiastes, dating to the Persian or Hellenistic period.[^2] *(Evidence rating: Strong — mainstream wisdom-literature scholarship; Argument weight: Secondary.)*
 4. **The abuse has an ugly pedigree.** McClellan observes that on a wooden "lean not on your own understanding" reading, "slavery should be a-okay," and that abolitionists were "beyond a shadow of a doubt... frequently told to trust in the Lord and lean not on their own understanding" when they called slavery evil.[^4] *(Evidence rating: Moderate — historically plausible, asserted without citation; Argument weight: Secondary.)* See [[The Bible Has No Inherent Meaning Apart From Interpretation]].
+5. **A whole roster of trump-card verses.** McClellan catalogues the sibling passages pressed into the same service: [[Matthew 11.25-26|Matthew 11:25]] / Luke 10:21 ("hid... from the wise... revealed... unto babes"), [[1 Corinthians 2.9-16|1 Corinthians 2:14]] ("the natural man... spiritually discerned"), and [[1 John 2|1 John 2:27]] ("ye need not that any man teach you") — each deployable to place the objector out of bounds without an answer.[^6] *(Evidence rating: Moderate; Argument weight: Secondary.)* See [[Reading With the Holy Spirit Is Special Pleading]].
 
 ## Best Quotes
 > "Trust in the Lord with all your heart and lean not on your own understanding. In all your ways acknowledge him and he shall direct your paths." *(KJV, as read on the episode)*[^5]
@@ -45,6 +46,7 @@ McClellan is himself a Latter-day Saint, so this is an in-house critique as much
 [^3]: [[Data Over Dogma - The Verse That Ends Every Argument|Data Over Dogma — Verse That Ends Every Argument]], [23:32], https://youtu.be/VmoIWsXG2nA
 [^4]: [[Data Over Dogma - The Verse That Ends Every Argument|Data Over Dogma — Verse That Ends Every Argument]], [06:30], https://youtu.be/VmoIWsXG2nA
 [^5]: [[Data Over Dogma - The Verse That Ends Every Argument|Data Over Dogma — Verse That Ends Every Argument]], [02:30], https://youtu.be/VmoIWsXG2nA
+[^6]: [[Data Over Dogma - The Verse That Ends Every Argument|Data Over Dogma — Verse That Ends Every Argument]], [29:00], https://youtu.be/VmoIWsXG2nA
 
 ---
-See also: [[Concepts]] · [[Proverbs 3.5-6|Proverbs 3:5-6]] · [[Dan McClellan]] · [[Dan Beecher]] · [[Data Over Dogma - The Verse That Ends Every Argument]]
+See also: [[Concepts]] · [[Proverbs 3.5-6|Proverbs 3:5-6]] · [[Matthew 11.25-26|Matthew 11:25]] · [[Dan McClellan]] · [[Dan Beecher]] · [[Data Over Dogma - The Verse That Ends Every Argument]]

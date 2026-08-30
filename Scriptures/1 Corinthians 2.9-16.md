@@ -10,9 +10,14 @@ tags: [type/scripture, testament/new, scripture/pauline-epistles]
 ## In context
 Paul tells the "highly rational Greeks" at Corinth that the deepest realities of God are not delivered by human wisdom/argument but **revealed by the Spirit** and **spiritually discerned**. The Thoughtful Faith host marshals this as a New Testament witness for his thesis that the foundation of knowledge is spiritual experience rather than rational demonstration — the "natural man" who relies on reason alone "cannot know" the things of the Spirit.
 
+## Contested use
+The same verse is marshaled from the *critical* side: [[Dan McClellan]] of *Data Over Dogma* lists v.14 among the "thought-stopping" passages used to place an objector out of bounds — the "natural man" who reasons is told he "cannot know" spiritual things — and argues this is special pleading, an unfalsifiable claim to privileged epistemic access. See [[Reading With the Holy Spirit Is Special Pleading]].
+
 ## Used in
 - [[Thoughtful Faith - Is Reason Fundamental (Epistemology 1.1)]]
 - [[Perfect Certainty of Experience Not of Interpretation]]
+- [[Reading With the Holy Spirit Is Special Pleading]]
+- [[Proverbs 3.5-6 as a Thought-Stopping Cliche]]
 
 ---
-See also: [[Scriptures]]
+See also: [[Scriptures]] · [[Data Over Dogma - The Verse That Ends Every Argument]]

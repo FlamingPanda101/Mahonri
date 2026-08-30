@@ -45,6 +45,7 @@ The scholarly consensus (May, Goldstein, Winston, Bockmuehl, Anderson, Hubler) h
 - [[Retroactive Reinterpretation of Creation Texts]]
 - [[Greco-Roman Jewish Creation View Was Material Substrate]]
 - [[Creation Ex Nihilo Originated Late 2nd Century CE]]
+- [[Formed the Spirit of Man Implies Pre-Existing Material Not Ex Nihilo]]
 
 ## Key Scholars on This Verse
 

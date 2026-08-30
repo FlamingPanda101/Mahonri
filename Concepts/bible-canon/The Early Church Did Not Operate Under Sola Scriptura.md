@@ -50,6 +50,8 @@ The Fryberg–Carroll debate is a compact instance of the same battleground, wit
 [^3]: [[Ward Radio - Sola Scriptura Debate Rogers vs Horn|Sola Scriptura Debate - Rogers vs Horn]], [61:31], https://youtu.be/_J1xk13NSUs
 [^4]: [[Ward Radio - Sola Scriptura Debate Rogers vs Horn|Sola Scriptura Debate - Rogers vs Horn]], [86:01], https://youtu.be/_J1xk13NSUs
 [^5]: [[Ward Radio - Sola Scriptura Debate Rogers vs Horn|Sola Scriptura Debate - Rogers vs Horn]], [37:30], https://youtu.be/_J1xk13NSUs
+[^6]: [[Lets Talk w Hayden Carroll - Does the Bible Teach Sola Scriptura Debate|Carroll — Sola Scriptura Debate]], [88:32], https://youtu.be/JVlHP-Tq74A
+[^7]: [[Lets Talk w Hayden Carroll - Does the Bible Teach Sola Scriptura Debate|Carroll — Sola Scriptura Debate]], [100:30], https://youtu.be/JVlHP-Tq74A
 
 ---
-See also: [[Concepts]] · [[Trent Horn]] · [[Irenaeus of Lyons]] · [[Ignatius of Antioch]] · [[Augustine]] · [[Ward Radio - Sola Scriptura Debate Rogers vs Horn]]
+See also: [[Concepts]] · [[Trent Horn]] · [[Irenaeus of Lyons]] · [[Ignatius of Antioch]] · [[Augustine]] · [[Basil the Great]] · [[Cyril of Jerusalem]] · [[Quinn Fryberg]] · [[Ward Radio - Sola Scriptura Debate Rogers vs Horn]] · [[Lets Talk w Hayden Carroll - Does the Bible Teach Sola Scriptura Debate]]
