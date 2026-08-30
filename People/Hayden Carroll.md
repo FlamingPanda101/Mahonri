@@ -83,6 +83,9 @@ In a Stick of Joseph monologue, Carroll answers the evangelical polemic — voic
 ### Top 5 Questions Atheists Cannot Answer (Ward Radio, with Jacob Hansen)
 On a Ward Radio panel hosted by [[Cardon Ellis]], Carroll teamed with [[Jacob Hansen]] to steelman and answer six atheist objections — gratuitous suffering, the Bible's "terrible morality" (the Amalekites), biblical sexism, insufficient evidence for the Resurrection, the claim that Jesus never claimed deity in the synoptics, and divine hiddenness — as a live exercise in [[Apologetics Is Socratic and Aimed at the Audience Not the Interlocutor|turning statements into questions]]. His signature contributions: the **by-what-standard** challenge to atheist moral judgments, the **reliability double standard** on the slaughter texts, and the **author-intent / worship / blasphemy** triad showing the synoptic authors portray Jesus as more than a man. See [[By What Standard - Morality Requires an Objective Standard]] and [[The Sanhedrin Blasphemy Charge Presupposes the Enochic Son of Man]].[^12]
 
+### Rethinking Same-Sex Attraction Panel (with Dr. Jeff Robinson)
+Carroll hosts a Pride-Month panel with therapist [[Jeff Robinson]], educator [[Andrew Robinson]], and [[Timber Harvard|Timber Harward]], applying his signature assumption-questioning method to same-sex attraction: he presses the group toward the "most fair" framing that the ultimate cause is unknown, draws out the label critique, and steers toward pastoral application. See [[Same-Sex Attraction Is Something a Person Learns to Do Not an Innate Identity]], [[Adopting the Gay Label Hinders Discipleship]], and [[Pride Is Not the Antidote to Shame]].[^13]
+
 [^1]: [[Stick of Joseph - Atheism is Unreasonable and Stupid|Stick of Joseph - Atheism is Unreasonable and Stupid]], [00:31]–[01:30],
 https://youtu.be/aqOzROuIAHM
 
@@ -113,5 +116,7 @@ https://youtu.be/aqOzROuIAHM
 
 [^12]: [[Ward Radio - The Top 5 Questions Atheists CANNOT Answer|Ward Radio - Questions Atheists Cannot Answer]], [44:00], https://youtu.be/QYtTdc5XNxc
 
+[^13]: [[Lets Talk w Hayden Carroll - Rethinking Same-Sex Attraction|Carroll — Rethinking SSA]], [10:31], https://youtu.be/PnHPRkY8BSc
+
 ---
-See also: [[People]] · [[Stick of Joseph]] · [[Cliff Knechtel]] · [[Jacob Hansen]] · [[Ward Radio - The Top 5 Questions Atheists CANNOT Answer]] · [[The Stick of Joseph - Biblical Evidence That Jesus and Satan Are Brothers]]
+See also: [[People]] · [[Stick of Joseph]] · [[Cliff Knechtel]] · [[Jacob Hansen]] · [[Ward Radio - The Top 5 Questions Atheists CANNOT Answer]] · [[The Stick of Joseph - Biblical Evidence That Jesus and Satan Are Brothers]] · [[Lets Talk w Hayden Carroll - Rethinking Same-Sex Attraction]]

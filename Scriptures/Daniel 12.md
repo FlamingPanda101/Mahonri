@@ -13,6 +13,7 @@ One of the **latest layers of the Hebrew Bible**, written in the middle of the 2
 
 ## Used in
 - [[Divine Punishment in the Afterlife Emerged as Theodicy Under Imperial Oppression]]
+- [[Bodily Resurrection Emerged as the Answer to the Maccabean Theodicy Crisis]] — Daniel 12:2 as the canon's clearest resurrection statement, arising ~165 BC (John Collins)
 
 ---
 See also: [[Scriptures]] · [[Isaiah 66.24]] · [[Data Over Dogma - Is Hell Actually in the Bible]]

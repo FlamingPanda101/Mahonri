@@ -42,14 +42,14 @@ The debate's anti-Enoch speaker claimed 1 Enoch "was written after" the canon wa
 When the anti-Enoch speaker pivoted to "so technically that means it was added," McClellan notes this is the same category mistake in reverse: there was no bound Bible to add to either.[^3] Addition and subtraction both presuppose the very fixed boundary that did not yet exist.
 
 ### 5. The "warns against adding" verses are book-specific — Evidence rating: Strong
-The appeal that scripture "warns you of false prophets… when people try to add things" invokes [[Deuteronomy 4.2|Deuteronomy 4:2]] or [[Revelation 22.18-19|Revelation 22:18–19]]. McClellan: "they're actually talking about their own books not the entire Bible because the Bible didn't exist when these texts were being written."[^8] The vault develops this rebuttal at length in [[Revelation 22 - Add or Take Away Rebutted]].
+The appeal that scripture "warns you of false prophets… when people try to add things" invokes [[Deuteronomy 4.2|Deuteronomy 4:2]] or [[Revelation 22.18-19|Revelation 22:18–19]].[^8] McClellan: "they're actually talking about their own books not the entire Bible because the Bible didn't exist when these texts were being written."[^10] The vault develops this rebuttal at length in [[Revelation 22 - Add or Take Away Rebutted]].
 
 ### 6. What the popular claim gets right — Argument weight: Secondary
 McClellan repeatedly concedes the kernel of truth: 1 Enoch really was "considered inspired scripture by many early Jewish and early Christian folks, including very authoritative early Christians."[^2] [[Jude 1.14-15|Jude]] quotes it as prophecy (see [[Book of Enoch - Quoted as Scripture in Jude]]); [[Tertullian]] defended it; it is preserved in more Dead Sea Scrolls copies than all but ~5–6 books of the Hebrew Bible (see [[Book of Enoch - Dead Sea Scrolls Attestation]]). The intuition "this was treated as scripture" is sound; only the word "Bible" is anachronistic.
 
 ## Best Quotes
 
-> "It would not be accurate to say it was taken out of the Bible because First Enoch fell out of favor with all Jewish authorities and almost all Christian authorities before we could speak of this thing that we call the Bible."[^1]
+> "It would not be accurate to say it was taken out of the Bible because First Enoch fell out of favor with all Jewish authorities and almost all Christian authorities before we could speak of this thing that we call the Bible."[^9]
 
 > "So, when the Bible was created, First Enoch was not there."[^5]
 
@@ -69,12 +69,14 @@ The fluid, unbound state of early "scripture" is congenial to the Latter-day Sai
 
 [^1]: [[Dan McClellan - Was the Book of Enoch Taken Out of the Bible|McClellan — Enoch Not Taken Out]], [00:32], https://youtu.be/PWtJ_fIlqiY
 [^2]: [[Dan McClellan - Was the Book of Enoch Taken Out of the Bible|McClellan — Enoch Not Taken Out]], [08:01], https://youtu.be/PWtJ_fIlqiY
-[^3]: [[Dan McClellan - Was the Book of Enoch Taken Out of the Bible|McClellan — Enoch Not Taken Out]], [10:52], https://youtu.be/PWtJ_fIlqiY
+[^3]: [[Dan McClellan - Was the Book of Enoch Taken Out of the Bible|McClellan — Enoch Not Taken Out]], [10:30], https://youtu.be/PWtJ_fIlqiY
 [^4]: [[Dan McClellan - Was the Book of Enoch Taken Out of the Bible|McClellan — Enoch Not Taken Out]], [07:32], https://youtu.be/PWtJ_fIlqiY
 [^5]: [[Dan McClellan - Was the Book of Enoch Taken Out of the Bible|McClellan — Enoch Not Taken Out]], [01:00], https://youtu.be/PWtJ_fIlqiY
 [^6]: [[Dan McClellan - Was the Book of Enoch Taken Out of the Bible|McClellan — Enoch Not Taken Out]], [09:01], https://youtu.be/PWtJ_fIlqiY
 [^7]: [[Dan McClellan - Was the Book of Enoch Taken Out of the Bible|McClellan — Enoch Not Taken Out]], [09:32], https://youtu.be/PWtJ_fIlqiY
 [^8]: [[Dan McClellan - Was the Book of Enoch Taken Out of the Bible|McClellan — Enoch Not Taken Out]], [11:30], https://youtu.be/PWtJ_fIlqiY
+[^9]: [[Dan McClellan - Was the Book of Enoch Taken Out of the Bible|McClellan — Enoch Not Taken Out]], [00:00], https://youtu.be/PWtJ_fIlqiY
+[^10]: [[Dan McClellan - Was the Book of Enoch Taken Out of the Bible|McClellan — Enoch Not Taken Out]], [12:01], https://youtu.be/PWtJ_fIlqiY
 
 ---
 See also: [[Concepts]] · [[Dan McClellan]] · [[Scripture Was a Broader Category Than the Bible - The Anachronism of a Closed Canon]] · [[Book of Enoch - Exclusion from the Canon]]

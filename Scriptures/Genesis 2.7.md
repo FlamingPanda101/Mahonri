@@ -14,6 +14,7 @@ A key proof text in patristic debates over human nature. [[Irenaeus of Lyons]] r
 - [[Image of God - Patristic Interpretations]]
 - [[Irenaeus on the Fall as Childlike Growth Not Corruption]]
 - [[Origen on the Preexistence and Fall of Souls]]
+- [[The Hebrew Person Is a Psychophysical Unity Not a Soul in a Body]] — the *nephesh* / "became a living soul" reading (grammar of becoming, not receiving)
 
 ---
 See also: [[Scriptures]] · [[Genesis 1.26-27]]

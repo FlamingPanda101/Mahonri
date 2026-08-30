@@ -14,6 +14,7 @@ tags: [scripture/new-testament]
 ## Used in
 - [[God Gives Enough Evidence to Seek Not to Compel]]
 - [[Facsimile 3 Identifications Vindicate Joseph Smith by Coincidence]]
+- [[The New Testament Prooftexts for the Soul Going Straight to Heaven Reconsidered]] — the rich man and Lazarus as a parable depicting the *intermediate* state (neither figure is resurrected), not a final destination
 
 ---
 See also: [[Scriptures]]

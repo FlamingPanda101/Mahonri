@@ -30,8 +30,16 @@ Nelson's daughter [[Brenda Miles]] and son-in-law [[Richard Miles]] were accused
 ## Blamed for the Adams abuse case (Part 6)
 Part 6 documents how journalist [[Michael Rezendes]] framed the [[Paul Adams]] abuse case — in which an inactive lay member abused his own daughters and the bishop urged reporting — as Nelson's institutional failure, and how the [[We Are the People Utah]] podcast folds it into the satanic-ritual-abuse narrative. See [[The Spotlight Analogy Equates a Celibate Cardinal With a Volunteer Bishop]]. [^4]
 
+## On labels and same-sex attraction
+On [[Hayden Carroll]]'s panel, [[Andrew Robinson]] and [[Timber Harvard|Timber Harward]]
+credit President Nelson's teaching on labels: when any secondary label ("gay") displaces the
+primary ones — son of God, disciple of Christ, child of the covenant — "that's where we start
+to go sideways." The panel treats this counsel as central to helping members who experience
+same-sex attraction. See [[Adopting the Gay Label Hinders Discipleship]]. [^5]
+
 ---
 [^1]: [[Informed Saints - The Surprising REAL Reason People Are Leaving The Church|Informed Saints - Why People Are Leaving The Church]], [38:31]–[39:32], https://youtu.be/7IMZGScnEok
 [^2]: [[Ward Radio - The Fever Breaks|WARD RADIO - The Fever Breaks]], [19:00]–[19:30], https://youtu.be/2UoN5ORSN20
 [^3]: [[Ward Radio - The LDS Spotlight Scandal Part 5|WARD RADIO - The LDS Spotlight Scandal? (Part 5)]], [03:00]–[14:00], https://youtu.be/AgS48e3fTCc
 [^4]: [[Ward Radio - The LDS Spotlight Scandal Part 6|WARD RADIO - The LDS Spotlight Scandal? (Part 6)]], [05:30]–[07:00], https://youtu.be/MFGNeNhl65s
+[^5]: [[Lets Talk w Hayden Carroll - Rethinking Same-Sex Attraction|Carroll — Rethinking SSA]], [24:31], https://youtu.be/PnHPRkY8BSc

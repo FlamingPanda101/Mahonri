@@ -16,9 +16,17 @@ Latter-day Saint apostle (ordained 1984) and member of the First Presidency; for
 
 Laughton uses these to argue the restored church is "circling back toward" the authority ancient Christian women held as missionaries, teachers, deacons, and apostles (in Paul's broad sense). See [[Women Led the First-Century Church as Apostles Deacons and Patrons]] and [[Greco-Roman Gender Roles Pushed Women Out of Church Office]].
 
+## On labeling homosexuality — adjective, not noun
+On [[Hayden Carroll]]'s panel on same-sex attraction, [[Andrew Robinson]] quotes President
+Oaks teaching that "homosexuality... is not a noun that describes a condition. It's an
+adjective that describes feelings or behavior," and notes Oaks trained religious educators
+(2013) to help students identify and reframe cultural assumptions. This anchors the vault's
+label critique. See [[Adopting the Gay Label Hinders Discipleship]].[^3]
+
 ## References
 [^1]: [[Ancient Christians - An Introduction for Latter-day Saints|Ancient Christians (Maxwell Institute, 2022)]], pp. 138-139.
 [^2]: [[Ancient Christians - An Introduction for Latter-day Saints|Ancient Christians (Maxwell Institute, 2022)]], p. 139.
+[^3]: [[Lets Talk w Hayden Carroll - Rethinking Same-Sex Attraction|Carroll — Rethinking SSA]], [42:31], https://youtu.be/PnHPRkY8BSc
 
 ---
 See also: [[People]] · [[Ariel Bybee Laughton]] · [[Russell M. Nelson]]

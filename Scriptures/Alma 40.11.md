@@ -13,6 +13,7 @@ Alma's revelation on the **intermediate state**: the moment the spirit leaves th
 ## Used in
 - [[NDE - New Views of Death]]
 - [[NDE - Corroboration of Veridical Details]]
+- [[LDS Resurrection Doctrine Recovers the Hebrew Whole-Person Framework]] — the spirit world as the intermediate state before the resurrection reunites spirit and body
 
 ---
 See also: [[Scriptures]]

@@ -16,8 +16,11 @@ German Lutheran theologian and church historian (1851–1930), among the most in
 
 Note: the vault's [[Hellenization Was Not Corruption of an Original Pure Church]] records the counter-scholarship (Combs, via Elizabeth A. Clark) that Harnack's Hellenization-as-corruption model was itself shaped by 19th-century anti-Catholicism — so Harnack is cited by *both* sides of the vault's Hellenization debate.
 
+In a second episode, "[[Moronis Standard - Resurrection of the Body vs the Immortal Soul|Resurrection of the Body vs the Immortal Soul]]," Arnold applies the same "acute Hellenization" thesis specifically to the afterlife: the body-as-prison, death-as-liberation framework is "Plato's rather than the Bible's," imported by the second-century apologists and never cleanly reconciled with the creeds' affirmation of bodily resurrection.[^2] See [[The Immortal Soul Is a Platonic Import Not a Biblical Doctrine]].
+
 ## References
 [^1]: [[Moronis Standard - Christianitys Creedal Doctrine Does Not Come From the Bible|Moroni's Standard - Creeds from Philosophy]], [20:31]–[21:00], https://youtu.be/sHipHfyYv18
+[^2]: [[Moronis Standard - Resurrection of the Body vs the Immortal Soul|Moroni's Standard — Resurrection of the Body]], [13:00], https://youtu.be/yZbYQ6aMYqI
 
 ---
-See also: [[People]] · [[Translation Versus Transformation - The Order of Operations in Hellenization]] · [[Hellenization Was Not Corruption of an Original Pure Church]]
+See also: [[People]] · [[Translation Versus Transformation - The Order of Operations in Hellenization]] · [[Hellenization Was Not Corruption of an Original Pure Church]] · [[The Immortal Soul Is a Platonic Import Not a Biblical Doctrine]]

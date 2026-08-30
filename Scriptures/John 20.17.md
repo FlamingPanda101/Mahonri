@@ -12,6 +12,7 @@ The resurrected Jesus to Mary Magdalene. Day and Butler use this to argue Jesus 
 ## Used in
 - [[Loss of the Divine Family Is the Core Apostasy]]
 - [[Ward Radio - The Great Apostasy Deep Dive with Mike Day and Dave Butler]]
+- [[The New Testament Prooftexts for the Soul Going Straight to Heaven Reconsidered]] — "not yet ascended to my Father" shows the intermediate state is distinct from the Father's final presence
 
 ---
 See also: [[Scriptures]] · [[John 17.3|John 17:3]] · [[John 1.12|John 1:12]]

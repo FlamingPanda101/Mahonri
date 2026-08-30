@@ -36,11 +36,21 @@ the convergence evidence in its proper place. See
 
 Ward Radio Part 5 lists Benson as one of the LDS leaders the [[We Are the People Utah]] podcast accuses, without evidence, of involvement in satanic ritual abuse (alongside [[Russell M. Nelson]], [[Thomas Monson]], [[Gordon B. Hinckley]], and [[Neil A. Maxwell]]). See [[Accusations Cannot Transmute Into Evidence]].[^3]
 
+## Pride as enmity — cited against "gay pride"
+
+[[Andrew Robinson]] and [[Timber Harvard|Timber Harward]], in their article "[gay] pride is
+not the antidote to shame," invoke President Benson's classic teaching that pride is
+*enmity* — toward God and toward one's neighbor — making pride "the exact opposite of love."
+On [[Hayden Carroll]]'s panel the point is used to argue that gay pride cannot cure the shame
+many with same-sex attraction carry; only humility and charity can. See [[Pride Is Not the
+Antidote to Shame]].[^4]
+
 ## References
 
 [^1]: [[Holy Rebellion - Anachronisms DNA and Archaeology in the Book of Mormon|Holy Rebellion - Anachronisms DNA and Archaeology]], [120:00]-[120:31], https://youtu.be/J_bwYwApMfE
 [^2]: [[Holy Rebellion - Anachronisms DNA and Archaeology in the Book of Mormon|Holy Rebellion - Anachronisms DNA and Archaeology]], [120:00]-[120:31], https://youtu.be/J_bwYwApMfE
 [^3]: [[Ward Radio - The LDS Spotlight Scandal Part 5|WARD RADIO - The LDS Spotlight Scandal? (Part 5)]], [15:00]–[16:00], https://youtu.be/AgS48e3fTCc
+[^4]: [[Lets Talk w Hayden Carroll - Rethinking Same-Sex Attraction|Carroll — Rethinking SSA]], [51:00], https://youtu.be/PnHPRkY8BSc
 
 ---
 See also: [[People]] · [[Authority Ledger]]

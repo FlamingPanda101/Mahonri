@@ -17,9 +17,13 @@ Alex Arnold hosts the YouTube channel *Moroni Standard*, where he defends the Bo
 ## On the Evidence for the Book of Mormon
 In "[[Moroni Standard - The Evidence for the Book of Mormon|The Evidence for the Book of Mormon]]" Arnold rebuts the "zero evidence" slogan by assembling multiple independent lines: the shrinking anachronism list, Isaiah variants matching the Dead Sea Scrolls, the dictation feat, stylometry, chiasmus, the Nahom inscription, and Deuteronomistic-reform theology. See [[Zero Evidence Claim for the Book of Mormon Rebutted]] and [[Nahom Inscription Confirms the Book of Mormon Geography]].[^1] He frames the argument so that the burden falls on critics to explain specific data points rather than dismiss the whole category, while conceding "we don't claim that the evidence proves the church."[^2]
 
+## On Resurrection and the Immortal Soul
+In "[[Moronis Standard - Resurrection of the Body vs the Immortal Soul|Resurrection of the Body vs the Immortal Soul]]" Arnold argues that Creedal Christianity recites "the resurrection of the body" while operationally believing Platonic soul-immortality, and that the LDS framework recovers the displaced Hebrew whole-person anthropology. Consistent with his stated method, he leans almost entirely on non-LDS scholars ([[N.T. Wright]], [[Jon Levenson]], [[John Collins]], [[George Nickelsburg]], [[Caroline Walker Bynum]], [[Oscar Cullmann]], [[Philip Johnston]]) and concedes the case is "a starting point, not a complete case."[^3] See [[Soul Immortality and Bodily Resurrection Are Incompatible Traditions]].
+
 ## References
 [^1]: [[Moroni Standard - The Evidence for the Book of Mormon|Moroni Standard - The Evidence for the Book of Mormon]], [01:31], https://youtu.be/6Ge56dRvBoI
 [^2]: [[Moroni Standard - The Evidence for the Book of Mormon|Moroni Standard - The Evidence for the Book of Mormon]], [17:31], https://youtu.be/6Ge56dRvBoI
+[^3]: [[Moronis Standard - Resurrection of the Body vs the Immortal Soul|Moroni's Standard — Resurrection of the Body]], [03:31], https://youtu.be/yZbYQ6aMYqI
 
 ---
-See also: [[People]] · [[Authority Ledger]] · [[Moroni Standard - The Evidence for the Book of Mormon]]
+See also: [[People]] · [[Authority Ledger]] · [[Moroni Standard - The Evidence for the Book of Mormon]] · [[Moronis Standard - Resurrection of the Body vs the Immortal Soul]]

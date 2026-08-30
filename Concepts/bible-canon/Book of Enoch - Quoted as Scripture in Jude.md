@@ -43,7 +43,7 @@ The fact that 1 Enoch was widely copied at Qumran (11 fragmentary manuscripts, o
 **Evidence rating: primary** — material evidence from Qumran
 
 ### 5. Jude May Have Drawn on an Independently Circulating Book of the Watchers
-[[Dan McClellan]] specifies that what Jude cites as "the prophecy of Enoch, the seventh from Adam" is drawn from **the Book of the Watchers** (1 Enoch 1–36), and adds a text-critical caution: "the Book of Watchers may have existed independently of the rest of First Enoch when the author of the letter of Jude wrote." [^3] So Jude's endorsement need not extend to all 108 chapters of the later composite 1 Enoch — it minimally establishes that the Watchers material was received as inspired prophecy. McClellan also notes that [[Tertullian]], defending 1 Enoch in the late 2nd century, clinched his case the same way: "we have the testimony of Jude that this is prophecy." [^3]
+[[Dan McClellan]] specifies that what Jude cites as "the prophecy of Enoch, the seventh from Adam" is drawn from **the Book of the Watchers** (1 Enoch 1–36), and adds a text-critical caution: "the Book of Watchers may have existed independently of the rest of First Enoch when the author of the letter of Jude wrote." [^3] So Jude's endorsement need not extend to all 108 chapters of the later composite 1 Enoch — it minimally establishes that the Watchers material was received as inspired prophecy. McClellan also notes that [[Tertullian]], defending 1 Enoch in the late 2nd century, clinched his case the same way: "we have the testimony of Jude that this is prophecy." [^4]
 
 **Argument weight: Secondary** — it refines *what* Jude endorses without weakening *that* he endorses it as prophecy
 
@@ -67,3 +67,4 @@ However, this objection has weaknesses:
 [^1]: [[Data Over Dogma - Left Behind The Book of Enoch|Data Over Dogma — Left Behind: The Book of Enoch]], [03:01]–[04:01], https://youtu.be/zghJE1-ZCQw
 [^2]: [[Data Over Dogma - Left Behind The Book of Enoch|Data Over Dogma — Left Behind: The Book of Enoch]], [38:31]–[39:21], https://youtu.be/zghJE1-ZCQw
 [^3]: [[Dan McClellan - Was the Book of Enoch Taken Out of the Bible|McClellan — Enoch Not Taken Out]], [03:01], https://youtu.be/PWtJ_fIlqiY
+[^4]: [[Dan McClellan - Was the Book of Enoch Taken Out of the Bible|McClellan — Enoch Not Taken Out]], [04:01], https://youtu.be/PWtJ_fIlqiY

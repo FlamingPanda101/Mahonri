@@ -52,4 +52,8 @@ The doctrine of creation ex nihilo, when it emerged through Tatian, Theophilus, 
 - [[Philo Did Not Endorse Creation Ex Nihilo]]
 - [[Creation Ex Nihilo Originated Late 2nd Century CE]]
 
+## The Phaedo and the Immortal Soul
+Beyond cosmogony, Plato's *Phaedo* (c. 360 BC) is the source text for the Christian "immortal soul" framework: the soul is the real person, the body is a prison, and death is the soul's liberation from it. [[Alex Arnold]] on *Moroni's Standard* argues this frame — not the Hebrew whole-person anthropology — is what most Christians actually believe about death, imported into the church by the second-century apologists ([[Adolf von Harnack]]'s "acute Hellenization").[^2] See [[The Immortal Soul Is a Platonic Import Not a Biblical Doctrine]].
+
 [^1]: [[Dan McClellan - Wes Huff Creation Ex Nihilo Response|Dan McClellan - Wes Huff Creation Ex Nihilo Response]], [17:30]-[19:00], https://youtu.be/VxpTLp6jCLI — citing David Winston, "Philo's Theory of Cosmogony" (1975)
+[^2]: [[Moronis Standard - Resurrection of the Body vs the Immortal Soul|Moroni's Standard — Resurrection of the Body]], [13:00], https://youtu.be/yZbYQ6aMYqI

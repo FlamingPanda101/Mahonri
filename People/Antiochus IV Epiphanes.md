@@ -12,4 +12,5 @@ type: person
 
 ## Discussed in
 - [[The Book of Daniel Was Written in the Second Century BCE]] — the persecution Daniel's apocalyptic was written to address
+- [[Bodily Resurrection Emerged as the Answer to the Maccabean Theodicy Crisis]] — resurrection language (Daniel 12:2) enters the canon as the theodicy answer to his persecution of the faithful
 - [[Dan McClellan - Seeing the Old Testament Clearly (Dialogue Gospel Study)]]

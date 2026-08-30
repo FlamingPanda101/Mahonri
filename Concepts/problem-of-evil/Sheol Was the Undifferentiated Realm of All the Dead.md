@@ -55,6 +55,11 @@ The Israelite picture of a single, conscious-but-shadowy realm of the dead — w
 [^4]: [[Data Over Dogma - Is Hell Actually in the Bible|Data Over Dogma - Hell]], [08:01]-[09:00], [10:31]-[11:00], https://youtu.be/TXksqIiBUns
 [^5]: [[Data Over Dogma - Is Hell Actually in the Bible|Data Over Dogma - Hell]], [09:32]-[10:31], https://youtu.be/TXksqIiBUns
 [^6]: [[Data Over Dogma - Is Hell Actually in the Bible|Data Over Dogma - Hell]], [13:30]-[14:02], https://youtu.be/TXksqIiBUns
+[^7]: [[Moronis Standard - Resurrection of the Body vs the Immortal Soul|Moroni's Standard — Resurrection of the Body]], [05:02], https://youtu.be/yZbYQ6aMYqI
+[^8]: [[Moronis Standard - Resurrection of the Body vs the Immortal Soul|Moroni's Standard — Resurrection of the Body]], [05:30], https://youtu.be/yZbYQ6aMYqI
+[^9]: [[Moronis Standard - Resurrection of the Body vs the Immortal Soul|Moroni's Standard — Resurrection of the Body]], [06:30], https://youtu.be/yZbYQ6aMYqI
+[^10]: [[Moronis Standard - Resurrection of the Body vs the Immortal Soul|Moroni's Standard — Resurrection of the Body]], [07:00], https://youtu.be/yZbYQ6aMYqI
+[^11]: [[Moronis Standard - Resurrection of the Body vs the Immortal Soul|Moroni's Standard — Resurrection of the Body]], [21:31], https://youtu.be/yZbYQ6aMYqI
 
 ---
-See also: [[Concepts]] · [[Deceased Humans Called Elohim]] · [[Data Over Dogma - Is Hell Actually in the Bible]]
+See also: [[Concepts]] · [[Deceased Humans Called Elohim]] · [[Data Over Dogma - Is Hell Actually in the Bible]] · [[Moronis Standard - Resurrection of the Body vs the Immortal Soul]]

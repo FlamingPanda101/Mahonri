@@ -48,9 +48,24 @@ his own history (two prior suicide attempts while living "a secular lifestyle").
 See [[Mixed-Orientation Marriages and LGBTQ Latter-day Saints Show Higher Wellbeing]]
 and [[Dehlins Faulty-Pool Study Skews LDS LGBTQ Outcomes]].
 
+### Rethinking Same-Sex Attraction panel (Let's Talk w/ Hayden Carroll)
+On [[Hayden Carroll]]'s Pride-Month panel with therapist [[Jeff Robinson]] and educator
+[[Andrew Robinson]], Harward speaks from lived experience — a convert at 22 who lived "an
+open homosexual lifestyle" before joining the Church and is now temple-worthy and married
+to a woman. His contributions: he disavows the "gay" label as a defining identity ("a son
+of God who happens to experience same-sex sexual feelings"); he insists a platonic pull
+toward men "is not homosexual"; he reports that focusing less on it lowered its salience
+without erasing it; and, with [[Andrew Robinson]], he co-wrote "[gay] pride is not the
+antidote to shame." He ran a support group for faithful men experiencing SSA and counsels
+hearing people out before gently pushing back. See [[Adopting the Gay Label Hinders
+Discipleship]], [[A Feeling With No Sexual Content Is Not Homosexual]], [[Overfocus and
+Overinterpretation Entrench Same-Sex Attraction]], [[Pride Is Not the Antidote to Shame]],
+and [[Listen Before Correcting When Someone Discloses Same-Sex Attraction]].[^3]
+
 [^1]: [[Stick of Joseph - Atheism is Unreasonable and Stupid|Stick of Joseph - Atheism is Unreasonable and Stupid]], [14:02]–[15:00],
 https://youtu.be/aqOzROuIAHM
 [^2]: [[Ward Radio - Active LDS Gay Man Debunks Jubilee Medias Mormons vs Ex Mormons|WARD RADIO - Active LDS Gay Man Debunks Jubilee]], [02:00]–[45:00], https://youtu.be/rxVL9JdoIb0
+[^3]: [[Lets Talk w Hayden Carroll - Rethinking Same-Sex Attraction|Carroll — Rethinking SSA]], [23:30], https://youtu.be/PnHPRkY8BSc
 
 ---
-See also: [[People]] · [[John Dehlin]] · [[Mixed-Orientation Marriages and LGBTQ Latter-day Saints Show Higher Wellbeing]] · [[Ward Radio - Active LDS Gay Man Debunks Jubilee Medias Mormons vs Ex Mormons]]
+See also: [[People]] · [[John Dehlin]] · [[Mixed-Orientation Marriages and LGBTQ Latter-day Saints Show Higher Wellbeing]] · [[Ward Radio - Active LDS Gay Man Debunks Jubilee Medias Mormons vs Ex Mormons]] · [[Lets Talk w Hayden Carroll - Rethinking Same-Sex Attraction]]

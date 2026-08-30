@@ -43,10 +43,10 @@ authority_reason: "credentialed biblical scholar; academic view, short-form comm
 [^3]: [[Dan McClellan - Was the Book of Enoch Taken Out of the Bible|McClellan — Enoch Not Taken Out]], [03:01], https://youtu.be/PWtJ_fIlqiY
 [^4]: [[Dan McClellan - Was the Book of Enoch Taken Out of the Bible|McClellan — Enoch Not Taken Out]], [03:30], https://youtu.be/PWtJ_fIlqiY
 [^5]: [[Dan McClellan - Was the Book of Enoch Taken Out of the Bible|McClellan — Enoch Not Taken Out]], [04:01], https://youtu.be/PWtJ_fIlqiY
-[^6]: [[Dan McClellan - Was the Book of Enoch Taken Out of the Bible|McClellan — Enoch Not Taken Out]], [01:30], https://youtu.be/PWtJ_fIlqiY
+[^6]: [[Dan McClellan - Was the Book of Enoch Taken Out of the Bible|McClellan — Enoch Not Taken Out]], [02:01], https://youtu.be/PWtJ_fIlqiY
 [^7]: [[Dan McClellan - Was the Book of Enoch Taken Out of the Bible|McClellan — Enoch Not Taken Out]], [09:01], https://youtu.be/PWtJ_fIlqiY
 [^8]: [[Dan McClellan - Was the Book of Enoch Taken Out of the Bible|McClellan — Enoch Not Taken Out]], [09:32], https://youtu.be/PWtJ_fIlqiY
-[^9]: [[Dan McClellan - Was the Book of Enoch Taken Out of the Bible|McClellan — Enoch Not Taken Out]], [11:30], https://youtu.be/PWtJ_fIlqiY
+[^9]: [[Dan McClellan - Was the Book of Enoch Taken Out of the Bible|McClellan — Enoch Not Taken Out]], [12:01], https://youtu.be/PWtJ_fIlqiY
 
 ---
 See also: [[Sources Index]] · [[Concepts]] · [[Dan McClellan]] · [[The Book of Enoch Was Not Taken Out of the Bible It Predates the Canon]]

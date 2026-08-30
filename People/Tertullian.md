@@ -22,13 +22,14 @@ Tertullian was the first Christian author to use the Latin word *trinitas* (late
 As one of the Greco-Roman-educated apologists, Tertullian belongs to the group Thoughtful Faith argues adopted Greek metaphysics to defend Christianity — arguing the biblical God was the same God as the philosophers'. See [[Apologists Claimed the Biblical God Was the Same God as the Greek Philosophers]] and [[The Deepest Apostasy Was Trading the God of Abraham for the God of Aristotle]].
 
 ## Defense of 1 Enoch as Inspired Scripture
-Into the late 2nd century, Tertullian argued "passionate[ly]" for the authenticity, authority, and inspired nature of [[1 Enoch]] in the third chapter of *On the Apparel of Women* — clinching the case by appealing to [[Jude 1.14-15|Jude]]'s citation: "we have the testimony of Jude that this is prophecy," per [[Dan McClellan]].[^4] His defense failed to persuade the broader church but proves the canonical status of 1 Enoch was *contested*, not settled from the outset — a datum for [[Book of Enoch - Quoted as Scripture in Jude]], [[Book of Enoch - Exclusion from the Canon]], and [[The Book of Enoch Was Not Taken Out of the Bible It Predates the Canon]].
+Into the late 2nd century, Tertullian argued "passionate[ly]" for the authenticity, authority, and inspired nature of [[1 Enoch]] in the third chapter of *On the Apparel of Women*,[^4] clinching the case by appealing to [[Jude 1.14-15|Jude]]'s citation: "we have the testimony of Jude that this is prophecy," per [[Dan McClellan]].[^5] His defense failed to persuade the broader church but proves the canonical status of 1 Enoch was *contested*, not settled from the outset — a datum for [[Book of Enoch - Quoted as Scripture in Jude]], [[Book of Enoch - Exclusion from the Canon]], and [[The Book of Enoch Was Not Taken Out of the Bible It Predates the Canon]].
 
 ## References
 [^1]: [[Council of Trent - The Word of God Fallacy|Trent Horn - The Protestant Word of God Fallacy]], [16:31], https://youtu.be/tr_NwgndUFk
 [^2]: [[The Counsel of Trent - A Case for Infant Baptism|The Counsel of Trent - Infant Baptism]], [20:30]–[23:00], https://youtu.be/YyD74bf0gHw
 [^3]: [[Thoughtful Faith - Creedal Christianitys Hidden Influence EXPOSED|Thoughtful Faith - Creedal Christianity's Hidden Influence EXPOSED]], [09:30]–[10:30], https://youtu.be/fcN8DssaRp8
 [^4]: [[Dan McClellan - Was the Book of Enoch Taken Out of the Bible|McClellan — Enoch Not Taken Out]], [03:30], https://youtu.be/PWtJ_fIlqiY
+[^5]: [[Dan McClellan - Was the Book of Enoch Taken Out of the Bible|McClellan — Enoch Not Taken Out]], [04:01], https://youtu.be/PWtJ_fIlqiY
 
 ---
 See also: [[People]] · [[Irenaeus of Lyons]] · [[Justin Martyr]] · [[Tertullian's Opposition Presupposes an Established Practice]]

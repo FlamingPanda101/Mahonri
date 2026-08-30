@@ -35,7 +35,11 @@ Nickelsburg and VanderKam's seven-part division of 1 Enoch is the standard refer
 - [[Book of Enoch - Western Rediscovery 17th-19th Centuries]] — contrasts the Hermeneia translation with older editions
 - [[James VanderKam]] — co-author
 
+## Resurrection in Intertestamental Judaism
+Cited by [[Alex Arnold]] on *Moroni's Standard*: in *Resurrection, Immortality, and Eternal Life in Intertestamental Judaism* Nickelsburg concluded that bodily resurrection "was widespread but not universal in Second Temple Judaism," developed "along several distinct tracks," and that the bodily resurrection Jesus proclaimed "fits squarely within one of those tracks rather than representing something that his audience would have found entirely foreign."[^3] This grounds the vault's picture of a live first-century debate (Sadducees rejecting, Pharisees affirming resurrection) — see [[Bodily Resurrection Emerged as the Answer to the Maccabean Theodicy Crisis]] and [[LDS Resurrection Doctrine Recovers the Hebrew Whole-Person Framework]].
+
 ---
 
 [^1]: [[Data Over Dogma - Left Behind The Book of Enoch|Data Over Dogma — Left Behind: The Book of Enoch]], [17:00]–[17:30], https://youtu.be/zghJE1-ZCQw
 [^2]: [[Data Over Dogma - Left Behind The Book of Enoch|Data Over Dogma — Left Behind: The Book of Enoch]], [25:30]–[26:01], https://youtu.be/zghJE1-ZCQw
+[^3]: [[Moronis Standard - Resurrection of the Body vs the Immortal Soul|Moroni's Standard — Resurrection of the Body]], [11:30], https://youtu.be/yZbYQ6aMYqI
