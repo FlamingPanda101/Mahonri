@@ -7,6 +7,7 @@ related:
   - "[[Material vs Formal Sufficiency - The Home Depot Analogy]]"
 sources:
   - "[[Ward Radio - Sola Scriptura Debate Rogers vs Horn]]"
+  - "[[Lets Talk w Hayden Carroll - Does the Bible Teach Sola Scriptura Debate]]"
 tags: [apologetics, sola-scriptura, church-fathers, authority, tradition/catholic]
 #type/objection
 ---
@@ -27,8 +28,15 @@ Rogers argues Irenaeus' famous passage is a *conditional* ("*if* it had been the
 ### 3. Augustine, Ambrose, Vincent of Lérins — rate: moderate, the cross-ex battleground
 Horn cites Augustine ("I would not believe the gospel unless moved by the authority of the Catholic Church"; the Donatist controversy "placed beyond dispute by the decree of a plenary council"), Ambrose ("you cannot flee the rule of faith given at Nicaea"), and **Vincent of Lérins** ("by the decree and authority of a council the rule of the church's faith may be settled").[^4] **Steelman of Rogers:** Rogers grants the church has *ministerial* (not *magisterial*/infallible) authority, and that councils were "always conducted" from Scripture; he cites Augustine's "let us treat scripture like God speaking" as evidence of self-authentication. The real disagreement is *ministerial vs magisterial* authority, not whether the fathers valued the church.
 
+## Second Debate — Fryberg and Carroll Trade Patristic Quotes (2026)
+The Fryberg–Carroll debate is a compact instance of the same battleground, with the patristic evidence pulling both ways. **[[Quinn Fryberg]] (affirmative)** reads the fathers as exalting scripture as the final standard: [[Irenaeus of Lyons]] (late 2nd c.) — the apostles "afterwards, by the will of God, delivered [the gospel] to us in the scriptures, to be for the future the foundation and pillar of our faith"; and [[Cyril of Jerusalem]] — "concerning the divine and sacred mysteries of the faith, we ought not to deliver even the most casual remark without the holy scriptures."[^6] **[[Hayden Carroll]] (negative)** answers that the patristic witness is *diverse*, not sola-scriptura, marshaling [[Augustine]] (AD 397: "I should not believe the gospel except as moved by the authority of the Catholic Church"), [[Basil the Great]] (*On the Holy Spirit*, AD 375: some doctrines derive "from written teaching," others "by the tradition of the apostles," and "both have the same force"), and **Vincent of Lérins** (AD 434: "we must interpret the sacred canon according to the traditions of the universal church").[^7] **Assessment:** Fryberg's Cyril quote is a genuinely strong sola-scriptura-flavored datum; Carroll's Basil "same force" line is the sharpest tradition-equals-scripture datum in either debate. The exchange confirms this note's thesis — the fathers valued *both* scripture and church/tradition, so neither side can claim a clean patristic consensus, and (as Carroll stresses) the resolution turns on what the *canon* teaches, not on which fathers can be quoted.
+
 ## Best Quotes
 > "Ignatius of Antioch in AD 107 never cites the New Testament as scripture. But he tells his audience to follow the bishop as Jesus Christ follows the father."[^1]
+
+> "Concerning the divine and sacred mysteries of the faith, we ought not to deliver even the most casual remark without the holy scriptures." (Cyril of Jerusalem, quoted by Fryberg)[^6]
+
+> "Some we possess derived from written teaching. Others we have received by the tradition of the apostles, and both have the same force." (Basil of Caesarea, quoted by Carroll)[^7]
 
 > "According to then-renowned Lutheran scholar Jaroslav Pelikan, in the ante-Nicene church there was no notion of sola scriptura."[^1]
 

@@ -7,6 +7,7 @@ related:
   - "[[Sola Scriptura - Scripture Self-Attests Its Authority]]"
 sources:
   - "[[Lets Talk w Hayden Carroll - Is the Bible the Final Authority Debate]]"
+  - "[[Lets Talk w Hayden Carroll - Does the Bible Teach Sola Scriptura Debate]]"
 tags: [apologetics, canon, authority, tradition/lds]
 #type/rebuttal
 ---
@@ -27,8 +28,15 @@ Hayden poses this as the simple, decisive question. Kelly's answers across the d
 ### 3. The affirmative's own three-part burden — rate: framing
 Hayden formalizes Kelly's task into three demonstrations: (1) **God** (not humans) identified the 66 books; (2) God revealed this canon is **incapable of error**; (3) God established it as the **ultimate authority** correcting all others.[^4] Item (1) is the canon-identification problem; this concept supplies it. **Steelman:** debate resolutions can be drafted to be near-unprovable; demanding an explicit divine proof-text for the *meta*-question of canon may set a bar no historic Christian tradition (including LDS, for its own canon) can clear.
 
+### 4. Second-debate articulation — the *category* of scripture vs. the *collection* (Fryberg debate) — rate: strong
+In his later debate with [[Quinn Fryberg]], Carroll sharpens the same pivot into a clean distinction: "scripture is a category of writings and the Protestant canon is a particular collection of writings," and a verse can call *the category* inspired without identifying *which books* belong to it.[^5] Because the agreed resolution names *these 66 books*, their identity and exclusivity are *part of the doctrine* to be proved — so Fryberg must show the canon either lists itself or gives "a sufficient internal criterion by which the exact Protestant canon can be deduced." Under cross-examination Fryberg concedes it does neither ("No, it doesn't give 66 books as a list"), offering only that God guides the church to recognize scripture — which Carroll classifies as an *outside* authority, not the canon teaching *sola scriptura*.[^6] Carroll dramatizes the anachronism with a **Lincoln analogy**: a first-century author writing "scripture" can no more denote the modern 66-book canon than a note by Abraham Lincoln damning "the worst president" could denote Joe Biden, who did not yet exist as president in Lincoln's day.[^7] He backs it with Douglas Wilson's Protestant concession that "contemporary Protestants... have no doctrine of the table of contents."[^8]
+
 ## Best Quotes
 > "The act of identifying which books belong in the canon is logically prior to any claim about what the canon teaches or how authoritative it is. So the question becomes very simple: by what authority was this canon identified?"[^2]
+
+> "Scripture is a category of writings and the Protestant canon is a particular collection of writings. This distinction is at the heart of this debate." (Carroll, Fryberg debate)[^5]
+
+> "The problem with contemporary Protestants is that they have no doctrine of the table of contents." (Carroll quoting Douglas Wilson)[^8]
 
 > "Whatever identifies the canon necessarily stands logically prior to the canon it identifies."[^1]
 
@@ -39,6 +47,10 @@ Hayden formalizes Kelly's task into three demonstrations: (1) **God** (not human
 [^2]: [[Lets Talk w Hayden Carroll - Is the Bible the Final Authority Debate|Let's Talk w/ Hayden Carroll - Is the Bible the Final Authority?]], [25:31], https://youtu.be/x5EbiJLb8U0
 [^3]: [[Lets Talk w Hayden Carroll - Is the Bible the Final Authority Debate|Let's Talk w/ Hayden Carroll - Is the Bible the Final Authority?]], [42:01], https://youtu.be/x5EbiJLb8U0
 [^4]: [[Lets Talk w Hayden Carroll - Is the Bible the Final Authority Debate|Let's Talk w/ Hayden Carroll - Is the Bible the Final Authority?]], [26:30], https://youtu.be/x5EbiJLb8U0
+[^5]: [[Lets Talk w Hayden Carroll - Does the Bible Teach Sola Scriptura Debate|Carroll — Sola Scriptura Debate]], [25:32], https://youtu.be/JVlHP-Tq74A
+[^6]: [[Lets Talk w Hayden Carroll - Does the Bible Teach Sola Scriptura Debate|Carroll — Sola Scriptura Debate]], [74:00], https://youtu.be/JVlHP-Tq74A
+[^7]: [[Lets Talk w Hayden Carroll - Does the Bible Teach Sola Scriptura Debate|Carroll — Sola Scriptura Debate]], [27:31], https://youtu.be/JVlHP-Tq74A
+[^8]: [[Lets Talk w Hayden Carroll - Does the Bible Teach Sola Scriptura Debate|Carroll — Sola Scriptura Debate]], [42:00], https://youtu.be/JVlHP-Tq74A
 
 ---
-See also: [[Concepts]] · [[Hayden Carroll]] · [[Lets Talk w Hayden Carroll - Is the Bible the Final Authority Debate]]
+See also: [[Concepts]] · [[Hayden Carroll]] · [[Quinn Fryberg]] · [[Lets Talk w Hayden Carroll - Is the Bible the Final Authority Debate]] · [[Lets Talk w Hayden Carroll - Does the Bible Teach Sola Scriptura Debate]]

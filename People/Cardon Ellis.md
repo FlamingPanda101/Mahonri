@@ -34,9 +34,13 @@ Hosted a cluster of further episodes: reacting to evangelical [[Cliff Knechtel|C
 - [[Ward Radio - The Great Apostasy DEFINITELY Happened]]
 - [[Ward Radio - The Great Replacement of Men Is Happening]]
 
+## The Las Vegas Miracle — Sam Shamoun's Change of Heart
+Hosted [[Latterday Logic]] (Devin) and [[Gospel Guardian]] (Braden) to review their debate with polemicist [[Sam Shamoun]], which ended with Shamoun's public "change of heart." Ellis supplies the framing theme — that combative "orthodoxy" weaponized cruelly is inferior to Christlike practice ([[Orthopraxy over Orthodoxy]]) — and the steelman caution ("let's not start giving him human-being status yet... let's see two or three well-behaved debates"). See [[Christlike Love Softened a Hostile Debater - The Las Vegas Miracle]] and [[WARD RADIO - Sam Shamoun and the Las Vegas Miracle|the source]].[^3]
+
 ## References
 [^1]: [[WardRadio - Top 9 Misconstrued Scriptures|Ward Radio - Top 9 Misconstrued Scriptures]], [21:32], https://youtu.be/lkiUEqR5OBI
 [^2]: [[WardRadio - Jesus Referenced the Apocrypha|Ward Radio - Jesus Referenced the Apocrypha]], [01:01], https://youtu.be/gEWxwhdXjYc
+[^3]: [[WARD RADIO - Sam Shamoun and the Las Vegas Miracle|Ward Radio — Las Vegas Miracle]], [76:31], https://youtu.be/q7D1fn_o6u8
 
 ---
 See also: [[People]] · [[Ward Radio]] · [[Jonah Barnes]] · [[David Butler (Stick of Joseph)]] · [[Ward Radio - We Bought Every Anti-Mormon Book and React]]

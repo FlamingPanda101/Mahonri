@@ -21,6 +21,7 @@ This text underlies the divine-council framework that **[[Dan McClellan]]** invo
 - [[Psalm 82 Is About Divine Council Not Human Judges]]
 - [[Elohim Never Means Human Judges]]
 - [[The Deuteronomists Edited Out the Pre-Existent Divine Messiah]]
+- [[What the Deuteronomists Cut Is What the Creeds Replaced]]
 - [[The First Temple Contained the Endowment Pattern Barker Reconstructed Independently]]
 - [[The Direction of the Evidence Runs Opposite to How Fraud Behaves]]
 

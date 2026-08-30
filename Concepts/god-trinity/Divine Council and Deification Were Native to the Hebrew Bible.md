@@ -1,7 +1,7 @@
 ---
 title: "Divine Council and Deification Were Native to the Hebrew Bible"
 related: ["[[Psalm 82 Is About Divine Council Not Human Judges]]", "[[Human Deification in Mormonism]]", "[[Same-Species-as-God as the Core LDS Distinctive in Theosis]]", "[[Deuteronomy 32 Dead Sea Scrolls Monolatry]]"]
-sources: ["[[Moronis Standard - Modern Scholarship Confirms What Joseph Smith Said in 1844]]"]
+sources: ["[[Moronis Standard - Modern Scholarship Confirms What Joseph Smith Said in 1844]]", "[[Moronis Standard - Edited the Bible Then Filled the Gap with Plato]]"]
 tags: [apologetics, joseph-smith, restoration, theosis, divine-council, deification, topic/restoration]
 ---
 
@@ -15,6 +15,7 @@ The [[King Follett Discourse]] and Lorenzo Snow's couplet ("As man now is, God o
 - **Psalm 82.** God "stands in a divine assembly telling its members, 'You are gods, sons of the Most High,'" and Heiser argues the contextual, grammatical, and ANE comparative evidence points to "actual divine beings, not a metaphor for human judges." [^2] Jesus quotes the verse in John 10:34 to defend his own divine identity, "an argument that only works if the verse is actually about genuine divine status." [^3] (See [[Psalm 82 Is About Divine Council Not Human Judges]].)
 - **The Dead Sea Scrolls reading of Deuteronomy 32:8.** The older DSS manuscript "describes God dividing the nations according to the number of the sons of God, not the sons of Israel as later manuscripts read... The Nicene theological framework just filtered it out. The Hebrew still has it." [^4] (See [[Deuteronomy 32 Dead Sea Scrolls Monolatry]].)
 - **The timing argument.** "Joseph Smith didn't have access to Heiser's research, the Dead Sea Scrolls, or Barker's reconstruction... He was working in 1830. So when his descriptions of the ancient world turn out to match what scholars recovered a century later from sources that he never saw, that's the argument." [^5]
+- **Restated with Tov named.** In a later video Arnold makes the same case and adds that [[Emanuel Tov]] — the Orthodox Jewish scholar who ran the Dead Sea Scrolls publication project — independently documented the [[Deuteronomy 32.8-9|Deuteronomy 32:8]] "sons of God" variant, and that the removal of the council "is consistent with the broader pattern of suppression that the Deuteronomistic history thesis documents across the entire corpus." He folds this into the larger argument that what the reform *cut* is what the creeds later *replaced* — see [[What the Deuteronomists Cut Is What the Creeds Replaced]]. [^6]
 
 ## Best Quotes
 > "His conclusion, documented in The Unseen Realm, is that the original Hebrew worldview included a cosmos with multiple divine beings in a hierarchical structure... and with deification language, humans progressing toward divine status, genuinely present throughout the text. This is all mainstream scholarship." [^1]
@@ -30,6 +31,7 @@ This is the Hebrew-Bible substrate for LDS [[Human Deification in Mormonism|deif
 [^3]: [[Moronis Standard - Modern Scholarship Confirms What Joseph Smith Said in 1844|Moroni's Standard — 1844 Confirmed]], [09:31], https://youtu.be/yIvildqmGTc
 [^4]: [[Moronis Standard - Modern Scholarship Confirms What Joseph Smith Said in 1844|Moroni's Standard — 1844 Confirmed]], [09:31], https://youtu.be/yIvildqmGTc
 [^5]: [[Moronis Standard - Modern Scholarship Confirms What Joseph Smith Said in 1844|Moroni's Standard — 1844 Confirmed]], [08:01], https://youtu.be/yIvildqmGTc
+[^6]: [[Moronis Standard - Edited the Bible Then Filled the Gap with Plato|Moroni's Standard — Edited the Bible]], [06:00], https://youtu.be/jueZ2YgkUCQ
 
 ---
-See also: [[Concepts]] · [[Moronis Standard - Modern Scholarship Confirms What Joseph Smith Said in 1844]]
+See also: [[Concepts]] · [[Moronis Standard - Modern Scholarship Confirms What Joseph Smith Said in 1844]] · [[What the Deuteronomists Cut Is What the Creeds Replaced]]

@@ -9,6 +9,7 @@ related:
   - "[[Manuscripts Were Altered by Scribes Over Centuries]]"
 sources:
   - "[[Ward Radio - The Bibles Darkest Lie No One Noticed]]"
+  - "[[Moronis Standard - Edited the Bible Then Filled the Gap with Plato]]"
 tags: ["#apologetics/textual-criticism", "#tradition/lds", "#type/claim"]
 ---
 
@@ -30,6 +31,8 @@ The panel reads the manuscript evidence directly off the three great uncials: in
 
 **Why it matters to the LDS case.** If the *one* near-explicit Trinity proof text is a demonstrable scribal addition, then the doctrine must be *constructed* from inference and tradition rather than *found* on the page — which is precisely the Latter-day Saint claim about the post-apostolic development of the creeds. Cf. [[Trinity Was Constructed Not Revealed]], [[Trinity Built to Satisfy Greco-Roman Philosophy]].
 
+**Independently restated by Moroni's Standard.** [[Alex Arnold]] gives the same episode as the New Testament instance of an identical mechanism: an institution "shaping a text to support a doctrinal position that it needed textual support for." He notes the Comma "does not appear in any Greek manuscript before the 15th century," that Erasmus "initially refused to include it because he couldn't find it in any Greek source" and said he would add it if a Greek manuscript could be produced, "and shortly afterward the Codex Montfortianus appeared" — "widely regarded by modern scholars as being fabricated to meet that condition." "Same mechanism, different century."[^4] Arnold pairs it with the Old Testament removal of the divine council so that the Comma becomes the NT wing of the larger claim in [[What the Deuteronomists Cut Is What the Creeds Replaced]].
+
 ## Best Quotes
 
 > "They say, 'We found this unknown manuscript in England, and it's an original Greek manuscript.' And guess what it says? Exactly what we needed to say. And he hands it to him. And Erasmus writes later on in the letter, he says, 'I think they just made this garbage up.'" [^1]
@@ -41,6 +44,7 @@ The panel reads the manuscript evidence directly off the three great uncials: in
 [^1]: [[Ward Radio - The Bibles Darkest Lie No One Noticed|Ward Radio - Bible's Darkest Lie]], [18:30], https://youtu.be/HCSA9vEqdek
 [^2]: [[Ward Radio - The Bibles Darkest Lie No One Noticed|Ward Radio - Bible's Darkest Lie]], [18:00], https://youtu.be/HCSA9vEqdek
 [^3]: [[Ward Radio - The Bibles Darkest Lie No One Noticed|Ward Radio - Bible's Darkest Lie]], [21:31], https://youtu.be/HCSA9vEqdek
+[^4]: [[Moronis Standard - Edited the Bible Then Filled the Gap with Plato|Moroni's Standard — Edited the Bible]], [07:00], https://youtu.be/jueZ2YgkUCQ
 
 ---
-See also: [[Apologetics]] · [[1 John 5-7 - Johannine Comma Interpolation]] · [[Erasmus]] · [[KJV Onlyism and the Textus Receptus vs Critical Text]]
+See also: [[Apologetics]] · [[1 John 5-7 - Johannine Comma Interpolation]] · [[Erasmus]] · [[KJV Onlyism and the Textus Receptus vs Critical Text]] · [[What the Deuteronomists Cut Is What the Creeds Replaced]]

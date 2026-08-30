@@ -12,6 +12,7 @@ The evangelical "God Loves Mormons" video uses "not first which is spiritual, bu
 
 ## Used in
 - [[The Pre-Existence Prooftexts Against It Are Misread Metaphors]]
+- [[The Risen Christ Is Called a Spirit Yet Is Embodied]] — "the last Adam … a quickening spirit" shows that calling someone a "spirit" does not deny embodiment (the LDS answer to "God is a Spirit," [[John 4.24|John 4:24]])
 
 ---
 See also: [[Scriptures]] · [[Adam]] · [[Jesus of Nazareth]]

@@ -20,10 +20,14 @@ In "[[Moroni Standard - The Evidence for the Book of Mormon|The Evidence for the
 ## On Resurrection and the Immortal Soul
 In "[[Moronis Standard - Resurrection of the Body vs the Immortal Soul|Resurrection of the Body vs the Immortal Soul]]" Arnold argues that Creedal Christianity recites "the resurrection of the body" while operationally believing Platonic soul-immortality, and that the LDS framework recovers the displaced Hebrew whole-person anthropology. Consistent with his stated method, he leans almost entirely on non-LDS scholars ([[N.T. Wright]], [[Jon Levenson]], [[John Collins]], [[George Nickelsburg]], [[Caroline Walker Bynum]], [[Oscar Cullmann]], [[Philip Johnston]]) and concedes the case is "a starting point, not a complete case."[^3] See [[Soul Immortality and Bodily Resurrection Are Incompatible Traditions]].
 
+## On the Edit and the Backfill (Deuteronomists → Creeds)
+In "[[Moronis Standard - Edited the Bible Then Filled the Gap with Plato|Early Christians Edited the Bible. Then Filled the Gap with Plato.]]" Arnold argues the 7th-century-BC Deuteronomistic *removal* and the 4th-century-AD creedal *backfill* are one event from two angles — "what got cut from the text is almost exactly what got replaced by the creeds" — and that [[1 Nephi 13.26-29|1 Nephi 13]] named both in 1830. Consistent with his method, he leans on non-LDS scholars ([[Michael Heiser]], [[Emanuel Tov]], [[Julius Wellhausen]], [[Martin Noth]], [[Frank Moore Cross]], [[Margaret Barker]], [[Alan Segal]], [[Mark Smith]], [[William Dever]], [[Yonatan Adler]], [[Jaroslav Pelikan]], [[Adolf von Harnack]], [[Gerhard May]]) and concedes the case establishes "the loss and the replacement," not the recovery, which "requires faith." See [[What the Deuteronomists Cut Is What the Creeds Replaced]] and [[The Robber Council Refutes Holy-Spirit-Guided Councils]].[^4]
+
 ## References
 [^1]: [[Moroni Standard - The Evidence for the Book of Mormon|Moroni Standard - The Evidence for the Book of Mormon]], [01:31], https://youtu.be/6Ge56dRvBoI
 [^2]: [[Moroni Standard - The Evidence for the Book of Mormon|Moroni Standard - The Evidence for the Book of Mormon]], [17:31], https://youtu.be/6Ge56dRvBoI
 [^3]: [[Moronis Standard - Resurrection of the Body vs the Immortal Soul|Moroni's Standard — Resurrection of the Body]], [03:31], https://youtu.be/yZbYQ6aMYqI
+[^4]: [[Moronis Standard - Edited the Bible Then Filled the Gap with Plato|Moroni's Standard — Edited the Bible]], [01:00], https://youtu.be/jueZ2YgkUCQ
 
 ---
-See also: [[People]] · [[Authority Ledger]] · [[Moroni Standard - The Evidence for the Book of Mormon]] · [[Moronis Standard - Resurrection of the Body vs the Immortal Soul]]
+See also: [[People]] · [[Authority Ledger]] · [[Moroni Standard - The Evidence for the Book of Mormon]] · [[Moronis Standard - Resurrection of the Body vs the Immortal Soul]] · [[Moronis Standard - Edited the Bible Then Filled the Gap with Plato]]

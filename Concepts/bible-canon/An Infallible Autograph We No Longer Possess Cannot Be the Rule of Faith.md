@@ -9,6 +9,7 @@ related:
   - "[[Reliability Not Infallibility Standard]]"
 sources:
   - "[[Gray Area Faith - Sola Scriptura Debate LDS vs Calvinist (Apologia Utah)]]"
+  - "[[Lets Talk w Hayden Carroll - Does the Bible Teach Sola Scriptura Debate]]"
 tags: [apologetics, sola-scriptura, biblical-infallibility, tradition/lds]
 #type/rebuttal
 ---
@@ -31,8 +32,13 @@ Even granting inspired authors, to call our Bible infallible Whitehead would hav
 
 **Net assessment.** The argument does not show the Bible is unreliable — both debaters affirm a reliable Bible — but it does cut against the *specific* claim of an in-hand **infallible** rule. Its force is the dilemma: infallible-autograph-we-lack (forfeits "the Bible is the rule") vs. infallible-copies-we-have (falsified by the Comma and Mark's ending). The Latter-day Saint payoff is that an authority *beyond* the static text — a living, Spirit-led church — is what the situation requires (cf. [[The Church Is the Pillar of Truth and Scripture Is Its Byproduct]]).
 
+## Second Debate — The Fryberg Cross-Examination (2026)
+[[Hayden Carroll]] runs the identical dilemma against [[Quinn Fryberg]] and gets the concession on the record. Asked "is the English translation of the Bible you're reading today infallible?" Fryberg answers "No," retreating to "an infallible version exists — whether or not we have it is the question." Carroll: "Why don't you use the infallible version? Wouldn't that be the best version to use?" Fryberg concedes his in-hand English Bible is fallible ("yes, almost entirely," with only a few disputed manuscript spots).[^4] Carroll then presses the empirical floor beneath even the autograph claim: "How many manuscripts do we have from the first century? ... **Zero.**" The oldest fragment, **P52**, is second-century, "like a credit card," from John — so "to say that they [the autographs] were infallible is just to make a naked assertion... there is no way to know either way."[^5] This is the same fork — *infallible-autograph-we-lack* vs. *fallible-copy-we-have* — with the affirmative himself supplying the concession that his operative Bible is not infallible.
+
 ## Best Quotes
 > "Mainstream Christians for centuries proclaimed the infallibility of scripture while simultaneously reading from the pulpit this fraudulent verse to their congregations."[^1]
+
+> "How many manuscripts do we have from the first century?... Zero. We don't have any of them... to say that they were infallible is just to make a naked assertion." (Carroll, Fryberg debate)[^5]
 
 > "We don't have the original autographs. So at that point he has conceded the debate, because a text that we don't have can't be the governing doctrine for a church."[^2]
 
@@ -46,6 +52,8 @@ Even granting inspired authors, to call our Bible infallible Whitehead would hav
 [^1]: [[Gray Area Faith - Sola Scriptura Debate LDS vs Calvinist (Apologia Utah)|Sola Scriptura Debate - Lofgren vs Whitehead]], [50:30]–[52:30], https://youtu.be/iXMNWg3chtY
 [^2]: [[Gray Area Faith - Sola Scriptura Debate LDS vs Calvinist (Apologia Utah)|Sola Scriptura Debate - Lofgren vs Whitehead]], [52:00]–[53:00], https://youtu.be/iXMNWg3chtY
 [^3]: [[Gray Area Faith - Sola Scriptura Debate LDS vs Calvinist (Apologia Utah)|Sola Scriptura Debate - Lofgren vs Whitehead]], [50:00]–[51:00], https://youtu.be/iXMNWg3chtY
+[^4]: [[Lets Talk w Hayden Carroll - Does the Bible Teach Sola Scriptura Debate|Carroll — Sola Scriptura Debate]], [68:00], https://youtu.be/JVlHP-Tq74A
+[^5]: [[Lets Talk w Hayden Carroll - Does the Bible Teach Sola Scriptura Debate|Carroll — Sola Scriptura Debate]], [97:31], https://youtu.be/JVlHP-Tq74A
 
 ---
-See also: [[Concepts]] · [[Shiloh Lofgren]] · [[Fallible Humans Cannot Produce an Infallible Bible]] · [[The Church Is the Pillar of Truth and Scripture Is Its Byproduct]]
+See also: [[Concepts]] · [[Shiloh Lofgren]] · [[Quinn Fryberg]] · [[Fallible Humans Cannot Produce an Infallible Bible]] · [[The Church Is the Pillar of Truth and Scripture Is Its Byproduct]] · [[Lets Talk w Hayden Carroll - Does the Bible Teach Sola Scriptura Debate]]

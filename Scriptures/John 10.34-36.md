@@ -15,6 +15,7 @@ tags: [type/scripture, testament/new]
 - [[LDS Should Lead With John 10 Not Revelation 3 or Patristics]] — McClellan calls this the defensible biblical proof text for deification
 - [[Created and Non-Creating Gods Were Staple Pre-Nicene Theology (Litwa)]] — Jesus' "you are gods" treated as data, not figure of speech
 - [[Patristic Theosis Was Watered Down From the Biblical Version]] — the radical 1st-century divinization here vs. the diluted patristic version
+- [[What the Deuteronomists Cut Is What the Creeds Replaced]] — Jesus' use of Psalm 82 shows the divine council survives in the text the creeds later overrode
 
 ## References
 [^1]: [[Ancient Christians - An Introduction for Latter-day Saints|Ancient Christians (Maxwell Institute, 2022)]], pp. 373-374.

@@ -27,11 +27,15 @@ In a rare on-camera interview on the [[The Stick of Joseph - Are Christians Beco
 - [[The Palm Branch Signified the Secret Knowledge of the Holy of Holies]]
 - [[Shaddai Is the Breasted God and Points to the Mother]]
 
+## On What the Reform Cut and the Creeds Replaced
+In "[[Moronis Standard - Edited the Bible Then Filled the Gap with Plato|Edited the Bible... Filled the Gap with Plato]]," [[Alex Arnold]] makes Barker the reconstructor of the *content* the Deuteronomistic reform removed: across *The Great Angel* and *The Gate of Heaven* she argues that the religion of Solomon's Jerusalem before Josiah included a **second divine figure alongside Yahweh** — identified as the Son of God, the Angel of the Lord, and Melchizedek — with **El(yon)** as the senior figure and **Yahweh as the mediating son**, mapping onto the LDS Father / premortal Christ distinction. Arnold also relays her often-quoted remark that when she first encountered LDS temple theology she "recognized it," while noting she has not converted and is "not giving us the green light." On the "Barker is fringe" objection he concedes her full first-temple Christology is non-mainstream but argues her *basic* claim (the reform suppressed earlier content) is the same one [[Martin Noth]], [[Frank Moore Cross]], and [[Mark Smith]] established independently. See [[What the Deuteronomists Cut Is What the Creeds Replaced]].[^5]
+
 ## References
 [^1]: [[Moroni Standard - The Evidence for the Book of Mormon|Moroni Standard - The Evidence for the Book of Mormon]], [01:01], https://youtu.be/6Ge56dRvBoI
 [^2]: [[Moroni Standard - The Evidence for the Book of Mormon|Moroni Standard - The Evidence for the Book of Mormon]], [12:30], https://youtu.be/6Ge56dRvBoI
 [^3]: [[Moronis Standard - The Temple Ceremony Was Destroyed Twice and Restored in 1842|Moroni's Standard - The Temple Was Destroyed Twice]], [06:30]–[12:00], https://youtu.be/t5vt7CsNQMQ
 [^4]: [[The Stick of Joseph - Was the Divine Feminine Erased from the Bible|Stick of Joseph - Divine Feminine (Barker)]], [01:30], https://youtu.be/ubuPNswy8VQ
+[^5]: [[Moronis Standard - Edited the Bible Then Filled the Gap with Plato|Moroni's Standard — Edited the Bible]], [08:31], https://youtu.be/jueZ2YgkUCQ
 
 ---
-See also: [[People]] · [[Authority Ledger]] · [[Moroni Standard - The Evidence for the Book of Mormon]] · [[The Stick of Joseph - Was the Divine Feminine Erased from the Bible]]
+See also: [[People]] · [[Authority Ledger]] · [[Moroni Standard - The Evidence for the Book of Mormon]] · [[The Stick of Joseph - Was the Divine Feminine Erased from the Bible]] · [[What the Deuteronomists Cut Is What the Creeds Replaced]]

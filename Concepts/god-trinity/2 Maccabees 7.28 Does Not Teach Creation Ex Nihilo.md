@@ -10,6 +10,7 @@ related:
   - "[[Greco-Roman Jewish Creation View Was Material Substrate]]"
 sources:
   - "[[Dan McClellan - Wes Huff Creation Ex Nihilo Response]]"
+  - "[[WARD RADIO - Sam Shamoun and the Las Vegas Miracle]]"
 tags:
   - apologetics/creation-ex-nihilo
   - tradition/academic-biblical-studies

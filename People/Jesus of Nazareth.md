@@ -15,3 +15,4 @@ Jesus (c. 4 BCE – 30/33 CE), Jewish teacher from Galilee. The gospels consiste
 - [[Virgin Birth Is a Later Development in the Jesus Tradition]] — virgin birth a secondary accretion
 - [[Matthews Nativity Contradicts Lukes Nativity]] — two irreconcilable nativity accounts
 - [[The Book of Mormon Scores Higher Than the Bible on Christ-Centeredness]] — embedding analysis ranks the Book of Mormon 2nd (behind the New Testament) for semantic similarity to a "Jesus Christ" probe
+- [[The Risen Christ Is Called a Spirit Yet Is Embodied]] — as "the last Adam … a quickening spirit" ([[1 Corinthians 15.45-46|1 Corinthians 15:45]]), the embodied risen Christ is called a "spirit," answering the "God is a Spirit" objection

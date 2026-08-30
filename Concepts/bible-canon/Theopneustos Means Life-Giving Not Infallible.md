@@ -8,6 +8,7 @@ related:
 sources:
   - "[[Lets Talk - Apologetics Course How to Talk to Protestants and Evangelicals]]"
   - "[[Keystone - This Is Why Weaponizing 2 Timothy 3-16 Is a Problem]]"
+  - "[[Lets Talk w Hayden Carroll - Does the Bible Teach Sola Scriptura Debate]]"
 tags: [apologetics, canon, greek, linguistics, sola-scriptura, tradition/lds]
 #type/rebuttal
 ---
@@ -38,6 +39,9 @@ Carroll argues "the concept of infallibility of man did not exist at the time th
 ## Corroboration from Keystone (Poirier)
 A separate [[Keystone]] explainer gives this "life-giving" gloss a much stronger scholarly footing than the bare assertion above: it cites the published monograph of New Testament scholar [[John C. Poirier]], who found that in the era 2 Timothy was written *theopneustos* was used for **sandals, burial ointments, and streams of water** — i.e. *life-giving / vivifying* things, none of which are "inerrant." Keystone also reports independent agreement from non-LDS scholars (Rev. Dr. [[Angela Parker]]; Dr. Anna Cwikla) and from [[Dan McClellan]] that the inerrantist "inspired" reading is a third-century development traceable to [[Origen]]. This is the dedicated, well-sourced treatment — see [[Theopneustos Was Used for Sandals Ointments and Streams Not Inerrancy]].[^6]
 
+## Second Debate — Carroll's Full Lexical List and Fryberg's Reply (2026)
+In the [[Lets Talk w Hayden Carroll - Does the Bible Teach Sola Scriptura Debate|Fryberg debate]], Carroll gives the fullest form of the lexical argument in the vault: in the earliest Greek evidence *theopneustos* "is not exclusively applied to scripture," but also to **springs or water, living creatures, burial ointments, perfumes, and even clothing** — so "the mere application of the adjective... to scripture in Second Timothy does not by lexical definition alone establish a uniquely Protestant theological concept of infallibility [and] exclusive final authority."[^7] [[Quinn Fryberg]] replies that the word is used only *once* in scripture (a *hapax*), which he takes to be intentional; that its two roots (θεός + πνέω) plainly mean "God-breathed"; and that **B.B. Warfield** argued *theopneustos* refers to scripture's *origins* (produced by God's breath), not merely its effect. Notably Fryberg *concedes* Warfield's origins point "might be conceded for the sake of this debate," resting his weight instead on the syntax — "all scripture is God-breathed *and* profitable" as two parallel predicates, yielding authority (God-breathed) plus sufficiency (profitable to equip).[^8] **Assessment:** this exchange strengthens the *negative* lexical point (the fuller usage list matches [[John C. Poirier]]'s published data cited above) while showing the *affirmative*'s honest fallback — the Protestant case for infallibility is *theological inference from divine origin*, not the bare word, exactly as this note's steelman states.
+
 ## References
 [^1]: [[Lets Talk - Apologetics Course How to Talk to Protestants and Evangelicals|Apologetics Course]], [75:31]–[76:30], https://youtu.be/L-lxxWjN8D4
 [^2]: [[Lets Talk - Apologetics Course How to Talk to Protestants and Evangelicals|Apologetics Course]], [76:00]–[76:30], https://youtu.be/L-lxxWjN8D4
@@ -45,6 +49,8 @@ A separate [[Keystone]] explainer gives this "life-giving" gloss a much stronger
 [^4]: [[Lets Talk - Apologetics Course How to Talk to Protestants and Evangelicals|Apologetics Course]], [75:31]–[76:00], https://youtu.be/L-lxxWjN8D4
 [^5]: [[Lets Talk - Apologetics Course How to Talk to Protestants and Evangelicals|Apologetics Course]], [76:00]–[76:30], https://youtu.be/L-lxxWjN8D4
 [^6]: [[Keystone - This Is Why Weaponizing 2 Timothy 3-16 Is a Problem|Keystone - Weaponizing 2 Timothy 3:16]], [03:00]–[04:30], https://youtu.be/dKw8pnoFwc8
+[^7]: [[Lets Talk w Hayden Carroll - Does the Bible Teach Sola Scriptura Debate|Carroll — Sola Scriptura Debate]], [47:00], https://youtu.be/JVlHP-Tq74A
+[^8]: [[Lets Talk w Hayden Carroll - Does the Bible Teach Sola Scriptura Debate|Carroll — Sola Scriptura Debate]], [92:31], https://youtu.be/JVlHP-Tq74A
 
 ---
-See also: [[Concepts]] · [[2 Timothy 3.14-17|2 Timothy 3:16]] · [[Theopneustos Was Used for Sandals Ointments and Streams Not Inerrancy]] · [[Lets Talk - Apologetics Course How to Talk to Protestants and Evangelicals]]
+See also: [[Concepts]] · [[2 Timothy 3.14-17|2 Timothy 3:16]] · [[Theopneustos Was Used for Sandals Ointments and Streams Not Inerrancy]] · [[Quinn Fryberg]] · [[Lets Talk - Apologetics Course How to Talk to Protestants and Evangelicals]] · [[Lets Talk w Hayden Carroll - Does the Bible Teach Sola Scriptura Debate]]
