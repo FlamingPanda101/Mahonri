@@ -18,3 +18,4 @@ Jesus states **"my Father is greater than I"** (Greek **ὁ πατὴρ μείζ
 ## Used in
 - [[The Father Is Greater Than I]]
 - [[Ancient Judaism Affirmed a Divine Spectrum]]
+- [[Apologists Claimed the Biblical God Was the Same God as the Greek Philosophers]]

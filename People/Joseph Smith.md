@@ -67,6 +67,13 @@ from the sermon as proof of blasphemy.[^4]
 [[Harold Bloom]] called it "one of the truly remarkable sermons ever preached in
 America."[^5]
 
+## Restored the Doctrine of God
+
+Thoughtful Faith argues Joseph Smith's deepest restoration was not priesthood
+authority alone but the *concept of God*: against the impassible, simple Absolute
+of Greek classical theism, he restored a personal, relational, embodied Father
+"of body, parts, and passions" ([[D&C 130.20-21|D&C 130:22]]). See [[The Deepest Apostasy Was Trading the God of Abraham for the God of Aristotle]] and [[The Intuitive Personal God Points Back to the Family of Heaven]].
+
 ## Helen Mar Kimball Sealing
 
 Smith was sealed to [[Helen Mar Kimball]] when she was "just shy of 15 years old"

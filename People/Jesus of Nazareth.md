@@ -14,3 +14,4 @@ Jesus (c. 4 BCE – 30/33 CE), Jewish teacher from Galilee. The gospels consiste
 - [[Isaiah 7.14 Virgin Birth Prophecy Is Mistranslated]] — never called Immanuel; Matthew constructed fulfillment
 - [[Virgin Birth Is a Later Development in the Jesus Tradition]] — virgin birth a secondary accretion
 - [[Matthews Nativity Contradicts Lukes Nativity]] — two irreconcilable nativity accounts
+- [[The Book of Mormon Scores Higher Than the Bible on Christ-Centeredness]] — embedding analysis ranks the Book of Mormon 2nd (behind the New Testament) for semantic similarity to a "Jesus Christ" probe

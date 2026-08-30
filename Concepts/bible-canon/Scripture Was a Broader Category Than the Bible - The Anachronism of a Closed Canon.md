@@ -11,6 +11,7 @@ scripture:
 sources:
   - "[[Dan McClellan - Responding to Wes Huff on the Biblical Canon]]"
   - "[[Dan McClellan - Seeing the Old Testament Clearly (Dialogue Gospel Study)]]"
+  - "[[Dan McClellan - Was the Book of Enoch Taken Out of the Bible]]"
 tags: ["#apologetics/canon", "#tradition/academic-biblical-studies", "#type/claim"]
 ---
 
@@ -45,6 +46,9 @@ If "scripture" was a broader, open category before the 4th century and the close
 ## Second Voice — Dialogue Gospel Study (2026)
 In his *Dialogue Gospel Study* session, [[Dan McClellan]] restates the point bluntly for a Latter-day Saint audience: the idea of "a closed canon dictated by God" is **false**, and the canon is **entirely post-biblical** (per the session summary).[^8] He grounds it in the manuscript record — the base text is the Leningrad Codex (~1008 CE), supplemented by the Dead Sea Scrolls (~250 BCE–60 CE) and the Septuagint (~250 BCE) — so there is no early, divinely fixed list, only later editorial bounding (see [[The Manuscript Question Determines Your Bible]] and the differently-bounded canons in [[The Hebrew Bible and the Christian Old Testament Are Not the Same Book]]).
 
+## Third Voice — "Was the Book of Enoch Taken Out of the Bible?" (short-form)
+In a viral-clip reaction, [[Dan McClellan]] applies this exact principle to the popular claim that the [[1 Enoch|Book of Enoch]] was "taken out of the Bible." His rebuttal is the category distinction in miniature: 1 Enoch "fell out of favor with all Jewish authorities and almost all Christian authorities before we could speak of this thing that we call the Bible," so the slogan "flatten[s] the distinction between inspired scripture as an unbound category and the Bible as a bound collection of canonical scripture."[^9] The worked case is [[The Book of Enoch Was Not Taken Out of the Bible It Predates the Canon]].
+
 ## References
 [^1]: [[Dan McClellan - Responding to Wes Huff on the Biblical Canon|McClellan - Canon vs Wes Huff]], [15:30], https://youtu.be/iU7hKviVFw8
 [^2]: [[Dan McClellan - Responding to Wes Huff on the Biblical Canon|McClellan - Canon vs Wes Huff]], [05:30], https://youtu.be/iU7hKviVFw8
@@ -54,6 +58,7 @@ In his *Dialogue Gospel Study* session, [[Dan McClellan]] restates the point blu
 [^6]: [[Dan McClellan - Responding to Wes Huff on the Biblical Canon|McClellan - Canon vs Wes Huff]], [04:01], https://youtu.be/iU7hKviVFw8
 [^7]: [[Dan McClellan - Responding to Wes Huff on the Biblical Canon|McClellan - Canon vs Wes Huff]], [03:31], https://youtu.be/iU7hKviVFw8
 [^8]: [[Dan McClellan - Seeing the Old Testament Clearly (Dialogue Gospel Study)|Dan McClellan - Seeing the OT Clearly]], [26:30], [33:34], [33:51], https://youtu.be/FpF9o0-8ZKk
+[^9]: [[Dan McClellan - Was the Book of Enoch Taken Out of the Bible|McClellan — Enoch Not Taken Out]], [07:32], https://youtu.be/PWtJ_fIlqiY
 
 ---
 See also: [[Concepts]] · [[Dan McClellan]] · [[Book of Enoch - Quoted as Scripture in Jude]] · [[Dan McClellan - Responding to Wes Huff on the Biblical Canon]]

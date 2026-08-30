@@ -6,8 +6,11 @@ related:
   - "[[Greek Philosophy Overwrites Hebrew Divine Corporeality]]"
   - "[[Embodied God in Christian Scholarship]]"
   - "[[Melammu - Divine Radiance in Ancient Near East]]"
+  - "[[Anthropomorphism Is the Cognitive Default for Conceptualizing Deity]]"
+  - "[[The Image of God Is Divine Resemblance and Royal Representation]]"
 sources:
   - "[[Dan McClellan - Apologetics Cannot Rescue Biblical Contradictions]]"
+  - "[[Dan McClellan - Made in God's Image]]"
 tags: [apologetics, divine-nature, anthropomorphism, hebrew-bible, ancient-near-east, tradition/academic]
 #type/claim
 ---
@@ -57,6 +60,10 @@ Key scholarly works (all cited by McClellan):[^5]
 
 The anthropomorphic conception of deity was not an Israelite anomaly. Ancient Near Eastern cultures across Mesopotamia, Canaan, and Egypt understood their gods as having bodies, being gendered, eating, drinking, walking, and physically interacting with the world. Israel's early theology participated in this broader cultural framework. The LATER movement toward an incorporeal, invisible God was the innovation — not the baseline.
 
+### 7. Cognitive Science: Anthropomorphism Is the Intuitive Default
+
+Beyond the textual and comparative evidence, McClellan adds a cognitive-science argument (in a separate video on the *imago Dei*): because deities are unseen agents, humans "intuitively, most naturally" conceptualize them as anthropomorphic. Research by [[Justin Barrett]] and others finds that even Orthodox Christians, when not actively policing their theology, "retreat to anthropomorphic representations of God... because that is more intuitive." The incorporeal God is thus a *reflective* override that must suppress an intuitive default — and in the biblical period that intuitive side "sat much closer to the surface."[^6] See [[Anthropomorphism Is the Cognitive Default for Conceptualizing Deity]].
+
 ## Best Quotes
 
 > "God had a body in the Hebrew Bible that was visible and corporeal and could be touched. And then that changed because the authoritative knowledge changed." [^4]
@@ -71,6 +78,8 @@ The anthropomorphic conception of deity was not an Israelite anomaly. Ancient Ne
 - [[Limited Essence Theophany Rationalization Rebutted]] — the apologetic attempt to deny this
 - [[Embodied God in Christian Scholarship]] — the modern rediscovery of divine embodiment
 - [[Melammu - Divine Radiance in Ancient Near East]] — the Mesopotamian background to divine radiance
+- [[Anthropomorphism Is the Cognitive Default for Conceptualizing Deity]] — the cognitive-science case for anthropomorphism as the human baseline
+- [[The Image of God Is Divine Resemblance and Royal Representation]] — humanity made in the shape of this embodied God
 
 ## References
 [^1]: [[Dan McClellan - Apologetics Cannot Rescue Biblical Contradictions|Dan McClellan — Apologetics Cannot Rescue Biblical Contradictions]], [07:31]–[08:01], https://youtu.be/58jtIUIRWGY
@@ -78,3 +87,4 @@ The anthropomorphic conception of deity was not an Israelite anomaly. Ancient Ne
 [^3]: [[Dan McClellan - Apologetics Cannot Rescue Biblical Contradictions|Dan McClellan — Apologetics Cannot Rescue Biblical Contradictions]], [05:00]–[05:31], https://youtu.be/58jtIUIRWGY
 [^4]: [[Dan McClellan - Apologetics Cannot Rescue Biblical Contradictions|Dan McClellan — Apologetics Cannot Rescue Biblical Contradictions]], [08:01]–[08:30], https://youtu.be/58jtIUIRWGY
 [^5]: [[Dan McClellan - Apologetics Cannot Rescue Biblical Contradictions|Dan McClellan — Apologetics Cannot Rescue Biblical Contradictions]], [08:30]–[09:30], https://youtu.be/58jtIUIRWGY
+[^6]: [[Dan McClellan - Made in God's Image|McClellan — Made in God's Image]], [02:03], https://youtu.be/ndkJcbee_8c

@@ -16,6 +16,8 @@ tags: [type/scripture, testament/old, topic/equality, topic/image-of-god, topic/
 
 ## Used in
 - [[Genesis 1 Image of God as Seedbed of Rights]]
+- [[The Image of God Is Divine Resemblance and Royal Representation]]
+- [[The Plural of Genesis 1 Is the Divine Council Not the Trinity or Royal We]]
 - [[The Christian Origin of Equality]]
 - [[Christianity Abolished Slavery Twice]]
 

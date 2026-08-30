@@ -17,4 +17,4 @@ The non-LDS scholar [[Salvatore Cirillo]] catalogued parallels between Joseph Sm
 [^1]: [[Lets Get Real with Stephen Jones - Why the Bible Doesnt Make Sense Without Moses Chapter 1|Stephen Jones - Moses Ch 1]], [35:31], https://youtu.be/npt0S8acUUA
 
 ---
-See also: [[People]] · [[Adam]] · [[Noah]] · [[Moses 6]]
+See also: [[People]] · [[Adam]] · [[Noah]] · [[Moses 6]] · [[1 Enoch]] · [[The Book of Enoch Was Not Taken Out of the Bible It Predates the Canon]]

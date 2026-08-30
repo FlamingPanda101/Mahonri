@@ -34,5 +34,8 @@ things without intelligence act toward ends (teleology). [[David Butler]] and
 argument by well over a millennium, making the Book of Mormon prophet [[Alma the Younger]] "the original teleological arguer" who anticipated the argument's
 structure.[^1] See [[Fine-Tuning and the Teleological Argument from Alma 30]].
 
+### Actus Purus and Divine Simplicity
+Aquinas's identification of God with *actus purus* ("pure actuality") and "the sheer act of to be itself" — where God's essence just *is* his existence, and God is metaphysically simple — is, on the Latter-day Saint reading, the mature Greek reframing of God that a Thoughtful Faith source presents as the substance of the Great Apostasy. See [[The Deepest Apostasy Was Trading the God of Abraham for the God of Aristotle]], the simplicity argument in [[The Lego Argument - Divine Simplicity Forces a Monotheism That Excludes Distinct Divine Persons]], and the classical statements in [[Divine Simplicity - God Has No Parts of Any Kind]] and [[Divine Attributes Follow From Pure Actuality]].
+
 [^1]: [[Stick of Joseph - Atheism is Unreasonable and Stupid|Stick of Joseph - Atheism is Unreasonable and Stupid]], [34:00],
 https://youtu.be/aqOzROuIAHM

@@ -5,9 +5,11 @@ related:
   - "[[Philo Did Not Endorse Creation Ex Nihilo]]"
   - "[[Retroactive Reinterpretation of Creation Texts]]"
   - "[[Greco-Roman Jewish Creation View Was Material Substrate]]"
+  - "[[The Anti-Flesh Body-as-Sin View Is Gnostic Not Biblical]]"
 sources:
   - "[[Dan McClellan - Wes Huff Creation Ex Nihilo Response]]"
   - "[[Alex OConnor - There Are Multiple Gods in the Bible Not Just One - Dan McClellan]]"
+  - "[[Dan McClellan - Made in God's Image]]"
 tags:
   - apologetics/creation-ex-nihilo
   - tradition/academic-biblical-studies
@@ -93,6 +95,10 @@ Gerhard May's *Creatio Ex Nihilo* (German 1970s, English 1994) is the standard r
 
 > "It is the consensus view of scholars that the concept of creation out of nothing was not articulated until the second half of the 2nd century CE. And that's exactly where we're going to get next with Wes. We have Tatian... and Theophilus of Antioch... and Irenaeus. That is where the doctrine originates."[^2]
 
+### 9. An Independent McClellan Video Reprises the Timeline and Its Flesh-Driver
+
+In a separate reaction video on the *imago Dei*, McClellan dates the doctrine's emergence to "around 170 CE" and ties it directly to the debate over the body: early Christians "looking forward to the resurrection of the flesh and living eternally in bodies of flesh" horrified Gnostics and Greek thinkers, for whom eternity in "the material pigsty of the flesh" was abhorrent.[^9] Ex nihilo resolved it by making "the fleshly world... not fundamentally evil because it comes directly from God. God created it out of nothing" — which also "solves the sovereignty problem" by making God "the source of all of the matter in the world."[^10] This roots the doctrine's origin in the (Gnostic) claim that the flesh is opposed to God; see [[The Anti-Flesh Body-as-Sin View Is Gnostic Not Biblical]].
+
 ## The Opposing View (Steelmanned)
 
 Wes Huff's argument, as McClellan summarizes it:
@@ -135,3 +141,5 @@ The steelman: The doctrine developed organically from seeds present in Scripture
 [^6]: [[Dan McClellan - Wes Huff Creation Ex Nihilo Response|Dan McClellan - Wes Huff Creation Ex Nihilo Response]], [21:01]-[21:31], https://youtu.be/VxpTLp6jCLI
 [^7]: [[Dan McClellan - Wes Huff Creation Ex Nihilo Response|Dan McClellan - Wes Huff Creation Ex Nihilo Response]], [23:00]-[23:30], https://youtu.be/VxpTLp6jCLI — quoting Wes Huff's tweet conclusion
 [^8]: [[Alex OConnor - There Are Multiple Gods in the Bible Not Just One - Dan McClellan|O'Connor - Multiple Gods (McClellan)]], [11:30]-[13:00], [24:00]-[27:30], https://youtu.be/HIrW5ic1G1I
+[^9]: [[Dan McClellan - Made in God's Image|McClellan — Made in God's Image]], [19:30], https://youtu.be/ndkJcbee_8c
+[^10]: [[Dan McClellan - Made in God's Image|McClellan — Made in God's Image]], [21:30], https://youtu.be/ndkJcbee_8c

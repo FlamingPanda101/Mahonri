@@ -4,8 +4,11 @@ related:
   - "[[Deceased Humans Called Elohim]]"
   - "[[Two Ancient Answers - Death as Annihilation or Passage of the Soul]]"
   - "[[Divine Punishment in the Afterlife Emerged as Theodicy Under Imperial Oppression]]"
+  - "[[The Hebrew Person Is a Psychophysical Unity Not a Soul in a Body]]"
+  - "[[Bodily Resurrection Emerged as the Answer to the Maccabean Theodicy Crisis]]"
 sources:
   - "[[Data Over Dogma - Is Hell Actually in the Bible|Data Over Dogma - Hell]]"
+  - "[[Moronis Standard - Resurrection of the Body vs the Immortal Soul]]"
 tags: ["#apologetics/hell", "#tradition/academic-biblical-studies", "#type/claim"]
 #type/claim
 ---
@@ -33,6 +36,10 @@ When pressed, McClellan clarifies Sheol carries no moral valence: it is "negativ
 ## LDS Relevance
 
 The Israelite picture of a single, conscious-but-shadowy realm of the dead — where the departed persist and can be communed with — is far closer to the LDS **spirit world** (D&C 138) than to the binary heaven-or-hell of creedal Christianity. Restored doctrine likewise holds that the spirit survives death retaining "that same spirit which doth possess your bodies" (Alma 34:34) and is gathered to "a state of happiness... or a state of misery" pending resurrection (Alma 40:11–14) rather than immediately consigned to eternal bliss or eternal fire. That Israel's earliest afterlife had *no* eternal-conscious-torment hell undercuts the claim that such a hell is the bedrock, original biblical teaching — a key plank in the LDS rejection of infernalism (compare [[Latter-day Saints Do Affirm Hell - DC 76 and DC 18]], [[LDS Afterlife - Degrees of Glory]]).
+
+## Second Voice — Moroni's Standard (Levenson and Johnston)
+
+[[Alex Arnold]] of *Moroni's Standard* reaches the same picture from Hebrew Bible scholarship. Reading the text in compositional order, the earliest (pre-exilic) layers "say almost nothing coherent about what happens after death"; **Sheol appears 65 times** as a shadowy underworld — "like the Greek Hades" — where the shades exist in "diminished, joyless, non-consciousness," and it "does not check your record at the door. Everyone goes there." [^7] He stacks the prooftexts: [[Psalm 115.17|Psalm 115:17]] ("the dead do not praise the Lord, nor do any who go down into silence"), Job 14:10–12 (a man lies down and does not rise "until the heavens are no more"), and [[Ecclesiastes]] 9 (the dead "know nothing, have no further reward"). [^8] The decisive case is [[1 Samuel 28|1 Samuel 28]]: the shade of Samuel — the greatest prophet of his generation — rises from *below the earth*, not from heaven, and "the text offers no theological correction"; that **absence of correction** is "the biggest piece of evidence" that author and audience simply assumed this is where the dead are, including the righteous dead. [^9] He cites [[Jon Levenson]] (Harvard; *Resurrection and the Restoration of Israel*, 2006), who concluded early Israelite religion "had no robust doctrine of individual resurrection," only "a theology of national survival and covenant continuity," [^10] and [[Philip Johnston]] (*Shades of Sheol*, 2002) to the same effect. [^11] This reinforces the developmental thesis: the moralized, differentiated afterlife (and eventually bodily resurrection) is a *later* arrival — see [[Bodily Resurrection Emerged as the Answer to the Maccabean Theodicy Crisis]] and [[The Hebrew Person Is a Psychophysical Unity Not a Soul in a Body]].
 
 ## Best Quotes
 

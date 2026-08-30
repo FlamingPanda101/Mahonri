@@ -12,6 +12,7 @@ related:
 sources:
   - "[[FAIR - Genesis 1 and Joseph Smith's Cosmology]]"
   - "[[Alex OConnor - There Are Multiple Gods in the Bible Not Just One - Dan McClellan]]"
+  - "[[Dan McClellan - Made in God's Image]]"
 tags: ["#apologetics/creation", "#tradition/lds", "#type/claim", "#topic/divine-council", "#topic/monotheism"]
 ---
 
@@ -38,6 +39,8 @@ Smoot evaluates four readings of the plural and argues only the fourth survives:
 5. **Garr fuses council + image.** Per W. Randall Garr, the council reading explains the *imago Dei*: "angelic gods look like God and they look like men… the gods' shape is intermediate between the two worlds they connect," so *tselem* and *demut* "indicate that human beings resemble God because they resemble angelic godlike beings that resemble God." This binds Gen 1:26-27's two puzzles together. (See [[The Image of God Is Physical Resemblance Passed Father to Son]].) [^5]
 
 6. **LDS convergence.** Joseph Smith: in the King Follett discourse "the head one called the gods together in grand council… and concocted a scheme to create this world"; the [[Abraham 4.1|Book of Abraham]] has the gods organizing and counseling together. Smoot reads this as the *same* divine plurality preserved in Genesis 1, concluding that "strict ontological monotheism… is not found in the text of Genesis." (See [[Bene Elohim Are Sons Not a Different Species]].) [^6]
+
+7. **McClellan corroborates from a second video, adding a grammatical datum.** In his *imago Dei* reaction, [[Dan McClellan]] calls the plural "a vestigial reference to the divine council" — "these are the other gods of the divine council" — still "a governing conceptual framework" for the priestly author in the late-exilic/post-exilic period.[^8] He adds a point the FAIR discussion does not: in [[Genesis 3.5|Genesis 3:5]] the serpent's "you will become like the gods knowing good and evil" has the participle *knowing* in the **plural**, which "more likely… has to do with the plurality of Elohim" (the gods knowing good and evil), reinforced by [[Genesis 3.22|Genesis 3:22]] ("become like one of us") and the *bene elohim* of Genesis 6.[^9] And the cohortative "cannot have anything to do with the Trinity," which "didn't exist when this passage was written… a philosophical innovation of the mid to late 2nd century CE."[^10] *(Evidence rating: Strong — an independent McClellan source; the plural-participle datum is a fresh grammatical argument.)*
 
 ## Steelman of the Traditional / Creedal Reading
 
@@ -66,6 +69,9 @@ The sharpest, fairest formulation: the divine-council reading is the best *histo
 [^5]: [[FAIR - Genesis 1 and Joseph Smith's Cosmology|FAIR - Genesis 1 Cosmology]], [38:30]–[39:31], https://youtu.be/DTMdqfVEozw
 [^6]: [[FAIR - Genesis 1 and Joseph Smith's Cosmology|FAIR - Genesis 1 Cosmology]], [39:31]–[44:30], https://youtu.be/DTMdqfVEozw
 [^7]: [[Alex OConnor - There Are Multiple Gods in the Bible Not Just One - Dan McClellan|O'Connor - Multiple Gods (McClellan)]], [32:30]–[35:30], https://youtu.be/HIrW5ic1G1I
+[^8]: [[Dan McClellan - Made in God's Image|McClellan — Made in God's Image]], [11:30], https://youtu.be/ndkJcbee_8c
+[^9]: [[Dan McClellan - Made in God's Image|McClellan — Made in God's Image]], [12:31], https://youtu.be/ndkJcbee_8c
+[^10]: [[Dan McClellan - Made in God's Image|McClellan — Made in God's Image]], [13:31], https://youtu.be/ndkJcbee_8c
 
 ---
-See also: [[Concepts]] · [[FAIR - Genesis 1 and Joseph Smith's Cosmology]] · [[Divine Council and Deification Were Native to the Hebrew Bible]] · [[Psalm 82 Is About Divine Council Not Human Judges]] · [[Alex OConnor - There Are Multiple Gods in the Bible Not Just One - Dan McClellan]]
+See also: [[Concepts]] · [[FAIR - Genesis 1 and Joseph Smith's Cosmology]] · [[Divine Council and Deification Were Native to the Hebrew Bible]] · [[Psalm 82 Is About Divine Council Not Human Judges]] · [[Dan McClellan - Made in God's Image]] · [[Alex OConnor - There Are Multiple Gods in the Bible Not Just One - Dan McClellan]]

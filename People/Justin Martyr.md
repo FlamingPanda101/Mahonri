@@ -18,7 +18,7 @@ dates: "c.100 – c.165 CE"
 [[Dan McClellan]] notes that Justin Martyr, writing around 150 CE, "refers to Jesus as the *logos* as another God" — a formulation closer to [[Philo of Alexandria]]'s "second God" concept than to later Nicene orthodoxy.[^1] This shows that even mid-2nd-century Christian intellectuals had not yet arrived at the co-equality doctrine that would be enforced at Nicaea.
 
 ## The Apologist Project
-Justin represents the class of "apologists" — educated Christians trying to make the gospel palatable to Greco-Roman intelligentsia by using Greek philosophical categories. This project ultimately drives the systematization that produces the [[Trinity - Historical Development|Trinity]] and [[Consubstantiality]].
+Justin represents the class of "apologists" — educated Christians trying to make the gospel palatable to Greco-Roman intelligentsia by using Greek philosophical categories. This project ultimately drives the systematization that produces the [[Trinity - Historical Development|Trinity]] and [[Consubstantiality]]. Thoughtful Faith presses the point further: the apologists did not merely borrow Greek *terms* but argued the biblical God *was* the philosophers' God — see [[Apologists Claimed the Biblical God Was the Same God as the Greek Philosophers]] and the broader thesis in [[The Deepest Apostasy Was Trading the God of Abraham for the God of Aristotle]].
 
 ## Sources
 [^1]: [[Data Over Dogma - Is Jesus God in the Gospel of John?]], [42:33], https://youtu.be/K0kobJi-sLI

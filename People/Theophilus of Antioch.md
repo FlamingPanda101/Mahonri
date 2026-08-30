@@ -37,4 +37,7 @@ Theophilus was arguing against the Platonic and Stoic consensus that matter is e
 
 Along with [[Tatian]] (c. 160 CE) and [[Irenaeus of Lyons]] (c. 180 CE), Theophilus is one of the three originators of the doctrine of creation ex nihilo. His formulation became the basis for the later Nicene affirmation of God as "maker of all things visible and invisible" — which includes matter itself.
 
+## Negative-Attribute Description of God
+Beyond originating creation *ex nihilo*, Theophilus supplied one of the earliest apologetic descriptions of God by negation — "ineffable, inexpressible, uncontainable, incomprehensible, inconceivable, incomparable, unteachable, immutable." A Thoughtful Faith source cites this litany as evidence that the apologists described God in "precisely the same language" as pagan intellectuals, to forge "a decisive link to the Greek... tradition." See [[Apologists Claimed the Biblical God Was the Same God as the Greek Philosophers]].
+
 [^1]: [[Dan McClellan - Wes Huff Creation Ex Nihilo Response|Dan McClellan - Wes Huff Creation Ex Nihilo Response]], [20:00]-[20:32], https://youtu.be/VxpTLp6jCLI

@@ -52,4 +52,7 @@ Aristotle held that the universe is **eternal in the past** — it never began t
 - [[Philo Did Not Endorse Creation Ex Nihilo]]
 - [[Hilbert's Hotel - Why an Actual Infinite Cannot Exist]]
 
+## God of Aristotle vs God of Abraham
+Aristotle's uncaused, unchanging, unaffected, self-sufficient first cause became — through the post-apostolic apologists and later [[Thomas Aquinas]] — the template for the creedal God, an identification Latter-day Saints read as the deepest layer of the Great Apostasy. See [[The Deepest Apostasy Was Trading the God of Abraham for the God of Aristotle]] and [[Unmoved Mover Reshaped God the Father]]; the simplicity corollary that excludes distinct divine persons is in [[The Lego Argument - Divine Simplicity Forces a Monotheism That Excludes Distinct Divine Persons]].
+
 [^1]: [[Dan McClellan - Wes Huff Creation Ex Nihilo Response|Dan McClellan - Wes Huff Creation Ex Nihilo Response]], [16:02]-[16:30], https://youtu.be/VxpTLp6jCLI

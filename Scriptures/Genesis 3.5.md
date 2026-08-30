@@ -14,6 +14,7 @@ Anti-Mormon polemic treats "ye shall be as gods" as Satan's lie, and so brands t
 
 ## Referenced in
 - [[Genesis 3 Affirms Humans Became Like God It Was Not Only a Lie]]
+- [[The Plural of Genesis 1 Is the Divine Council Not the Trinity or Royal We]]
 
 ---
 See also: [[Scriptures]] · [[Genesis 3.22]]

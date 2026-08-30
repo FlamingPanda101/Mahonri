@@ -32,5 +32,6 @@ tags: [type/scripture, type/extracanonical, book/1-enoch, topic/book-of-enoch, t
 - [[Book of Enoch - Enoch as the Son of Man]]
 - [[Book of Enoch - Quoted as Scripture in Jude]]
 - [[Book of Enoch - Exclusion from the Canon]]
+- [[The Book of Enoch Was Not Taken Out of the Bible It Predates the Canon]]
 - [[The Parables of Enoch Are Pre-Christian Not a Post-Jesus Forgery]]
 - [[Moronis Standard - The Book Too Messianic for Your Bible 1 Enoch|Moroni's Standard - 1 Enoch]]

@@ -2,12 +2,16 @@
 title: "The Book of Mormon Scores Higher Than the Bible on Christ-Centeredness"
 scripture:
   - "[[Matthew 7.15-20|Matthew 7:15-20]]"
+  - "[[3 Nephi 9|3 Nephi 9:21]]"
 related:
   - "[[A Data Analysis of Scripture Is Only as Objective as Its Model]]"
   - "[[Spiritual Confirmation Not Data Is Why People Keep Reading Scripture]]"
+  - "[[The Book of Mormon Teaches Universal Moral Principles Shared Across Scripture]]"
+  - "[[The Book of Mormon Passes the Matthew 7 By Their Fruits Test]]"
   - "[[Book of Mormon Evidences]]"
 sources:
   - "[[The Bald Coder - I Analyzed the Entire Book of Mormon]]"
+  - "[[The Bald Coder - I Analyzed the Entire Book of Mormon (again)]]"
 tags: ["#apologetics/book-of-mormon", "#topic/data-analysis", "#by/the-bald-coder", "#tradition/lds", "#type/claim"]
 ---
 
@@ -22,8 +26,9 @@ tags: ["#apologetics/book-of-mormon", "#topic/data-analysis", "#by/the-bald-code
 1. **The Christ-centeredness numbers.** Book of Mormon mean = 7.89 (SD 2.0); whole Bible mean = 5.11 (SD 2.41). The lower Bible mean is expected because most of the Bible is the Old Testament, which rarely names Christ directly (OT mean 3.97). Broken out, the New Testament scores 9.12 — higher than the Book of Mormon — but the Book of Mormon claims to span ≈600 BC–AD 400 (Old- *and* New-Testament times) yet "testifies of Christ from the very first chapter," whereas the Bible does not until the Gospels.[^2] *(Rating: assertion / model-generated — the scores are produced entirely by the Gemini API on a prompt, not validated against any human-coded gold standard. The *direction* is unsurprising given the Book of Mormon's explicit Christology, but the precise figures carry no independent authority.)*
 2. **The morality numbers.** Book of Mormon mean = 9.03 (SD 0.82) — over 75% of chapters score ≥9.0; whole Bible mean = 8.24 (SD 1.12); New Testament = 9.06. Both books register as "extremely moral"; the Book of Mormon edges the Bible.[^3] *(Rating: assertion / model-generated — same caveat. Notably the morality scores cluster tightly and high for both books, which limits their discriminating power.)*
 3. **The method borrows the logic of sentiment analysis.** The technique is real (sentiment analysis can objectively score the positivity/negativity of text), and the creator extends it to "anything we want" — Christ-centeredness, dignity, morality — via a scoring prompt to Gemini, with a rationale output per chapter. See [[A Data Analysis of Scripture Is Only as Objective as Its Model]].[^4] *(Rating: secondary — the underlying NLP concept is sound; the application's validity depends entirely on the model.)*
+4. **A second, more transparent method replicates the ranking (2025 follow-up).** After critics objected that the first video just asked an LLM to "make up a score," the creator re-ran the analysis with a **non-generative embedding model** — every verse of the Old Testament, New Testament, Book of Mormon and Quran (60,000+ verses) converted to a vector, then ranked by **cosine similarity** to a hand-written "Jesus Christ" probe, "measuring the meaning behind each of the words," not keyword counts. The ranking held: New Testament and Book of Mormon in a near-tie for first (NT edges it, so the Book of Mormon is second), Old Testament third, Quran last — "the same rankings and same results even with the completely different methodology."[^5] The single most Christ-centered verse across all four texts is [[3 Nephi 9|3 Nephi 9:21]] ("Behold, I have come unto the world to bring redemption unto the world, to save the world from sin"), which the model surfaces as Christ-centered even though it never names Jesus.[^6] *(Rating: secondary/convergent — two independent methods agreeing raises confidence in the *relative ranking*; the embedding math is inspectable, which answers the "the LLM invented it" objection, though it does not touch the deeper "content ≠ truth" point.)*
 
-**Steelman of the skeptical view.** A critic notes the result is close to circular: a book *written* to foreground Jesus by name in nearly every chapter will of course score high on a "how often and centrally is Christ mentioned" metric — that measures *authorial intent and vocabulary*, not divine origin or truth. The LLM is also trained on a corpus where the Book of Mormon is discussed in both devotional and polemical registers, so its "scores" may encode that mixed sentiment rather than any objective property. And comparing a single Christ-centered volume to the entire Bible (most of which predates Christ) is not a like-for-like contest. The creator concedes the deepest point himself — see below.
+**Steelman of the skeptical view.** A critic notes the result is close to circular: a book *written* to foreground Jesus by name in nearly every chapter will of course rank high on a "how central is Christ" metric — that measures *authorial intent and vocabulary*, not divine origin or truth. The embedding re-do genuinely blunts one objection (cosine similarity is transparent vector math, not a black-box generative judgment), but the embedding model is *still* trained on a human corpus in which the Book of Mormon appears in both devotional and polemical registers, so [[A Data Analysis of Scripture Is Only as Objective as Its Model]] still applies — and comparing a single Christ-centered volume to the entire Bible (most of which predates Christ) remains an uneven contest. The creator concedes the deepest point himself — see below.
 
 ## LDS Relevance
 The exercise is a mildly interesting *corroboration* of what Latter-day Saints already claim — that the Book of Mormon is "another testament of Jesus Christ" and is pervasively Christ-centered and morally elevating — but it proves nothing about historicity or inspiration, and the creator says so explicitly. Its real apologetic value is rhetorical: it reframes the "by their fruits" question quantitatively for a secular audience. It belongs alongside the substantive cases in [[Book of Mormon Evidences]], not as evidence in itself. The honest framing is the creator's own: spiritual experience, not data, is why people read scripture — see [[Spiritual Confirmation Not Data Is Why People Keep Reading Scripture]].
@@ -35,11 +40,15 @@ The exercise is a mildly interesting *corroboration* of what Latter-day Saints a
 
 > "I could even go as far as to say that I think the Book of Mormon according to this test in Matthew chapter 7 would be classified as good fruit, because it obviously testifies of Christ and it invites its readers to live a good moral life." [^1]
 
+> "We see the same rankings and same results even with the completely different methodology. So, we know now that the Book of Mormon is in fact a Christ-centered text." [^5]
+
 ## References
 [^1]: [[The Bald Coder - I Analyzed the Entire Book of Mormon|The Bald Coder - Book of Mormon Data Analysis]], [07:30]–[08:00], https://youtu.be/iHc1YDraCWs
 [^2]: [[The Bald Coder - I Analyzed the Entire Book of Mormon|The Bald Coder - Book of Mormon Data Analysis]], [05:30]–[07:00], https://youtu.be/iHc1YDraCWs
 [^3]: [[The Bald Coder - I Analyzed the Entire Book of Mormon|The Bald Coder - Book of Mormon Data Analysis]], [06:00]–[06:30], https://youtu.be/iHc1YDraCWs
 [^4]: [[The Bald Coder - I Analyzed the Entire Book of Mormon|The Bald Coder - Book of Mormon Data Analysis]], [02:00]–[05:00], https://youtu.be/iHc1YDraCWs
+[^5]: [[The Bald Coder - I Analyzed the Entire Book of Mormon (again)|Bald Coder — BoM Embedding Analysis]], [06:01], https://youtu.be/tKE2HFiXkw8
+[^6]: [[The Bald Coder - I Analyzed the Entire Book of Mormon (again)|Bald Coder — BoM Embedding Analysis]], [05:30], https://youtu.be/tKE2HFiXkw8
 
 ---
-See also: [[Concepts]] · [[The Bald Coder - I Analyzed the Entire Book of Mormon]] · [[A Data Analysis of Scripture Is Only as Objective as Its Model]] · [[Matthew 7.15-20|Matthew 7:15-20]]
+See also: [[Concepts]] · [[The Bald Coder - I Analyzed the Entire Book of Mormon]] · [[The Bald Coder - I Analyzed the Entire Book of Mormon (again)]] · [[A Data Analysis of Scripture Is Only as Objective as Its Model]] · [[3 Nephi 9|3 Nephi 9:21]] · [[Matthew 7.15-20|Matthew 7:15-20]]

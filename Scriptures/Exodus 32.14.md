@@ -13,6 +13,7 @@ tags: [scripture/old-testament]
 
 ## Used in
 - [[The Biblical God Is Dynamic Not Static (Christine Hayes)]]
+- [[The Deepest Apostasy Was Trading the God of Abraham for the God of Aristotle]]
 
 ---
 See also: [[Scriptures]]

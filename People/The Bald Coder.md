@@ -17,7 +17,7 @@ authority_reason: "YouTube content creator and self-described data scientist who
 **Role:** YouTube creator / data scientist
 
 ## Bio
-The Bald Coder is a Latter-day Saint YouTube channel and host — a self-described data scientist — who applies natural-language processing to scripture. In his best-known video, "I Analyzed the Entire Book of Mormon," he used a large language model (Google's Gemini) to score every chapter of the Book of Mormon and the Bible on two axes, Christ-centeredness and morality, and reported that the Book of Mormon scores higher than the whole Bible on both. See [[The Book of Mormon Scores Higher Than the Bible on Christ-Centeredness]].
+The Bald Coder is a Latter-day Saint YouTube channel and host — a self-described data scientist — who applies natural-language processing to scripture. In his best-known video, "I Analyzed the Entire Book of Mormon," he used a large language model (Google's Gemini) to score every chapter of the Book of Mormon and the Bible on two axes, Christ-centeredness and morality, and reported that the Book of Mormon scores higher than the whole Bible on both. See [[The Book of Mormon Scores Higher Than the Bible on Christ-Centeredness]]. In a 2025 follow-up, "I Analyzed the Entire Book of Mormon (again)," he re-ran the study with a **non-generative embedding model** and cosine similarity — a more transparent method built to answer critics who said the first video just asked an LLM to "make up a score" — reproducing the Christ-centered ranking across four texts (OT, NT, Book of Mormon, Quran) and finding their moral profiles ≥95% alike. See [[The Book of Mormon Teaches Universal Moral Principles Shared Across Scripture]] and [[The Book of Mormon Passes the Matthew 7 By Their Fruits Test]].
 
 ## Why he matters
 He is notable in the vault less for the *result* than for his **intellectual honesty about method**: he explicitly cautions that "large language models are trained on human-biased data" and that "you should never blindly believe anything that a large language model tells you," disclaiming any proof of divine origin and extending the same caveat to the Bible. This makes him the clean illustrating case for the guardrail note [[A Data Analysis of Scripture Is Only as Objective as Its Model]] — that the veneer of numerical objectivity does not transfer truth-value — and pairs with [[Spiritual Confirmation Not Data Is Why People Keep Reading Scripture]].
@@ -25,6 +25,12 @@ He is notable in the vault less for the *result* than for his **intellectual hon
 ## Referenced in
 - [[A Data Analysis of Scripture Is Only as Objective as Its Model]]
 - [[The Book of Mormon Scores Higher Than the Bible on Christ-Centeredness]]
+- [[The Book of Mormon Teaches Universal Moral Principles Shared Across Scripture]]
+- [[The Book of Mormon Passes the Matthew 7 By Their Fruits Test]]
 - [[Spiritual Confirmation Not Data Is Why People Keep Reading Scripture]]
+
+## Sources
+- [[The Bald Coder - I Analyzed the Entire Book of Mormon]]
+- [[The Bald Coder - I Analyzed the Entire Book of Mormon (again)]]
 
 See also: [[People]]

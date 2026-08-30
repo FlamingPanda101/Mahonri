@@ -14,6 +14,7 @@ This is the LDS rejoinder to the charge that becoming "as gods" ([[Genesis 3.5|G
 
 ## Referenced in
 - [[Genesis 3 Affirms Humans Became Like God It Was Not Only a Lie]]
+- [[The Plural of Genesis 1 Is the Divine Council Not the Trinity or Royal We]]
 
 ---
 See also: [[Scriptures]] · [[Genesis 3.5]]

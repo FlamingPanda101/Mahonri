@@ -8,6 +8,7 @@ related:
   - "[[Canon - Development and Closure]]"
 sources:
   - "[[Data Over Dogma - Left Behind The Book of Enoch|Data Over Dogma — Left Behind: The Book of Enoch]]"
+  - "[[Dan McClellan - Was the Book of Enoch Taken Out of the Bible]]"
 tags: [apologetics, book-of-enoch, canon, early-church, apologetics-history]
 #type/claim
 ---
@@ -50,6 +51,11 @@ Between the 3rd and 4th centuries, the emerging canonical consensus — reflecte
 ### 5. The Counter-Example: Tertullian's Defense
 Tertullian (c. 160–220 CE) argued FOR 1 Enoch's canonicity on the grounds that Jude quoted it as prophecy. His argument failed to persuade the broader church, but it demonstrates that the question was actively debated, not settled from the beginning. The canonical boundary was contested, not self-evident.
 
+### 6. Doctrinal Conflict With the Gospels and Paul (McClellan)
+[[Dan McClellan]] corroborates this cluster and names a factor the others under-state: beyond the pre-flood-survival worry (which he attributes to **[[Augustine]] and others**, still being argued "as late as the late 4th and early 5th centuries CE") and the "internal inconsistency of First Enoch," the book "conflicts with a number of the ideologies represented by the more clearly canonical Gospels and letters of Paul" — and "it is just a weird text in a lot of ways." [^5] So the exclusion was over-determined: dating skepticism, internal contradiction, doctrinal friction with the emerging Pauline-Gospel mainstream, and sheer strangeness together pushed 1 Enoch out "by the time we get to the development and the formalization of the canon." Crucially, all of this happened *before* a bound Bible existed — see [[The Book of Enoch Was Not Taken Out of the Bible It Predates the Canon]].
+
+**Argument weight: Secondary** — an independent scholarly attestation that adds the Gospels/Paul-conflict factor to the list
+
 ## Steelman Objection
 
 **"The church's rejection of 1 Enoch was providentially guided. The same Spirit who inspired Jude to quote the true part of Enoch also guided the church to recognize which books belong in the canon. The criteria — apostolic origin, catholic acceptance, doctrinal consistency — were applied faithfully. 1 Enoch failed these tests: it's not apostolic, it wasn't universally accepted, and it contains doctrines (angelic origin of evil, 364-day calendar) inconsistent with the canonical whole."**
@@ -62,3 +68,4 @@ This objection is the standard confessional position. Its weakness: it assumes w
 [^2]: [[Data Over Dogma - Left Behind The Book of Enoch|Data Over Dogma — Left Behind: The Book of Enoch]], [40:31]–[41:01], https://youtu.be/zghJE1-ZCQw
 [^3]: [[Data Over Dogma - Left Behind The Book of Enoch|Data Over Dogma — Left Behind: The Book of Enoch]], [41:01]–[41:31], https://youtu.be/zghJE1-ZCQw
 [^4]: [[Data Over Dogma - Left Behind The Book of Enoch|Data Over Dogma — Left Behind: The Book of Enoch]], [41:31]–[42:01], https://youtu.be/zghJE1-ZCQw
+[^5]: [[Dan McClellan - Was the Book of Enoch Taken Out of the Bible|McClellan — Enoch Not Taken Out]], [06:32], https://youtu.be/PWtJ_fIlqiY

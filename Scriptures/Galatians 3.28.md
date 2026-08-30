@@ -17,6 +17,7 @@ A central proof-text for the Christian-origin-of-equality claim. [[Glenn Scriven
 - [[Galatians 3-28 Is a Theological Reality Not a Rights Charter]]
 - [[The Hippocratic Oath Predates the Christian Medical Ethic]]
 - [[Modern Gender Equality Is Not Grounded in the Bible]]
+- [[The Book of Mormon Teaches Universal Moral Principles Shared Across Scripture]] — surfaced by an embedding "equality" probe as the top New Testament verse, paired with [[2 Nephi 26.33|2 Nephi 26:33]] and [[Hosea 2.23|Hosea 2:23]]
 
 ---
 See also: [[Scriptures]]

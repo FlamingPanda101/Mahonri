@@ -39,3 +39,10 @@ Like Tatian and Theophilus, Irenaeus read the new doctrine back into earlier tex
 
 - [[Creation Ex Nihilo Originated Late 2nd Century CE]]
 - [[Retroactive Reinterpretation of Creation Texts]]
+- [[Apologists Claimed the Biblical God Was the Same God as the Greek Philosophers]]
+
+## Among the Greco-Roman Apologists
+Alongside [[Justin Martyr]] and [[Tertullian]], Irenaeus is grouped by Thoughtful Faith among the Greco-Roman-educated apologists who answered Greek objections by adopting Greek metaphysical categories for God. See [[Apologists Claimed the Biblical God Was the Same God as the Greek Philosophers]] and [[The Deepest Apostasy Was Trading the God of Abraham for the God of Aristotle]].
+
+---
+See also: [[People]] · [[Tertullian]] · [[Theophilus of Antioch]] · [[Justin Martyr]]
