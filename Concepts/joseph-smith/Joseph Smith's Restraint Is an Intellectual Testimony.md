@@ -49,7 +49,7 @@ Two serious objections. **(1) Restraint may be prudence, not virtue.** After the
 
 ---
 [^1]: [[WARD RADIO - Joseph Smith Papers Craziest Things|Ward Radio — JSP Craziest Things]], [42:30], https://youtu.be/SD3WNQVBPqo
-[^2]: [[WARD RADIO - Joseph Smith Papers Craziest Things|Ward Radio — JSP Craziest Things]], [45:30], https://youtu.be/SD3WNQVBPqo
+[^2]: [[WARD RADIO - Joseph Smith Papers Craziest Things|Ward Radio — JSP Craziest Things]], [45:31], https://youtu.be/SD3WNQVBPqo
 [^3]: [[WARD RADIO - Joseph Smith Papers Craziest Things|Ward Radio — JSP Craziest Things]], [45:00], https://youtu.be/SD3WNQVBPqo
 [^4]: [[WARD RADIO - Joseph Smith Papers Craziest Things|Ward Radio — JSP Craziest Things]], [44:01], https://youtu.be/SD3WNQVBPqo
 [^5]: [[WARD RADIO - Joseph Smith Papers Craziest Things|Ward Radio — JSP Craziest Things]], [46:32], https://youtu.be/SD3WNQVBPqo

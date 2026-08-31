@@ -12,6 +12,7 @@ tags: [type/scripture, book/matthew, testament/new, topic/perfection]
 ## Used in
 - [[Self-Worth Decoupled From Performance Combats Perfectionism]] — Dyer notes "we have this thing, be therefore perfect," then argues the gospel's grace message ("God loves you no matter what") prevents the verse from breeding toxic perfectionism.
 - [[Toxic Perfectionism Lower Among Religious Than Non-Religious]]
+- [[The Soul Is Made Sinless While the Body Still Sins]] — Mark argues the sealed sinless soul is "the only way to meet the Matthew 5:48 requirement."
 
 ---
 See also: [[Scriptures]]

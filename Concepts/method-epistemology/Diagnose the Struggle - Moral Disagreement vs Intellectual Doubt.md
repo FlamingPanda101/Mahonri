@@ -6,6 +6,7 @@ related:
   - "[[Start With the Positive Case - Weigh the Scale Before the Earthquake]]"
 sources:
   - "[[Thoughtful Faith - My Faith Crisis and a Message to Those Who Struggle]]"
+  - "[[WARD RADIO - Destroy Every Anti-Mormon Argument]]"
 tags: [apologetics, challenges, faith-crisis, pastoral, motivation, topic/challenges, tradition/lds]
 ---
 # Diagnose the Struggle - Moral Disagreement vs Intellectual Doubt
@@ -42,6 +43,10 @@ The moral/intellectual diagnosis echoes the Restoration teaching that revelation
 [^3]: [[Thoughtful Faith - My Faith Crisis and a Message to Those Who Struggle|TF — My Faith Crisis]], [22:31]–[23:30], https://youtu.be/coi2zBlUe1Q
 [^4]: [[Thoughtful Faith - My Faith Crisis and a Message to Those Who Struggle|TF — My Faith Crisis]], [23:30]–[24:01], https://youtu.be/coi2zBlUe1Q
 [^5]: [[Thoughtful Faith - My Faith Crisis and a Message to Those Who Struggle|TF — My Faith Crisis]], [23:01]–[23:30], https://youtu.be/coi2zBlUe1Q
+[^6]: [[WARD RADIO - Destroy Every Anti-Mormon Argument|Ward Radio — Destroy Every Anti-Mormon Argument]], [33:30], https://youtu.be/rnhYXS9-5tk
+[^7]: [[WARD RADIO - Destroy Every Anti-Mormon Argument|Ward Radio — Destroy Every Anti-Mormon Argument]], [37:31], https://youtu.be/rnhYXS9-5tk
+[^8]: [[WARD RADIO - Destroy Every Anti-Mormon Argument|Ward Radio — Destroy Every Anti-Mormon Argument]], [36:01], https://youtu.be/rnhYXS9-5tk
+[^9]: [[WARD RADIO - Destroy Every Anti-Mormon Argument|Ward Radio — Destroy Every Anti-Mormon Argument]], [35:00], https://youtu.be/rnhYXS9-5tk
 
 ---
-See also: [[Concepts]] · [[Thoughtful Faith - My Faith Crisis and a Message to Those Who Struggle]]
+See also: [[Concepts]] · [[Thoughtful Faith - My Faith Crisis and a Message to Those Who Struggle]] · [[WARD RADIO - Destroy Every Anti-Mormon Argument]]

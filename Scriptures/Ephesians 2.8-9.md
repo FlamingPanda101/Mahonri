@@ -21,6 +21,7 @@ Salvation is by grace **through faith** — and faith that is real *demonstrates
 - [[Ephesians 2-8-9 - Saved by Grace Not Works Rebutted]]
 - [[Initial vs Ongoing Justification]] — Catholic reading (initial justification by grace alone)
 - [[Paul Read Whole Rejects the Law of Moses Not Good Works]] — LDS reading (read with v.10)
+- [[Belief Alone Saves and Is Distinct From Faith as Works]] — Carroll cites "grace through faith... manifested in works" against an ex-Mormon's belief/faith split.
 
 ---
 See also: [[Scriptures]] · [[WardRadio - Top 9 Misconstrued Scriptures]]

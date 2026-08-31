@@ -23,11 +23,15 @@ Several early revelations through [[Joseph Smith]] for Cowdery — [[D&C 6|D&C 6
 
 Cowdery reported that Joseph was "honorably acquitted" at the 1826 proceeding — testimony the source notes is discounted by critics as partisan but counts as one of the five later sources.[^6] See [[Joseph Smith 1826 Trial Conviction Question]].
 
+## Counterfeiting and the 1838 Excommunication
+One reason cited for Cowdery's 1838 excommunication was that, after the Kirtland Safety Society bank failed, he kept **printing bank notes without authorization** — technically counterfeiting. Per the court minutes, "the one thing he never apologized for was counterfeiting money"; he wanted to recover his deposits, took the printing plates with him, and left without really defending himself.[^7] See [[Oliver Cowdery Counterfeited Money After the Kirtland Bank Collapse]].
+
 ## Reaffirmed Under Threat of Death (McLellin's Record)
 Former apostle [[William McLellin]] — cited by [[Keystone]] — recorded that in 1833, with the mob endangering their lives, he asked Cowdery whether the Book of Mormon was true. Cowdery answered: "God sent his Holy Angel to declare the truth of the translation of it to us... and though the mob kill us, yet we must die declaring its truth." See [[William McLellin Affirmed the Book of Mormon While Rejecting Church Leadership]].
 
 ## References
 - [[The Holy Rebellion - The Problem With Calling Joseph Smith a Con Man]]
+- [[WARD RADIO - Joseph Smith Papers Craziest Things]]
 - [[Keystone - What This Early Apostate Revealed About the Book of Mormon]]
 - [[Joseph Smith]]
 
@@ -37,3 +41,4 @@ Former apostle [[William McLellin]] — cited by [[Keystone]] — recorded that 
 [^4]: [[The Holy Rebellion - The Problem With Calling Joseph Smith a Con Man|The Holy Rebellion - The Problem With Calling Joseph Smith a Con Man]], [72:30]–[73:30], https://youtu.be/ePeZwR5rsQc
 [^5]: [[The Holy Rebellion - The Problem With Calling Joseph Smith a Con Man|The Holy Rebellion - The Problem With Calling Joseph Smith a Con Man]], [71:32]–[72:00], https://youtu.be/ePeZwR5rsQc
 [^6]: [[The Holy Rebellion - The Problem With Calling Joseph Smith a Con Man|The Holy Rebellion - The Problem With Calling Joseph Smith a Con Man]], [44:01]–[44:30], https://youtu.be/ePeZwR5rsQc
+[^7]: [[WARD RADIO - Joseph Smith Papers Craziest Things|Ward Radio — JSP Craziest Things]], [03:00], https://youtu.be/SD3WNQVBPqo

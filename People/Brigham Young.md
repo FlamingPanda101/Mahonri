@@ -14,6 +14,7 @@ sources:
   - "[[Benjamin Park - Did Joseph Smith Teach Men Can Become God]]"
   - "[[Lets Get Real - Why Its Easier to Flatten Brigham Young]]"
   - "[[Thoughtful Faith - Was Joseph Smith A Polygamist Ft Brian Hales]]"
+  - "[[WARD RADIO - Joseph Smith Papers Craziest Things]]"
 ---
 
 # Brigham Young
@@ -49,6 +50,9 @@ In a long-form interview, Dr. [[Daniel C. Peterson]] argues against the modern i
 
 He had real rough edges — a sharp tongue he admitted to, an authoritarian streak, an abusive frontier upbringing — but Peterson insists these were neither unique nor "wicked," and were partly exaggerated by the Journal of Discourses. See [[Journal of Discourses Misrepresents Brigham Young]] and [[A Man of His Time Without Excusing the Sin]].
 
+## Restraint After the Martyrdom
+[[Ryan Wood]] highlights Brigham's forbearance after Joseph's murder as evidence of prophetic character: with the means for massive retaliation available (including [[Orrin Porter Rockwell]]), and towns around Nauvoo fleeing in fear of exactly that, Brigham declined revenge — a restraint Wood likens to [[Abraham Lincoln]] forgiving the South. See [[Joseph Smith's Restraint Is an Intellectual Testimony]].[^6]
+
 ## Polygamy — Consent and Divorce
 [[Keystone]] cites Brigham as a gatekeeper who *denied* some plural-marriage petitions (e.g. [[Peter Shirts]], told to "continue to lead the life of a hermit"), and as holding a permissive view of divorce: a wife whose life "became too burdensome" should "leave and get a divorce," and an alienated wife should be given "a bill of divorcement." Utah likely had the nation's highest divorce rate by 1870, and Brigham himself had wives who divorced him. See [[Plural Marriage Proposal Required a Chain of Consent]] and [[Polygamous Utah Had the Nations Easiest Divorce Especially for Women]].[^5]
 
@@ -60,3 +64,4 @@ A core move of polygamy denialism is to relocate plural marriage from Joseph ont
 [^2]: [[Lets Get Real - Why Its Easier to Flatten Brigham Young|Let's Get Real - Why It's Easier to Flatten Brigham Young]], [03:31]–[04:00], https://youtu.be/dssLIsMniWU
 [^3]: [[Lets Get Real - Why Its Easier to Flatten Brigham Young|Let's Get Real - Why It's Easier to Flatten Brigham Young]], [16:00]–[18:31], https://youtu.be/dssLIsMniWU
 [^5]: [[Keystone - What Exmo Reddit Gets Wrong About LDS Polygamy|Keystone - Exmo Reddit on LDS Polygamy]], [04:30]–[08:31], https://youtu.be/JGnWdOeVbjE
+[^6]: [[WARD RADIO - Joseph Smith Papers Craziest Things|Ward Radio — JSP Craziest Things]], [44:01], https://youtu.be/SD3WNQVBPqo

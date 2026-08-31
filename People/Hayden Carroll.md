@@ -97,6 +97,9 @@ In [[Lets Talk w Hayden Carroll - Most Intense Religious Debate|"The Most Intens
 - **Canon.** He renews the [[Authorization - Divine Designation Required for an Infallible Canon|authorization]] challenge against Greg's coined "sola words of the covenant," pressing R.C. Sproul's "fallible list of infallible books." See [[Sola Words of the Covenant - Redemption Then Covenant Writings]].[^18]
 - **Book of Mormon.** He answers Greg's Nephite-temple objection with divine authorization. See [[Nephite Temple and Priesthood Outside the Levitical Line]].[^19]
 
+### Debate with an Ex-Mormon Baptist — Eternal Life, Grace, and the Bible
+In [[Lets Talk w Hayden Carroll - Ex-Mormon Baptist Says My Theology Is Wrong|"Ex-Mormon Baptist Says My Theology Is WRONG!"]], a repeat critical commenter — [[Mark (Ex-Mormon Baptist)]], a former Latter-day Saint turned Baptist — argues that eternal life is a present possession ([[John 6.47|John 6:47]], "hath everlasting life") that LDS theology defers to a post-resurrection exaltation. Carroll's replies span four fronts: eternal life is used in multiple biblical senses and is affirmed as present in Restoration scripture ([[Eternal Life Is a Present Possession Not Only Future Exaltation]]); the "works-based salvation" charge is answered by grace statements from McConkie, Oaks, and Ballard ([[LDS Salvation Is by Grace Not Earned by Works]]); the critic must justify the standard by which he judges, since his own Bible rests on an admitted Moroni-10-style heart choice ([[The Ex-Mormon Grounds His Bible on the Same Heart-Choice He Rejects in Moroni 10]]); and Carroll closes on offense with his [[Why Doesnt God Only Create the Saved|Creation Dilemma]] against the creedal God.[^20]
+
 [^1]: [[Stick of Joseph - Atheism is Unreasonable and Stupid|Stick of Joseph - Atheism is Unreasonable and Stupid]], [00:31]–[01:30],
 https://youtu.be/aqOzROuIAHM
 
@@ -134,6 +137,7 @@ https://youtu.be/aqOzROuIAHM
 [^17]: [[Lets Talk w Hayden Carroll - Most Intense Religious Debate|Carroll — Most Intense Debate]], [87:00], https://youtu.be/eRQh-x-MSmA
 [^18]: [[Lets Talk w Hayden Carroll - Most Intense Religious Debate|Carroll — Most Intense Debate]], [128:30], https://youtu.be/eRQh-x-MSmA
 [^19]: [[Lets Talk w Hayden Carroll - Most Intense Religious Debate|Carroll — Most Intense Debate]], [130:30], https://youtu.be/eRQh-x-MSmA
+[^20]: [[Lets Talk w Hayden Carroll - Ex-Mormon Baptist Says My Theology Is Wrong|Carroll — Ex-Mormon Baptist]], [23:30], https://youtu.be/A9CUU0AMLkE
 
 ---
 See also: [[People]] · [[Greg (Collierville Pastor)]] · [[Quinn Fryberg]] · [[Stick of Joseph]] · [[Cliff Knechtel]] · [[Jacob Hansen]] · [[Ward Radio - The Top 5 Questions Atheists CANNOT Answer]] · [[The Stick of Joseph - Biblical Evidence That Jesus and Satan Are Brothers]] · [[Lets Talk w Hayden Carroll - Most Intense Religious Debate]]

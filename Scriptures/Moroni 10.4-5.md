@@ -12,6 +12,7 @@ Often called **"Moroni's Promise,"** this is the foundational Latter-day Saint e
 
 ## Used in
 - [[Moroni-Calvin Parallel - The Self-Authentication Gambit]]
+- [[The Ex-Mormon Grounds His Bible on the Same Heart-Choice He Rejects in Moroni 10]] — an ex-Mormon concedes he believes the Bible "the same way that investigators believe Moroni 10:3-5."
 
 ---
 See also: [[Scriptures]] · [[Council of Trent - The Self-Authenticating Canon Refuted]]

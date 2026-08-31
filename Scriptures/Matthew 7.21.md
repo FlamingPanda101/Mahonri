@@ -14,6 +14,8 @@ Jesus makes **doing the Father's will**, not mere verbal confession ("Lord, Lord
 - [[The Three Ds Rubric Diagnoses Anti-Mormonism as Bigotry]]
 - [[Ward Radio - Debunking David Lattings Attack on Maddy Packer]]
 - [[Jesus Taught Salvation Involves Doing Not Faith Alone]]
+- [[Belief Alone Saves and Is Distinct From Faith as Works]]
+- [[Once Saved Always Saved Means Salvation Is Irreversible]] — Mark reads "I never knew you" (v. 23) as proof that being known by Christ is irreversible.
 
 ## References
 [^1]: [[Ward Radio - Debunking David Lattings Attack on Maddy Packer|Ward Radio - Defending Maddy Packer]], [29:32], https://youtu.be/yC3nxj-eHbM

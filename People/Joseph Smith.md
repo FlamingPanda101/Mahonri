@@ -22,6 +22,7 @@ sources:
   - "[[Thoughtful Faith - Was Joseph Smith a Pedophile]]"
   - "[[Benjamin Park - Did Joseph Smith Teach Men Can Become God]]"
   - "[[Lets Get Real - Why Its Easier to Flatten Brigham Young]]"
+  - "[[WARD RADIO - Joseph Smith Papers Craziest Things]]"
 ---
 
 # Joseph Smith
@@ -101,6 +102,9 @@ Per [[Daniel C. Peterson]], a key driver of anti-Brigham sentiment is the desire
 
 Peterson also stresses that Joseph himself was fallible — slow to grasp his own [[D&C 76]] vision (taking ~7–8 years), losing the 116 pages after repeatedly pestering the Lord, and rebuked like Moses — as evidence that [[God Works Through Fallible Prophets]] deliberately, to let humans grow by experience.[^7]
 
+## The Joseph Smith Papers — Failings and Restraint
+Having read the entire Joseph Smith Papers, [[Ryan Wood]] grants candidly human episodes (Joseph once dictating a revelation, crumpling it, and throwing it at a man in anger) yet argues the corpus neither compels nor precludes belief — "if you're looking for a reason, then you'll find plenty of reasons." See [[If You Look for a Reason to Reject Joseph Smith You Will Find One]]. Wood's own affirmative case rests on Joseph's **restraint** — waiting roughly ten years to organize a church, and building checks on his own authority — as an "intellectual testimony." See [[Joseph Smith's Restraint Is an Intellectual Testimony]].[^9]
+
 ## Emma Smith's Witness of Him
 His wife [[Emma Smith]] — who knew him longer and more intimately than anyone through his prophetic career — is among his most significant witnesses. Per [[Don Bradley]], she was Joseph's first Book of Mormon scribe and testified that the unlearned Joseph dictated a text beyond his ability "hour after hour... beginning where he left off" ([[Emma Smith Was Joseph's First Book of Mormon Scribe]]). Even while resisting and later denying polygamy, she never questioned his sincerity or prophetic calling — which is why enlisting her against him ([[Critics Turn Emma Smith Into an Argument Not a Person]]) contradicts her own lifelong testimony.[^8]
 
@@ -112,3 +116,4 @@ His wife [[Emma Smith]] — who knew him longer and more intimately than anyone 
 [^4]: [[Benjamin Park - Did Joseph Smith Teach Men Can Become God|Benjamin Park - Did Joseph Smith Teach Men Can Become God?]], [15:43], https://youtu.be/sKQeEuCEgyY
 [^5]: [[Benjamin Park - Did Joseph Smith Teach Men Can Become God|Benjamin Park - Did Joseph Smith Teach Men Can Become God?]], [00:32], https://youtu.be/sKQeEuCEgyY
 [^8]: [[Lets Get Real with Stephen Jones - Emma Smith|Bradley/Jones — Emma Smith]], [34:01]–[84:32], https://youtu.be/MRkaz5je8GI
+[^9]: [[WARD RADIO - Joseph Smith Papers Craziest Things|Ward Radio — JSP Craziest Things]], [21:00], https://youtu.be/SD3WNQVBPqo

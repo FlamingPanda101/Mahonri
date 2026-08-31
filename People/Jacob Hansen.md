@@ -85,8 +85,19 @@ In a solo Thoughtful Faith monologue, Hansen argues the gay-marriage debate is r
 - [[If Marriage Ends at Death Sexual Ethics Reduce to Arbitrary Command]]
 - [[Same-Sex Love Can Be Real Yet Not Embody the Eternal Pattern]]
 
+## Salvation: Who Goes to Heaven? (Debate with a Reformed Protestant)
+
+On [[Brian Davila]]'s channel *The Way*, Hansen debated the Reformed evangelist [[Ryan (Protestant Debater)|Ryan]] on "how can we be saved?" He deployed his signature car-on-the-cliff/helicopter analogy, framed works as "necessary but not sufficient" (a living faith that necessarily produces works), and reframed Pauline justification along New-Perspective lines (covenant membership now, with a final judgment by works determining one's degree of glory). He defended degrees of glory (D&C 76/88 and a Papias quote) as graded reward, distinguished cheap grace from grace as saving power (harmonizing Spencer W. Kimball with Bruce R. McConkie), and grounded a conditional assurance in libertarian agency. See:
+- [[Works Are Necessary but Not Sufficient vs Faith Is Necessary and Sufficient]]
+- [[Justification Is Covenant Entry Not a Guaranteed Final Verdict]]
+- [[Being With Heavenly Father vs a Reward in Glory]]
+- [[The Church Fathers Reductio Against Sola Fide on Baptism]]
+- [[Can a True Believer Fall Away]]
+- [[Kimball vs McConkie - Does LDS Grace Teaching Contradict Itself]]
+
 ## Key Sources
 
+- [[The Way with Brian Davila - Protestant vs Mormon Who Goes to Heaven]] (salvation debate vs. Ryan, a Reformed Protestant)
 - [[Ward Radio - The Great Apostasy DEFINITELY Happened]]
 - [[Ward Radio - The Great Replacement of Men Is Happening]]
 - [[Ward Radio - Responding to Cliffe Knechtles Mormon Comments on PBD Podcast]]

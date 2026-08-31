@@ -33,6 +33,10 @@ Papias was bishop of Hierapolis in the early second century. His writings surviv
 ## Epistemic Privilege on Gospel Authorship
 In [[In Philosophers Garb - Best Argument for Sola Scriptura|In Philosopher's Garb]]'s epistemic-privilege argument, Papias is offered as an example of a source *epistemically privileged on the historical question of who wrote the Gospels* (by his early date and proximity to the apostolic circle) — used to answer the tu quoque that trusting tradition for authorship means trusting it for doctrine. See the counter there: the same proximity that certifies Papias on authorship arguably certifies the fathers' memory of apostolic *practice* too. See [[The Epistemic Privilege Argument for Sola Scriptura]].
 
+## Three Habitations (100/60/30-fold)
+
+In a salvation debate on [[Brian Davila]]'s channel, [[Jacob Hansen]] cited a Papias fragment distinguishing "the habitation of those who produce 100-fold... 60-fold... 30-fold" — heaven, paradise, and the city ("in my Father's house are many mansions") — as an early witness to graded afterlife rewards supporting the LDS degrees of glory. See [[Being With Heavenly Father vs a Reward in Glory]].
+
 ## References
 [^1]: [[Ancient Christians - An Introduction for Latter-day Saints|Ancient Christians (Maxwell Institute, 2022)]], p. 498.
 

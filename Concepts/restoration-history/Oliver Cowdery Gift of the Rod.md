@@ -2,7 +2,7 @@
 title: "Oliver Cowdery Gift of the Rod"
 scripture: ["[[D&C 6]]", "[[D&C 8]]", "[[D&C 9]]", "[[Numbers 17]]"]
 related: ["[[Seer Stones and Divining Rods as Revelatory Means]]", "[[Avoiding the Pejorative Magic]]"]
-sources: ["[[The Holy Rebellion - The Problem With Calling Joseph Smith a Con Man]]"]
+sources: ["[[The Holy Rebellion - The Problem With Calling Joseph Smith a Con Man]]", "[[WARD RADIO - Joseph Smith Papers Craziest Things]]"]
 tags:
   - "#topic/seer-stones"
   - "#tradition/lds"
@@ -24,7 +24,9 @@ The earliest revelations to [[Oliver Cowdery]] ([[D&C 6|D&C 6]]/[[D&C 8|8]], wit
 
 3. **The Aaron / Old Testament linkage.** The 1835 "gift of Aaron" reading ties the rod to Moses-and-Aaron rod imagery — [[Numbers 17|Aaron's budding rod]] revealing the Levitical priesthood — framing Cowdery's rod as continuous with scriptural precedent rather than folk superstition.[^4] *Rating: moderate — interpretive linkage Mark draws explicitly.*
 
-4. **Steelman.** A critic reads the edits as damage control: "sprout" (a literal forked branch) → "rod" → the biblical-sounding "gift of Aaron" tracks an effort to dignify an embarrassing dowsing practice as scripture matured. Mark openly reports all three readings, which is itself evidence the LDS position here is to *own* the rod rather than hide it, and to interpret it theologically via the Aaron parallel.[^5]
+4. **Independent second attestation.** [[Ryan Wood]], who read the entire Joseph Smith Papers, reports the same textual change from an unrelated source and stresses its overlooked theology: a Doctrine and Covenants section about Oliver's "gift of the rod" was later reworded, and the revelation itself frames the rod as legitimate — "that's not an evil thing to have."[^6] *Rating: strong — a second, independent primary-source reader corroborating both the edit and the "not evil" framing.*
+
+5. **Steelman.** A critic reads the edits as damage control: "sprout" (a literal forked branch) → "rod" → the biblical-sounding "gift of Aaron" tracks an effort to dignify an embarrassing dowsing practice as scripture matured. Mark openly reports all three readings, which is itself evidence the LDS position here is to *own* the rod rather than hide it, and to interpret it theologically via the Aaron parallel.[^5]
 
 ## Best Quotes
 
@@ -34,6 +36,7 @@ The earliest revelations to [[Oliver Cowdery]] ([[D&C 6|D&C 6]]/[[D&C 8|8]], wit
 
 ## References
 - [[The Holy Rebellion - The Problem With Calling Joseph Smith a Con Man]]
+- [[WARD RADIO - Joseph Smith Papers Craziest Things]]
 - [[Oliver Cowdery]]
 - [[Seer Stones and Divining Rods as Revelatory Means]]
 
@@ -43,3 +46,4 @@ The earliest revelations to [[Oliver Cowdery]] ([[D&C 6|D&C 6]]/[[D&C 8|8]], wit
 [^3]: [[The Holy Rebellion - The Problem With Calling Joseph Smith a Con Man|The Holy Rebellion - The Problem With Calling Joseph Smith a Con Man]], [72:30]–[73:30], https://youtu.be/ePeZwR5rsQc
 [^4]: [[The Holy Rebellion - The Problem With Calling Joseph Smith a Con Man|The Holy Rebellion - The Problem With Calling Joseph Smith a Con Man]], [73:30]–[74:02], https://youtu.be/ePeZwR5rsQc
 [^5]: [[The Holy Rebellion - The Problem With Calling Joseph Smith a Con Man|The Holy Rebellion - The Problem With Calling Joseph Smith a Con Man]], [72:00]–[73:00], https://youtu.be/ePeZwR5rsQc
+[^6]: [[WARD RADIO - Joseph Smith Papers Craziest Things|Ward Radio — JSP Craziest Things]], [10:30], https://youtu.be/SD3WNQVBPqo

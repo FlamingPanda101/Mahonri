@@ -2,7 +2,7 @@
 title: "Avoiding the Pejorative Magic"
 scripture: []
 related: ["[[Mutual Vulnerability of Supernatural Claims]]", "[[Seer Stones and Divining Rods as Revelatory Means]]", "[[Historical Method Over Name Calling]]"]
-sources: ["[[The Holy Rebellion - The Problem With Calling Joseph Smith a Con Man]]"]
+sources: ["[[The Holy Rebellion - The Problem With Calling Joseph Smith a Con Man]]", "[[WARD RADIO - Joseph Smith Papers Craziest Things]]"]
 tags:
   - "#topic/folk-magic"
   - "#apologetics/historical-method"
@@ -26,7 +26,9 @@ Serious historians "stay the heck away from" the word **magic** because it is a 
 
 4. **Practical concession.** Mark admits he may use "magic" occasionally "for ease of reference," but flags that the best historians avoid it; "folk belief" is the disciplined term.[^5] *Rating: contextual — honest about usage.*
 
-5. **Steelman.** A critic could argue that refusing the word "magic" is itself a rhetorical move — sanitizing seer stones and divining rods by relabeling them "folk practice" to dodge the connotations that would otherwise embarrass the Restoration. The reply: the objection to "magic" is methodological (it imports a value judgment masquerading as a category) and is endorsed across secular religious studies, not merely by LDS apologists.
+5. **Independent second attestation (diachronic).** [[Ryan Wood]], from reading the entire Joseph Smith Papers, corroborates the era-normalcy version of this point: a specific type of folk practice (seer stones, divining rods) "was not considered strange or anti-Christian" in Joseph Smith's time, and reading it through a modern "evil vs. good" binary is anachronistic — strange or offensive to us "doesn't mean that they're evil."[^6] *Rating: strong — an insider primary-source reader confirming that "magic" imports a later value judgment (see [[Presentism in Folk Belief Judgment]]).*
+
+6. **Steelman.** A critic could argue that refusing the word "magic" is itself a rhetorical move — sanitizing seer stones and divining rods by relabeling them "folk practice" to dodge the connotations that would otherwise embarrass the Restoration. The reply: the objection to "magic" is methodological (it imports a value judgment masquerading as a category) and is endorsed across secular religious studies, not merely by LDS apologists.
 
 ## Best Quotes
 
@@ -38,6 +40,7 @@ Serious historians "stay the heck away from" the word **magic** because it is a 
 
 ## References
 - [[The Holy Rebellion - The Problem With Calling Joseph Smith a Con Man]]
+- [[WARD RADIO - Joseph Smith Papers Craziest Things]]
 - [[Mutual Vulnerability of Supernatural Claims]]
 - [[Jesus of Nazareth]]
 
@@ -47,3 +50,4 @@ Serious historians "stay the heck away from" the word **magic** because it is a 
 [^3]: [[The Holy Rebellion - The Problem With Calling Joseph Smith a Con Man|The Holy Rebellion - The Problem With Calling Joseph Smith a Con Man]], [25:31]–[26:31], https://youtu.be/ePeZwR5rsQc
 [^4]: [[The Holy Rebellion - The Problem With Calling Joseph Smith a Con Man|The Holy Rebellion - The Problem With Calling Joseph Smith a Con Man]], [25:31]–[26:00], https://youtu.be/ePeZwR5rsQc
 [^5]: [[The Holy Rebellion - The Problem With Calling Joseph Smith a Con Man|The Holy Rebellion - The Problem With Calling Joseph Smith a Con Man]], [26:00]–[26:31], https://youtu.be/ePeZwR5rsQc
+[^6]: [[WARD RADIO - Joseph Smith Papers Craziest Things|Ward Radio — JSP Craziest Things]], [09:30], https://youtu.be/SD3WNQVBPqo
