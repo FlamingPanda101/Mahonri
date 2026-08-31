@@ -13,6 +13,7 @@ Often identified as the divine name (*kyrios* / YHWH). The passage applies Isaia
 ## Used in
 - [[Worshiping the Right Jesus - Created vs Uncreated]]
 - [[Fruit Versus Theology - Are They Separable]]
+- [[Saved Justified and Exalted Are Three Distinct Terms]] — Ostler reads "every knee shall bow" as universal confession: since all confess Christ, "saved" (D&C 76) cannot mean Protestant eternal security
 
 ## Sources
 [^1]: [[Gavin Ortlund - Protestant and Mormon Discuss the Trinity]], [32:30], https://youtu.be/7Y9_unCe__M

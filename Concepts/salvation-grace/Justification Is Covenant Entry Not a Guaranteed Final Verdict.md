@@ -5,11 +5,15 @@ related:
   - "[[Justification - Infusion vs Legal Fiction]]"
   - "[[Double Imputation Is Not the Gospel]]"
   - "[[Works of the Law Means Mosaic Boundary Markers Not Obedience as Such]]"
+  - "[[Dikaiosune Is Honor Language Not Latin Righteousness]]"
+  - "[[Saved Justified and Exalted Are Three Distinct Terms]]"
   - "[[Romans 5.1-9|Romans 5:1-9]]"
   - "[[Philippians 3.9|Philippians 3:9]]"
   - "[[Romans 2.6-13|Romans 2:6-13]]"
+  - "[[Galatians 5.2-4|Galatians 5:4]]"
 sources:
   - "[[The Way with Brian Davila - Protestant vs Mormon Who Goes to Heaven]]"
+  - "[[Thoughtful Faith - Why Christians Misread Paul]]"
 tags: [apologetics, justification, grace, covenant, new-perspective-on-paul, tradition/lds, tradition/protestant]
 #type/claim
 ---
@@ -36,8 +40,19 @@ Both agree "justified" means "declared righteous,"[^6] but Ryan locates the righ
 ### 5. Ryan: the New Perspective is a minority view (Argument weight: Secondary — Protestant side)
 "You're quoting some new Paul perspective scholars who are on a fringe view... They're not even the mainstream view."[^8] Ryan also invokes Romans 11:6 — "if it is by grace, it is no longer on the basis of works; otherwise grace would no longer be grace."
 
+### 6. Ostler: the model is Second-Temple *covenantal nomism* (Argument weight: Primary — LDS side)
+On a separate Thoughtful Faith episode, [[Blake Ostler]] gives the framework its scholarly name: to be justified "means to be put into a right relationship with God," which for Jews rested on "the grace of the covenant" — "this is called *covenantal nomism*." One enters the covenant "by our faith in Christ, not by our faith in the law of Moses," so Paul's "justified" is not the Protestant "saved once and for all with eternal security."[^9] *(Evidence rating: Moderate — the E. P. Sanders framework, contested by "old perspective" exegetes.)*
+
+### 7. Ostler: Paul's real problem is Gentile inclusion, and Abraham proves it (Argument weight: Primary — LDS side)
+"The issue that Paul is addressing is how do we count Gentiles as part of the covenant people?"[^10] Romans 4 answers it from Israel's own scripture: "Abraham came into right relationship with God before the law was even given, before the covenant was even given... merely because he had entered into a trust relationship with God" — before circumcision.[^11] So the point is covenant *entry* by faith, not a claim that post-entry obedience is optional: "once into the covenant relationship, he was obligated to accept and follow the terms of the covenant."[^12]
+
+### 8. Ostler: covenant obligations remain, and one can "fall from grace" (Argument weight: Primary — LDS side)
+Against "once saved always saved," Ostler presses [[Galatians 5.2-4|Galatians]]: it "expressly states that one could fall from grace... if you don't do the works of love that are part of the law, you don't remain in grace."[^13] The new covenant's terms are subsumed into a single command — "love one another as I have loved you" — so covenant faithfulness is the *response* to grace, not a way to earn entry. He adds that [[James the brother of Jesus|James]] corrects not Paul but *pseudo*-Paulinism, the "sin so grace abounds" distortion Paul himself rebuked ("God forbid").[^14] See [[Can a True Believer Fall Away]] and [[Once Saved Always Saved Means Salvation Is Irreversible]].
+
 ## Best Quotes
 > "Who now belongs to God's people, and how can you tell?... they are given the status righteous within the covenant." — N. T. Wright, quoted by Jacob Hansen[^1]
+
+> "To be justified means to be put into a right relationship with God... this is called covenantal nomism." — Blake Ostler[^9]
 
 > "If X then definitely Y. If X has happened, definitely Y is going to happen... you're going to be saved from the wrath of God." — Ryan, on Romans 5:9[^4]
 
@@ -60,6 +75,12 @@ Hansen's covenantal model distinguishes *initial* justification (freely entering
 [^6]: [[The Way with Brian Davila - Protestant vs Mormon Who Goes to Heaven|Davila — Who Goes to Heaven]], [49:31], https://youtu.be/J0jcyUCfzPc
 [^7]: [[The Way with Brian Davila - Protestant vs Mormon Who Goes to Heaven|Davila — Who Goes to Heaven]], [66:30], https://youtu.be/J0jcyUCfzPc
 [^8]: [[The Way with Brian Davila - Protestant vs Mormon Who Goes to Heaven|Davila — Who Goes to Heaven]], [50:30], https://youtu.be/J0jcyUCfzPc
+[^9]: [[Thoughtful Faith - Why Christians Misread Paul|Thoughtful Faith — Misreading Paul]], [04:30], https://youtu.be/53SIoqwh7mQ
+[^10]: [[Thoughtful Faith - Why Christians Misread Paul|Thoughtful Faith — Misreading Paul]], [41:01], https://youtu.be/53SIoqwh7mQ
+[^11]: [[Thoughtful Faith - Why Christians Misread Paul|Thoughtful Faith — Misreading Paul]], [40:30], https://youtu.be/53SIoqwh7mQ
+[^12]: [[Thoughtful Faith - Why Christians Misread Paul|Thoughtful Faith — Misreading Paul]], [47:31], https://youtu.be/53SIoqwh7mQ
+[^13]: [[Thoughtful Faith - Why Christians Misread Paul|Thoughtful Faith — Misreading Paul]], [44:00], https://youtu.be/53SIoqwh7mQ
+[^14]: [[Thoughtful Faith - Why Christians Misread Paul|Thoughtful Faith — Misreading Paul]], [06:31], https://youtu.be/53SIoqwh7mQ
 
 ---
-See also: [[Concepts]] · [[Initial vs Ongoing Justification]] · [[The Way with Brian Davila - Protestant vs Mormon Who Goes to Heaven]]
+See also: [[Concepts]] · [[Initial vs Ongoing Justification]] · [[The Way with Brian Davila - Protestant vs Mormon Who Goes to Heaven]] · [[Thoughtful Faith - Why Christians Misread Paul]]

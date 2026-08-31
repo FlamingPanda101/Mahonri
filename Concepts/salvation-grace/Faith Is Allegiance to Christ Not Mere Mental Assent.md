@@ -8,6 +8,7 @@ related:
   - "[[James 2-24 - Justified by Works Not Faith Alone]]"
 sources:
   - "[[Lets Talk w Hayden Carroll - Most Intense Religious Debate]]"
+  - "[[Thoughtful Faith - Why Christians Misread Paul]]"
 tags: [apologetics/salvation-grace, faith, allegiance, pistis, baptism, grace, tradition/lds]
 #type/claim
 ---
@@ -26,6 +27,8 @@ On the debate's stated topic — *the message of salvation* — [[Hayden Carroll
 3. **Baptism is the expression, not the cause.** Because Christ commanded baptism, one who genuinely has faith "will choose to be baptized" — but Carroll is emphatic: "it's not the baptism that saves us. I think that's often where we get misunderstood."[^3] See [[Baptism Is Gods Work Not a Human Work That Earns Salvation]] and [[Sola Fide vs Faith Plus Ordinances]]. *Argument weight: Secondary; Evidence rating: Moderate.*
 
 4. **Grace-first framing (closing statement).** "I am saved on the merits of Jesus Christ. Nothing I can do can merit my salvation... He requires allegiance, which is faith. And I won't be perfect, but luckily Christ doesn't require perfection."[^4] *Argument weight: Primary; Evidence rating: Strong* as a statement of the LDS grace/works synthesis — cf. [[LDS Salvation Is by Grace Not Earned by Works]].
+
+5. **Ostler: *pistis* is an interpersonal term for trust, with a Latin fidelity bridge.** [[Blake Ostler]] independently reaches the same lexical point: "the term *pistis* generally, its primary meaning is trust. It's not an epistemological term. It's an interpersonal term."[^7] Its Latin renderings — *fides, fiducia,* and the derived *fidelity/fiduciary* — share that semantic range, so the best gloss is being "faithful in the sense that he would be faithful to a wife": a "fiduciary [duty] on Christ's side, and simple trust on our side."[^8] This grounds "allegiance" in a marriage-covenant register rather than intellectual assent. *Argument weight: Primary; Evidence rating: Moderate* — a credentialed-expert (B) reading of the Greek, converging with Bates.
 
 ## Best Quotes
 > "Faith in the Greek, in the word *pistis*, is allegiance... an unceasing dedication to Christ and to what he's asking us to do."[^1]
@@ -50,6 +53,8 @@ On the debate's stated topic — *the message of salvation* — [[Hayden Carroll
 [^4]: [[Lets Talk w Hayden Carroll - Most Intense Religious Debate|Carroll — Most Intense Debate]], [169:00], https://youtu.be/eRQh-x-MSmA
 [^5]: [[Lets Talk w Hayden Carroll - Most Intense Religious Debate|Carroll — Most Intense Debate]], [16:30], https://youtu.be/eRQh-x-MSmA
 [^6]: [[Lets Talk w Hayden Carroll - Most Intense Religious Debate|Carroll — Most Intense Debate]], [172:30], https://youtu.be/eRQh-x-MSmA
+[^7]: [[Thoughtful Faith - Why Christians Misread Paul|Thoughtful Faith — Misreading Paul]], [36:02], https://youtu.be/53SIoqwh7mQ
+[^8]: [[Thoughtful Faith - Why Christians Misread Paul|Thoughtful Faith — Misreading Paul]], [37:30], https://youtu.be/53SIoqwh7mQ
 
 ---
-See also: [[Concepts]] · [[Sola Fide vs Faith Plus Ordinances]] · [[Greg (Collierville Pastor)]] · [[Lets Talk w Hayden Carroll - Most Intense Religious Debate]]
+See also: [[Concepts]] · [[Sola Fide vs Faith Plus Ordinances]] · [[Greg (Collierville Pastor)]] · [[Lets Talk w Hayden Carroll - Most Intense Religious Debate]] · [[Thoughtful Faith - Why Christians Misread Paul]]

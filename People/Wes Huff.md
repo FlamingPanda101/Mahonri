@@ -41,6 +41,9 @@ In his own area of academic specialty, Huff delivered a lecture ("Two Books") co
 - [[Textual Multivocality and Tenacity Trace the New Testament to the Autographs]]
 - [[The Quran Has Its Own Manuscript Variants]]
 
+## Dismissing the Gospel of Thomas
+On [[Ward Radio]], [[Jonah Barnes]] cites Huff as a representative critic who "jokes about and dismisses" the Gospel of Thomas over its notorious closing saying (logion 114, "I will make her a man"). Barnes counters that the saying is a late scribal insertion and that binning the whole gospel over one anomalous line is a double standard, since critics keep comparable corruptions (e.g. the longer ending of Mark) in the canon. See [[The Make Her a Man Saying Is a Late Insertion Into Thomas]] and [[Ward Radio - The Gospel of Thomas and the P.Oxy 5575 Fragment]].
+
 ## Key Sources
 
 - [[Wes Huff - Comparing the Quran with the New Testament]] (his academic specialty — NT/Quran textual transmission)

@@ -14,6 +14,7 @@ tags: [scripture/book-of-mormon]
 - [[A Prophet's Scripture Marginalia Reveals His Devotional Interior]]
 - [[Magnifying a Calling Means Coming Clean From the Blood and Sins of This Generation]]
 - [[The Stick of Joseph - The Oath and Covenant of the Priesthood and Its Ties to the Temple]]
+- [[Luke's Lacuna - The Forty-Day Ministry Is a Measurable Hole Between Luke and Acts]] (Bountiful ministry offered as filling the New Testament's forty-day gap)
 
 ---
 See also: [[Scriptures]]

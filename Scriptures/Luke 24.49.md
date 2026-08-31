@@ -13,6 +13,9 @@ The scriptural taproot of the Latter-day Saint term **endowment**. The resurrect
 ## Used in
 - [[The Temple Endows Power to Build the Kingdom Now Not Only in the Afterlife]]
 - [[Ordinance Meant Law Not Liturgy When Joseph Smith Said Ordinances Cannot Change]]
+- [[Luke's Lacuna - The Forty-Day Ministry Is a Measurable Hole Between Luke and Acts]]
+- [[Joseph Smith Identified the Temple Endowment With Christ's Teaching to the Apostles at Jerusalem]]
+- [[The Lost Forty-Day Teaching Points to a Suppressed Temple Endowment]]
 
 ---
 See also: [[Scriptures]] · [[Revelation 7.9-14]] · [[Keystone - LDS Historian on What We Get Wrong About the Endowment]]

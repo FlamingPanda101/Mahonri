@@ -63,10 +63,21 @@ Ostler defends the **human heart (Hebrew *leb*) as the basis of religious knowle
 - [[Religious Inclusivism Answers the Pluralism Challenge]]
 - [[Reason Presupposes Emotion - The Neuroscience Reply to Materialism]]
 
+## Pauline Soteriology and Justification
+
+Ostler's soteriology (developed at length in *Exploring Mormon Thought* vol. 2, *The Problems of Theism and the Love of God*) reads Paul through the **New Perspective on Paul** and Second-Temple *covenantal nomism*: "justified" means covenant entry, not eternal security; Paul's problem is Gentile inclusion, not earning heaven; and Paul's honor-shame world makes both Protestant *imputed* and Catholic *infused* righteousness category mistakes. He distinguishes *saved*, *justified*, and *exalted* as three different words, and argues Joseph Smith's D&C 76 serendipitously recovers first-century Jewish soteriology. See:
+- [[Dikaiosune Is Honor Language Not Latin Righteousness]]
+- [[Saved Justified and Exalted Are Three Distinct Terms]]
+- [[Joseph Smith Reconstructed First-Century Soteriology Without Knowing It]]
+- [[Justification Is Covenant Entry Not a Guaranteed Final Verdict]]
+- [[Faith Is Allegiance to Christ Not Mere Mental Assent]]
+
 ## Key Sources
 
 - [[Thoughtful Faith - Blake Ostler on the Trinity]] (with Jacob Hansen)
 - [[Blake Ostler - The Heart as the Basis of Religious Knowledge]] (spiritual epistemology lecture)
+- [[Thoughtful Faith - Why Christians Misread Paul]] (Pauline justification and the New Perspective, with Jacob Hansen)
+- [[Thoughtful Faith - Is the Calvinist God a Moral Monster (Debate Prep with Blake Ostler)]] (metaethics, divine command theory, TULIP)
 
 ## Sources
 [^1]: [[Thoughtful Faith - Blake Ostler on the Trinity|Thoughtful Faith - Blake Ostler on the Trinity]], [01:32]–[05:30], https://youtu.be/vR-gUV4t9m8

@@ -56,6 +56,15 @@ In a Ward Radio segment on Genesis 6, Barnes (against [[Michael Heiser]]) argues
 - [[The Sin of the Nephilim Was Sterilization Abortion and Child Sacrifice]]
 - [[Nephilim Is a Premasoretic Triliteral Pun Meaning Mighty Fallen and Abortion]]
 
+## On the Gospel of Thomas and P.Oxy 5575 (Ward Radio)
+In a Ward Radio segment with [[Cardon Ellis]], Barnes presents the newly published papyrus **P.Oxy 5575** — a Greek Oxyrhynchus fragment interweaving the Gospel of Thomas with Matthew and Luke — and argues its 2nd-century paleographic dating "blows the doors off" biblical manuscript dating and undercuts sola scriptura, infallibility, and univocality. He frames Thomas as a sayings gospel with an early core inside a late narrative frame, reads the "upstream/downstream" harmony either way as bad for a closed canon, treats the notorious "I will make her a man" saying as a late scribal insertion (an apostasy affecting non-canonical texts), and reads logia 3 and 30 as self-knowledge, divine sonship, and deification. See:
+- [[P.Oxy 5575 Dates a Thomas-Synoptic Text to the Second Century]]
+- [[The Gospel of Thomas Has an Early Sayings Core]]
+- [[P.Oxy 5575 Interweaves Thomas With Matthew and Luke]]
+- [[The Make Her a Man Saying Is a Late Insertion Into Thomas]]
+- [[Gospel of Thomas Teaches Self-Knowledge as Divine Sonship]]
+- [[Gospel of Thomas Calls Believers Gods]]
+
 ## On The Lost Gems of Genesis and Bart Ehrman (Ward Radio)
 In further Ward Radio interviews promoting *The Lost Gems of Genesis* and *The Key to the Keystone*, Barnes argued: the apocrypha reveal Cain killed Abel by sawing his throat with a flint (Joseph's "swear by thy throat" hint) and that Cain's luring of Abel is the "first weaponization of empathy"; that Joseph chose the Adam-and-Eve "battlefield" before the matching texts surfaced; that Lucifer fell out of jealousy of *Adam* and that Abraham 3 is the selection of the first man (Michael/Adam), not the redeemer; and that Bart Ehrman's canon scholarship accidentally vindicates the Book of Mormon's claim of pre-Christian messianism. See:
 - [[The Apocrypha Reveals How Cain Killed Abel by the Throat]]
@@ -65,7 +74,24 @@ In further Ward Radio interviews promoting *The Lost Gems of Genesis* and *The K
 - [[Abraham 3 Is the Selection of Adam Not the Redeemer]]
 - [[Ehrman Is Right That the Canon Lacks the Suffering Messiah]]
 
+## On postmortem missionary work (The Missing Ministry of the Risen Christ)
+As guest on *Latter Daily Saints* (Ep. 186), Barnes previews his book *The Missing Ministry of the Risen
+Christ*: he argues that during the **40 days** after the Resurrection, Christ told the apostles the real
+missionary work is in the spirit world and commissioned them to martyrdom to staff it, and he offers the
+martyred apostle [[David W. Patten]] and [[Anne Booth]]'s vision of him preaching to the dead as a
+Restoration echo. See:
+- [[The Apostles Were Martyred to Become Missionaries in the Spirit World]]
+
+## On Luke's Lacuna and the Forty-Day Endowment (Ward Radio)
+On [[Cardon Ellis]]'s Ward Radio (with [[Austin Falter]]), Barnes develops "Luke's Lacuna": the risen Lord's forty-day ministry is a *measurable* hole between the end of Luke and the start of Acts (John interposed in the canon), quantified by a word-count collapse (~211 words on the "Acts of the Risen Lord"), and filled by the temple endowment. He argues [[D&C 95|D&C 95:8-9]] and Joseph Smith's 1843 discourse identify the apostles' Jerusalem "tarrying" as that endowment *before* the forty-day apocrypha surfaced, and points to catacomb art and excavated vestments as material (not merely textual) evidence. See:
+- [[Luke's Lacuna - The Forty-Day Ministry Is a Measurable Hole Between Luke and Acts]]
+- [[Joseph Smith Identified the Temple Endowment With Christ's Teaching to the Apostles at Jerusalem]]
+- [[Early Christian Catacomb Art and Vestments Depict Temple-Style Ordinances]]
+- [[The Lost Forty-Day Teaching Points to a Suppressed Temple Endowment]]
+
 ## Key Sources
+- [[WARD RADIO - Luke's Lacuna]]
+- [[Latter Daily Saints - Seminary Enrollment and Baptism for the Dead]] (postmortem missionary work)
 - [[Ward Radio - The Apocryphal Book Reveals How Cain Actually Killed Abel]]
 - [[Ward Radio - The Apocryphal Secret Behind Lucifers Fall]]
 - [[Ward Radio - The Book of Mormon Was Right Bart Ehrman the Apocrypha and the Corruption of the Canon]]
@@ -74,6 +100,7 @@ In further Ward Radio interviews promoting *The Lost Gems of Genesis* and *The K
 - [[Thoughtful Faith - Why The Old Testament Is The Least Reliable Of All Scripture]] (the Great Forsaken)
 - [[Ward Radio - Biggest Apologetic Nightmare Book of Abraham Debunked Again]]
 - [[Ward Radio - Who Are the Giants in the Bible (Jonah Barnes)]]
+- [[Ward Radio - The Gospel of Thomas and the P.Oxy 5575 Fragment]]
 
 ## Sources
 [^1]: [[Thoughtful Faith - The Trinity vs the Godhead Debate Prep|Thoughtful Faith - The Trinity vs the Godhead Debate Prep]], [01:01], https://youtu.be/qCRhIPPz4Qk

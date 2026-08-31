@@ -9,6 +9,7 @@ tags: [type/scripture, testament/new, topic/grace, topic/law]
 
 ## Used in
 - [[Works Are Necessary but Not Sufficient vs Faith Is Necessary and Sufficient]] — Ryan's argument that adding *any* law-keeping condition (circumcision, baptism, an ordinance) "severs" a person from Christ, because Christ is either a complete Savior or no Savior at all.
+- [[Justification Is Covenant Entry Not a Guaranteed Final Verdict]] — Ostler reads "fallen from grace" the opposite way: it proves one *can* fall from grace, refuting once-saved-always-saved, since covenant faithfulness (the "works of love") must be maintained.
 
 ## How traditions read it
 - **Reformed / Protestant (Ryan):** Trusting in Christ *plus* an act of obedience for salvation forfeits Christ entirely ("either you have him entirely or you don't have him at all"); this is the engine of the sola-fide case. Ryan repeats it in his closing with Galatians 3:10 ("cursed is every one that continueth not in all things").

@@ -22,6 +22,9 @@ Hosted [[Jonah Barnes]] in a line-by-line reaction to an evangelical video calli
 ## Who Are the Giants in the Bible?
 Hosted [[Jonah Barnes]] on the identity of the Genesis 6 Nephilim, drawing out Barnes's reconstruction (apostate Sethite priesthood-holders, not supernatural giants; the sin as sterilization/abortion). See [[The Nephilim Were Apostate Sethite Priesthood-Holders Not Supernatural Giants]] and [[Ward Radio - Who Are the Giants in the Bible (Jonah Barnes)]].
 
+## The Gospel of Thomas and P.Oxy 5575
+Hosted [[Jonah Barnes]] on the newly published papyrus P.Oxy 5575 — a Greek fragment interweaving the Gospel of Thomas with Matthew and Luke — arguing its 2nd-century dating undercuts sola scriptura and biblical infallibility and shows "we need a prophet, not a book." See [[P.Oxy 5575 Dates a Thomas-Synoptic Text to the Second Century]], [[P.Oxy 5575 Interweaves Thomas With Matthew and Luke]], and [[Ward Radio - The Gospel of Thomas and the P.Oxy 5575 Fragment]].
+
 ## Was Alma a High Priest of Heavenly Mother?
 Hosted [[David Butler (Stick of Joseph)|David Butler]] arguing that Alma the Elder baptized by the authority of El Shaddai (the divine Mother) at the Waters of Mormon. See [[Alma Baptizes by the Authority of El Shaddai at the Waters of Mormon]] and [[Ward Radio - Was Alma a High Priest of Heavenly Mother]].
 
@@ -39,6 +42,9 @@ Hosted [[Latterday Logic]] (Devin) and [[Gospel Guardian]] (Braden) to review th
 
 ## Was Bruce R. McConkie Wrong about "After All We Can Do"?
 Hosted [[Jeff Harmon]] (Angel Studios) and [[Brad Whitbeck]] on Harmon's "defined term" reading of [[2 Nephi 25.23|2 Nephi 25:23]] — that the Book of Mormon defines "all we can do" at [[Alma 24.11|Alma 24:11]] as repentance. See [[All We Can Do Is Defined as Repentance in Alma 24]], [[Conflating Salvation with Exaltation Breeds Works Burnout]], and [[WARD RADIO - All We Can Do Is a Defined Term]].[^4]
+
+## Luke's Lacuna — The Forty Days After the Resurrection
+Hosted [[Jonah Barnes]] and [[Austin Falter]] on "Luke's Lacuna," the forty-day gap between the end of Luke and the start of Acts that Barnes reads as the missing temple endowment — supported by [[D&C 95|D&C 95:8-9]] and Joseph Smith's 1843 discourse. See [[Luke's Lacuna - The Forty-Day Ministry Is a Measurable Hole Between Luke and Acts]] and [[Joseph Smith Identified the Temple Endowment With Christ's Teaching to the Apostles at Jerusalem]], from [[WARD RADIO - Luke's Lacuna]].
 
 ## References
 [^1]: [[WardRadio - Top 9 Misconstrued Scriptures|Ward Radio - Top 9 Misconstrued Scriptures]], [21:32], https://youtu.be/lkiUEqR5OBI

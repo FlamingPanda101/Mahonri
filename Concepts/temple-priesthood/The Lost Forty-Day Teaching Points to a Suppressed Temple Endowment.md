@@ -2,14 +2,21 @@
 title: "The Lost Forty-Day Teaching Points to a Suppressed Temple Endowment"
 scripture:
   - "[[Acts 1.1-5|Acts 1:1-5]]"
+  - "[[Luke 24.49|Luke 24:49]]"
+  - "[[Luke 24.50-53|Luke 24:50-53]]"
+  - "[[D&C 95|D&C 95:8-9]]"
   - "[[Matthew 13.10-11|Matthew 13:10-11]]"
 related:
   - "[[Clement of Alexandria and Secret Mark Attest a Suppressed Temple Gospel]]"
   - "[[Gnostic Apocrypha Preserve Temple Ordinance Patterns]]"
   - "[[The Mysteries Were Converted From Lived Experience Into Doctrine]]"
   - "[[The Acts of John Records Jesus Instituting a Mystery Ritual]]"
+  - "[[Luke's Lacuna - The Forty-Day Ministry Is a Measurable Hole Between Luke and Acts]]"
+  - "[[Joseph Smith Identified the Temple Endowment With Christ's Teaching to the Apostles at Jerusalem]]"
+  - "[[Early Christian Catacomb Art and Vestments Depict Temple-Style Ordinances]]"
 sources:
   - "[[Ward Radio - Secrets of the LDS Temple Endowment Supercut]]"
+  - "[[WARD RADIO - Luke's Lacuna]]"
 tags: [apologetics/temple, endowment, apostasy, mysteries, tradition/lds]
 #type/claim
 ---
@@ -37,6 +44,11 @@ Jesus tells the disciples it is given to them to know "the mysteries of the king
 
 > **Evidence rating:** Weak — the actual Greek of Acts 1:4 is *epangelia* ("promise/announcement"), a different root from *endyō* ("to clothe"); the link is a homophonic gloss, not a real cognate.
 
+### 4. Corroboration from a second Ward Radio episode ("Luke's Lacuna")
+A later Ward Radio episode develops the same thesis and adds three distinct supports. **(a) A more careful etymology.** This episode localizes the clothing/endowment language to [[Luke 24.49|Luke 24:49]] ("tarry… until ye be *endued* with power from on high"), where the Greek verb really is *endyō* ("to clothe/put on") — so "clothed with power" is textually fair — and it explicitly notes that [[Acts 1.1-5|Acts 1:4]]'s "promise of the Father" is "a different terminology," correcting the supercut's conflation of the two (§3). The residual overstatement is only that English "endue" (clothe, from Latin *induere*) and "endow" (gift, from *dotare*) are distinct roots blurred by sound. **(b) The temple-continuance.** After the endowment command the disciples are "continually in the temple" ([[Luke 24.50-53|Luke 24:50-53]]) — the physical temple is where the awaited power is sought.[^4] **(c) An independent Restoration witness.** [[D&C 95|D&C 95:8-9]] (1833) commands building a house to "endow… with power from on high… this is the promise of the Father… tarry even as mine apostles at Jerusalem," reproducing the Luke/Acts pattern *before* the forty-day apocrypha surfaced. The episode also reframes the gap quantitatively (a word-count "lacuna") and adds catacomb-art / vestment material evidence.[^5] These three are developed in [[Luke's Lacuna - The Forty-Day Ministry Is a Measurable Hole Between Luke and Acts]], [[Joseph Smith Identified the Temple Endowment With Christ's Teaching to the Apostles at Jerusalem]], and [[Early Christian Catacomb Art and Vestments Depict Temple-Style Ordinances]].
+
+> **Evidence rating:** the [[D&C 95|D&C 95:8-9]] parallel is the strongest addition (exact verbal overlap, dated before the apocrypha); the word-count and material-culture points are illustrative/cumulative.
+
 ## Steelman of the Opposing View
 
 A critic answers as follows. (a) **The etymology is simply wrong:** "the promise of the Father" in Acts 1:4 is *epangelia*, and the text identifies the promise two chapters later as the Holy Spirit at Pentecost (Acts 2); *endyō*/"endued with power" appears at Luke 24:49, a *different* word in a different verse, so building "endowment" out of Acts 1:4 is a folk etymology. (b) **The forty-day silence is an argument from silence:** Luke summarizing rather than transcribing the resurrection teaching does not imply the content was a suppressed ordinance — it more plausibly means Luke had no detailed source or no need to record it. (c) **Mainstream reading of *mystērion*:** in Matthew 13 / 1 Cor 2 it means God's previously hidden *plan of salvation now revealed to all believers*, with no rite implied. (d) The whole inference runs: gap in the record → therefore a temple endowment → which conveniently matches the modern LDS ceremony, which is the conclusion in search of evidence. A Latter-day Saint reply: even setting the etymology aside (Luke 24:49's "endued/clothed with power from on high" *does* use clothing language for the same promised event), the load-bearing point is the documented forty-day teaching gap plus the converging apocryphal witnesses (Secret Mark, Pistis Sophia, Acts of John) that a *secret ordinance* tradition was attached to the risen Christ — see [[Clement of Alexandria and Secret Mark Attest a Suppressed Temple Gospel]] and [[Gnostic Apocrypha Preserve Temple Ordinance Patterns]].
@@ -55,6 +67,8 @@ A critic answers as follows. (a) **The etymology is simply wrong:** "the promise
 [^1]: [[Ward Radio - Secrets of the LDS Temple Endowment Supercut|Ward Radio - Temple Endowment Supercut]], [03:30]-[06:00], https://youtu.be/uYA19kOjShQ
 [^2]: [[Ward Radio - Secrets of the LDS Temple Endowment Supercut|Ward Radio - Temple Endowment Supercut]], [10:00]-[12:30], https://youtu.be/uYA19kOjShQ
 [^3]: [[Ward Radio - Secrets of the LDS Temple Endowment Supercut|Ward Radio - Temple Endowment Supercut]], [06:00]-[06:30], https://youtu.be/uYA19kOjShQ
+[^4]: [[WARD RADIO - Luke's Lacuna|Ward Radio — Luke's Lacuna]], [04:31], https://youtu.be/FTg-pjbDcbY
+[^5]: [[WARD RADIO - Luke's Lacuna|Ward Radio — Luke's Lacuna]], [10:30], https://youtu.be/FTg-pjbDcbY
 
 ---
-See also: [[Concepts]] · [[Ward Radio - Secrets of the LDS Temple Endowment Supercut]] · [[Acts 1.1-5]] · [[Clement of Alexandria and Secret Mark Attest a Suppressed Temple Gospel]] · [[Jonah Barnes]]
+See also: [[Concepts]] · [[Ward Radio - Secrets of the LDS Temple Endowment Supercut]] · [[WARD RADIO - Luke's Lacuna]] · [[Acts 1.1-5]] · [[Clement of Alexandria and Secret Mark Attest a Suppressed Temple Gospel]] · [[Jonah Barnes]]

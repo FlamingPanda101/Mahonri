@@ -17,6 +17,8 @@ The author (traditionally Luke) refers to a "former treatise" covering "all that
 
 ## Used in
 - [[The Lost Forty-Day Teaching Points to a Suppressed Temple Endowment]]
+- [[Luke's Lacuna - The Forty-Day Ministry Is a Measurable Hole Between Luke and Acts]]
+- [[Joseph Smith Identified the Temple Endowment With Christ's Teaching to the Apostles at Jerusalem]]
 
 ---
 See also: [[Scriptures]] · [[Luke the Evangelist]] · [[Clement of Alexandria]]

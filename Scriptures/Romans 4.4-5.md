@@ -10,6 +10,7 @@ tags: [type/scripture, testament/new, topic/grace, topic/justification]
 ## Used in
 - [[Works Are Necessary but Not Sufficient vs Faith Is Necessary and Sufficient]] — the Protestant's central prooftext: the one who "worketh not, but believeth" is justified, which (Ryan argues) shows faith is not a work and needs no works added.
 - [[Justification Is Covenant Entry Not a Guaranteed Final Verdict]] — disputed: does "justifieth" here mean a declared-righteous verdict (Reformed) or entry into covenant membership (New Perspective on Paul / Hansen)?
+- [[Dikaiosune Is Honor Language Not Latin Righteousness]] — Ostler reads "counted for righteousness" (*dikaiosynē*) as honor-accounting language: Abraham's belief was reckoned to him *as an honor*, not as a forensic legal verdict.
 
 ## How traditions read it
 - **Reformed / Protestant:** The wage-vs-gift contrast (v.4) proves justification is by faith reckoned apart from works; "believeth" is deliberately set against "worketh," so works cannot be a condition of righteousness. Paired with [[Ephesians 2.8-9|Ephesians 2:8-9]] and [[Romans 11.6|Romans 11:6]].
