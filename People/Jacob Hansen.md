@@ -78,6 +78,12 @@ On Ward Radio, Hansen argued the Great Apostasy "definitely happened": the creed
 - [[The Brothers Slur Twists Universal Divine Sonship]]
 - [[Substitutional Patriarchy - The Government Replaces the Husband]]
 
+## Responding to Brian Holdsworth's "Mormon God Problem" (Ward Radio)
+On a [[Ward Radio]] panel reacting to Catholic YouTuber [[Brian Holdsworth]]'s video *The Mormon God Problem*, Hansen and [[Luke Hansen]] steelmanned and then answered the classical "greater God" showdown. Holdsworth's "greater" means ontological *fundamentality* (the uncaused cause), not moral goodness, so the head-to-head comparison begs the question against a tradition that rejects the ontological argument; and an impassible God who cannot be affected renders the worshiper valueless, whereas LDS worship tracks God's freely chosen virtue and saving power (the *Lectures on Faith* criterion). See:
+- [[Greatest Means Fundamental Not Morally Best (The Mormon God Showdown)]]
+- [[An Impassible God Cannot Value the Worshiper]]
+- [[WARD RADIO - My God Can Beat Up Your Mormon God]]
+
 ## The Purpose of Gender and the Case Against Gay Marriage
 In a solo Thoughtful Faith monologue, Hansen argues the gay-marriage debate is really about a prior question — *what is gender for?* — and that rules about sexuality "float in midair" without an answer. He contends neither secular consent-ethics nor creedal Christianity (which makes marriage a mortal institution ending at death) can ground the male-female norm without collapsing it into arbitrary command, whereas the Restoration's *eternal* gender and family can. He is notably charitable toward same-sex couples — conceding their love can be genuine and fulfilling — while relocating the disagreement to whether a relationship embodies the eternal father-mother-child pattern rather than to the reality of anyone's love. See:
 - [[What Is Gender For - Sexual Ethics Need a Telos Not Just a Rule]]

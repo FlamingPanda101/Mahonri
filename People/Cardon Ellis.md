@@ -46,6 +46,9 @@ Hosted [[Jeff Harmon]] (Angel Studios) and [[Brad Whitbeck]] on Harmon's "define
 ## Luke's Lacuna — The Forty Days After the Resurrection
 Hosted [[Jonah Barnes]] and [[Austin Falter]] on "Luke's Lacuna," the forty-day gap between the end of Luke and the start of Acts that Barnes reads as the missing temple endowment — supported by [[D&C 95|D&C 95:8-9]] and Joseph Smith's 1843 discourse. See [[Luke's Lacuna - The Forty-Day Ministry Is a Measurable Hole Between Luke and Acts]] and [[Joseph Smith Identified the Temple Endowment With Christ's Teaching to the Apostles at Jerusalem]], from [[WARD RADIO - Luke's Lacuna]].
 
+## The Mormon God Problem — Reacting to Brian Holdsworth
+Hosted [[Luke Hansen]], [[Jacob Hansen]], and KJ Hershey (1830 Studios) reacting to Catholic YouTuber [[Brian Holdsworth]]'s video *The Mormon God Problem* — a "showdown" pitting the classical Trinity against the LDS Heavenly Father. The panel's replies: the "greater God" argument equivocates on greatness (ontological fundamentality vs. the greatness of a virtuous agent), and an impassible God who cannot be affected renders the worshiper valueless. See [[Greatest Means Fundamental Not Morally Best (The Mormon God Showdown)]], [[An Impassible God Cannot Value the Worshiper]], and [[WARD RADIO - My God Can Beat Up Your Mormon God]].
+
 ## References
 [^1]: [[WardRadio - Top 9 Misconstrued Scriptures|Ward Radio - Top 9 Misconstrued Scriptures]], [21:32], https://youtu.be/lkiUEqR5OBI
 [^2]: [[WardRadio - Jesus Referenced the Apocrypha|Ward Radio - Jesus Referenced the Apocrypha]], [01:01], https://youtu.be/gEWxwhdXjYc

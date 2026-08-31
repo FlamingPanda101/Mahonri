@@ -14,6 +14,7 @@ When [[Lehi]] examines the [[brass plates]] [[Laban]] held, [[Nephi]] records th
 ## Used in
 - [[The Assumption of Moses Was the Fifth Book of Moses Replaced by Deuteronomy]]
 - [[The Deuteronomistic History Books Are Absent From the Brass Plates]]
+- [[The Strang Plates Have Witnesses Just Like the Book of Mormon]]
 
 ---
 See also: [[Scriptures]] · [[Lehi]] · [[Nephi]] · [[Jonah Barnes]]

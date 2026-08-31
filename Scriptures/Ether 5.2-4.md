@@ -11,6 +11,7 @@ The Book of Mormon's own prophecy of the **Three Witnesses**, invoked as the scr
 
 ## Used in
 - [[Witnesses Never Recanted Despite Estrangement]]
+- [[Strang's Witnesses Saw Plates Not an Angel]]
 
 ---
 See also: [[Scriptures]] · [[Natural vs Supernatural Witnesses]]

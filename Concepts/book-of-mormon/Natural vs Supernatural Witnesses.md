@@ -4,6 +4,7 @@ related:
   - "[[Informal Witnesses of the Golden Plates]]"
   - "[[Metallurgical Fraud Theory Rebutted]]"
   - "[[Mass Hallucination Hypnosis Theory Rebutted]]"
+  - "[[Strang's Witnesses Saw Plates Not an Angel]]"
 sources:
   - "[[WardRadio - Book of Mormon Witnesses Are Unimpeachable]]"
 tags: [apologetics, book-of-mormon, witnesses, tradition/lds]

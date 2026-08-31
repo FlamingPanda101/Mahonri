@@ -11,11 +11,12 @@ tags:
 
 > For we labor diligently to write, to persuade our children, and also our brethren, to believe in Christ, and to be reconciled to God; for we know that it is by grace that we are saved, after all we can do.
 
-**Key phrase — "after all we can do."** The crux of a long soteriological debate. The popular reading takes "after" temporally/conditionally: we do our works, and grace covers the shortfall (synergism). [[Kyle Beshears]] and others argue that in early-19th-century English "after all we can do" functioned like "**despite** all we can do" or "**apart from** all we can do" — i.e., grace saves us *regardless of* our works, a grace-alone (monergistic) sense. On that reading the verse is, in Beshears's words, "a very evangelical teaching" — which he takes as evidence of 19th-century authorship.
+**Key phrase — "after all we can do."** The crux of a long soteriological debate. The popular reading takes "after" temporally/conditionally: we do our works, and grace covers the shortfall (synergism). [[Kyle Beshears]] and others argue that in early-19th-century English "after all we can do" functioned like "**despite** all we can do" or "**apart from** all we can do" — i.e., grace saves us *regardless of* our works, a grace-alone (monergistic) sense. On that reading the verse is, in Beshears's words, "a very evangelical teaching" — which he takes as evidence of 19th-century authorship. The peer-reviewed origin of the "despite" reading is [[Dan McClellan]]'s 2020 *Journal of Book of Mormon Studies* paper, which surveys late-18th–mid-19th-century usage and finds "after all we can do" idiomatically meant *despite* all we can do (see [[Dan McClellan - 2 Nephi 25.23 and Grace]]).
 
 ## Used in
 - [[After All We Can Do Means In Spite of All We Can Do]] — the 1830s-English idiom reading ("despite / apart from").
 - [[All We Can Do Is Defined as Repentance in Alma 24]] — the intratextual "defined term" reading (all we can do = repent).
+- [[The New Testament Contradicts Itself on Faith and Works]] — McClellan's wider claim that the NT itself lacks Protestant sola fide.
 - [[Conflating Salvation with Exaltation Breeds Works Burnout]] — the pastoral corollary.
 - [[Book of Mormon as American Pseudepigrapha]]
 

@@ -15,5 +15,7 @@ This verse is the clearest LDS scriptural statement that God the Father is a cor
 ## Referenced in
 
 - [[Without Body Parts or Passions Is a 1530 Protestant Creed]]
+- [[Greatest Means Fundamental Not Morally Best (The Mormon God Showdown)]]
+- [[An Impassible God Cannot Value the Worshiper]]
 
 See also: [[Scriptures]]

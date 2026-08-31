@@ -20,6 +20,7 @@ Both LDS apologetics (faith + works) and Catholic apologetics (against *sola fid
 - [[James - Different Kind of Faith Reply Rebutted]]
 - [[James - Justification Before Men Reply Rebutted]]
 - [[Faith Alone Appears Once in Scripture and Is the Verse That Denies It]]
+- [[The New Testament Contradicts Itself on Faith and Works]] — McClellan reads James as contradicting Paul rather than complementing him.
 
 ---
 See also: [[Scriptures]]

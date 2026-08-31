@@ -35,12 +35,19 @@ Hales holds that Joseph never issued a blanket denial — he condemned spiritual
 - [[Emma Smith's Polygamy Testimony Splits Before and After 1860]]
 - [[The Eyewitness Asymmetry Refutes the Polygamy Conspiracy Theory]]
 
+## Automatic Writing and the Book of Mormon
+
+Beyond polygamy, Hales has written for the *Interpreter* on the "automatic writing" phenomenon, comparing the Book of Mormon's production to other long literary works. Jeff Markham credits Hales for two points in this cumulative case: that the text was effectively one ~270,000-word "verbatim run-on sentence" dictated with no edits or corrections, and that Joseph Smith's *entire later* literary output is dwarfed by this single youthful feat — undercutting the "he was just a uniquely gifted automatic writer" theory. See:
+- [[The Book of Mormon's Undesigned Internal Consistencies Argue Against Fabrication]]
+- [[Dictation Speed and Method Argue Against Fabrication]][^2]
+
 ## Key Sources
 
 - [[Thoughtful Faith - Was Joseph Smith A Polygamist Ft Brian Hales]]
 
 ## Sources
 [^1]: [[Thoughtful Faith - Was Joseph Smith A Polygamist Ft Brian Hales|Thoughtful Faith - Was Joseph Smith A Polygamist]], [02:00]–[03:00], https://youtu.be/xQ52D7EwhVo
+[^2]: [[The Stick of Joseph - Internal Consistencies of the Book of Mormon|Stick of Joseph — Internal Consistencies]], [16:00], [25:31]–[27:00], https://youtu.be/Eq4H9672qNM
 
 ---
 See also: [[People]] · [[Authority Ledger]] · [[Polygamy Denialism]]

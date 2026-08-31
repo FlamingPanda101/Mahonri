@@ -14,6 +14,7 @@ The only verse in scripture containing the phrase "faith alone" — and it *nega
 - [[James 2-24 - Justified by Works Not Faith Alone]]
 - [[Initial vs Ongoing Justification]]
 - [[Faith Alone Appears Once in Scripture and Is the Verse That Denies It]]
+- [[James 2 Was Written to Rebut Paul on Faith and Works]]
 
 ---
 See also: [[Scriptures]]

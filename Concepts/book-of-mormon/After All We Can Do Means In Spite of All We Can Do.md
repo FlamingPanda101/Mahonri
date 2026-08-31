@@ -2,10 +2,14 @@
 title: "After All We Can Do Means In Spite of All We Can Do"
 aliases:
   - "After All We Can Do Means Despite All We Can Do"
-scripture: "[[2 Nephi 25.23|2 Nephi 25:23]]"
+scripture:
+  - "[[2 Nephi 25.23|2 Nephi 25:23]]"
+  - "[[Luke 17.10|Luke 17:10]]"
+  - "[[Mosiah 2.21|Mosiah 2:21]]"
 related:
   - "[[LDS Salvation Is by Grace Not Earned by Works]]"
   - "[[The Prooftext Double Standard on Grace and Works]]"
+  - "[[The New Testament Contradicts Itself on Faith and Works]]"
   - "[[Book of Mormon as American Pseudepigrapha]]"
   - "[[Joseph Smith Did Not Author the Book of Mormon]]"
 sources:
@@ -13,6 +17,7 @@ sources:
   - "[[Hayden Carroll - Ratio Christi Campus Talk]]"
   - "[[Mormon Book Reviews - 40 Questions about Mormonism with Kyle Beshears]]"
   - "[[The Stick of Joseph - This Argument Against Mormons Doesnt Work Anymore]]"
+  - "[[Dan McClellan - 2 Nephi 25.23 and Grace]]"
 tags: [apologetics, grace, soteriology, prooftext, book-of-mormon, linguistics, tradition/lds, tradition/evangelical, topic/grace]
 ---
 
@@ -29,6 +34,8 @@ tags: [apologetics, grace, soteriology, prooftext, book-of-mormon, linguistics, 
 5. **It "sounds evangelical" — and that becomes an authorship argument.** Beshears calls the grace-alone reading "a very evangelical teaching or doctrine that you see appearing in the Book of Mormon," which "leads to my suspicion that this was written by a 19th-century person" steeped in Protestant soteriology. [^5] The concession that LDS scripture here teaches grace cuts both for the contextual reading and for his pseudepigrapha thesis (see [[Joseph Smith Did Not Author the Book of Mormon]], [[Book of Mormon as American Pseudepigrapha]]).
 
 6. **"All we can do" = the broken heart and contrite spirit (corroborating source).** [[Colton Miller]] and [[Josh (Latter-day Christian)|Josh]] read "after all we can do" the same way — *not* "works then grace fills the gap" but the *one* thing required: offering "a broken heart and a contrite spirit," through which the grace of Christ saves and transforms. They anchor LDS soteriology in [[Mosiah 3.8|Mosiah 3:17]] ("only in and through the name of Christ") and frame the faith as a James-style obedience ("faith without works is dead"; the wise/foolish builders of Matthew 7) that still rests wholly on grace — answering critics who claim "Mormons believe they are saved by works." [^7][^8]
+
+7. **The peer-reviewed philological case (highest-authority source).** [[Dan McClellan]] — a biblical scholar (Tier B) — is the academic who established this reading, in his 2020 *Journal of Book of Mormon Studies* paper *"2 Nephi 25:23 in Literary and Rhetorical Context."* He surveyed every late-18th- through mid-19th-century occurrence of "after all we can do" (and its permutations) that he could find; in "absolutely every single occurrence," the best — often the *only* — reading is **"despite all we can do,"** never "only once we have done everything." [^9] His cases include an 1829 French grammar ("after all that grammarians can do… is the only sure way of learning" the gender of nouns = *despite* all they can do) [^10] and a cluster of grace paragraphs (1710, 1761, 1777) on the believer who "after all he can do, is still an unprofitable servant" — riffing on [[Luke 17.10|Luke 17:10]], as the Book of Mormon itself does in [[Mosiah 2.21|Mosiah 2:21]]. [^11] McClellan adds that the works-merit gloss is itself "an interpretive tradition that arose in the early 20th century" and has been "waning since the beginning of the 21st," with "even leaders in the church" correcting it. [^12] *(Evidence rating: Strong — peer-reviewed lexical survey; Argument weight: Primary.)*
 
 **Steelman of the opposing view.** A traditional Evangelical may insist the LDS *system* (covenants, ordinances, temple worthiness, exaltation tiers) is functionally synergistic regardless of how one parses 2 Nephi 25:23, and that the "despite" reading is a recent apologetic. Beshears partly grants this with a "yes and no": all are resurrected by sheer mercy and salvation is not *whether* but "to which degree of exaltation," with only the few in outer darkness outside glory. [^6] The narrow rebuttal secures the *verse*; it does not by itself settle the whole soteriological system.
 
@@ -51,6 +58,10 @@ This verse is a frequent flashpoint with Evangelical critics; the contextual rea
 [^6]: [[Mormon Book Reviews - 40 Questions about Mormonism with Kyle Beshears|Mormon Book Reviews - 40 Questions about Mormonism with Kyle Beshears]], [55:30], https://youtu.be/_RlsOPIzt3c
 [^7]: [[The Stick of Joseph - This Argument Against Mormons Doesnt Work Anymore|Stick of Joseph - This Argument Doesn't Work Anymore]], [46:30], https://youtu.be/IXTZJhKn7Dw
 [^8]: [[The Stick of Joseph - This Argument Against Mormons Doesnt Work Anymore|Stick of Joseph - This Argument Doesn't Work Anymore]], [50:00], https://youtu.be/IXTZJhKn7Dw
+[^9]: [[Dan McClellan - 2 Nephi 25.23 and Grace|McClellan — 2 Nephi 25:23 & Grace]], [02:00]–[03:30], https://youtu.be/kkUF8mBvRbc
+[^10]: [[Dan McClellan - 2 Nephi 25.23 and Grace|McClellan — 2 Nephi 25:23 & Grace]], [03:30]–[04:31], https://youtu.be/kkUF8mBvRbc
+[^11]: [[Dan McClellan - 2 Nephi 25.23 and Grace|McClellan — 2 Nephi 25:23 & Grace]], [05:03]–[07:01], https://youtu.be/kkUF8mBvRbc
+[^12]: [[Dan McClellan - 2 Nephi 25.23 and Grace|McClellan — 2 Nephi 25:23 & Grace]], [01:01]–[01:30], https://youtu.be/kkUF8mBvRbc
 
 ---
-See also: [[Concepts]] · [[Light and Truth - Saved by Grace or Works]] · [[Mormon Book Reviews - 40 Questions about Mormonism with Kyle Beshears]] · [[The Stick of Joseph - This Argument Against Mormons Doesnt Work Anymore]]
+See also: [[Concepts]] · [[Light and Truth - Saved by Grace or Works]] · [[Mormon Book Reviews - 40 Questions about Mormonism with Kyle Beshears]] · [[The Stick of Joseph - This Argument Against Mormons Doesnt Work Anymore]] · [[Dan McClellan - 2 Nephi 25.23 and Grace]]
