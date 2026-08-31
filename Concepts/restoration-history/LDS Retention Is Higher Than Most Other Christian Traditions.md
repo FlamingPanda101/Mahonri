@@ -7,6 +7,7 @@ related:
   - "[[High-Demand Religion Improves Retention and Well-being]]"
 sources:
   - "[[Informed Saints - The Surprising REAL Reason People Are Leaving The Church]]"
+  - "[[LDS Religiousness Report - Dyer Erickson Hardy]]"
 tags:
   - apologetics
   - topic/retention
@@ -27,6 +28,8 @@ When the comparison is widened to peer religions, the Church of Jesus Christ of 
 
 3. **The mechanism is high-demand stickiness (rated: moderate).** High-demand religions retain better because there is "something there for people to grab onto"; in low-demand traditions one can keep the label while not attending. See [[High-Demand Religion Improves Retention and Well-being]] and [[Why the LDS Membership Lacks a Large Nominal Middle]].[^3] *Steelman:* higher *active* retention is partly definitional — if nominal members shed the label rather than lingering (as Dyer himself notes), the surviving identifiers will skew active, which can flatter the active-retention statistic relative to traditions that retain nominal members.
 
+4. **The primary report quantifies the lead (rated: strong, primary source).** The underlying BYU report puts overall Latter-day Saint retention at ~50% (Pew 49.4%; SSS 53.3%) — higher than every Christian denomination except Catholics and Orthodox Christians.[^4] Decisively, 42% of those raised Latter-day Saint both still identify *and* attend at least monthly — the highest active-retention rate of any US religion, ahead of Muslims (38%) and the Nondenominational family (28%).[^5]
+
 ## Best Quotes
 
 > "Latter-day Saints... based on the Pew data in particular — they found that those who stayed a member of their church as well as were attending that church regularly, Latter-day Saints were the highest in that."[^1]
@@ -36,6 +39,7 @@ When the comparison is widened to peer religions, the Church of Jesus Christ of 
 > "High-demand religions are more likely to actually keep their membership than... the lower demand religions because there's something there for people to grab onto."[^3]
 
 ## References
+- [[LDS Religiousness Report - Dyer Erickson Hardy]] — the primary report
 - [[Informed Saints - The Surprising REAL Reason People Are Leaving The Church]]
 - [[Justin Dyer]]
 - [[Church Is Hemorrhaging Members at a Unique Rate]]
@@ -45,3 +49,5 @@ When the comparison is widened to peer religions, the Church of Jesus Christ of 
 [^1]: [[Informed Saints - The Surprising REAL Reason People Are Leaving The Church|Informed Saints - Why People Are Leaving The Church]], [07:01]–[07:30], https://youtu.be/7IMZGScnEok
 [^2]: [[Informed Saints - The Surprising REAL Reason People Are Leaving The Church|Informed Saints - Why People Are Leaving The Church]], [07:30], https://youtu.be/7IMZGScnEok
 [^3]: [[Informed Saints - The Surprising REAL Reason People Are Leaving The Church|Informed Saints - Why People Are Leaving The Church]], [09:03]–[09:31], https://youtu.be/7IMZGScnEok
+[^4]: [[LDS Religiousness Report - Dyer Erickson Hardy|LDS Religiousness Report]], [p.25]
+[^5]: [[LDS Religiousness Report - Dyer Erickson Hardy|LDS Religiousness Report]], [p.28]

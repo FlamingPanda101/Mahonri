@@ -14,6 +14,7 @@ related:
 sources:
   - "[[The Way with Brian Davila - Protestant vs Mormon Who Goes to Heaven]]"
   - "[[Thoughtful Faith - Why Christians Misread Paul]]"
+  - "[[Thoughtful Faith - Why Paul Sounds Like a Mormon]]"
 tags: [apologetics, justification, grace, covenant, new-perspective-on-paul, tradition/lds, tradition/protestant]
 #type/claim
 ---
@@ -26,7 +27,7 @@ tags: [apologetics, justification, grace, covenant, new-perspective-on-paul, tra
 ## Supporting Evidence
 
 ### 1. Hansen's New-Perspective definition of justification (Argument weight: Primary — LDS side)
-Hansen quotes [[N.T. Wright]]: "The point of justification by faith is that it takes place in the present time. It has to do with the question, who now belongs to God's people, and how can you tell?... used by Paul to denote those who hear the gospel and respond in faith and then are declared to be his people... given the status righteous within the covenant."[^1] He cites E. P. Sanders, [[James Dunn]], and Wright as the scholarly basis, framing Paul's problem as covenant *inclusion* of the Gentiles, not a Reformation debate about how to get to heaven. *(Evidence rating: Moderate — depends on the contested NPP reading of "works of the law"; see [[Works of the Law Means Mosaic Boundary Markers Not Obedience as Such]].)*
+Hansen quotes [[N.T. Wright]]: "The point of justification by faith is that it takes place in the present time. It has to do with the question, who now belongs to God's people, and how can you tell?... used by Paul to denote those who hear the gospel and respond in faith and then are declared to be his people... given the status righteous within the covenant."[^1] He cites [[E.P. Sanders]], [[James Dunn]], and Wright as the scholarly basis, framing Paul's problem as covenant *inclusion* of the Gentiles, not a Reformation debate about how to get to heaven. A separate Thoughtful Faith explainer supplies the same Wright reading with a courtroom image: justification is "legal language... Imagine a judge announcing this person is officially a citizen... God declaring someone to be a member of his covenant family" — a *present* declaration of who belongs, the frame developed in [[Pauls Question Was Gentile Inclusion Not Individual Merit]].[^15] *(Evidence rating: Moderate — depends on the contested NPP reading of "works of the law"; see [[Works of the Law Means Mosaic Boundary Markers Not Obedience as Such]].)*
 
 ### 2. Covenant entry carries covenant obligations (Argument weight: Primary — LDS side)
 "Once you're within the covenant, you still have covenant obligations. You can't have a covenant without covenant obligations."[^2] Hansen's marriage analogy: Israel was "graciously chosen... an act of grace," then told to "be faithful to it"; "I'm not perfect to my wife," but faithfulness means complying "with the terms of the covenant so that you can receive the promised blessings of the covenant."[^3]
@@ -81,6 +82,7 @@ Hansen's covenantal model distinguishes *initial* justification (freely entering
 [^12]: [[Thoughtful Faith - Why Christians Misread Paul|Thoughtful Faith — Misreading Paul]], [47:31], https://youtu.be/53SIoqwh7mQ
 [^13]: [[Thoughtful Faith - Why Christians Misread Paul|Thoughtful Faith — Misreading Paul]], [44:00], https://youtu.be/53SIoqwh7mQ
 [^14]: [[Thoughtful Faith - Why Christians Misread Paul|Thoughtful Faith — Misreading Paul]], [06:31], https://youtu.be/53SIoqwh7mQ
+[^15]: [[Thoughtful Faith - Why Paul Sounds Like a Mormon|Thoughtful Faith — Paul Sounds Like a Mormon]], [05:31], https://youtu.be/4iMXvf6JMVU
 
 ---
 See also: [[Concepts]] · [[Initial vs Ongoing Justification]] · [[The Way with Brian Davila - Protestant vs Mormon Who Goes to Heaven]] · [[Thoughtful Faith - Why Christians Misread Paul]]

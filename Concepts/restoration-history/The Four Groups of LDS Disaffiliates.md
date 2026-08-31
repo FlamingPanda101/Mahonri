@@ -7,6 +7,7 @@ related:
   - "[[Faithkeepers Would Return if a Friend Invited Them]]"
 sources:
   - "[[Informed Saints - The Surprising REAL Reason People Are Leaving The Church]]"
+  - "[[LDS Religiousness Report - Dyer Erickson Hardy]]"
 tags:
   - apologetics
   - topic/disaffiliation

@@ -7,6 +7,7 @@ related:
   - "[[Utah Suicide Rate Implicates the Church]]"
 sources:
   - "[[Informed Saints - The Surprising REAL Reason People Are Leaving The Church]]"
+  - "[[LDS Religiousness Report - Dyer Erickson Hardy]]"
 tags:
   - apologetics
   - topic/well-being
@@ -30,6 +31,8 @@ On measures of happiness, well-being, spiritual peace, and family-life satisfact
 
 4. **Benefit persists across belief states (rated: moderate).** Whatever one's level of religiosity tends to associate with better mental health, even after leaving. See [[Religiosity Benefits Mental Health Even After Leaving]].[^4]
 
+5. **The primary report supplies the numbers (rated: strong, primary source).** In the Pew data, 62% of Latter-day Saint Millennial+ feel "a deep sense of spiritual peace and well-being" at least weekly (67% of earlier generations) — the smallest generational gap of any group.[^5] LDS Millennials/Gen Z are also the *single most likely* of any religion to say they are "very happy" with their lives.[^6] And on the Healthy Minds college dataset, Latter-day Saints' risk of severe depression, anxiety, and past-year suicide attempts is statistically comparable to other faiths, while those of *no* faith fare significantly worse — the opposite of the "religion harms mental health" narrative.[^7]
+
 ## Best Quotes
 
 > "They're, if you win, in a statistical tie with evangelicals — who are the highest — in saying that they feel a deep sense of spiritual peace and well-being."[^1]
@@ -39,13 +42,18 @@ On measures of happiness, well-being, spiritual peace, and family-life satisfact
 > "The more religious you are earlier tends to relate to increases in well-being across time."[^4]
 
 ## References
+- [[LDS Religiousness Report - Dyer Erickson Hardy]] — the primary report
 - [[Informed Saints - The Surprising REAL Reason People Are Leaving The Church]]
 - [[Justin Dyer]]
 - [[High-Demand Religion Improves Retention and Well-being]]
 - [[Religiosity Benefits Mental Health Even After Leaving]]
+- [[The Spiritual But Not Religious Underperform on Well-Being]]
 
 ---
 [^1]: [[Informed Saints - The Surprising REAL Reason People Are Leaving The Church|Informed Saints - Why People Are Leaving The Church]], [32:31]–[33:00], https://youtu.be/7IMZGScnEok
 [^2]: [[Informed Saints - The Surprising REAL Reason People Are Leaving The Church|Informed Saints - Why People Are Leaving The Church]], [32:31]–[33:00], https://youtu.be/7IMZGScnEok
 [^3]: [[Informed Saints - The Surprising REAL Reason People Are Leaving The Church|Informed Saints - Why People Are Leaving The Church]], [33:00]–[34:01], https://youtu.be/7IMZGScnEok
 [^4]: [[Informed Saints - The Surprising REAL Reason People Are Leaving The Church|Informed Saints - Why People Are Leaving The Church]], [34:01]–[34:31], https://youtu.be/7IMZGScnEok
+[^5]: [[LDS Religiousness Report - Dyer Erickson Hardy|LDS Religiousness Report]], [p.20]
+[^6]: [[LDS Religiousness Report - Dyer Erickson Hardy|LDS Religiousness Report]], [p.21]
+[^7]: [[LDS Religiousness Report - Dyer Erickson Hardy|LDS Religiousness Report]], [p.23]

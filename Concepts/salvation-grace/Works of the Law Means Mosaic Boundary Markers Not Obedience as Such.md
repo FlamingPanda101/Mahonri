@@ -7,6 +7,7 @@ related:
   - "[[Baptism Is Gods Work Not a Human Work That Earns Salvation]]"
 sources:
   - "[[The Apologetic Dog - Does Water Baptism Save NeedGod vs Shameless Popery]]"
+  - "[[Thoughtful Faith - Why Paul Sounds Like a Mormon]]"
 tags:
   - "#apologetics/justification"
   - "#apologetics/pauline-theology"
@@ -24,6 +25,7 @@ The whole baptism debate turns on what Paul means by "**works**." [[Ryan (NeedGo
 2. **Romans 4's "works" are circumcision-bounded (rating: moderate; contextual).** When Paul says "to the one who does not work but trusts him who justifies the ungodly" (Rom 4:5), Heschmeyer argues v. 9's contrast of "the circumcised and uncircumcised" shows the works in view are *Mosaic* — "anytime Paul talks about works that are only available to the Jews and not the Gentiles, he's only referring to the Mosaic works like circumcision."[^2]
 3. **Romans 2 vs Romans 3 (rating: moderate; intra-Pauline).** Romans 2:6-7 has God rendering "to every man according to his works" and giving "eternal life" to those who "by patience in well-doing seek for glory"; Romans 3 denies "works of the law" justify. The two are reconciled only if "works" is used in different senses — Heschmeyer's whole point.[^3]
 4. **Second Peter warns against twisting Paul (rating: moderate; rhetorical).** Heschmeyer frames the faith-alone reading as the very misreading 2 Peter 3:16 warns of — "the ignorant and unstable twist [Paul's hard sayings] to their own destruction."[^3]
+5. **Independent corroboration from the New Perspective directly (rating: moderate; corroborating).** A Thoughtful Faith explainer states the boundary-marker reading in its own words, crediting [[E.P. Sanders]], [[James Dunn]], and [[N.T. Wright]]: in first-century Judaism "works of the law... referred specifically to the practices that marked Jews out as God's covenant people — circumcision, food laws, Sabbath, purity regulations." The polemical question "was not, can you earn heaven by doing good works?" but "do Gentiles have to become Jews before they belong to God's covenant family?" This locates the whole dispute inside Paul's covenant-inclusion problem — see [[Pauls Question Was Gentile Inclusion Not Individual Merit]].[^4]
 
 ## Apologetic Engagement
 This is the load-bearing exegetical disagreement, and it is genuinely contested scholarship. Heschmeyer's New-Perspective reading (Dunn, Sanders, Wright; here also Thomas's reception-history work) is mainstream and well-evidenced for "works of the law" as covenant identity markers — and it neatly dissolves the Ephesians 2:9/2:10 tension and the Romans 2/3 tension. But it is not uncontested: many Reformed exegetes (and the "Old Perspective") read "works" more broadly as any human doing/merit, citing Romans 4:4-5's wage/gift contrast and Romans 11:6 ("if by grace, then not of works"). So Ryan is defending a respectable traditional reading, not an idiosyncrasy — though Heschmeyer is right that Ryan's *flat* equation ("works = any action, opposite of rest") struggles with Paul's positive uses of "works." The strongest neutral observation: "works" in Paul is demonstrably *not* univocal, which by itself undercuts any argument (like Ryan's) that treats every *ergon* identically. Whether the boundary-marker sense is the *only* polemical sense is the open question. Catholic/New-Perspective vs Reformed dispute.
@@ -40,6 +42,7 @@ The Latter-day Saint reading of "works" aligns more with Heschmeyer than with Ry
 [^1]: [[The Apologetic Dog - Does Water Baptism Save NeedGod vs Shameless Popery|Apologetic Dog - Baptism Debate]], [42:30]–[44:00], https://youtu.be/dWFlknJgLIY
 [^2]: [[The Apologetic Dog - Does Water Baptism Save NeedGod vs Shameless Popery|Apologetic Dog - Baptism Debate]], [44:00]–[45:00], https://youtu.be/dWFlknJgLIY
 [^3]: [[The Apologetic Dog - Does Water Baptism Save NeedGod vs Shameless Popery|Apologetic Dog - Baptism Debate]], [39:30]–[41:00], https://youtu.be/dWFlknJgLIY
+[^4]: [[Thoughtful Faith - Why Paul Sounds Like a Mormon|Thoughtful Faith — Paul Sounds Like a Mormon]], [04:03], https://youtu.be/4iMXvf6JMVU
 
 ---
 See also: [[Concepts]] · [[Romans 4]] · [[James Dunn]] · [[Salvation Is by Faith Alone and Baptism Is a Non-Saving Act of Obedience]]

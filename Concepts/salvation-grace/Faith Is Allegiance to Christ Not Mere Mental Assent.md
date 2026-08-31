@@ -9,6 +9,7 @@ related:
 sources:
   - "[[Lets Talk w Hayden Carroll - Most Intense Religious Debate]]"
   - "[[Thoughtful Faith - Why Christians Misread Paul]]"
+  - "[[Thoughtful Faith - Why Paul Sounds Like a Mormon]]"
 tags: [apologetics/salvation-grace, faith, allegiance, pistis, baptism, grace, tradition/lds]
 #type/claim
 ---
@@ -29,6 +30,8 @@ On the debate's stated topic — *the message of salvation* — [[Hayden Carroll
 4. **Grace-first framing (closing statement).** "I am saved on the merits of Jesus Christ. Nothing I can do can merit my salvation... He requires allegiance, which is faith. And I won't be perfect, but luckily Christ doesn't require perfection."[^4] *Argument weight: Primary; Evidence rating: Strong* as a statement of the LDS grace/works synthesis — cf. [[LDS Salvation Is by Grace Not Earned by Works]].
 
 5. **Ostler: *pistis* is an interpersonal term for trust, with a Latin fidelity bridge.** [[Blake Ostler]] independently reaches the same lexical point: "the term *pistis* generally, its primary meaning is trust. It's not an epistemological term. It's an interpersonal term."[^7] Its Latin renderings — *fides, fiducia,* and the derived *fidelity/fiduciary* — share that semantic range, so the best gloss is being "faithful in the sense that he would be faithful to a wife": a "fiduciary [duty] on Christ's side, and simple trust on our side."[^8] This grounds "allegiance" in a marriage-covenant register rather than intellectual assent. *Argument weight: Primary; Evidence rating: Moderate* — a credentialed-expert (B) reading of the Greek, converging with Bates.
+
+6. **The New Perspective frames *pistis* as covenant loyalty to the risen King.** A Thoughtful Faith explainer makes the same move from the New-Perspective side: "The Greek word *pistis* in Paul's context carries ideas of trust, loyalty, covenant faithfulness, and allegiance. Faith is recognizing Jesus as Israel's Messiah, the Lord of the world. Faith is pledging one's loyalty to the new king."[^9] On this reading "allegiance" is not an LDS gloss smuggled in but the term's first-century register — the covenant-membership frame of [[Pauls Question Was Gentile Inclusion Not Individual Merit]]. *Argument weight: Primary; Evidence rating: Moderate* — a popular-tier (C) source accurately relaying mainstream Pauline scholarship.
 
 ## Best Quotes
 > "Faith in the Greek, in the word *pistis*, is allegiance... an unceasing dedication to Christ and to what he's asking us to do."[^1]
@@ -55,6 +58,7 @@ On the debate's stated topic — *the message of salvation* — [[Hayden Carroll
 [^6]: [[Lets Talk w Hayden Carroll - Most Intense Religious Debate|Carroll — Most Intense Debate]], [172:30], https://youtu.be/eRQh-x-MSmA
 [^7]: [[Thoughtful Faith - Why Christians Misread Paul|Thoughtful Faith — Misreading Paul]], [36:02], https://youtu.be/53SIoqwh7mQ
 [^8]: [[Thoughtful Faith - Why Christians Misread Paul|Thoughtful Faith — Misreading Paul]], [37:30], https://youtu.be/53SIoqwh7mQ
+[^9]: [[Thoughtful Faith - Why Paul Sounds Like a Mormon|Thoughtful Faith — Paul Sounds Like a Mormon]], [07:02], https://youtu.be/4iMXvf6JMVU
 
 ---
 See also: [[Concepts]] · [[Sola Fide vs Faith Plus Ordinances]] · [[Greg (Collierville Pastor)]] · [[Lets Talk w Hayden Carroll - Most Intense Religious Debate]] · [[Thoughtful Faith - Why Christians Misread Paul]]
