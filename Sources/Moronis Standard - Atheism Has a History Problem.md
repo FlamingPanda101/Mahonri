@@ -28,16 +28,16 @@ Alex Arnold of *Moroni's Standard* — a former atheist who "read Dawkins and ap
 - [[Apply the Extraordinary Evidence Standard to Materialism Itself]] — the master frame: Sagan's standard turned symmetric; definitional retreat and Russell's Teapot as burden-shifting
 - [[The Universe's Low-Entropy Start Is Specified Not Just Improbable]] — Penrose's 10^10^123 figure and the specification-implies-design inference
 - [[The Hard Problem of Consciousness Defeats Materialism]] — Chalmers, philosophical zombies, the epiphenomenon dilemma, Nagel, panpsychism as a concession
-- [[Göbekli Tepe Shows Religion Predates Agriculture]] — the archaeological reversal of the Tylor/Frazer origin story; Cauvin's causal thesis
-- [[Agency Detection Does Not Settle Whether the Agent Is Real]] — Boyer and Guthrie's cognitive science of religion begs the question of the agent
-- [[Structural Religious Convergence Is Independent Witness Not Shared Psychology]] — structural (not surface) convergence resists both diffusion and shared psychology
-- [[Antony Flew Followed Specified Complexity from Atheism to Deism]] — the origin-of-life selection problem and the atheist who followed the evidence
+- Göbekli Tepe Shows Religion Predates Agriculture — the archaeological reversal of the Tylor/Frazer origin story; Cauvin's causal thesis
+- Agency Detection Does Not Settle Whether the Agent Is Real — Boyer and Guthrie's cognitive science of religion begs the question of the agent
+- Structural Religious Convergence Is Independent Witness Not Shared Psychology — structural (not surface) convergence resists both diffusion and shared psychology
+- Antony Flew Followed Specified Complexity from Atheism to Deism — the origin-of-life selection problem and the atheist who followed the evidence
 
 ## Key People Referenced
 - [[Alex Arnold]] (host), [[Carl Sagan]], [[Richard Dawkins]], [[Sam Harris]], [[Christopher Hitchens]]
 - [[Roger Penrose]], [[Fred Hoyle]], [[David Chalmers]], [[Thomas Nagel]], [[Philip Goff]]
-- [[Klaus Schmidt]], [[Jacques Cauvin]], [[Pascal Boyer]], [[Stewart Guthrie]]
-- [[Mircea Eliade]], [[Michael Heiser]], [[Francis Crick]], [[Antony Flew]], [[Gary Habermas]], [[David Berlinski]]
+- Klaus Schmidt, Jacques Cauvin, Pascal Boyer, Stewart Guthrie
+- [[Mircea Eliade]], [[Michael Heiser]], Francis Crick, [[Antony Flew]], [[Gary Habermas]], [[David Berlinski]]
 
 ## References
 [^1]: [[Moronis Standard - Atheism Has a History Problem|Moroni's Standard — Atheism's History Problem]], [00:31], https://youtu.be/9LZQ8O4aBbA

@@ -83,8 +83,7 @@ unchosen and unresponsive to effort — and recasting SSA as "a behavior you kno
 do" can sound like precisely the premise behind discredited change therapies, and can
 feel invalidating to the person living it. A sharper form of the objection: the phrase
 blurs **behavior** (genuinely chosen) with **attraction** (typically not) — one can abstain
-from conduct while the orientation persists, which is exactly what [[Timber Harvard|Timber
-Harward]] reports of himself.
+from conduct while the orientation persists, which is exactly what [[Timber Harvard|Timber Harward]] reports of himself.
 
 The steelman's honest residue, on the source's own terms: Robinson (a) explicitly denies
 "chosen," limiting his claim to agency over *response*, not the erasure of attraction;

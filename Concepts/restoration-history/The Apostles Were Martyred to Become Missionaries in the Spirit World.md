@@ -22,8 +22,7 @@ tags: ["#apologetics/restoration-history", "#topic/spirit-world", "#topic/postmo
 [[Jonah Barnes]], on *Latter Daily Saints* (Ep. 186), advances a thesis from his book *The Missing
 Ministry of the Risen Christ*: during the **40 days** between the Resurrection and Ascension, Christ
 told the apostles that the **real missionary work is in the spirit world**, and deliberately
-commissioned them to martyrdom for that end. Christ's descent (see [[1 Peter 3.18-20|1 Peter
-3:18-20]]) had just "opened the gates," leaving "billions and billions" of the dead who could now
+commissioned them to martyrdom for that end. Christ's descent (see [[1 Peter 3.18-20|1 Peter 3:18-20]]) had just "opened the gates," leaving "billions and billions" of the dead who could now
 hear the gospel but had **no missionaries** — so the apostles were sent to their deaths to become
 those missionaries. Barnes reads the Restoration as echoing the pattern: the martyred apostle
 [[David W. Patten]], and the English convert [[Anne Booth]]'s vision of him preaching to the

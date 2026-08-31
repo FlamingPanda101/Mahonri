@@ -22,8 +22,7 @@ authority_reason: "Latter-day Saint scholar with graduate-level academic trainin
 
 Stephen Smoot is an LDS scholar and apologist with graduate-level academic
 training in ancient Near Eastern studies / Egyptology. He participates in the
-Stick of Judah lecture series hosted by [[David Butler (Stick of Joseph)|David
-Butler]] and has presented on the Book of Abraham and ancient astronomy
+Stick of Judah lecture series hosted by [[David Butler (Stick of Joseph)|David Butler]] and has presented on the Book of Abraham and ancient astronomy
 ("Abraham the Astronomer").[^1] He co-authored *A Guide to the Book of Abraham*,
 a peer-reviewed special issue of BYU Studies.
 
