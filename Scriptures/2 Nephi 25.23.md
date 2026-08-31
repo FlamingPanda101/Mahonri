@@ -14,7 +14,9 @@ tags:
 **Key phrase — "after all we can do."** The crux of a long soteriological debate. The popular reading takes "after" temporally/conditionally: we do our works, and grace covers the shortfall (synergism). [[Kyle Beshears]] and others argue that in early-19th-century English "after all we can do" functioned like "**despite** all we can do" or "**apart from** all we can do" — i.e., grace saves us *regardless of* our works, a grace-alone (monergistic) sense. On that reading the verse is, in Beshears's words, "a very evangelical teaching" — which he takes as evidence of 19th-century authorship.
 
 ## Used in
-- [[After All We Can Do Means In Spite of All We Can Do]]
+- [[After All We Can Do Means In Spite of All We Can Do]] — the 1830s-English idiom reading ("despite / apart from").
+- [[All We Can Do Is Defined as Repentance in Alma 24]] — the intratextual "defined term" reading (all we can do = repent).
+- [[Conflating Salvation with Exaltation Breeds Works Burnout]] — the pastoral corollary.
 - [[Book of Mormon as American Pseudepigrapha]]
 
 ---

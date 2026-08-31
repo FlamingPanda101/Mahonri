@@ -56,5 +56,11 @@ Givens argues that Christians across the denominational spectrum are converging 
 [^4]: [[Ward Radio - Is Mainstream Christianity Accidentally Becoming Mormon|Ward Radio — Is Mainstream Christianity Accidentally Becoming Mormon?]], [00:30]–[01:02], https://youtu.be/kemS5Ql64EE
 [^5]: [[Ward Radio - Is Mainstream Christianity Accidentally Becoming Mormon|Ward Radio — Is Mainstream Christianity Accidentally Becoming Mormon?]], [01:02]–[01:31], https://youtu.be/kemS5Ql64EE
 
+## All Things New — Wounded/Healed vs. Damned/Saved
+
+On *Ward Radio*, [[Jeff Harmon]] cites Givens's *All Things New* for the claim that fear attached to repentance is an artifact of a translation shift: "by your faith you are *healed*" was later rendered "by your faith you are *saved*" (attributed tentatively to [[William Tyndale]]). Givens's "wounded → healed" register — closer to how the Book of Mormon speaks — is presented as truer and less fear-driven than "damned → saved." See [[Conflating Salvation with Exaltation Breeds Works Burnout]].[^6]
+
+[^6]: [[WARD RADIO - All We Can Do Is a Defined Term|Ward Radio — All We Can Do]], [20:02], https://youtu.be/NQrAci6Jde4
+
 ---
 See also: [[People]] · [[Authority Ledger]] · [[Keystone - LDS Scholar This Is Where Christianity Went Wrong]] · [[Convergence of Mainstream Christianity Toward LDS Doctrines]]

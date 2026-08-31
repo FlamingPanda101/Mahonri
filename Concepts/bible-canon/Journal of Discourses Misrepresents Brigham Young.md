@@ -5,6 +5,7 @@ related:
   - "[[A Man of His Time Without Excusing the Sin]]"
 sources:
   - "[[Lets Get Real - Why Its Easier to Flatten Brigham Young]]"
+  - "[[WARD RADIO - Destroy Every Anti-Mormon Argument]]"
 tags:
   - apologetics
   - topic/brigham-young
@@ -28,6 +29,8 @@ The harsh, autocratic, blood-curdling [[Brigham Young]] quotations that circulat
 
 4. **The pastoral counter-archive (rated: moderate; forthcoming scholarship).** The Church historian's office is preparing a two-volume set of Brigham's letters to ordinary Saints, which (Peterson is told) reveal "a pastoral side of Brigham Young that you don't normally see" — the thundering pulpit voice contrasted with patient, helpful private correspondence.[^5]
 
+5. **Popular uptake — and its overreach (rated: moderate for Brigham; weak where over-extended).** Short-form apologists generalize Carruth's specialist finding into a rule of thumb for distrusting controversial sermon wording. On Ward Radio a host notes that "everything we know about what Brigham Young said was written in ... Pitman shorthand" by George D. Watt, who "was just plain old adding and taking away stuff ... per his memory," and stresses that a rendered period versus a question mark "makes total difference" — "it's one thing to say *did* God have a father? It's another thing to say God had a father."[^6] He applies the doubt to [[Adam-God Theory|Adam-God]], the Sermon in the Grove, and the [[King Follett Discourse]].[^7] **Two honest limits:** (a) the transmission argument is documentary and strong for Brigham's Watt-transcribed sermons (points 1–2), but the Sermon in the Grove and King Follett discourse are *Joseph Smith's* sermons recorded by other scribes (Woodruff, Bullock, Clayton, Richards), so Watt's habits do not bear on them — the host lumps them loosely; (b) transcription ambiguity does not make a teaching vanish: the vault treats Adam-God as a doctrine Brigham genuinely advanced (see [[How Brigham Young Extrapolated Adam-God from Joseph Smith]]), not a mere mis-transcription. The move is legitimate against *specific* ambiguous quotations, not as a blanket eraser for uncomfortable sermons.
+
 ## Best Quotes
 
 > "I asked her once, what's the biggest misrepresentation of Brigham Young? ... She said, the Journal of Discourses."[^1]
@@ -48,3 +51,5 @@ The harsh, autocratic, blood-curdling [[Brigham Young]] quotations that circulat
 [^3]: [[Lets Get Real - Why Its Easier to Flatten Brigham Young|Let's Get Real - Why It's Easier to Flatten Brigham Young]], [26:03]–[28:30], https://youtu.be/dssLIsMniWU
 [^4]: [[Lets Get Real - Why Its Easier to Flatten Brigham Young|Let's Get Real - Why It's Easier to Flatten Brigham Young]], [27:31]–[28:03], https://youtu.be/dssLIsMniWU
 [^5]: [[Lets Get Real - Why Its Easier to Flatten Brigham Young|Let's Get Real - Why It's Easier to Flatten Brigham Young]], [26:03]–[27:02], https://youtu.be/dssLIsMniWU
+[^6]: [[WARD RADIO - Destroy Every Anti-Mormon Argument|Ward Radio — Destroy Every Anti-Mormon Argument]], [03:31], https://youtu.be/rnhYXS9-5tk
+[^7]: [[WARD RADIO - Destroy Every Anti-Mormon Argument|Ward Radio — Destroy Every Anti-Mormon Argument]], [04:00], https://youtu.be/rnhYXS9-5tk

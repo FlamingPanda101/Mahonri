@@ -39,5 +39,10 @@ disagreed both on the infant exaltation and the spirit birth."[^2]
 This continued the pattern: even the discourse's greatest champions edited or
 critiqued its most controversial elements — [[Infant Exaltation]] and [[Spirit Birth and Intelligences]].[^2]
 
+## "After All We Can Do"
+
+McConkie is the name most associated with a works-forward emphasis on [[2 Nephi 25.23|2 Nephi 25:23]] ("by grace we are saved, after all we can do"). A *Ward Radio* episode built around [[Jeff Harmon]]'s "defined term" reading takes its provocative title from him — jokingly filing "an official petition to update the footnotes... Bruce R. McConkie done messed up, according to Angel Studios" — the claim being that the crux verse's true sense is "saved by grace after we *repent*" (per [[Alma 24.11|Alma 24:11]]). The quip is banter, not a documented engagement with McConkie's writings. See [[All We Can Do Is Defined as Repentance in Alma 24]].[^3]
+
 [^1]: [[Benjamin Park - Did Joseph Smith Teach Men Can Become God|Benjamin Park - Did Joseph Smith Teach Men Can Become God?]], [20:01-20:31], https://youtu.be/sKQeEuCEgyY
 [^2]: [[Benjamin Park - Did Joseph Smith Teach Men Can Become God|Benjamin Park - Did Joseph Smith Teach Men Can Become God?]], [20:31], https://youtu.be/sKQeEuCEgyY
+[^3]: [[WARD RADIO - All We Can Do Is a Defined Term|Ward Radio — All We Can Do]], [23:30], https://youtu.be/NQrAci6Jde4

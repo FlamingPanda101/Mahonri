@@ -37,10 +37,14 @@ Hosted a cluster of further episodes: reacting to evangelical [[Cliff Knechtel|C
 ## The Las Vegas Miracle — Sam Shamoun's Change of Heart
 Hosted [[Latterday Logic]] (Devin) and [[Gospel Guardian]] (Braden) to review their debate with polemicist [[Sam Shamoun]], which ended with Shamoun's public "change of heart." Ellis supplies the framing theme — that combative "orthodoxy" weaponized cruelly is inferior to Christlike practice ([[Orthopraxy over Orthodoxy]]) — and the steelman caution ("let's not start giving him human-being status yet... let's see two or three well-behaved debates"). See [[Christlike Love Softened a Hostile Debater - The Las Vegas Miracle]] and [[WARD RADIO - Sam Shamoun and the Las Vegas Miracle|the source]].[^3]
 
+## Was Bruce R. McConkie Wrong about "After All We Can Do"?
+Hosted [[Jeff Harmon]] (Angel Studios) and [[Brad Whitbeck]] on Harmon's "defined term" reading of [[2 Nephi 25.23|2 Nephi 25:23]] — that the Book of Mormon defines "all we can do" at [[Alma 24.11|Alma 24:11]] as repentance. See [[All We Can Do Is Defined as Repentance in Alma 24]], [[Conflating Salvation with Exaltation Breeds Works Burnout]], and [[WARD RADIO - All We Can Do Is a Defined Term]].[^4]
+
 ## References
 [^1]: [[WardRadio - Top 9 Misconstrued Scriptures|Ward Radio - Top 9 Misconstrued Scriptures]], [21:32], https://youtu.be/lkiUEqR5OBI
 [^2]: [[WardRadio - Jesus Referenced the Apocrypha|Ward Radio - Jesus Referenced the Apocrypha]], [01:01], https://youtu.be/gEWxwhdXjYc
 [^3]: [[WARD RADIO - Sam Shamoun and the Las Vegas Miracle|Ward Radio — Las Vegas Miracle]], [76:31], https://youtu.be/q7D1fn_o6u8
+[^4]: [[WARD RADIO - All We Can Do Is a Defined Term|Ward Radio — All We Can Do]], [01:00], https://youtu.be/NQrAci6Jde4
 
 ---
 See also: [[People]] · [[Ward Radio]] · [[Jonah Barnes]] · [[David Butler (Stick of Joseph)]] · [[Ward Radio - We Bought Every Anti-Mormon Book and React]]

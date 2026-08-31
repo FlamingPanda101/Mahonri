@@ -80,9 +80,15 @@ On his own "Within Reason" podcast, O'Connor presses the mainstream-critical cas
 ### As host/foil — mind, NDEs, materialism (interviewing Robert Greene)
 Interviewing author [[Robert Greene]], O'Connor argues that **methodological materialism has been illegitimately upgraded into a metaphysics** ([[Methodological Materialism Smuggled Into Metaphysical Materialism]]) and treats near-death experiences — including veridical cases — as an unresolved anomaly for materialism, modeling calibrated agnosticism. See [[Alex OConnor - Your Mind Is Not Your Brain]].
 
+### As foil (used favorably) — the Book of Mormon witnesses parity argument
+In appearances with [[Trent Horn]] (and a Jubilee video), O'Connor argues that consistency should make a Christian take the Book of Mormon witnesses at least as seriously as the Resurrection witnesses: the [[Three Witnesses]] claimed to see an angel hand [[Joseph Smith]] the golden plates, corroborated one another, and — though all three were later *excommunicated* — never denied it "until the day of their death." He frames this as a "reverse pull": unlike the "why would a persecutor lie?" defense of Paul, these were insiders who fell out with the prophet yet held firm, which he judges *stronger*. Ward Radio devotes a whole episode to defending O'Connor's argument against [[Testify Apologetics]].[^5] See [[The Eyewitness Double Standard Favors the Gold Plates Over the Resurrection]], [[Witnesses Never Recanted Despite Estrangement]], and [[Missing Circumstantial Details Do Not Weaken the Witness Statement]].
+
+[^5]: [[WARD RADIO - Testify vs the Book of Mormon Witnesses|Ward Radio — Testify vs the Witnesses]], [03:30], https://youtu.be/MdZ5IRYTGhg
+
 ## Sources
 - [[Stick of Joseph - Atheism is Unreasonable and Stupid]]
 - [[Alex OConnor - Is Genesis 1-1 a Mistranslation]]
 - [[Big Think - The Strongest Arguments For and Against God - Alex OConnor]]
 - [[Alex OConnor - Jesus DID Claim to be God]]
 - [[Alex OConnor - Your Mind Is Not Your Brain]]
+- [[WARD RADIO - Testify vs the Book of Mormon Witnesses]]
