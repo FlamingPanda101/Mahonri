@@ -10,6 +10,7 @@ related:
   - "[[Apostasy as Gradual Falling Away Not Single Event]]"
 sources:
   - "[[Capturing Christianity - Debate The Great Apostasy Joe Heschmeyer vs Jacob Hansen]]"
+  - "[[The Way with Brian Davila - 1 Mormon vs 10 Catholics]]"
 tags:
   - "#apologetics/great-apostasy"
   - "#tradition/lds"
@@ -46,6 +47,9 @@ The fact that the New Testament does not *thematize* the two-senses distinction 
 ### Steelman of Heschmeyer's counter to that reply
 There is an asymmetry: the Trinity is read *out of* the texts' data, whereas Hansen needs the texts to *contain two different churches* so that the institution can die while the body lives — and that bifurcation is exactly what the texts never assert. Worse, the indefectibility promises attach to *the same* church that adjudicates and is "the pillar of truth"; carving off an immortal "body" from a mortal "institution" to absorb the promises is, on Heschmeyer's view, ad hoc. He also presses that "the body of Christ" cannot be a mere collection of well-meaning individuals "wherever they may be" — Paul's organism has *one* visible, growing reality, "the fullness of him who fills all in all" (Ephesians 1:23), with "no separation of head from body."
 
+### 6. Corroborated in the Davila "1 vs. 10 Catholics" debate (rating: corroboration)
+[[Jacob Hansen]] makes the identical two-senses move against ten Catholics on *The Way*: the word *church* (*ekklēsia*) can mean either "a gathering, a congregation" or "an institution, a visible body," and while "the body of believers in Jesus Christ didn't disappear in the apostasy," what "was lost was the ecclesiastical structure that held it all together... and therefore teachings were corrupted." Same distinction, same defensive function, before a different audience. [^5]
+
 ## Best Quotes
 
 > "The church in the sense of a body of believers has certainly had a continual existence since the time of Jesus Christ... Latter-day Saints do not teach that the church as a body of sincere believers was ever lost from the earth. But what about the institutional church?" — Hansen [^1]
@@ -59,6 +63,7 @@ There is an asymmetry: the Trinity is read *out of* the texts' data, whereas Han
 [^2]: [[Capturing Christianity - Debate The Great Apostasy Joe Heschmeyer vs Jacob Hansen|Heschmeyer vs Hansen - Great Apostasy]], [90:32]–[91:30], https://youtu.be/_nWfaX_iJ6I
 [^3]: [[Capturing Christianity - Debate The Great Apostasy Joe Heschmeyer vs Jacob Hansen|Heschmeyer vs Hansen - Great Apostasy]], [45:30]–[46:30], https://youtu.be/_nWfaX_iJ6I
 [^4]: [[Capturing Christianity - Debate The Great Apostasy Joe Heschmeyer vs Jacob Hansen|Heschmeyer vs Hansen - Great Apostasy]], [65:00]–[66:31], https://youtu.be/_nWfaX_iJ6I
+[^5]: [[The Way with Brian Davila - 1 Mormon vs 10 Catholics|Davila — 1 Mormon vs 10 Catholics]], [77:30], https://youtu.be/ZH9y0Ae7e9Q
 
 ## See also
 - [[Name the True Church or Concede the Apostasy - the Negative's Burden]]

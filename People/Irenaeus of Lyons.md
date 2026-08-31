@@ -44,5 +44,8 @@ Like Tatian and Theophilus, Irenaeus read the new doctrine back into earlier tex
 ## Among the Greco-Roman Apologists
 Alongside [[Justin Martyr]] and [[Tertullian]], Irenaeus is grouped by Thoughtful Faith among the Greco-Roman-educated apologists who answered Greek objections by adopting Greek metaphysical categories for God. See [[Apologists Claimed the Biblical God Was the Same God as the Greek Philosophers]] and [[The Deepest Apostasy Was Trading the God of Abraham for the God of Aristotle]].
 
+## In the Early-Papacy Debate ("Preeminent Authority")
+Irenaeus's *Against Heresies* 3.3.2 — that all churches must agree with Rome "on account of its preeminent authority" (*potentiorem principalitatem*) — is the flagship proof-text argued in the Davila "1 vs. 10 Catholics" debate. [[Jacob Hansen]] contends the Latin means *prominence/primacy*, not jurisdictional *authority* (which would be *auctoritas*), and that in context Rome is the "outstanding example" of the class of apostolic churches (founded by Peter *and* Paul), not a monarch over them. See [[Irenaeus's Preeminent Authority Means Prominence Not Jurisdiction]].
+
 ---
 See also: [[People]] · [[Tertullian]] · [[Theophilus of Antioch]] · [[Justin Martyr]]

@@ -17,6 +17,8 @@ The **O** ("Our sins") of [[Tim Stratton]]'s GOSPEL acronym: "our sins infect us
 
 ## Used in
 - [[Calvinism Is a Different Gospel - GOSPEL vs ED]]
+- [[Marian Sinlessness Is a Later Development Not Apostolic]] (Hansen: "all have sinned" excepts only Jesus, never Mary)
+- [[Mary as the New Eve and Full of Grace - The Catholic Marian Case]] (Catholic reply: the "all" is general, not absolute)
 
 ## References
 [^1]: [[Lets Talk w Hayden Carroll - Calvinism Worse Than Mormonism|Carroll — Calvinism Worse Than Mormonism]], [91:02], https://youtu.be/wA8QbVhGyNA

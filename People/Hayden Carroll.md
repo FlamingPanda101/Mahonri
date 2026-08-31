@@ -100,6 +100,9 @@ In [[Lets Talk w Hayden Carroll - Most Intense Religious Debate|"The Most Intens
 ### Debate with an Ex-Mormon Baptist — Eternal Life, Grace, and the Bible
 In [[Lets Talk w Hayden Carroll - Ex-Mormon Baptist Says My Theology Is Wrong|"Ex-Mormon Baptist Says My Theology Is WRONG!"]], a repeat critical commenter — [[Mark (Ex-Mormon Baptist)]], a former Latter-day Saint turned Baptist — argues that eternal life is a present possession ([[John 6.47|John 6:47]], "hath everlasting life") that LDS theology defers to a post-resurrection exaltation. Carroll's replies span four fronts: eternal life is used in multiple biblical senses and is affirmed as present in Restoration scripture ([[Eternal Life Is a Present Possession Not Only Future Exaltation]]); the "works-based salvation" charge is answered by grace statements from McConkie, Oaks, and Ballard ([[LDS Salvation Is by Grace Not Earned by Works]]); the critic must justify the standard by which he judges, since his own Bible rests on an admitted Moroni-10-style heart choice ([[The Ex-Mormon Grounds His Bible on the Same Heart-Choice He Rejects in Moroni 10]]); and Carroll closes on offense with his [[Why Doesnt God Only Create the Saved|Creation Dilemma]] against the creedal God.[^20]
 
+### The Creation Dilemma Deployed Against Catholics (Davila Debate)
+Carroll's book *The Creation Dilemma* is the engine behind [[Jacob Hansen]]'s "the Catholic God is evil" argument in the Davila "1 vs. 10 Catholics" debate. The Catholics' Thomist reply — being is convertible with good, existence even in hell beats non-existence, and God is pure act — is captured in [[Existence Even in Hell Is Better Than Nonexistence]].
+
 [^1]: [[Stick of Joseph - Atheism is Unreasonable and Stupid|Stick of Joseph - Atheism is Unreasonable and Stupid]], [00:31]–[01:30],
 https://youtu.be/aqOzROuIAHM
 

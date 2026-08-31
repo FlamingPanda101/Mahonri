@@ -17,6 +17,9 @@ He invoked patronage rhetoric — "how much more illustrious and great is the gl
 ## Witness to Infant Baptism (Council of Carthage)
 [[Trent Horn]] cites Cyprian's council as 3rd-century evidence that infant baptism was already universal — and that the *only* live controversy was whether to delay it to the eighth day (the circumcision analogy of [[Genesis 17.12|Genesis 17:12]]), which the council rejected: "the mercy and grace of God is not to be refused to anyone born of man." That the debate was over *timing*, not *whether*, is itself proof of the norm. See [[Tertullian's Opposition Presupposes an Established Practice]].[^3]
 
+## In the Early-Papacy Debate
+In the Davila "1 vs. 10 Catholics" debate, [[Jacob Hansen]] makes Cyprian his lead witness against early papal jurisdiction, quoting "for none of us bishops sets himself up as a bishop of bishops... each bishop has his own right of judgment" and arguing Cyprian could only have made that argument if his contemporaries regarded the bishops as independent equals. See [[No Bishop Held Universal Jurisdiction in the First Three Centuries]].
+
 ## References
 [^1]: [[Ancient Christians - An Introduction for Latter-day Saints|Ancient Christians (Maxwell Institute, 2022)]], pp. 129-130.
 [^2]: [[Ancient Christians - An Introduction for Latter-day Saints|Ancient Christians (Maxwell Institute, 2022)]], pp. 129-130, 145.

@@ -44,6 +44,9 @@ Origen's misreading is understandable: he was reading the text roughly a century
 ## Reinterpretation of Theopneustos (2 Timothy 3:16)
 [[Dan McClellan]] identifies Origen as the hinge in the history of *theopneustos* — the word rendered "God-breathed/inspired" in [[2 Timothy 3.14-17|2 Timothy 3:16]]. On McClellan's account the term "meant life-giving, not inspired as we know it today; it didn't come to mean that until Origen in the 3rd century CE."[^3] As with his misreading of 2 Maccabees, Origen functions here not as a neutral witness to the first-century sense but as the originator of a later, doctrinally-loaded reinterpretation that became standard. See [[Theopneustos Means Life-Giving Not Infallible]] and [[Theopneustos Was Used for Sandals Ointments and Streams Not Inerrancy]].
 
+## In the Marian Sinlessness Debate
+In the Davila "1 vs. 10 Catholics" debate, [[Jacob Hansen]] cites Origen as an early witness that Mary was *not* held sinless — reading Simeon's "a sword shall pierce thy own soul" (Luke 2:35) as the sword of *unbelief*, i.e. Mary was "scandalized" and fell short at the crucifixion. The Catholics counter that Origen "isn't a church father" (later anathematized) and is an atypical, dissenting voice. See [[Marian Sinlessness Is a Later Development Not Apostolic]].
+
 ## Key Topics
 
 - [[2 Maccabees 7.28 Does Not Teach Creation Ex Nihilo]]

@@ -95,9 +95,18 @@ On [[Brian Davila]]'s channel *The Way*, Hansen debated the Reformed evangelist 
 - [[Can a True Believer Fall Away]]
 - [[Kimball vs McConkie - Does LDS Grace Teaching Contradict Itself]]
 
+## 1 Mormon vs. 10 Catholics (Debate on The Way)
+
+On [[Brian Davila]]'s channel *The Way*, Hansen took on ten Catholic apologists across six sequential claims, arguing throughout "as a historian" who brackets his LDS commitments. He argued that (1) Catholic Marian dogma (sinlessness / Immaculate Conception) is not apostolic, (2) there was no pope with universal jurisdiction in the first three centuries, (3) the creedal/Catholic God is "evil" via [[Hayden Carroll]]'s creation dilemma, (4) the Book of Mormon brings people closer to Christ, (5) Joseph Smith's teachings about God do not contradict the Bible, and (6) Catholics cannot coherently claim God became man. See:
+- [[Marian Sinlessness Is a Later Development Not Apostolic]] and the Catholic reply [[Mary as the New Eve and Full of Grace - The Catholic Marian Case]]
+- [[No Bishop Held Universal Jurisdiction in the First Three Centuries]] and [[Irenaeus's Preeminent Authority Means Prominence Not Jurisdiction]]
+- [[Existence Even in Hell Is Better Than Nonexistence]] (the Catholic rebuttal to his creation dilemma)
+- [[Christ Suffered in His Humanity Not His Divinity - The Chalcedonian Reply]] (the Catholic rebuttal to his two-natures syllogism)
+
 ## Key Sources
 
 - [[The Way with Brian Davila - Protestant vs Mormon Who Goes to Heaven]] (salvation debate vs. Ryan, a Reformed Protestant)
+- [[The Way with Brian Davila - 1 Mormon vs 10 Catholics]] (six-claim debate vs. ten Catholics: Mary, the papacy, the problem of evil, the incarnation)
 - [[Ward Radio - The Great Apostasy DEFINITELY Happened]]
 - [[Ward Radio - The Great Replacement of Men Is Happening]]
 - [[Ward Radio - Responding to Cliffe Knechtles Mormon Comments on PBD Podcast]]
