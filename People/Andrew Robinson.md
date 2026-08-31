@@ -7,8 +7,7 @@ tags:
   - role/educator
 authority: C
 authority_reason: >-
-  Latter-day Saint religious educator; son of and collaborator with therapist [[Jeff
-  Robinson]], with whom he co-authored a paper on same-sex attraction. Speaks here as a
+  Latter-day Saint religious educator; son of and collaborator with therapist [[Jeff Robinson]], with whom he co-authored a paper on same-sex attraction. Speaks here as a
   classroom teacher applying his father's clinical framework, not as an independent
   researcher. Cited at tier C (informed lay/educator voice). Authority tiers are set on
   Source notes.
@@ -33,14 +32,12 @@ out and that leaves room for faith to grow."[^1]
 ### Identifying assumptions ("pull the weeds")
 Andrew's pedagogical method — surface the unexamined assumption, question it, and let faith
 grow in the cleared ground — is the panel's connective tissue, applied especially to the
-"born gay" premise. See [[The Born-Gay Assumption Is Unsupported by Science and LDS
-Prophets]].[^1]
+"born gay" premise. See [[The Born-Gay Assumption Is Unsupported by Science and LDS Prophets]].[^1]
 
 ### Labels and the prophetic voice
 He credits President [[Russell M. Nelson]] on labels and quotes President [[Dallin H. Oaks]]
 (homosexuality is "an adjective... not a noun"), arguing the primary labels — son of God,
-disciple, child of the covenant — must stay first. See [[Adopting the Gay Label Hinders
-Discipleship]].[^2]
+disciple, child of the covenant — must stay first. See [[Adopting the Gay Label Hinders Discipleship]].[^2]
 
 ### "Pride is not the antidote to shame"
 With [[Timber Harvard|Timber Harward]] he wrote an article, "[gay] pride is not the antidote
@@ -50,8 +47,7 @@ of love, and reading [[Isaiah 5.20|Isaiah 5:20]] as diagnosing a war over defini
 
 ### Pastoral response to disclosure
 He counsels leaders and teachers to question the born-gay assumption gently rather than
-answer "why" — but only after hearing the person. See [[Listen Before Correcting When
-Someone Discloses Same-Sex Attraction]].[^4]
+answer "why" — but only after hearing the person. See [[Listen Before Correcting When Someone Discloses Same-Sex Attraction]].[^4]
 
 ## References
 [^1]: [[Lets Talk w Hayden Carroll - Rethinking Same-Sex Attraction|Carroll — Rethinking SSA]], [10:01], https://youtu.be/PnHPRkY8BSc

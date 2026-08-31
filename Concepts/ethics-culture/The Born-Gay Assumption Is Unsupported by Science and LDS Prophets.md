@@ -95,8 +95,7 @@ depend on the *empirical* question either way; it depends on the label critique 
 ## LDS Connection
 This note is the assumption-audit at the heart of the panel's method ("pull the weeds so
 faith can grow"): rather than answer *why* God would make someone gay, question whether
-He did. It pairs with [[Same-Sex Attraction Is Something a Person Learns to Do Not an
-Innate Identity]] (the positive reframe) and defends a "fair God" against a theodicy the
+He did. It pairs with [[Same-Sex Attraction Is Something a Person Learns to Do Not an Innate Identity]] (the positive reframe) and defends a "fair God" against a theodicy the
 born-gay premise would otherwise create. Tier C, Andrew (educator) and Robinson
 (clinician); the scientific counter-case is the stronger *empirical* voice and is carried
 in full above.

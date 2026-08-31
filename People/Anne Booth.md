@@ -22,8 +22,7 @@ Relating her experience to [[Parley P. Pratt]], Booth described "a vision of the
 in which the waiting dead were visited by "a man from America" with "a mustache and dark features" who
 "just arrived to teach all these people who were waiting for him." She later identified the figure as
 the martyred apostle [[David W. Patten]]. [[Jonah Barnes]] uses the account as a Restoration instance of
-a slain apostle carrying his ministry into the spirit world. See [[The Apostles Were Martyred to Become
-Missionaries in the Spirit World]].[^1]
+a slain apostle carrying his ministry into the spirit world. See [[The Apostles Were Martyred to Become Missionaries in the Spirit World]].[^1]
 
 ## References
 [^1]: [[Latter Daily Saints - Seminary Enrollment and Baptism for the Dead|Latter Daily Saints — Ep. 186]], [35:30], https://youtu.be/CJ2oB28r8NM

@@ -37,8 +37,7 @@ kind are now widely discouraged or restricted.
 experience from the reparative-therapy template: the father-wound story "was never my
 story," even though he can see how other early factors (peer conflict, isolation) may have
 been sexualized for him.[^1] Nicolosi's theory thus functions in the vault as the
-best-known form of the developmental account that [[Robinson's Developmental Account of
-Same-Sex Attraction]] both partly resembles and explicitly distances itself from — a
+best-known form of the developmental account that [[Robinson's Developmental Account of Same-Sex Attraction]] both partly resembles and explicitly distances itself from — a
 distinction drawn out in that note's steelman.
 
 ## References

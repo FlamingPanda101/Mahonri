@@ -90,10 +90,8 @@ it overreaches and is where the objection lands. The note keeps both readings vi
 purpose.
 
 ## LDS Connection
-This is the operational tool beneath the label critique in [[Adopting the Gay Label Hinders
-Discipleship]]: if non-sexual traits are not evidence of being gay, the totalizing category
-loses most of its "proof." It also connects to [[Overfocus and Overinterpretation Entrench
-Same-Sex Attraction]] — over-interpretation is the mechanism that turns the non-sexual into
+This is the operational tool beneath the label critique in [[Adopting the Gay Label Hinders Discipleship]]: if non-sexual traits are not evidence of being gay, the totalizing category
+loses most of its "proof." It also connects to [[Overfocus and Overinterpretation Entrench Same-Sex Attraction]] — over-interpretation is the mechanism that turns the non-sexual into
 the sexual. Tier C, with Robinson's clinical framing leaning B and the professional-
 consensus caution carried in the steelman.
 

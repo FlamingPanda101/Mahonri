@@ -28,8 +28,7 @@ typically forms in the men he has counseled — his answer to his clients' near-
 childhood **traits**, then two common **onset patterns**. He is careful to frame this as a
 predisposition and a developmental narrative — the "how did it happen" — explicitly *not* a
 proven cause, and not deterministic.[^1][^2] (The maintenance side — the five factors that
-"lock it in" — is treated in [[Overfocus and Overinterpretation Entrench Same-Sex
-Attraction]].)
+"lock it in" — is treated in [[Overfocus and Overinterpretation Entrench Same-Sex Attraction]].)
 
 ## Supporting Evidence (as presented)
 
@@ -94,8 +93,7 @@ Robinson and Timber both frame it, it is more defensible. The distinction matter
 note preserves it.
 
 ## LDS Connection
-This supplies the "how did it happen" content that the reframe in [[Same-Sex Attraction Is
-Something a Person Learns to Do Not an Innate Identity]] gestures at, and it is deliberately
+This supplies the "how did it happen" content that the reframe in [[Same-Sex Attraction Is Something a Person Learns to Do Not an Innate Identity]] gestures at, and it is deliberately
 paired with [[The Born-Gay Assumption Is Unsupported by Science and LDS Prophets]]:
 predisposition and development, not genetic determination. Its therapeutic value, per the
 panel, is closure and reduced shame — *not* a promise of change, a limit Timber states

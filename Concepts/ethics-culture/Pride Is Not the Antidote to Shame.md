@@ -88,8 +88,7 @@ church to change" as the only horizon. The panel members repeatedly disclaim any
 shame those who struggle (Timber: "I definitely don't want to shame anyone... struggling
 with sexuality"). The genuinely contested premise — that a flourishing life requires
 *not* adopting that identity — is argued elsewhere in the vault, not assumed away here;
-compare the empirical counter-case in [[Mixed-Orientation Marriages and LGBTQ Latter-day
-Saints Show Higher Wellbeing]].
+compare the empirical counter-case in [[Mixed-Orientation Marriages and LGBTQ Latter-day Saints Show Higher Wellbeing]].
 
 ## LDS Connection
 This is the pastoral payoff of the whole panel: the label critique
@@ -97,8 +96,7 @@ This is the pastoral payoff of the whole panel: the label critique
 ([[Overfocus and Overinterpretation Entrench Same-Sex Attraction]]) converge on a claim
 about *shame* — that the covenant path, framed as humility and charity rather than pride,
 offers a relief that also answers "how do I live a life?" It is the doctrinal counterpart to
-the empirical wellbeing claim in [[Mixed-Orientation Marriages and LGBTQ Latter-day Saints
-Show Higher Wellbeing]]. Tier C; the suicidality/acceptance counter-evidence is carried in
+the empirical wellbeing claim in [[Mixed-Orientation Marriages and LGBTQ Latter-day Saints Show Higher Wellbeing]]. Tier C; the suicidality/acceptance counter-evidence is carried in
 the steelman.
 
 ## References

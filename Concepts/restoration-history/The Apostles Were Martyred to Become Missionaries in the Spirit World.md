@@ -34,9 +34,7 @@ among the dead.[^1][^2][^5]
 1. **The doctrinal substrate is solid and independently attested.** Postmortem preaching to the
    "spirits in prison" ([[1 Peter 3.18-20|1 Peter 3:18-20]]), the intermediate state
    ([[Alma 40.11|Alma 40:11]]), and the redemption of the dead ([[D&C 138]]) are established
-   Restoration doctrine with real ancient pedigree — see [[The Descent of Christ to the Underworld
-   Was Universally Attested]] and [[D&C 138 Restores the Harrowing of Hell Recorded in the Gospel of
-   Nicodemus]]. *Evidence rating: Strong (the underlying doctrine); Argument weight: Primary.*[^1]
+   Restoration doctrine with real ancient pedigree — see [[The Descent of Christ to the Underworld Was Universally Attested]] and [[D&C 138 Restores the Harrowing of Hell Recorded in the Gospel of Nicodemus]]. *Evidence rating: Strong (the underlying doctrine); Argument weight: Primary.*[^1]
 2. **David W. Patten's martyrdom is historical.** Patten, an apostle of the early Restoration, was
    mortally wounded leading a rescue at the **Battle of Crooked River** (Missouri, 1838); the account
    has him charging the hill at the front, and dying after telling his wife, "Stay true to your

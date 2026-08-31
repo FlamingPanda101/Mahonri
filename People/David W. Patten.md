@@ -24,8 +24,7 @@ your testimony."[^1]
 [[Jonah Barnes]] cites Patten as a Restoration echo of the ancient pattern in which slain apostles
 continue their ministry among the dead: the Englishwoman [[Anne Booth]] reportedly saw a vision of "a
 man from America" with "a mustache and dark features" arriving to teach the spirits in prison, and later
-identified him as the deceased Patten. See [[The Apostles Were Martyred to Become Missionaries in the
-Spirit World]].[^1]
+identified him as the deceased Patten. See [[The Apostles Were Martyred to Become Missionaries in the Spirit World]].[^1]
 
 ## References
 [^1]: [[Latter Daily Saints - Seminary Enrollment and Baptism for the Dead|Latter Daily Saints — Ep. 186]], [35:01], https://youtu.be/CJ2oB28r8NM

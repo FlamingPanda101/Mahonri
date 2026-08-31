@@ -57,9 +57,7 @@ of God who happens to experience same-sex sexual feelings"); he insists a platon
 toward men "is not homosexual"; he reports that focusing less on it lowered its salience
 without erasing it; and, with [[Andrew Robinson]], he co-wrote "[gay] pride is not the
 antidote to shame." He ran a support group for faithful men experiencing SSA and counsels
-hearing people out before gently pushing back. See [[Adopting the Gay Label Hinders
-Discipleship]], [[A Feeling With No Sexual Content Is Not Homosexual]], [[Overfocus and
-Overinterpretation Entrench Same-Sex Attraction]], [[Pride Is Not the Antidote to Shame]],
+hearing people out before gently pushing back. See [[Adopting the Gay Label Hinders Discipleship]], [[A Feeling With No Sexual Content Is Not Homosexual]], [[Overfocus and Overinterpretation Entrench Same-Sex Attraction]], [[Pride Is Not the Antidote to Shame]],
 and [[Listen Before Correcting When Someone Discloses Same-Sex Attraction]].[^3]
 
 [^1]: [[Stick of Joseph - Atheism is Unreasonable and Stupid|Stick of Joseph - Atheism is Unreasonable and Stupid]], [14:02]–[15:00],

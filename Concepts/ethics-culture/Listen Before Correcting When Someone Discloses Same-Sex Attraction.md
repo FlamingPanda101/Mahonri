@@ -21,8 +21,7 @@ tags:
 
 ## The Claim
 Asked how a lay leader or teacher should respond when a youth confides "I'm gay," the panel
-is unanimous: **the first move is to listen and validate, never to correct.** [[Jeff
-Robinson]] models the opening — gratitude and empathy, an invitation to say more — and says
+is unanimous: **the first move is to listen and validate, never to correct.** [[Jeff Robinson]] models the opening — gratitude and empathy, an invitation to say more — and says
 the one thing you do *not* do is "pull out your research and say, 'you're wrong.'"
 Assumption-questioning and reframing come later, and only inside a relationship of trust;
 [[Timber Harvard|Timber Harward]] adds that once trust exists, it is loving to gently push
@@ -55,8 +54,7 @@ experience where they are," *then* help them find relief in "something better" (
 [[Timber Harvard|Timber Harward]], from running a support group and answering personal
 emails, "tries to just hear their experience" first; but once he understands where someone
 is coming from, "it's okay to push back sometimes in a loving way" — e.g., gently
-questioning whether a trait a man reads as "gay" is actually so (see [[A Feeling With No
-Sexual Content Is Not Homosexual]]).[^2]
+questioning whether a trait a man reads as "gay" is actually so (see [[A Feeling With No Sexual Content Is Not Homosexual]]).[^2]
 > **Evidence rating:** Moderate (lived ministry); **Argument weight:** Secondary.
 
 ## Best Quotes

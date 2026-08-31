@@ -42,8 +42,7 @@ Ward Radio Part 5 lists Benson as one of the LDS leaders the [[We Are the People
 not the antidote to shame," invoke President Benson's classic teaching that pride is
 *enmity* — toward God and toward one's neighbor — making pride "the exact opposite of love."
 On [[Hayden Carroll]]'s panel the point is used to argue that gay pride cannot cure the shame
-many with same-sex attraction carry; only humility and charity can. See [[Pride Is Not the
-Antidote to Shame]].[^4]
+many with same-sex attraction carry; only humility and charity can. See [[Pride Is Not the Antidote to Shame]].[^4]
 
 ## References
 

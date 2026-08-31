@@ -45,22 +45,18 @@ See [[Same-Sex Attraction Is Something a Person Learns to Do Not an Innate Ident
 
 ### The born-gay assumption
 He argues (with Andrew) that "born gay" is an unproven assumption unsupported by science or
-LDS prophets — predisposition is "far different than cause." See [[The Born-Gay Assumption
-Is Unsupported by Science and LDS Prophets]].[^3]
+LDS prophets — predisposition is "far different than cause." See [[The Born-Gay Assumption Is Unsupported by Science and LDS Prophets]].[^3]
 
 ### The label critique and the gravity analogy
 Robinson's gravity analogy — a label *names* a fact without *explaining* it — anchors the
-panel's critique of "gay" as a totalizing identity. See [[Adopting the Gay Label Hinders
-Discipleship]].[^4]
+panel's critique of "gay" as a totalizing identity. See [[Adopting the Gay Label Hinders Discipleship]].[^4]
 
 ### Developmental account and the focus mechanism
 He offers a clinical account of onset (three traits, two patterns) and of entrenchment
-(five factors, driven by overfocus). See [[Robinson's Developmental Account of Same-Sex
-Attraction]] and [[Overfocus and Overinterpretation Entrench Same-Sex Attraction]].[^5]
+(five factors, driven by overfocus). See [[Robinson's Developmental Account of Same-Sex Attraction]] and [[Overfocus and Overinterpretation Entrench Same-Sex Attraction]].[^5]
 
 ### "No sexual content, not homosexual"
-His diagnostic test for separating platonic male feeling from homosexuality. See [[A Feeling
-With No Sexual Content Is Not Homosexual]].[^6]
+His diagnostic test for separating platonic male feeling from homosexuality. See [[A Feeling With No Sexual Content Is Not Homosexual]].[^6]
 
 ### Pastoral counsel: shame, and listening first
 He steelmans the affirming position on shame, argues humility (not pride) is the antidote,
