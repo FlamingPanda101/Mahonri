@@ -13,3 +13,4 @@ tags: [type/scripture, tradition/old-testament, book/genesis, topic/melchizedek,
 - [[Melchizedek Is Yahweh Presiding Over the Temple Feast]]
 - [[The Aaronic-Melchizedek Dualism Maps the Temple's Kings and Priests]]
 - [[The Stick of Joseph - The Ancient Temple and the Sermon on the Mount Part II]]
+- [[Tithing Is Biblically Commanded and the New Testament Raised the Standard]] — Abraham's tithe to Melchizedek as an Old Testament tithing precedent

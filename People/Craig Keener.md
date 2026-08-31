@@ -30,6 +30,7 @@ Keener's research is invoked in the vault's "message-bearing miracles" trilemma:
 
 - [[Message-Bearing Miracles Are a Trilemma for the Pleasant Protestant]] (Concepts)
 - [[The Counsel of Trent - Is Mormonism Demonic]] (Sources)
+- [[Biblical Precedent for Testing Teaching Against Scripture]] (Concepts) — In Philosopher's Garb quotes Keener's *Bible Background Commentary* (Judaism regarded as noble those who "checked everything against the scriptures") to defend reading the noble Bereans of Acts 17:11 as a *sola scriptura* precedent.
 
 ---
 See also: [[People]]

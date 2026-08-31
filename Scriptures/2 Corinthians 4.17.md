@@ -18,6 +18,7 @@ A key soul-making proof-text. In the Freethinking Ministries discussion, the Mol
 ## Used in
 - [[Freethinking Ministries - Can an All-Loving God Create Hell-Bound People (Hayden Carroll)]]
 - [[Soul-Making Theodicy - Hick and Joseph Smith]]
+- [[TRUMP - The Molinist Alternative to TULIP]] — the **P** (perseverance of free saints) of Stratton's TRUMP acronym.
 
 ---
 See also: [[Scriptures]] · [[The Creation Dilemma]]

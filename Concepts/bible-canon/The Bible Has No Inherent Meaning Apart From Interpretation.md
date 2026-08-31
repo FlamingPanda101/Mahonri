@@ -8,6 +8,7 @@ related:
   - "[[Reliability Not Infallibility Standard]]"
 sources:
   - "[[Data Over Dogma - The Verse That Ends Every Argument]]"
+  - "[[Dan McClellan - The Bible Isnt the Word of God]]"
 tags: ["#apologetics/hermeneutics", "#tradition/academic-biblical-studies", "#tradition/lds", "#type/claim", "#topic/hermeneutics", "#topic/slavery"]
 ---
 
@@ -24,6 +25,7 @@ Dan McClellan's recurring thesis, restated here, is that scripture **"has no ind
 3. **Texts are demoted to "non grata."** Passages the community now rejects (he gestures at slavery, other "parts... we don't like") are set aside by "rationalizations... interpretive lenses and hermeneutic maneuvers to decide that we're past it."[^1] *(Evidence rating: Moderate — the phenomenon of selective application is undeniable; Argument weight: Secondary.)*
 4. **The slavery parade case.** "If we're supposed to lean on the Lord and not unto our own understanding, slavery should be a-okay," and abolitionists were "frequently told to trust in the Lord and lean not on their own understanding."[^2] *(Evidence rating: Moderate — historically plausible, asserted without citation; Argument weight: Secondary.)*
 5. **Even revelation must be interpreted.** Beecher's corollary: "even if the spirit told me something, I would still have to lean on my own understanding to know what the heck it means" — there is no understanding-free reception of any message.[^4] *(Evidence rating: Strong on the mediation point; Argument weight: Primary.)*
+6. **Restated as an authority claim (2026).** In his "word of God" video McClellan sharpens the same thesis into a claim about *authority*: "the Bible does not speak. It is a text. It must be interpreted in order to have any meaning," so "it's always a community or a tradition that is the final authority."[^5] He argues even the pastor he answers proves it — telling new believers to read for themselves *and then* let other Christians tell them what it means. See [[Knowing Scripture Is the Word of God Requires an Authority Outside Scripture]] and [[Believers Already Place Themselves Above Scripture]]. *(Evidence rating: Strong on the narrow point that a text requires an interpreter; the "no inherent meaning" conclusion remains overstated per the response below; Argument weight: Primary.)*
 
 ## Best Quotes
 > "It has no independent inherent meaning of its own. Like just the meaning itself is something that we create in negotiation with it, and we frequently overrule it."[^1]
@@ -45,6 +47,7 @@ Latter-day Saints have a built-in, non-arbitrary answer to "who gets to overrule
 [^2]: [[Data Over Dogma - The Verse That Ends Every Argument|Data Over Dogma — Verse That Ends Every Argument]], [06:30], https://youtu.be/VmoIWsXG2nA
 [^3]: [[Data Over Dogma - The Verse That Ends Every Argument|Data Over Dogma — Verse That Ends Every Argument]], [05:30], https://youtu.be/VmoIWsXG2nA
 [^4]: [[Data Over Dogma - The Verse That Ends Every Argument|Data Over Dogma — Verse That Ends Every Argument]], [14:02], https://youtu.be/VmoIWsXG2nA
+[^5]: [[Dan McClellan - The Bible Isnt the Word of God|McClellan — Bible Isnt the Word of God]], [02:00], https://youtu.be/Z6QxUMPlDow
 
 ---
 See also: [[Concepts]] · [[Proverbs 3.5-6|Proverbs 3:5-6]] · [[Abolition Spread as Pentecostal Fire from Spirit-Read Scripture]] · [[Dan McClellan]] · [[Data Over Dogma - The Verse That Ends Every Argument]]

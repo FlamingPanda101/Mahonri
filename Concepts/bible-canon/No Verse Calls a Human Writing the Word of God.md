@@ -5,8 +5,10 @@ related:
   - "[[Word of God Means Prophecy Preaching or Christ Not Scripture]]"
   - "[[Knowing Scripture Is the Word of God Requires an Authority Outside Scripture]]"
   - "[[The Word of God Fallacy - The Load-Bearing Premise Is Unproven]]"
+  - "[[Jesus Treated Scripture as Authoritative Without Calling It the Word of God]]"
 sources:
   - "[[Council of Trent - The Word of God Fallacy]]"
+  - "[[Dan McClellan - The Bible Isnt the Word of God]]"
 tags: [apologetics, word-of-god, sola-scriptura, biblical-theology, greek, tradition/catholic]
 #type/claim
 ---
@@ -30,6 +32,9 @@ The phrase also denotes specific things God *spoke* in salvation history (e.g. t
 ### 4. The strongest counter-data are reread, not ignored — rate: contested
 **Steelman of the Protestant:** Mark 7, Matthew 15, John 10, Romans 3:2, and Hebrews 4:12 are routinely cited as Scripture being called "the word of God." Horn does not dismiss these; he argues each refers to oral commandment, prophecy, or Christ — see [[Mark 7 and Matthew 15 Concern Oral Commandments Not Scripture]], [[Romans 3.2 Says Oracles Logia Not Words Logos]], [[John 10.35 Cannot Be Broken Means Cannot Be Nullified]], and [[Hebrews 4.12 Word of God Is Christ or Gods Commands Not Scripture]]. He also reports that colleague [[Jimmy Akin]] independently and "at least tentatively" reached the same conclusion: Scripture never unambiguously calls human writings the word of God, though it unambiguously calls human *speech* the word of God.[^5] The honest weakness Horn concedes is that this is an argument partly from the *absence* of an unambiguous verse, which is strong only insofar as the surveyed counter-texts genuinely fail — the contested exegesis carries the weight.
 
+### 5. Independent corroboration from non-confessional scholarship — rate: strong
+The same lexical result is reached from the opposite direction by the academic biblical scholar [[Dan McClellan]], who argues the phrase "word of God" "is always used either to refer to Jesus or to the message that God shares independent of the medium... but never specifically to the textual transmission itself."[^6] That a Catholic apologist (Horn) and a non-confessional historical-critical scholar (McClellan) converge on the distributional claim strengthens it, since neither is arguing from the other's dogmatic interests. **Note the divergent payloads, however:** Horn uses the datum to argue Scripture is *part of* the word of God alongside tradition ([[Dei Verbum]]); McClellan uses it to deny the text is "the word of God" in the inerrantist sense at all and to conclude that an interpreting tradition is the real authority — see [[Jesus Treated Scripture as Authoritative Without Calling It the Word of God]] and [[The Bible Has No Inherent Meaning Apart From Interpretation]].
+
 ## Best Quotes
 > "There is no passage of scripture that says any human writings are the word of God, even though scripture calls other human realities the word of God."[^1]
 
@@ -45,6 +50,7 @@ The phrase also denotes specific things God *spoke* in salvation history (e.g. t
 [^3]: [[Council of Trent - The Word of God Fallacy|Trent Horn - The Protestant Word of God Fallacy]], [03:30], https://youtu.be/tr_NwgndUFk
 [^4]: [[Council of Trent - The Word of God Fallacy|Trent Horn - The Protestant Word of God Fallacy]], [04:01], https://youtu.be/tr_NwgndUFk
 [^5]: [[Council of Trent - The Word of God Fallacy|Trent Horn - The Protestant Word of God Fallacy]], [14:01], https://youtu.be/tr_NwgndUFk
+[^6]: [[Dan McClellan - The Bible Isnt the Word of God|McClellan — Bible Isnt the Word of God]], [00:30], https://youtu.be/Z6QxUMPlDow
 
 ---
-See also: [[Concepts]] · [[Trent Horn]] · [[Jimmy Akin]] · [[Council of Trent - The Word of God Fallacy]]
+See also: [[Concepts]] · [[Trent Horn]] · [[Jimmy Akin]] · [[Council of Trent - The Word of God Fallacy]] · [[Dan McClellan]]

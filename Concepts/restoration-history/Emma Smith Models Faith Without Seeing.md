@@ -45,7 +45,7 @@ The response distinguishes *no sight* from *no evidence*. Emma's warrant was not
 [^2]: [[Lets Get Real with Stephen Jones - Emma Smith|Bradley/Jones — Emma Smith]], [40:00], https://youtu.be/MRkaz5je8GI
 [^3]: [[Lets Get Real with Stephen Jones - Emma Smith|Bradley/Jones — Emma Smith]], [41:00], https://youtu.be/MRkaz5je8GI
 [^4]: [[Lets Get Real with Stephen Jones - Emma Smith|Bradley/Jones — Emma Smith]], [44:03], https://youtu.be/MRkaz5je8GI
-[^5]: [[Lets Get Real with Stephen Jones - Emma Smith|Bradley/Jones — Emma Smith]], [45:31], https://youtu.be/MRkaz5je8GI
+[^5]: [[Lets Get Real with Stephen Jones - Emma Smith|Bradley/Jones — Emma Smith]], [45:00], https://youtu.be/MRkaz5je8GI
 [^6]: [[Lets Get Real with Stephen Jones - Emma Smith|Bradley/Jones — Emma Smith]], [45:31], https://youtu.be/MRkaz5je8GI
 
 ---

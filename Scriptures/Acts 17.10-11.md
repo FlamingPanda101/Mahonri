@@ -16,6 +16,7 @@ Kelly's model text for *sola scriptura* in practice: even an apostle's preaching
 ## Used in
 - [[Sola Scriptura - Scripture Self-Attests Its Authority]]
 - [[Scripture as the Test of Prophets and Revelation]]
+- [[Biblical Precedent for Testing Teaching Against Scripture]] — In Philosopher's Garb cites the noble Bereans as the model for *sola scriptura* as veto-power; the counter-reading (the "scriptures" were the already-received OT) is noted above.
 
 ---
 See also: [[Scriptures]] · [[Lets Talk w Hayden Carroll - Is the Bible the Final Authority Debate]]

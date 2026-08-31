@@ -18,6 +18,8 @@ The "holy scriptures" Timothy knew "from a child" are the **Old Testament / Tana
 - [[Authorization - Divine Designation Required for an Infallible Canon]]
 - [[The Canon Question Is Logically Prior to Canon Authority]]
 - [[Inspired vs Infallible vs Ultimate - A Distinction]]
+- [[Jesus Treated Scripture as Authoritative Without Calling It the Word of God]]
+- [[Theopneustos Means Life-Giving Not Infallible]]
 
 ---
 See also: [[Scriptures]] · [[Lets Talk w Hayden Carroll - Is the Bible the Final Authority Debate]]

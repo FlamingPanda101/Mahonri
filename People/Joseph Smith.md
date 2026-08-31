@@ -101,6 +101,9 @@ Per [[Daniel C. Peterson]], a key driver of anti-Brigham sentiment is the desire
 
 Peterson also stresses that Joseph himself was fallible — slow to grasp his own [[D&C 76]] vision (taking ~7–8 years), losing the 116 pages after repeatedly pestering the Lord, and rebuked like Moses — as evidence that [[God Works Through Fallible Prophets]] deliberately, to let humans grow by experience.[^7]
 
+## Emma Smith's Witness of Him
+His wife [[Emma Smith]] — who knew him longer and more intimately than anyone through his prophetic career — is among his most significant witnesses. Per [[Don Bradley]], she was Joseph's first Book of Mormon scribe and testified that the unlearned Joseph dictated a text beyond his ability "hour after hour... beginning where he left off" ([[Emma Smith Was Joseph's First Book of Mormon Scribe]]). Even while resisting and later denying polygamy, she never questioned his sincerity or prophetic calling — which is why enlisting her against him ([[Critics Turn Emma Smith Into an Argument Not a Person]]) contradicts her own lifelong testimony.[^8]
+
 [^1]: [[Benjamin Park - Did Joseph Smith Teach Men Can Become God|Benjamin Park - Did Joseph Smith Teach Men Can Become God?]], [02:31-03:00], https://youtu.be/sKQeEuCEgyY
 [^6]: [[Lets Get Real - Why Its Easier to Flatten Brigham Young|Let's Get Real - Why It's Easier to Flatten Brigham Young]], [13:30]–[15:31], https://youtu.be/dssLIsMniWU
 [^7]: [[Lets Get Real - Why Its Easier to Flatten Brigham Young|Let's Get Real - Why It's Easier to Flatten Brigham Young]], [72:31]–[73:31], https://youtu.be/dssLIsMniWU
@@ -108,3 +111,4 @@ Peterson also stresses that Joseph himself was fallible — slow to grasp his ow
 [^3]: [[Benjamin Park - Did Joseph Smith Teach Men Can Become God|Benjamin Park - Did Joseph Smith Teach Men Can Become God?]], [00:00-00:32], https://youtu.be/sKQeEuCEgyY
 [^4]: [[Benjamin Park - Did Joseph Smith Teach Men Can Become God|Benjamin Park - Did Joseph Smith Teach Men Can Become God?]], [15:43], https://youtu.be/sKQeEuCEgyY
 [^5]: [[Benjamin Park - Did Joseph Smith Teach Men Can Become God|Benjamin Park - Did Joseph Smith Teach Men Can Become God?]], [00:32], https://youtu.be/sKQeEuCEgyY
+[^8]: [[Lets Get Real with Stephen Jones - Emma Smith|Bradley/Jones — Emma Smith]], [34:01]–[84:32], https://youtu.be/MRkaz5je8GI

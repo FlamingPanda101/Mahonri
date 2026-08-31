@@ -16,6 +16,7 @@ tags: [type/scripture, tradition/lds, book/doctrine-and-covenants, topic/spiritu
 
 ## Used in
 - [[Spiritual Gifts Differ - Not Everyone Receives the Burning]]
+- [[Emma Smith Models Faith Without Seeing]] — Emma belongs to the "believe on their words" company, faithful without a dramatic witness
 
 ## References
 [^1]: [[Blake Ostler - The Heart as the Basis of Religious Knowledge|Blake Ostler - The Heart as the Basis of Religious Knowledge]], [40:30]–[41:31], https://youtu.be/Og-ah5UIeHY

@@ -37,9 +37,14 @@ primary ones — son of God, disciple of Christ, child of the covenant — "that
 to go sideways." The panel treats this counsel as central to helping members who experience
 same-sex attraction. See [[Adopting the Gay Label Hinders Discipleship]]. [^5]
 
+## Tithing and the Church's Finances
+Nelson is quoted in [[Thoughtful Faith - Tucker Carlson Misled on Tithing|this Thoughtful Faith source]] teaching that "the law of tithing... is not a tax. It is a voluntary offering"[^6] — the anchor for the argument that tithing is a command for spiritual formation, not a payment for entry to the celestial kingdom (see [[Tithing Is a Command for Spiritual Formation Not a Celestial Toll]]). He is also the video's prime counter-example to the "leaders are in it for the money" charge: he "left his lucrative career as a world-renowned heart surgeon" for a ~$120,000 living allowance "in a job that you can never retire from," while "voluntarily paying church employees double what he gets" as a living allowance.[^7] See [[An Excommunicated Historian Found LDS Finances Faith-Promoting]].
+
 ---
 [^1]: [[Informed Saints - The Surprising REAL Reason People Are Leaving The Church|Informed Saints - Why People Are Leaving The Church]], [38:31]–[39:32], https://youtu.be/7IMZGScnEok
 [^2]: [[Ward Radio - The Fever Breaks|WARD RADIO - The Fever Breaks]], [19:00]–[19:30], https://youtu.be/2UoN5ORSN20
 [^3]: [[Ward Radio - The LDS Spotlight Scandal Part 5|WARD RADIO - The LDS Spotlight Scandal? (Part 5)]], [03:00]–[14:00], https://youtu.be/AgS48e3fTCc
 [^4]: [[Ward Radio - The LDS Spotlight Scandal Part 6|WARD RADIO - The LDS Spotlight Scandal? (Part 6)]], [05:30]–[07:00], https://youtu.be/MFGNeNhl65s
 [^5]: [[Lets Talk w Hayden Carroll - Rethinking Same-Sex Attraction|Carroll — Rethinking SSA]], [24:31], https://youtu.be/PnHPRkY8BSc
+[^6]: [[Thoughtful Faith - Tucker Carlson Misled on Tithing|Thoughtful Faith — Carlson on Tithing]], [04:30], https://youtu.be/_dAJyBFU37M
+[^7]: [[Thoughtful Faith - Tucker Carlson Misled on Tithing|Thoughtful Faith — Carlson on Tithing]], [18:30], https://youtu.be/_dAJyBFU37M

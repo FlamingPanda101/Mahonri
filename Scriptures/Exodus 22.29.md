@@ -17,6 +17,7 @@ tags: [type/scripture, testament/old, topic/human-sacrifice, topic/firstborn]
 - [[Surviving Traces of Human Sacrifice in the Hebrew Bible]]
 - [[The Narrative Reading of Scripture vs Proof-Texting]]
 - [[Christianity's Attachment to Judaism Undermines the Thesis]]
+- [[Believers Already Place Themselves Above Scripture]]
 
 ---
 See also: [[Scriptures]]

@@ -89,6 +89,14 @@ On a Ward Radio panel hosted by [[Cardon Ellis]], Carroll teamed with [[Jacob Ha
 ### Rethinking Same-Sex Attraction Panel (with Dr. Jeff Robinson)
 Carroll hosts a Pride-Month panel with therapist [[Jeff Robinson]], educator [[Andrew Robinson]], and [[Timber Harvard|Timber Harward]], applying his signature assumption-questioning method to same-sex attraction: he presses the group toward the "most fair" framing that the ultimate cause is unknown, draws out the label critique, and steers toward pastoral application. See [[Same-Sex Attraction Is Something a Person Learns to Do Not an Innate Identity]], [[Adopting the Gay Label Hinders Discipleship]], and [[Pride Is Not the Antidote to Shame]].[^13]
 
+### Debate with a Reformed Pastor — Salvation, God, Hell, and the Canon
+In [[Lets Talk w Hayden Carroll - Most Intense Religious Debate|"The Most Intense Religious Debate You've Ever Seen"]], a ~3-hour in-person dialogue with [[Greg (Collierville Pastor)]] (a Reformed/compatibilist evangelical pastor), Carroll defends the full Latter-day Saint package across five fronts:
+- **Salvation as allegiance.** Faith (*pistis*) is allegiance, not bare assent; baptism expresses faith but does not save. See [[Faith Is Allegiance to Christ Not Mere Mental Assent]].[^15]
+- **Free-will theism.** God has genuine free will and so *can* sin but freely never does (which, he argues, preserves Him as the moral standard and makes His goodness praiseworthy), and a god "can cease to be God." See [[God Can Sin But Freely Chooses Not To (LDS Free-Will Theism)]].[^16]
+- **Anti-Calvinism.** His signature rejoinder: if God unconditionally regenerates the elect, the debate is meaningless and "why didn't you regenerate me?" stumps God, making the Calvinist God "evil." See [[The Regeneration Rejoinder - Calvinist Evangelism Is Self-Defeating]].[^17]
+- **Canon.** He renews the [[Authorization - Divine Designation Required for an Infallible Canon|authorization]] challenge against Greg's coined "sola words of the covenant," pressing R.C. Sproul's "fallible list of infallible books." See [[Sola Words of the Covenant - Redemption Then Covenant Writings]].[^18]
+- **Book of Mormon.** He answers Greg's Nephite-temple objection with divine authorization. See [[Nephite Temple and Priesthood Outside the Levitical Line]].[^19]
+
 [^1]: [[Stick of Joseph - Atheism is Unreasonable and Stupid|Stick of Joseph - Atheism is Unreasonable and Stupid]], [00:31]–[01:30],
 https://youtu.be/aqOzROuIAHM
 
@@ -121,6 +129,11 @@ https://youtu.be/aqOzROuIAHM
 
 [^13]: [[Lets Talk w Hayden Carroll - Rethinking Same-Sex Attraction|Carroll — Rethinking SSA]], [10:31], https://youtu.be/PnHPRkY8BSc
 [^14]: [[Lets Talk w Hayden Carroll - Does the Bible Teach Sola Scriptura Debate|Carroll — Sola Scriptura Debate]], [25:32], https://youtu.be/JVlHP-Tq74A
+[^15]: [[Lets Talk w Hayden Carroll - Most Intense Religious Debate|Carroll — Most Intense Debate]], [20:00], https://youtu.be/eRQh-x-MSmA
+[^16]: [[Lets Talk w Hayden Carroll - Most Intense Religious Debate|Carroll — Most Intense Debate]], [41:30], https://youtu.be/eRQh-x-MSmA
+[^17]: [[Lets Talk w Hayden Carroll - Most Intense Religious Debate|Carroll — Most Intense Debate]], [87:00], https://youtu.be/eRQh-x-MSmA
+[^18]: [[Lets Talk w Hayden Carroll - Most Intense Religious Debate|Carroll — Most Intense Debate]], [128:30], https://youtu.be/eRQh-x-MSmA
+[^19]: [[Lets Talk w Hayden Carroll - Most Intense Religious Debate|Carroll — Most Intense Debate]], [130:30], https://youtu.be/eRQh-x-MSmA
 
 ---
-See also: [[People]] · [[Quinn Fryberg]] · [[Stick of Joseph]] · [[Cliff Knechtel]] · [[Jacob Hansen]] · [[Ward Radio - The Top 5 Questions Atheists CANNOT Answer]] · [[The Stick of Joseph - Biblical Evidence That Jesus and Satan Are Brothers]] · [[Lets Talk w Hayden Carroll - Rethinking Same-Sex Attraction]] · [[Lets Talk w Hayden Carroll - Does the Bible Teach Sola Scriptura Debate]]
+See also: [[People]] · [[Greg (Collierville Pastor)]] · [[Quinn Fryberg]] · [[Stick of Joseph]] · [[Cliff Knechtel]] · [[Jacob Hansen]] · [[Ward Radio - The Top 5 Questions Atheists CANNOT Answer]] · [[The Stick of Joseph - Biblical Evidence That Jesus and Satan Are Brothers]] · [[Lets Talk w Hayden Carroll - Most Intense Religious Debate]]

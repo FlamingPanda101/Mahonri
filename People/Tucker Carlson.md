@@ -13,6 +13,9 @@ Popular political commentator who hosted the ~2.5-hour interview (with guest [[N
 - **The "forced tithing" assumption:** Carlson assumes members must pay tithing to remain in good standing; the hosts rebut him directly — "You're dead wrong, Tucker" — explaining the temple-recommend question asks whether one is a "full tithe payer" (which can be true at zero dollars) and that no bank statements are checked.[^2]
 - **Treated as the megaphone, not the originator:** The hosts note the segment, on a video with 1.4 million views, will "definitely not... contribute to people's positive opinions about the church," and they find it "deliciously ironic" that Carlson criticizes leaders "like they're all living high on the hog."[^3][^4] See [[Conflating the Church With Prosperity-Gospel Grifters]].
 
+## Amplifying the "Tithing Isn't Scriptural" and "Hoarding" Claims (Thoughtful Faith response)
+In a related interview clip, Carlson hosts [[Nathan Apffel]] as he argues that tithing "is not scriptural" and that the LDS Church "hoards" money it could live off "in perpetuity." Carlson prompts and escalates the claims rather than originating them — "So where does the notion come from?"[^5] The [[Thoughtful Faith - Tucker Carlson Misled on Tithing|Thoughtful Faith response]] by [[Jacob Hansen]] names Carlson directly in its opening line as "seeking answers... from people who have no idea what they're talking about," then rebuts the claims from scripture and from [[D. Michael Quinn]]'s financial history.[^6] See [[Tithing Is Biblically Commanded and the New Testament Raised the Standard]], [[A Large Reserve Fund Is Prudent Stewardship Not Hoarding]], and [[An Excommunicated Historian Found LDS Finances Faith-Promoting]].
+
 ## Source
 - [[Latter Daily Saints - The Mormon Church Profits from War Claim Ep 109]]
 
@@ -21,6 +24,8 @@ Popular political commentator who hosted the ~2.5-hour interview (with guest [[N
 [^2]: [[Latter Daily Saints - The Mormon Church Profits from War Claim Ep 109|Latter Daily Saints — "Profits from War"]], [17:30], https://youtu.be/vHmHmrgyBao
 [^3]: [[Latter Daily Saints - The Mormon Church Profits from War Claim Ep 109|Latter Daily Saints — "Profits from War"]], [46:30], https://youtu.be/vHmHmrgyBao
 [^4]: [[Latter Daily Saints - The Mormon Church Profits from War Claim Ep 109|Latter Daily Saints — "Profits from War"]], [21:01], https://youtu.be/vHmHmrgyBao
+[^5]: [[Thoughtful Faith - Tucker Carlson Misled on Tithing|Thoughtful Faith — Carlson on Tithing]], [00:30], https://youtu.be/_dAJyBFU37M
+[^6]: [[Thoughtful Faith - Tucker Carlson Misled on Tithing|Thoughtful Faith — Carlson on Tithing]], [00:00], https://youtu.be/_dAJyBFU37M
 
 ---
-See also: [[Nathan Apffel]] · [[Latter Daily Saints - The Mormon Church Profits from War Claim Ep 109]]
+See also: [[Nathan Apffel]] · [[Latter Daily Saints - The Mormon Church Profits from War Claim Ep 109]] · [[Thoughtful Faith - Tucker Carlson Misled on Tithing]]

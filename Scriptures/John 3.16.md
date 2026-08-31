@@ -17,6 +17,7 @@ The verse most people reach for when asked to "summarize the gospel in one Bible
 ## Used in
 - [[The Gospel Is the Good News of God's Kingdom Not a Doctrinal Formula]]
 - [[Double Imputation Is Not the Gospel]]
+- [[Calvinism Is a Different Gospel - GOSPEL vs ED]] — the **E** ("Everyone who trusts") of Stratton's GOSPEL acronym.
 
 ---
 See also: [[Scriptures]] · [[Definition of Gospel]]

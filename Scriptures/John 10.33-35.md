@@ -15,6 +15,7 @@ A key text in [[Anthony Rogers]]' rebuttal: he argues Jesus here calls *written 
 
 ## Used in
 - [[The Word of God Is Not Confined to the Written Word]]
+- [[Jesus Treated Scripture as Authoritative Without Calling It the Word of God]]
 
 ---
 See also: [[Scriptures]] · [[No Verse Calls a Human Writing the Word of God]]

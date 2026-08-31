@@ -36,7 +36,7 @@ A Protestant philosophy channel's attempt to "raise the bar" on the *sola script
 [^1]: [[In Philosophers Garb - Best Argument for Sola Scriptura|Philosopher's Garb — Best Argument for Sola Scriptura]], [00:30], https://youtu.be/EkrJ5leapjk
 [^2]: [[In Philosophers Garb - Best Argument for Sola Scriptura|Philosopher's Garb — Best Argument for Sola Scriptura]], [01:31], https://youtu.be/EkrJ5leapjk
 [^3]: [[In Philosophers Garb - Best Argument for Sola Scriptura|Philosopher's Garb — Best Argument for Sola Scriptura]], [03:31], https://youtu.be/EkrJ5leapjk
-[^4]: [[In Philosophers Garb - Best Argument for Sola Scriptura|Philosopher's Garb — Best Argument for Sola Scriptura]], [15:44], https://youtu.be/EkrJ5leapjk
+[^4]: [[In Philosophers Garb - Best Argument for Sola Scriptura|Philosopher's Garb — Best Argument for Sola Scriptura]], [16:00], https://youtu.be/EkrJ5leapjk
 [^5]: [[In Philosophers Garb - Best Argument for Sola Scriptura|Philosopher's Garb — Best Argument for Sola Scriptura]], [23:00], https://youtu.be/EkrJ5leapjk
 
 ---

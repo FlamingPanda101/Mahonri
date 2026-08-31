@@ -22,6 +22,7 @@ Galatians is **one undivided letter** whose driving crisis is the **Judaizers** 
 - [[Galatians 1-8 Begs the Question - The Swiss Army Verse]] — [[Keystone]]: deploying this verse begs the question by presupposing the accuser's gospel is correct.
 - [[Galatians 1-8 Latter-day Saints Preach Pauls Gospel]] — LDS affirm Paul's own gospel ([[1 Corinthians 15.1-4|1 Cor 15:1-4]]).
 - [[Scripture as the Test of Prophets and Revelation]] — Kelly cites this in the "Is the Bible the Final Authority?" debate as the scriptural test against any prophet (incl. an angelic visitor) preaching "another gospel."[^debate]
+- [[Biblical Precedent for Testing Teaching Against Scripture]] — In Philosopher's Garb reads "even… an angel from heaven… accursed" as Paul commanding the church to test even an apostle against the received deposit — his biblical warrant for *sola scriptura*.
 
 [^debate]: [[Lets Talk w Hayden Carroll - Is the Bible the Final Authority Debate|Let's Talk w/ Hayden Carroll - Is the Bible the Final Authority?]], [79:30], https://youtu.be/x5EbiJLb8U0
 

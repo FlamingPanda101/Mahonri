@@ -21,4 +21,4 @@ The verse is a standard Protestant boundary-marker against "another gospel." Str
 [^2]: [[Lets Talk w Hayden Carroll - Calvinism Worse Than Mormonism|Carroll — Calvinism Worse Than Mormonism]], [41:01], https://youtu.be/wA8QbVhGyNA
 
 ---
-See also: [[Scriptures]] · [[Definition of Gospel]]
+See also: [[Scriptures]] · [[Calvinism Is a Different Gospel - GOSPEL vs ED]]

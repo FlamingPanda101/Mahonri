@@ -41,6 +41,9 @@ Origen's misreading is understandable: he was reading the text roughly a century
 ## Witness to Infant Baptism as Apostolic (early 3rd c.)
 [[Trent Horn]] cites Origen as a key 3rd-century witness that infant baptism was the universal apostolic norm: "The church has received the tradition from the apostles to give baptism even to little children," because the apostles knew "in everyone was original sin's innate defilement which needed to be washed away." See [[Tertullian's Opposition Presupposes an Established Practice]] and [[Augustine Clarified Infant Baptism He Did Not Invent It]].[^2]
 
+## Reinterpretation of Theopneustos (2 Timothy 3:16)
+[[Dan McClellan]] identifies Origen as the hinge in the history of *theopneustos* — the word rendered "God-breathed/inspired" in [[2 Timothy 3.14-17|2 Timothy 3:16]]. On McClellan's account the term "meant life-giving, not inspired as we know it today; it didn't come to mean that until Origen in the 3rd century CE."[^3] As with his misreading of 2 Maccabees, Origen functions here not as a neutral witness to the first-century sense but as the originator of a later, doctrinally-loaded reinterpretation that became standard. See [[Theopneustos Means Life-Giving Not Infallible]] and [[Theopneustos Was Used for Sandals Ointments and Streams Not Inerrancy]].
+
 ## Key Topics
 
 - [[2 Maccabees 7.28 Does Not Teach Creation Ex Nihilo]]
@@ -50,3 +53,4 @@ Origen's misreading is understandable: he was reading the text roughly a century
 
 [^1]: [[Dan McClellan - Wes Huff Creation Ex Nihilo Response|Dan McClellan - Wes Huff Creation Ex Nihilo Response]], [11:31]-[12:30], https://youtu.be/VxpTLp6jCLI — citing Jonathan Goldstein, Anchor Bible commentary on 2 Maccabees (1984)
 [^2]: [[The Counsel of Trent - A Case for Infant Baptism|The Counsel of Trent - Infant Baptism]], [19:30]–[20:30], https://youtu.be/YyD74bf0gHw
+[^3]: [[Dan McClellan - The Bible Isnt the Word of God|McClellan — Bible Isnt the Word of God]], [04:00], https://youtu.be/Z6QxUMPlDow

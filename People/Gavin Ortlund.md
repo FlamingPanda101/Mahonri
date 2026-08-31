@@ -58,6 +58,9 @@ Ortlund argued the historical evidence favors **credobaptism** (while conceding 
 - [[Augustine Clarified Infant Baptism He Did Not Invent It]]
 - [[Baptismal Regeneration Is the Doctrine Infant Baptism Is the Discipline]]
 
+## Sola Scriptura
+Ortlund's careful definition of *sola scriptura* (Scripture as the only *infallible rule*, not the only authority — see [[The 80 Percent Rule - Sola Scriptura Is Caricatured Into the Excluded Middle]]) is cited approvingly by [[In Philosophers Garb - Best Argument for Sola Scriptura|In Philosopher's Garb]], who notes Ortlund likewise denies that *sola scriptura* means "all doctrine must be taught in scripture." The host's own reformulation goes further, dropping infallibility and canon entirely. See [[Sola Scriptura as the Bibles Veto Power Over Tradition]].
+
 ## Key Sources
 
 - [[Gavin Ortlund - Protestant and Mormon Discuss the Trinity]] (Truth Unites, with Jacob Hansen)

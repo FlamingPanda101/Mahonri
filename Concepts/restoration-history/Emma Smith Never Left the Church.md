@@ -44,7 +44,7 @@ The reply concedes the interpretive layer openly (Bradley calls the providence r
 [^3]: [[Lets Get Real with Stephen Jones - Emma Smith|Bradley/Jones — Emma Smith]], [86:00], https://youtu.be/MRkaz5je8GI
 [^4]: [[Lets Get Real with Stephen Jones - Emma Smith|Bradley/Jones — Emma Smith]], [88:01], https://youtu.be/MRkaz5je8GI
 [^5]: [[Lets Get Real with Stephen Jones - Emma Smith|Bradley/Jones — Emma Smith]], [88:30], https://youtu.be/MRkaz5je8GI
-[^6]: [[Lets Get Real with Stephen Jones - Emma Smith|Bradley/Jones — Emma Smith]], [91:30], https://youtu.be/MRkaz5je8GI
+[^6]: [[Lets Get Real with Stephen Jones - Emma Smith|Bradley/Jones — Emma Smith]], [92:00], https://youtu.be/MRkaz5je8GI
 
 ---
 See also: [[Emma Smith]] · [[Joseph Smith]] · [[Joseph Smith III]] · [[Brigham Young]] · [[Lets Get Real with Stephen Jones - Emma Smith]]

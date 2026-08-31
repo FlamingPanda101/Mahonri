@@ -20,6 +20,9 @@ dates: "c.100 – c.165 CE"
 ## The Apologist Project
 Justin represents the class of "apologists" — educated Christians trying to make the gospel palatable to Greco-Roman intelligentsia by using Greek philosophical categories. This project ultimately drives the systematization that produces the [[Trinity - Historical Development|Trinity]] and [[Consubstantiality]]. Thoughtful Faith presses the point further: the apologists did not merely borrow Greek *terms* but argued the biblical God *was* the philosophers' God — see [[Apologists Claimed the Biblical God Was the Same God as the Greek Philosophers]] and the broader thesis in [[The Deepest Apostasy Was Trading the God of Abraham for the God of Aristotle]].
 
+## Epistemic Privilege on Gospel Authorship
+In [[In Philosophers Garb - Best Argument for Sola Scriptura|In Philosopher's Garb]]'s *sola scriptura* case, Justin Martyr is cited alongside [[Papias]] as an early witness *epistemically privileged on the historical question of who wrote the New Testament documents* — the basis for trusting tradition on authorship without being bound to trust it on later doctrine. See [[The Epistemic Privilege Argument for Sola Scriptura]].
+
 ## Sources
 [^1]: [[Data Over Dogma - Is Jesus God in the Gospel of John?]], [42:33], https://youtu.be/K0kobJi-sLI
 

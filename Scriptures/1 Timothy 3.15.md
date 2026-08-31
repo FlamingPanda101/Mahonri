@@ -16,6 +16,7 @@ A primary Catholic counter-text. [[Trent Horn]] cites it to argue Scripture itse
 ## Used in
 - [[The Early Church Did Not Operate Under Sola Scriptura]]
 - [[The Word of God Is Not Confined to the Written Word]]
+- [[The Epistemic Privilege Argument for Sola Scriptura]] — In Philosopher's Garb reads "pillar and ground of the truth" as the church's *function* (like the ruler of Romans 13), not a guarantee it always teaches infallibly; the Catholic use of the verse is the counter.
 
 ---
 See also: [[Scriptures]] · [[Trent Horn]]

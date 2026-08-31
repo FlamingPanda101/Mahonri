@@ -25,6 +25,7 @@ The section is the LDS scriptural cornerstone for **women's authorized public re
 
 - [[Womanism Is Misnamed Masculinism That Devalues the Feminine]] — counter-evidence that the Restoration valued women's voices independently of secular feminism
 - [[Male and Female Balance Is Required for the Divine Image and Human Flourishing]]
+- [[Emma Smith Models Faith Without Seeing]] — the same revelation's "murmur not because of the things thou hast not seen" and "what I say unto one, I say unto all"
 - People: [[Emma Smith]], [[Eliza R. Snow]]
 
 ---

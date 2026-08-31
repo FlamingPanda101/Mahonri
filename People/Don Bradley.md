@@ -31,8 +31,12 @@ In a second, intensely personal [[Let's Get Real with Stephen Jones - Joseph Smi
 ## On the Ark and the Book of Mormon Repository (The Lost 116 Pages)
 As relayed by [[Rob Kay]] on The Stick of Joseph, Bradley observes in *The Lost 116 Pages* a pointed **inversion** between the Ark of the Covenant and the Nephite record: the Ark was a **gold box containing stone tablets** (the law), whereas the plates were a **stone box** (Moroni's stone repository) **containing gold tablets** (scripture). Kay uses the parallel to support reading *Moroni* as "the place of my ark." See [[Mormon Moroni and Moronihah Encode the Palace and the Ark]].[^2]
 
+## On Emma Smith (E0059)
+In a further [[Lets Get Real with Stephen Jones - Emma Smith|Let's Get Real interview]] devoted to [[Emma Smith]], Bradley treats her "not as a premise for an argument, but as a person." He reconstructs Emma as Joseph's *first* Book of Mormon scribe at the start of the lost book of Lehi ([[Emma Smith Was Joseph's First Book of Mormon Scribe]]), argues the angel required Joseph to marry her to obtain the plates ([[The Angel Required Joseph to Marry Emma to Obtain the Plates]]), and presents her as a model of faith without visionary sight ([[Emma Smith Models Faith Without Seeing]]). Drawing on his two years of full-time research on Joseph Smith and polygamy for [[Brian Hales]], he affirms the historical consensus that Joseph practiced polygamy and reconstructs why Emma later denied it ([[Why Emma Smith Denied Joseph's Polygamy]]), why she never left the church ([[Emma Smith Never Left the Church]]), and why critics who turn her into an argument against Joseph fail on their own terms ([[Critics Turn Emma Smith Into an Argument Not a Person]]).[^3]
+
 ---
-See also: [[People]] · [[Joseph Smith]] · [[Stephen Jones]] · [[Lets Get Real - The Racial Curse in Abraham Isnt What You Think]] · [[Let's Get Real with Stephen Jones - Joseph Smith's Biggest Discovery (Don Bradley E0039)]]
+See also: [[People]] · [[Joseph Smith]] · [[Stephen Jones]] · [[Lets Get Real - The Racial Curse in Abraham Isnt What You Think]] · [[Lets Get Real with Stephen Jones - Emma Smith]]
 
 [^1]: [[Lets Get Real - The Racial Curse in Abraham Isnt What You Think|Let's Get Real - The Racial Curse in Abraham Isn't What You Think]], [27:31]–[28:00], https://youtu.be/sKcw1oy6zcM
 [^2]: [[The Stick of Joseph - Book of Mormon Names Authenticate Ancient Origins|Stick of Joseph — BoM Names (Rob Kay)]], [34:00], https://youtu.be/hL8TPClMWas
+[^3]: [[Lets Get Real with Stephen Jones - Emma Smith|Bradley/Jones — Emma Smith]], [05:31]–[85:00], https://youtu.be/MRkaz5je8GI

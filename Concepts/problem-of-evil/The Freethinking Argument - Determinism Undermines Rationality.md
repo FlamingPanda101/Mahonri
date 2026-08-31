@@ -60,4 +60,4 @@ Klene anticipates the compatibilist reply that we are "free... to do that which 
 [^3]: [[Lets Talk w Hayden Carroll - Calvinism Worse Than Mormonism|Carroll — Calvinism Worse Than Mormonism]], [35:00], https://youtu.be/wA8QbVhGyNA
 
 ---
-See also: [[Concepts]] · [[Libertarian Free Will]] · [[Calvinism]] · [[Lets Talk w Hayden Carroll - Calvinism Worse Than Mormonism]]
+See also: [[Concepts]] · [[Libertarian free will]] · [[Calvinism]] · [[Lets Talk w Hayden Carroll - Calvinism Worse Than Mormonism]]

@@ -4,6 +4,7 @@ related:
   - "[[The SEC Settlement Does Not Prove the Church Hid Its Wealth]]"
   - "[[Biblical Modesty Refers to Wealth Not Sexuality]]"
   - "[[Make the Accuser Define Cult]]"
+  - "[[A Large Reserve Fund Is Prudent Stewardship Not Hoarding]]"
 sources:
   - "[[Ward Radio - 3 Mormon Apologists Ask Them Anything]]"
 tags: [apologetics, topic/apologetics, topic/church-finances, welfare, tradition/lds]

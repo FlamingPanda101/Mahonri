@@ -16,6 +16,7 @@ tags: [type/scripture, testament/new, topic/atonement, topic/grace, topic/love]
 ## Used in
 - [[Omnibenevolence Is Unconditional Grace Not a Contract]]
 - [[Omnibenevolence Flows from the Triune God as Eternal Love]]
+- [[Calvinism Is a Different Gospel - GOSPEL vs ED]] — the **P** ("Paying the price") of Stratton's GOSPEL acronym.
 
 ---
 See also: [[Scriptures]] · [[Lets Talk w Hayden Carroll - Triune God Is Omnibenevolent Debate]]

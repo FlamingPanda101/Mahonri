@@ -15,6 +15,7 @@ A first-century apostolic conflict preserved in the canon: Peter's table-fellows
 - [[Paul vs James and the Judaizer Conflict]]
 - [[Early Christianity Was Plural Not One Perfect Tree]]
 - [[Ward Radio - The Great Apostasy Deep Dive with Mike Day and Dave Butler]]
+- [[Biblical Precedent for Testing Teaching Against Scripture]] — In Philosopher's Garb: if Peter could err and be rebuked, later leaders cannot demand blind submission (the Catholic conduct-vs-doctrine reply is noted there).
 
 ---
 See also: [[Scriptures]] · [[Galatians 5.12|Galatians 5:12]] · [[Acts 15|Acts 15]]

@@ -9,6 +9,7 @@ related:
 sources:
   - "[[Lets Talk - Apologetics Course How to Talk to Protestants and Evangelicals]]"
   - "[[Alex OConnor - There Are Multiple Gods in the Bible Not Just One - Dan McClellan]]"
+  - "[[Lets Talk w Hayden Carroll - Most Intense Religious Debate]]"
 tags: [monolatry, divine-council, dead-sea-scrolls, old-testament, tradition/lds]
 #type/claim
 ---
@@ -27,6 +28,9 @@ This is genuine, mainstream text-critical scholarship. The Masoretic Text of Deu
 
 ### 2. The dating-of-Joseph-Smith point — rate: moderate, rhetorical
 Carroll's "Joseph Smith died in 1844, he didn't know this, isn't that wild?" is a *convergence* argument: an LDS divine-plurality doctrine taught in the 1840s aligns with a manuscript reading recovered a century later.[^2] **Caution:** this is suggestive, not probative. Divine-plurality readings of the OT and Greek mythology were available before 1947; and the convergence shows compatibility, not that Joseph Smith had supernatural foreknowledge. It belongs in the vault's broader [[Convergence of Mainstream Christianity Toward LDS Doctrines]] pattern as corroboration, not proof.
+
+### 2b. Redeployed against a Reformed pastor — rate: same argument, direct clash
+Carroll runs the identical argument in his debate with [[Greg (Collierville Pastor)]]: he cites Deuteronomy 32:8-9 in the Dead Sea Scrolls / Qumran reading, where "the Most High God gives his sons, one of them being Yahweh, the different portions of the earth," to argue Israel was originally **henotheistic** ("they became hard monotheists... they weren't hard monotheists back then") and only *later* consolidated into strict monotheism as God progressively revealed himself.[^7] Greg answers that this "is not the Old Testament view of Yahweh," that Second-Temple and New-Testament Judaism are monotheistic (1 Corinthians 8:6, Deuteronomy 6), and that Yahweh is the personal *name* of the one God while Elohim is the *title* — so a divine-council reading cannot make Yahweh merely one son among many. **Assessment:** the exchange reprises the same strong-early / weaker-as-whole-canon split noted above; Greg's rejoinder is the standard traditionalist move (progressive-revelation monotheism, "sons of God" as the heavenly host, not rival deities).
 
 ### 3. Ties the Trinity to imported philosophy — rate: framing
 Carroll uses Deut 32 (and the Canaanite pantheon — Asherah, Baal, El) to argue the biblical authors were *not* hard monotheists, so the Nicene insistence on hard monotheism (which then forced the Trinity to reconcile it with Christ's deity) reads a later philosophy back into the text.[^3] See [[Subordinationism Was the Early Church View]] and existing [[Trinity Built to Satisfy Greco-Roman Philosophy]], [[Greek Philosophy Overwrites Hebrew Divine Corporeality]].
@@ -47,6 +51,7 @@ Carroll uses Deut 32 (and the Canaanite pantheon — Asherah, Baal, El) to argue
 [^4]: [[Lets Talk - Apologetics Course How to Talk to Protestants and Evangelicals|Apologetics Course]], [74:30]–[75:01], https://youtu.be/L-lxxWjN8D4
 [^5]: [[Lets Talk - Apologetics Course How to Talk to Protestants and Evangelicals|Apologetics Course]], [75:00]–[75:31], https://youtu.be/L-lxxWjN8D4
 [^6]: [[Alex OConnor - There Are Multiple Gods in the Bible Not Just One - Dan McClellan|O'Connor - Multiple Gods (McClellan)]], [40:30]–[44:30], https://youtu.be/HIrW5ic1G1I
+[^7]: [[Lets Talk w Hayden Carroll - Most Intense Religious Debate|Carroll — Most Intense Debate]], [91:00], https://youtu.be/eRQh-x-MSmA
 
 ---
-See also: [[Concepts]] · [[Deuteronomy 32.8-9|Deuteronomy 32:8-9]] · [[Lets Talk - Apologetics Course How to Talk to Protestants and Evangelicals]] · [[Alex OConnor - There Are Multiple Gods in the Bible Not Just One - Dan McClellan]]
+See also: [[Concepts]] · [[Deuteronomy 32.8-9|Deuteronomy 32:8-9]] · [[Lets Talk - Apologetics Course How to Talk to Protestants and Evangelicals]] · [[Alex OConnor - There Are Multiple Gods in the Bible Not Just One - Dan McClellan]] · [[Lets Talk w Hayden Carroll - Most Intense Religious Debate]]
