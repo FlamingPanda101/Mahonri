@@ -15,6 +15,7 @@ tags: [type/scripture, testament/old, topic/covenant, topic/marriage, topic/symb
 
 ## Used in
 - [[Ancient Hebrew Weddings Are a Three-Phase Type of the Temple]]
+- [[Same-Sex Love Can Be Real Yet Not Embody the Eternal Pattern]]
 
 ---
 See also: [[Scriptures]] · [[The Stick of Joseph - The Hidden Hebrew Wedding Ritual and the Temple]] · [[Adam]] · [[Genesis 2.18-19|Genesis 2:18-19]]

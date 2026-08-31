@@ -15,6 +15,7 @@ The verse addresses the act of **marrying** *in the resurrection itself* — not
 
 ## Used in
 - [[Matthew 22-30 - No Marriage in Resurrection Rebutted]]
+- [[If Marriage Ends at Death Sexual Ethics Reduce to Arbitrary Command]]
 
 ---
 See also: [[Scriptures]] · [[WardRadio - Top 9 Misconstrued Scriptures]]

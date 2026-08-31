@@ -20,6 +20,7 @@ tags: [type/scripture, testament/old, topic/equality, topic/image-of-god, topic/
 - [[The Plural of Genesis 1 Is the Divine Council Not the Trinity or Royal We]]
 - [[The Christian Origin of Equality]]
 - [[Christianity Abolished Slavery Twice]]
+- [[Same-Sex Love Can Be Real Yet Not Embody the Eternal Pattern]]
 
 ---
 See also: [[Scriptures]]

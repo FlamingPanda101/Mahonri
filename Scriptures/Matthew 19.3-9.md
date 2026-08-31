@@ -13,6 +13,8 @@ tags: [type/scripture, testament/new, topic/divorce, topic/marriage]
 ## Used in
 - [[The Exodus Is Israelite-Specific Not Universal Abolition]]
 - [[Paul Pioneered Mutual Bodily Ownership]]
+- [[What Is Gender For - Sexual Ethics Need a Telos Not Just a Rule]]
+- [[Same-Sex Love Can Be Real Yet Not Embody the Eternal Pattern]]
 
 ---
 See also: [[Scriptures]]

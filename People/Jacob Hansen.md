@@ -78,6 +78,13 @@ On Ward Radio, Hansen argued the Great Apostasy "definitely happened": the creed
 - [[The Brothers Slur Twists Universal Divine Sonship]]
 - [[Substitutional Patriarchy - The Government Replaces the Husband]]
 
+## The Purpose of Gender and the Case Against Gay Marriage
+In a solo Thoughtful Faith monologue, Hansen argues the gay-marriage debate is really about a prior question — *what is gender for?* — and that rules about sexuality "float in midair" without an answer. He contends neither secular consent-ethics nor creedal Christianity (which makes marriage a mortal institution ending at death) can ground the male-female norm without collapsing it into arbitrary command, whereas the Restoration's *eternal* gender and family can. He is notably charitable toward same-sex couples — conceding their love can be genuine and fulfilling — while relocating the disagreement to whether a relationship embodies the eternal father-mother-child pattern rather than to the reality of anyone's love. See:
+- [[What Is Gender For - Sexual Ethics Need a Telos Not Just a Rule]]
+- [[Consent Answers What Is Permissible Not What Marriage Is For]]
+- [[If Marriage Ends at Death Sexual Ethics Reduce to Arbitrary Command]]
+- [[Same-Sex Love Can Be Real Yet Not Embody the Eternal Pattern]]
+
 ## Key Sources
 
 - [[Ward Radio - The Great Apostasy DEFINITELY Happened]]
@@ -88,6 +95,7 @@ On Ward Radio, Hansen argued the Great Apostasy "definitely happened": the creed
 - [[Thoughtful Faith - Was Joseph Smith A Polygamist Ft Brian Hales]] (with Brian Hales)
 - [[Thoughtful Faith - The One Question Every Christian Must Answer]] (true-church trilemma)
 - [[Thoughtful Faith - Why The Old Testament Is The Least Reliable Of All Scripture]] (with Jonah Barnes)
+- [[Thoughtful Faith - The Real Reason the Church Doesnt Accept Gay Marriage]] (the purpose of gender)
 
 ## Sources
 [^1]: [[Gavin Ortlund - Protestant and Mormon Discuss the Trinity|Gavin Ortlund - Protestant and Mormon Discuss the Trinity]], [02:31], https://youtu.be/7Y9_unCe__M

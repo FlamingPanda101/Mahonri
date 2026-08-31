@@ -28,6 +28,7 @@ This is the inverse of [[Genesis 1.24-26|Genesis 1]], where land animals are mad
 - [[Sequence of Creation Differs Between Genesis 1 and 2]]
 - [[Genesis 2 Is a Zoomed-In Sixth Day - Rebutted]]
 - [[Dan McClellan - Genesis 2 Is Not a Zoomed-In Sixth Day]]
+- [[What Is Gender For - Sexual Ethics Need a Telos Not Just a Rule]]
 
 ## References
 [^1]: [[Dan McClellan - Genesis 2 Is Not a Zoomed-In Sixth Day|Dan McClellan — Genesis 2 Is Not a Zoomed-In Sixth Day]], [04:01]–[06:00], https://youtu.be/f1s3esxR5mM
