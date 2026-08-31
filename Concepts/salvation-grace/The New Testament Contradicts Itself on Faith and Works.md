@@ -8,6 +8,7 @@ related:
   - "[[Works of the Law Means Mosaic Boundary Markers Not Obedience as Such]]"
   - "[[Synergism Is Ancient and Sola Fide Is the Real Innovation]]"
   - "[[After All We Can Do Means In Spite of All We Can Do]]"
+  - "[[James 2 Was Written to Rebut Paul on Faith and Works]]"
 sources:
   - "[[Dan McClellan - 2 Nephi 25.23 and Grace]]"
 tags: ["#apologetics/soteriology", "#tradition/academic-biblical-studies", "#tradition/lds", "#type/claim", "#topic/sola-fide", "#topic/bible-contradictions"]

@@ -52,7 +52,7 @@ Latter-day Saint teaching leans hard on a justice/mercy polarity (Alma 34, Alma 
 
 ## References
 [^1]: [[Data Over Dogma - Is Faith Without Works Dead|Data Over Dogma — Faith Without Works]], [18:00], https://youtu.be/lCM1pO-SpyQ
-[^2]: [[Data Over Dogma - Is Faith Without Works Dead|Data Over Dogma — Faith Without Works]], [18:32], https://youtu.be/lCM1pO-SpyQ
+[^2]: [[Data Over Dogma - Is Faith Without Works Dead|Data Over Dogma — Faith Without Works]], [19:01], https://youtu.be/lCM1pO-SpyQ
 [^3]: [[Data Over Dogma - Is Faith Without Works Dead|Data Over Dogma — Faith Without Works]], [20:32], https://youtu.be/lCM1pO-SpyQ
 [^4]: [[Data Over Dogma - Is Faith Without Works Dead|Data Over Dogma — Faith Without Works]], [21:01], https://youtu.be/lCM1pO-SpyQ
 [^5]: [[Data Over Dogma - Is Faith Without Works Dead|Data Over Dogma — Faith Without Works]], [21:32], https://youtu.be/lCM1pO-SpyQ

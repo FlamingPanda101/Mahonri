@@ -12,6 +12,7 @@ sources:
   - "[[WardRadio - Book of Mormon Witnesses Are Unimpeachable]]"
   - "[[Keystone - What This Early Apostate Revealed About the Book of Mormon]]"
   - "[[WARD RADIO - Testify vs the Book of Mormon Witnesses]]"
+  - "[[Hello Saints - Could He Have Been Lying]]"
 tags: [apologetics, book-of-mormon, witnesses, tradition/lds]
 ---
 
@@ -45,7 +46,7 @@ The episode inverts the usual move: Oliver's continued testimony **during** his 
 Atheist [[Alex OConnor|Alex O'Connor]] turns this into a formal criterion-of-embarrassment argument that [[WARD RADIO - Testify vs the Book of Mormon Witnesses|Ward Radio]] endorses. The stock defense of Paul is "why would a persecutor invent a vision?" The witnesses are "the other way around, and therefore stronger": they were insiders who were *excommunicated* and fell out with [[Joseph Smith]], yet "until the day of their death... asserted that they had seen" the plates. The apostles who witnessed the Resurrection did not leave their movement; the Book of Mormon witnesses did — and still never recanted.[^10] Even [[Testify Apologetics]], responding to O'Connor, concedes this is "a fairly strong point."[^11] *Rating: strong — a hostile-to-friendly asymmetry the critic himself grants. See [[The Eyewitness Double Standard Favors the Gold Plates Over the Resurrection]].*
 
 ### 7. David Whitmer — the most-documented, longest-standing testimony
-Of the three, [[David Whitmer]] alone never returned to the church, and "ironically, he's the one that gave the most solid, the most documented, the longest-standing testimony." He inscribed it on his gravestone and defended it in his 1887 pamphlet *An Address to All Believers in Christ*. His *permanent* estrangement makes his lifelong affirmation the hardest to write off as institutional loyalty.[^12]
+Of the three, [[David Whitmer]] alone never returned to the church, and "ironically, he's the one that gave the most solid, the most documented, the longest-standing testimony." He inscribed it on his gravestone and defended it in his 1887 pamphlet *An Address to All Believers in Christ*. His *permanent* estrangement makes his lifelong affirmation the hardest to write off as institutional loyalty.[^12] A second, independent source confirms the gravestone: [[Casey Griffiths]], who has visited the grave in Missouri, reports the headstone reads, "The record of the Jews and the record of the Nephites are one. Truth is eternal" — and observes that [[Oliver Cowdery]] and [[Sydney Rigdon]] were likewise excommunicated (and the whole Whitmer family left the church) yet none recanted "to the last day of their lives."[^13]
 
 ## Steelman (Opposing View)
 "Never recanted" proves **sincere belief, not the truth of the belief** — the co-host concedes the witnesses "could have been duped and still believe it with all their heart to the point of death." Sincere, costly, lifelong conviction is fully consistent with [[Mass Hallucination Hypnosis Theory Rebutted|honest self-deception]] in a high-expectancy religious setting. The witness pool was also tightly bound by family and prior commitment, raising the social cost of recantation independent of the plates' reality.
@@ -72,6 +73,7 @@ Of the three, [[David Whitmer]] alone never returned to the church, and "ironica
 [^10]: [[WARD RADIO - Testify vs the Book of Mormon Witnesses|Ward Radio — Testify vs the Witnesses]], [03:30], https://youtu.be/MdZ5IRYTGhg
 [^11]: [[WARD RADIO - Testify vs the Book of Mormon Witnesses|Ward Radio — Testify vs the Witnesses]], [23:33], https://youtu.be/MdZ5IRYTGhg
 [^12]: [[WARD RADIO - Testify vs the Book of Mormon Witnesses|Ward Radio — Testify vs the Witnesses]], [24:31], https://youtu.be/MdZ5IRYTGhg
+[^13]: [[Hello Saints - Could He Have Been Lying|Hello Saints — Could He Have Been Lying]], [71:30], https://youtu.be/5VGBfswNzf4
 
 ---
 See also: [[Apologetics]] · [[William McLellin Affirmed the Book of Mormon While Rejecting Church Leadership]] · [[WardRadio - Book of Mormon Witnesses Are Unimpeachable]] · [[WARD RADIO - Testify vs the Book of Mormon Witnesses]]

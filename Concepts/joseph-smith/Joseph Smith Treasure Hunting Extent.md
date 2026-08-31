@@ -2,7 +2,7 @@
 title: "Joseph Smith Treasure Hunting Extent"
 scripture: []
 related: ["[[Treasure Hunting as Historical Cultural Practice]]", "[[Convicted Con Man Label Overclaim]]", "[[Source Criticism in Mormon History]]"]
-sources: ["[[The Holy Rebellion - The Problem With Calling Joseph Smith a Con Man]]", "[[Keystone - What Mark Gagnon Gets Wrong About Joseph Smith]]"]
+sources: ["[[The Holy Rebellion - The Problem With Calling Joseph Smith a Con Man]]", "[[Keystone - What Mark Gagnon Gets Wrong About Joseph Smith]]", "[[Hello Saints - Could He Have Been Lying]]"]
 tags:
   - "#topic/treasure-hunting"
   - "#tradition/lds"
@@ -29,6 +29,8 @@ tags:
 5. **The lacrosse analogy (interpretive).** Mark frames treasure hunting's cultural prevalence as "like lacrosse" — real, around you, occasionally encountered, but not as ubiquitous as basketball or soccer.[^8] This calibrates "common" against critics who imply it was universal *and* against apologists who might imply it was vanishingly rare.
 
 6. **It was a side gig, not the family's primary income.** In a separate response, [[Keystone - What Mark Gagnon Gets Wrong About Joseph Smith|Keystone]] rebuts Mark Gagnon's claim that the Smiths moved *away from farming* until treasure-hunting became "their primary source of income." The Smiths "were primarily farmers" who "built their farm in Palmyra from pretty much nothing," hiring out as day laborers (treasure-seeking being "one of those side gigs"). [[Lucy Mack Smith]]'s memoir denies the maximalist picture directly: "let not my reader suppose that... we stopped our labor and went at trying to win the faculty of Abrac, drawing magic circles, or soothsaying to the neglect of all kinds of business. We never during our lives suffered one important interest to swallow up every other obligation."[^9] *Evidence rating: strong — a first-person family source rebutting the "primary income" framing.*
+
+7. **A second source confirms the cross-bias convergence (corroborating).** On the *Hello Saints* interview, [[Casey Griffiths]] grants the treasure-seeking "seems like it's true" while stressing "it doesn't seem like they were the only ones."[^10] He notes that [[Joseph Smith]] and [[Lucy Mack Smith]] both recorded not feeling they should "use spiritual gifts... for monetary gain," and that [[Josiah Stowell]] — far from feeling cheated when no silver mine turned up — "becomes very convinced that Joseph Smith is the real deal" (see [[Josiah Stowell Defends Joseph Smith]]).[^11] On the seer stones specifically, "there were several people in Palmyra that had sear stones," and "the hostile sources and the friendly sources line up."[^12] *Evidence rating: moderate — an independent commentator corroborating the multiply-attested picture in point 2.*
 
 ## Best Quotes
 
@@ -57,3 +59,6 @@ tags:
 [^7]: [[The Holy Rebellion - The Problem With Calling Joseph Smith a Con Man|The Holy Rebellion - The Problem With Calling Joseph Smith a Con Man]], [35:31]–[36:01], https://youtu.be/ePeZwR5rsQc
 [^8]: [[The Holy Rebellion - The Problem With Calling Joseph Smith a Con Man|The Holy Rebellion - The Problem With Calling Joseph Smith a Con Man]], [34:30]–[35:31], https://youtu.be/ePeZwR5rsQc
 [^9]: [[Keystone - What Mark Gagnon Gets Wrong About Joseph Smith|Keystone - Mark Gagnon]], [04:30]–[05:30], https://youtu.be/ate9YSoexMs
+[^10]: [[Hello Saints - Could He Have Been Lying|Hello Saints — Could He Have Been Lying]], [49:30], https://youtu.be/5VGBfswNzf4
+[^11]: [[Hello Saints - Could He Have Been Lying|Hello Saints — Could He Have Been Lying]], [50:31], https://youtu.be/5VGBfswNzf4
+[^12]: [[Hello Saints - Could He Have Been Lying|Hello Saints — Could He Have Been Lying]], [54:00], https://youtu.be/5VGBfswNzf4

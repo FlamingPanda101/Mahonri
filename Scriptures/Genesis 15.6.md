@@ -12,6 +12,7 @@ Paul's proof text for justification by faith (Romans 4). James 2 cites it too, s
 
 ## Used in
 - [[James - Justification Before Men Reply Rebutted]]
+- [[James 2 Was Written to Rebut Paul on Faith and Works]]
 
 ---
 See also: [[Scriptures]]

@@ -11,6 +11,7 @@ related:
   - "[[Luther and the Epistle of Straw]]"
   - "[[Faith Alone Appears Once in Scripture and Is the Verse That Denies It]]"
   - "[[Synergism Is Ancient and Sola Fide Is the Real Innovation]]"
+  - "[[The New Testament Contradicts Itself on Faith and Works]]"
 sources:
   - "[[Data Over Dogma - Is Faith Without Works Dead]]"
 tags:
@@ -54,13 +55,13 @@ No one clearly quotes James until [[Origen]], in the second quarter of the 3rd c
 
 **Where it helps.** McClellan's reading powerfully corroborates the vault's central anti-*sola fide* case (see [[James 2-24 - Justified by Works Not Faith Alone]], [[Faith Alone Appears Once in Scripture and Is the Verse That Denies It]]). When even a secular-critical scholar — one who elsewhere is a *foil* to Latter-day Saints — concludes that James "explicitly, directly" denies justification by faith alone and means it against Paul, the Protestant harmonization loses its "no serious scholar reads it that way" cover. The point that James is a Torah-continuity author reinforces that his "faith without works is dead" is soteriological, not merely hortatory.
 
-**Where it diverges.** McClellan secures the anti-faith-alone reading by positing a genuine *intra-canonical contradiction* and a *pseudepigraphic*, post-apostolic James — both of which the Latter-day Saint (and traditional Christian) accepts scripture does not require. The LDS use of this source is therefore selective and legitimate: the vault affirms his exegesis of what James *says* (works are constitutive of justifying faith) while declining his history-of-composition verdict (that James is a late forgery flatly contradicting an inspired Paul). The Restoration's own harmonization differs from the Protestant one — it does not need Paul to teach faith-alone, because it reads Paul's target as the *works of the law of Moses*, not good works as such (see [[Paul Read Whole Rejects the Law of Moses Not Good Works]]) — so it can grant James his plain meaning without conceding a contradiction between two true prophets.
+**Where it diverges.** McClellan secures the anti-faith-alone reading by positing a genuine *intra-canonical contradiction* and a *pseudepigraphic*, post-apostolic James — both of which the Latter-day Saint (and traditional Christian) accepts scripture does not require. (Elsewhere he generalizes the point into the claim that the New Testament *contradicts itself* on faith and works; see the companion note [[The New Testament Contradicts Itself on Faith and Works]].) The LDS use of this source is therefore selective and legitimate: the vault affirms his exegesis of what James *says* (works are constitutive of justifying faith) while declining his history-of-composition verdict (that James is a late forgery flatly contradicting an inspired Paul). The Restoration's own harmonization differs from the Protestant one — it does not need Paul to teach faith-alone, because it reads Paul's target as the *works of the law of Moses*, not good works as such (see [[Paul Read Whole Rejects the Law of Moses Not Good Works]]) — so it can grant James his plain meaning without conceding a contradiction between two true prophets.
 
 ## LDS Relevance
 Latter-day Saints have never needed to defuse James, and this episode shows why that is the honest reading rather than special pleading: the letter really does say what the [[Sola Fide vs Faith Plus Ordinances|faith-plus-covenant]] view says it says. The vault can cite a critical scholar for the *exegesis* (James 2:24 negates faith-alone; faith is completed by works) while parting company on *provenance*. The divergence is itself instructive — it locates the true LDS-Protestant dispute not in "what does James mean" (McClellan and the apologists agree) but in whether Paul and James are two harmonious witnesses to a synergistic gospel (the LDS view; see [[Synergism Is Ancient and Sola Fide Is the Real Innovation]]) or an embarrassing seam in the canon (McClellan's view).
 
 ## References
-[^1]: [[Data Over Dogma - Is Faith Without Works Dead|Data Over Dogma — Faith Without Works]], [10:31], https://youtu.be/lCM1pO-SpyQ
+[^1]: [[Data Over Dogma - Is Faith Without Works Dead|Data Over Dogma — Faith Without Works]], [10:00], https://youtu.be/lCM1pO-SpyQ
 [^2]: [[Data Over Dogma - Is Faith Without Works Dead|Data Over Dogma — Faith Without Works]], [29:30], https://youtu.be/lCM1pO-SpyQ
 [^3]: [[Data Over Dogma - Is Faith Without Works Dead|Data Over Dogma — Faith Without Works]], [11:00], https://youtu.be/lCM1pO-SpyQ
 [^4]: [[Data Over Dogma - Is Faith Without Works Dead|Data Over Dogma — Faith Without Works]], [11:30], https://youtu.be/lCM1pO-SpyQ
@@ -72,4 +73,4 @@ Latter-day Saints have never needed to defuse James, and this episode shows why 
 [^10]: [[Data Over Dogma - Is Faith Without Works Dead|Data Over Dogma — Faith Without Works]], [31:30], https://youtu.be/lCM1pO-SpyQ
 
 ---
-See also: [[Concepts]] · [[Dan McClellan]] · [[Paul]] · [[James 2.24|James 2:24]] · [[Data Over Dogma - Is Faith Without Works Dead]]
+See also: [[Concepts]] · [[Dan McClellan]] · [[Paul]] · [[James 2.24|James 2:24]] · [[The New Testament Contradicts Itself on Faith and Works]] · [[Data Over Dogma - Is Faith Without Works Dead]]

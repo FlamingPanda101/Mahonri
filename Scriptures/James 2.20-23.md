@@ -13,6 +13,7 @@ James points to Abraham's offering of [[Isaac]] as the paradigm of faith complet
 ## Used in
 - [[Joseph Smith Restored a Messianic Akedah in Which Isaac Was Actually Sacrificed]]
 - [[Faith Alone Appears Once in Scripture and Is the Verse That Denies It]]
+- [[Works Constitute Saving Faith Rather Than Merely Displaying It]]
 
 ---
 See also: [[Scriptures]] · [[Abraham]] · [[Isaac]] · [[James 2.24]]

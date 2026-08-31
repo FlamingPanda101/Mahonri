@@ -39,7 +39,7 @@ A "chapter and verse" walkthrough of the **Epistle of James**, focused on chapte
 [^1]: [[Data Over Dogma - Is Faith Without Works Dead|Data Over Dogma — Faith Without Works]], [02:31], https://youtu.be/lCM1pO-SpyQ
 [^2]: [[Data Over Dogma - Is Faith Without Works Dead|Data Over Dogma — Faith Without Works]], [06:31], https://youtu.be/lCM1pO-SpyQ
 [^3]: [[Data Over Dogma - Is Faith Without Works Dead|Data Over Dogma — Faith Without Works]], [09:30], https://youtu.be/lCM1pO-SpyQ
-[^4]: [[Data Over Dogma - Is Faith Without Works Dead|Data Over Dogma — Faith Without Works]], [10:31], https://youtu.be/lCM1pO-SpyQ
+[^4]: [[Data Over Dogma - Is Faith Without Works Dead|Data Over Dogma — Faith Without Works]], [10:00], https://youtu.be/lCM1pO-SpyQ
 [^5]: [[Data Over Dogma - Is Faith Without Works Dead|Data Over Dogma — Faith Without Works]], [11:00], https://youtu.be/lCM1pO-SpyQ
 [^6]: [[Data Over Dogma - Is Faith Without Works Dead|Data Over Dogma — Faith Without Works]], [29:30], https://youtu.be/lCM1pO-SpyQ
 [^7]: [[Data Over Dogma - Is Faith Without Works Dead|Data Over Dogma — Faith Without Works]], [30:31], https://youtu.be/lCM1pO-SpyQ

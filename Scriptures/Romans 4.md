@@ -15,6 +15,7 @@ This is [[Ryan (NeedGod)|Ryan]]'s central text: Abraham is "the model of how any
 ## Used in
 - [[Salvation Is by Faith Alone and Baptism Is a Non-Saving Act of Obedience]]
 - [[Works of the Law Means Mosaic Boundary Markers Not Obedience as Such]]
+- [[James 2 Was Written to Rebut Paul on Faith and Works]]
 
 ---
 See also: [[Scriptures]] · [[James Dunn]]

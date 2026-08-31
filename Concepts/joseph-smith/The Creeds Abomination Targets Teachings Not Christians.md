@@ -9,6 +9,7 @@ related:
   - "[[Ward Radio - The Nicene Creed Is Not an Abomination]]"
 sources:
   - "[[Hello Saints - Pastors Honest Questions About History of Joseph Smith]]"
+  - "[[Hello Saints - Could He Have Been Lying]]"
 tags:
   - topic/first-vision
   - topic/joseph-smith
@@ -44,6 +45,12 @@ Muhlestein is "emphatic": the verse does not make Christians abominable. "Joseph
 
 > **Evidence rating:** Strong — consistent with Joseph Smith's documented statements on religious liberty and the good in other faiths.
 
+### 4. A second source reframes the target as *process*, not doctrine — rate: moderate (interpretive)
+
+On the sister *Hello Saints* interview, [[Casey Griffiths]] adds a complementary reading. He first narrows the target: the Lord "doesn't specify which creeds," and most Latter-day Saints, reading the Nicene or Apostles' Creed, "would agree with almost all of it."[^4] His suggestion is that the "abominable part" is not the doctrinal content but the *epistemic process* — "a group of people, even if they're well-meaning but... invested in power structures... meeting together and closing the door and making decisions about the nature of God," a committee that will "vote and... decide" and "dictate that for everybody," versus "God appeared to me and this is what I saw." Griffiths marks this as his own tentative reading ("I might be wrong here").[^5]
+
+> **Evidence rating:** Moderate — an explicitly tentative, second-source interpretation that relocates the offense to *method* (revelation vs. council vote) rather than anti-Christian animus. It complements, rather than replaces, Muhlestein's "false teachings about God" reading.
+
 ## Steelman of the Opposing View
 
 A creedal Christian can fairly answer that the plain text says the *professors* (not just the creeds) "were all corrupt," and that on Latter-day Saint premises the creeds encode the *nature of Christ* — so to call them an "abomination" is to condemn the very heart of historic Christian confession, which is not a peripheral matter. Muhlestein concedes the language is genuinely offensive on its face ("I can absolutely understand someone being offended at that") and that the Trinity is "as fundamental as it gets." His reply is not that the difference is small but that the *target* is the doctrine, not the disciple: the same God who calls the creeds an abomination calls Joseph "wicked" and bids him repent — so the verse is a critique of teaching, paired with love for the people who hold it. See [[Both Sides Overcorrected in the LDS-Evangelical Divide]] and the source note [[Ward Radio - The Nicene Creed Is Not an Abomination|Ward Radio - The Nicene Creed Is Not an Abomination]].
@@ -60,6 +67,8 @@ A creedal Christian can fairly answer that the plain text says the *professors* 
 [^1]: [[Hello Saints - Pastors Honest Questions About History of Joseph Smith|Hello Saints - Pastor's Honest Questions About Joseph Smith]], [18:30]–[19:30], https://youtu.be/PKRMN8cxMnk
 [^2]: [[Hello Saints - Pastors Honest Questions About History of Joseph Smith|Hello Saints - Pastor's Honest Questions About Joseph Smith]], [19:30]–[21:00], https://youtu.be/PKRMN8cxMnk
 [^3]: [[Hello Saints - Pastors Honest Questions About History of Joseph Smith|Hello Saints - Pastor's Honest Questions About Joseph Smith]], [21:00]–[22:30], https://youtu.be/PKRMN8cxMnk
+[^4]: [[Hello Saints - Could He Have Been Lying|Hello Saints — Could He Have Been Lying]], [88:00], https://youtu.be/5VGBfswNzf4
+[^5]: [[Hello Saints - Could He Have Been Lying|Hello Saints — Could He Have Been Lying]], [89:00], https://youtu.be/5VGBfswNzf4
 
 ---
 See also: [[Concepts]] · [[Hello Saints - Pastors Honest Questions About History of Joseph Smith]] · [[Are Latter-day Saints Christians]] · [[The Godhead Model vs the Trinity Model]]
