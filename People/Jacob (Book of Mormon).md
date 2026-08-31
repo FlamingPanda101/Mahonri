@@ -17,6 +17,9 @@ Jacob is a younger son of [[Lehi]], born in the wilderness, and a Book of Mormon
 ## Relevance to the vault
 In the Mike-and-Dave Deuteronomy episode, [[Mike Day]] (via Jonah Barnes) draws a linguistic distinction: [[Nephi]] and Lehi tend to call God "the Lord" (the *yahwist* idiom of the southern, oral culture they engaged), whereas Jacob — "basically a homeschooled kid learning out of a book," the [[Brass Plates Bypassed the Textual Corruption Chain|brass plates]] — tends to call God "God" (*Elohim*), consistent with a *northern* (Elohist) influence in the brass-plates text. See [[The Northern Lineage Explains Laman and Lemuel and the Brass Plates]] and [[The Surviving Old Testament Is the Southern Kingdom's Edition]].[^1] Jacob is also one of the three witnesses ([[Nephi]], Jacob, [[Isaiah]]) whose testimony Nephi stacks to authenticate his Isaiah chapters.
 
+## Internal-consistency examples
+Three of [[Jeff Markham]]'s undesigned-consistency examples come from Jacob's small-plates writings: his consecration as priest "by the hand of [[Nephi]]" ([[Jacob 1.18|Jacob 1:18]]) matches [[2 Nephi 5.26|2 Nephi 5:26]]; his "righteous branch from the fruit of the loins of Joseph" ([[Jacob 2|Jacob 2:25]]) picks up [[2 Nephi 3|2 Nephi 3:5]]; and his prophecy of a lost land of inheritance ([[Jacob 3.4|Jacob 3:4]]) is fulfilled in Omni and Mosiah. See [[The Small-Plates Concluding Books Interlock With the Nephite Record]].
+
 ## References
 [^1]: [[The Stick of Joseph - King Josiah Deuteronomy and the Book of Mormon (Mike and Dave)|Stick of Joseph - Mike & Dave on Deuteronomy]], [57:30]–[58:30], https://youtu.be/vfF0opRPkjk
 

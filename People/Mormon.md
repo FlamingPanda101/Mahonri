@@ -25,6 +25,10 @@ Mormon is the prophet-historian after whom the Book of Mormon is named. Living i
 
 Mormon functions as the editorial voice that frames the Book of Mormon's prophecies and warnings. The vault invokes his book (alongside Ether) for the LDS reading that declining mainline Christian belief fulfills the prophesied "awful situation" of apostasy — a "therapeutic deism" of corrupted Christianity. As the named compiler, he is the author behind much of the text used in the vault's prophecy and Book-of-Mormon-authorship discussions.
 
+## Words of Mormon and internal consistency
+
+Mormon's own inserted words on King Benjamin's wars and peace ([[Words of Mormon 1.12-18|Words of Mormon 1:12-18]]) set up the opening line of [[Mosiah 1|Mosiah 1:1]] ("no more contention in all the land") — one of [[Jeff Markham]]'s undesigned-consistency examples. See [[The Small-Plates Concluding Books Interlock With the Nephite Record]].
+
 ## Referenced in
 
 - [[Ward Radio - The Hollow Faith of Pastor Grift]] (Sources)

@@ -19,6 +19,8 @@ The large-stone episode also makes Mosiah a *seer*-translator before his grandso
 ## Referenced in
 - [[Mosiah]]
 - [[Mulek]]
+- [[The Small-Plates Concluding Books Interlock With the Nephite Record]] (Omni 1:12-13 fulfills Jacob 3:4, example 118)
+- [[Coriantumr Among the People of Zarahemla Ties Ether to Omni]] (Omni 1:21 resolves Ether 15:32, example 119)
 
 ---
 See also: [[Scriptures]] · [[Mosiah]] · [[Mulek]] · [[Zedekiah]] · [[King Benjamin]]

@@ -15,6 +15,9 @@ Zeniff led a group of Nephites back from Zarahemla to reclaim the land of Nephi 
 ## In the Book of Mormon record
 The book of Omni notes that [[Amaleki]]'s brother "went with [the people of Zeniff]" back to the land of Nephi and was never heard from again — a thread the *Key to the Keystone* reconstruction uses to argue that [[Abinadi]] (son of "Abinadom"/[[Abadom]]) descended from the record-keeping line and so could plausibly have known the brass-plates Isaiah by heart. See [[The Sting of Death Is Apocryphal Isaiah from the Brass Plates Not a Pauline Anachronism]].
 
+## Land-of-inheritance consistency
+Zeniff's opening line calls the land of Nephi "the land of our fathers' first inheritance," now among the Lamanites ([[Mosiah 9.1|Mosiah 9:1]]) — confirming the fulfillment of Jacob's prophecy ([[Jacob 3.4|Jacob 3:4]]) traced in [[The Small-Plates Concluding Books Interlock With the Nephite Record]].
+
 ## Sources
 [^1]: [[Ward Radio - Apocryphal Isaiah Reveals the True Identity of Abinadi|Ward Radio - The True Identity of Abinadi]], [02:30], https://youtu.be/4F4jr7jFVxo
 

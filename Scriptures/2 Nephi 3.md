@@ -17,6 +17,7 @@ In the [[Ward Radio - The Sword of Laban Was the Sword of Joshua|Don Bradley int
 - [[The Brass Plates Were Begun by Joseph of Egypt]]
 - [[The Sword of Laban Was the Sword of Joshua Forged by Joseph in Egypt]]
 - [[Phantom Prophecy Both Prophets Re-Reveal Lost Predictions of Themselves]] — the latter-day-seer prophecy here (paralleling JST Genesis 50:33) is the target of Cameron Bertuzzi's "phantom prophecy" charge, rebutted by Emerson Green
+- [[The Small-Plates Concluding Books Interlock With the Nephite Record]] — v.5's "righteous branch… out of the fruit of his loins" is picked up by [[Jacob 2|Jacob 2:25]] (example 117)
 
 ---
 See also: [[Scriptures]] · [[1 Nephi 5]] · [[Joseph of Egypt]]

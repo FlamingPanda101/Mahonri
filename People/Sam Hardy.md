@@ -10,10 +10,12 @@ aliases:
   - "Samuel Hardy"
 related:
   - "[[Justin Dyer]]"
+  - "[[Jenet Erickson]]"
   - "[[High-Cost Religion Makes Leaving More Costly]]"
   - "[[A Bidirectional Cycle Links Faith Struggle and Mental Health]]"
   - "[[Leaving Religion Does Not Bring the Relief People Expect]]"
 sources:
+  - "[[LDS Religiousness Report - Dyer Erickson Hardy]]"
   - "[[BYU Daily Universe - Why People Leave Religion and What Happens Next]]"
 authority: B
 authority_reason: "Credentialed developmental psychologist: professor of psychology at Brigham Young University specializing in moral, religious, and identity development in adolescents and emerging adults. Co-author of the peer-reviewed nine-year longitudinal study on religious deidentification and youth well-being reported here, and a coauthor on the LDS retention/well-being literature. Speaks within his discipline; faith-affiliated, so framing on LDS topics carries an institutional viewpoint."

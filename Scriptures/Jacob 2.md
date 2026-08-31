@@ -1,5 +1,5 @@
 ---
-aliases: ["Jacob 2:2", "Rid my garments of your sins"]
+aliases: ["Jacob 2:2", "Jacob 2:25", "Rid my garments of your sins"]
 tags: [scripture/book-of-mormon]
 ---
 
@@ -15,11 +15,17 @@ tags: [scripture/book-of-mormon]
 
 - The controlling Book of Mormon text on plural marriage: **monogamy is the standing norm** ("one wife"), and **plural marriage is the authorized exception** God may command for a specific purpose ("raise up seed unto me"). [[Jacob Hansen]] uses it to argue the *doctrine* of polygamy never changed — only the practice and the disputed exaltation-requires-polygamy idea did. See [[Polygamy Doctrine Did Not Change Only the Exaltation-Requires-Polygamy Idea Did]].
 
+## The Righteous Branch (Jacob 2:25)
+> Wherefore, thus saith the Lord, I have led this people forth out of the land of Jerusalem, by the power of mine arm, that I might raise up unto me a righteous branch from the fruit of the loins of Joseph. *(Jacob 2:25)*
+
+- Jacob presents the Nephites as the fulfillment of the prophecy [[Lehi]] cites from [[Joseph of Egypt]] in [[2 Nephi 3|2 Nephi 3:5]] — "a righteous branch… out of the fruit of his loins" — reusing the distinctive phrase across the two books. One of [[Jeff Markham]]'s undesigned-consistency examples: see [[The Small-Plates Concluding Books Interlock With the Nephite Record]].
+
 ## Used in
 - [[Magnifying a Calling Means Coming Clean From the Blood and Sins of This Generation]]
 - [[Polygamy Doctrine Did Not Change Only the Exaltation-Requires-Polygamy Idea Did]]
 - [[Jacob 1.19]]
 - [[The Stick of Joseph - The Oath and Covenant of the Priesthood and Its Ties to the Temple]]
+- [[The Small-Plates Concluding Books Interlock With the Nephite Record]] (Jacob 2:25 ↔ 2 Nephi 3:5, example 117)
 
 ---
 See also: [[Scriptures]]

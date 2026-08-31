@@ -15,6 +15,7 @@ related:
   - "[[Robert Putnam]]"
   - "[[Ryan Burge]]"
 sources:
+  - "[[LDS Religiousness Report - Dyer Erickson Hardy]]"
   - "[[Informed Saints - The Surprising REAL Reason People Are Leaving The Church]]"
 authority: B
 authority_reason: "Credentialed social scientist: professor of religious education at BYU, PhD in human and community development (University of Illinois Urbana-Champaign), Wheatley Institute fellow, editor of BYU Studies, 80+ peer-reviewed articles cited 3,000+ times. Speaks within his discipline (religion, family, statistics). Faith-affiliated, so framing on LDS topics carries an institutional viewpoint."
@@ -26,7 +27,7 @@ Latter-day Saint social scientist and professor of religious education at Brigha
 
 ## Research on Retention and Well-being
 
-Dyer is the lead voice on the paper *"Latter-day Saint Religiousness, Well-being, and Retention in the United States,"* coauthored with Jenna Ericson, Sam Hardy, Barbara Morgan Gardner, and David C. Dollahite, which synthesizes multiple large datasets (Pew, Ryan Burge's 100,000-respondent Spiritual Seismology study, and longitudinal panels) to test the claim that the LDS Church is uniquely losing members. He argues retention has declined but tracks national trends, and that the Church retains *active* members at the top of the field. See [[LDS Retention Is Higher Than Most Other Christian Traditions]] and [[Decline in Religion Tracks the Broader Collapse of Social Connectedness]].
+Dyer is the lead author of the report [[LDS Religiousness Report - Dyer Erickson Hardy|*Latter-day Saint Religiousness, Well-being, and Retention in the United States*]], coauthored with [[Jenet Erickson]], [[Sam Hardy]], Barbara Morgan Gardner, and David C. Dollahite, which synthesizes multiple large datasets (Pew, Ryan Burge's 100,000-respondent Spiritual Seismology study, and longitudinal panels) to test the claim that the LDS Church is uniquely losing members. He argues retention has declined but tracks national trends, and that the Church retains *active* members at the top of the field. See [[LDS Retention Is Higher Than Most Other Christian Traditions]] and [[Decline in Religion Tracks the Broader Collapse of Social Connectedness]].
 
 ## On Methodology — Forest and Trees
 

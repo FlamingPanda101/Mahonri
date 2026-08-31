@@ -5,6 +5,7 @@ related:
   - "[[Fig Tree Cursing as Metaphor for Temple]]"
   - "[[Tumbaga Alloy Explains Golden Appearance and Green Oxidation]]"
   - "[[The Book of Mormon's Undesigned Internal Consistencies Argue Against Fabrication]]"
+  - "[[Coriantumr Among the People of Zarahemla Ties Ether to Omni]]"
   - "[[Book of Mormon]]"
 sources:
   - "[[Light and Truth Letter - Austin Fife]]"

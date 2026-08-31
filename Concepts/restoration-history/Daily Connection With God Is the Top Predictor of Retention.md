@@ -7,6 +7,7 @@ related:
   - "[[Religiosity Benefits Mental Health Even After Leaving]]"
 sources:
   - "[[Informed Saints - The Surprising REAL Reason People Are Leaving The Church]]"
+  - "[[LDS Religiousness Report - Dyer Erickson Hardy]]"
 tags:
   - apologetics
   - topic/retention
@@ -28,6 +29,8 @@ Across longitudinal data tracking teens into their early twenties, the single st
 
 3. **Contrasts with the leading predictor of leaving (rated: strong).** The same data flag political extremity as a top driver of disaffiliation, framing retention as a contest between a Godward pull and a politicizing pull. See [[Political Identity Now Supersedes Religious Identity]].[^3]
 
+4. **The primary report quantifies the effect (rated: strong, primary source).** In the FFYD logistic regression, of youth who "never or almost never" felt God's presence in daily life, 24% deidentified within four years — versus only 4% of those who felt it "every day" and 3% of those who felt it "many times a day." It was one of only three factors that survived as significant predictors of leaving, and the sole *protective* one (odds ratio 0.60).[^4]
+
 ## Best Quotes
 
 > "The number one thing that kept people connected with the church was daily connection with God. If they felt on a regular basis that they've been connected with God, then that helps to keep them in, which makes a lot of sense."[^1]
@@ -35,6 +38,7 @@ Across longitudinal data tracking teens into their early twenties, the single st
 > "With these data we can actually see... before they disconnected from their religion, what were they like and what were their characteristics."[^1]
 
 ## References
+- [[LDS Religiousness Report - Dyer Erickson Hardy]] — the primary report
 - [[Informed Saints - The Surprising REAL Reason People Are Leaving The Church]]
 - [[Justin Dyer]]
 - [[Political Identity Now Supersedes Religious Identity]]
@@ -44,3 +48,4 @@ Across longitudinal data tracking teens into their early twenties, the single st
 [^1]: [[Informed Saints - The Surprising REAL Reason People Are Leaving The Church|Informed Saints - Why People Are Leaving The Church]], [11:30]–[12:01], https://youtu.be/7IMZGScnEok
 [^2]: [[Informed Saints - The Surprising REAL Reason People Are Leaving The Church|Informed Saints - Why People Are Leaving The Church]], [12:01]–[12:31], https://youtu.be/7IMZGScnEok
 [^3]: [[Informed Saints - The Surprising REAL Reason People Are Leaving The Church|Informed Saints - Why People Are Leaving The Church]], [12:01]–[12:31], https://youtu.be/7IMZGScnEok
+[^4]: [[LDS Religiousness Report - Dyer Erickson Hardy|LDS Religiousness Report]], [p.34]

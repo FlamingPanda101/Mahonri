@@ -15,6 +15,9 @@ Amaleki, son of [[Abadom]], wrote the closing verses of the book of Omni and del
 ## Significance in the Abinadi reconstruction
 The *Key to the Keystone* argument hangs on Amaleki's genealogy: his father is named **Abinadom**/[[Abadom]], a name nearly identical to **Abinadi**. The reconstruction proposes that Amaleki's vanished brother is the father of [[Abinadi]] (or Abinadi himself), placing the prophet in the record-keeping line that carried the brass plates — which would explain how Abinadi could quote Isaiah (including an apocryphal Isaiah) by heart. See [[The Sting of Death Is Apocryphal Isaiah from the Brass Plates Not a Pauline Anachronism]].
 
+## Internal-consistency examples
+Amaleki's short book preserves two of [[Jeff Markham]]'s undesigned-consistency data points: his account of the surviving Jaredite [[Coriantumr]] ([[Omni 1|Omni 1:21]]) resolves the cliffhanger of [[Ether 15.32|Ether 15:32]] — see [[Coriantumr Among the People of Zarahemla Ties Ether to Omni]] — and his record of [[Mosiah|Mosiah I]] leading the righteous out of the land of Nephi ([[Omni 1|Omni 1:12-13]]) fulfills Jacob's prophecy in [[Jacob 3.4|Jacob 3:4]]. See [[The Small-Plates Concluding Books Interlock With the Nephite Record]].
+
 ## Sources
 [^1]: [[Ward Radio - Apocryphal Isaiah Reveals the True Identity of Abinadi|Ward Radio - The True Identity of Abinadi]], [09:30]–[13:30], https://youtu.be/4F4jr7jFVxo
 

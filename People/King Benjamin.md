@@ -16,6 +16,9 @@ King Benjamin is the Nephite prophet-king whose farewell sermon opens the Book o
 ## Role in the Martin Harris Argument
 [[Don Bradley]] argues this sermon is the text [[Martin Harris]] was scribing when post-lost-pages translation resumed at the start of [[Mosiah 18|Mosiah]], and that its overwhelming witness of Christ — not the sight of the plates — secured Martin's testimony before the 1828 trial. Bradley further notes (with [[John Tvedtnes]] and John W. Welch) that the sermon's implicit setting is the **Feast of Tabernacles**, the same feast on which Joseph and Martin were translating it. See [[King Benjamins Speech Strengthened Martin Harriss Testimony More Than Seeing the Plates]].[^1]
 
+## Wars-then-peace consistency
+[[Mormon]]'s account of King Benjamin's Lamanite wars and hard-won peace ([[Words of Mormon 1.12-18|Words of Mormon 1:12-18]], fought "with the sword of Laban") is presupposed by the "no more contention" that opens [[Mosiah 1|Mosiah 1:1]] — one of [[Jeff Markham]]'s undesigned-consistency examples. See [[The Small-Plates Concluding Books Interlock With the Nephite Record]].
+
 ## References
 - [[Lets Get Real with Stephen Jones - Joseph Smiths First Revelation and Dallin H Oaks]]
 - [[Mosiah 5.8|Mosiah 5:8]]

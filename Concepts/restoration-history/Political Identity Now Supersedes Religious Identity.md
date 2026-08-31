@@ -7,6 +7,7 @@ related:
   - "[[Decline in Religion Tracks the Broader Collapse of Social Connectedness]]"
 sources:
   - "[[Informed Saints - The Surprising REAL Reason People Are Leaving The Church]]"
+  - "[[LDS Religiousness Report - Dyer Erickson Hardy]]"
 tags:
   - apologetics
   - topic/politics-and-religion
@@ -30,6 +31,8 @@ Over recent decades, politics has become a more central component of personal id
 
 4. **A developmental window (rated: moderate).** During the late-teen years there is a dip in religious identity alongside a rise in political identity; the two trade salience precisely when many young people are most malleable.[^6]
 
+5. **The primary report quantifies the political pull (rated: strong, primary source).** In the FFYD longitudinal panel, being "very much" troubled by the Church's stance on social/political issues predicted leaving — 22% of that group deidentified within four years, versus 5% of those "not at all" troubled. Agreeing the Church should accept same-sex marriage showed the same gradient (28% of "strongly agree" vs. 5% of "strongly disagree"). These were two of only three significant predictors of deidentification — both social/political rather than doctrinal in the classic sense.[^7] See [[Accepting Same-Sex Marriage Would Not Improve Church Retention]].
+
 ## Best Quotes
 
 > "It's actually people on the very end of things — sides on both sides — that are more likely to disconnect."[^1]
@@ -39,10 +42,12 @@ Over recent decades, politics has become a more central component of personal id
 > "30 years ago... Democrats and Republicans were equally religious. That has changed in recent years where now Republicans are far more likely to be religious than Democrats are."[^3]
 
 ## References
+- [[LDS Religiousness Report - Dyer Erickson Hardy]] — the primary report
 - [[Informed Saints - The Surprising REAL Reason People Are Leaving The Church]]
 - [[Justin Dyer]]
 - [[The Online Echo Chamber Accelerates Disaffiliation]]
 - [[Daily Connection With God Is the Top Predictor of Retention]]
+- [[Accepting Same-Sex Marriage Would Not Improve Church Retention]]
 
 ---
 [^1]: [[Informed Saints - The Surprising REAL Reason People Are Leaving The Church|Informed Saints - Why People Are Leaving The Church]], [12:31]–[13:00], https://youtu.be/7IMZGScnEok
@@ -51,3 +56,4 @@ Over recent decades, politics has become a more central component of personal id
 [^4]: [[Informed Saints - The Surprising REAL Reason People Are Leaving The Church|Informed Saints - Why People Are Leaving The Church]], [13:00]–[14:00], https://youtu.be/7IMZGScnEok
 [^5]: [[Informed Saints - The Surprising REAL Reason People Are Leaving The Church|Informed Saints - Why People Are Leaving The Church]], [15:31]–[16:32], https://youtu.be/7IMZGScnEok
 [^6]: [[Informed Saints - The Surprising REAL Reason People Are Leaving The Church|Informed Saints - Why People Are Leaving The Church]], [14:31]–[15:31], https://youtu.be/7IMZGScnEok
+[^7]: [[LDS Religiousness Report - Dyer Erickson Hardy|LDS Religiousness Report]], [p.34]

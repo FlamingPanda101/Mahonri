@@ -9,6 +9,8 @@ related:
   - "[[First Vision Accounts Differ by Audience Not Contradiction]]"
   - "[[The Book of Mormon Was Translated Mosiah-First]]"
   - "[[No Naturalistic Source Accounts for the Whole Book of Mormon]]"
+  - "[[The Small-Plates Concluding Books Interlock With the Nephite Record]]"
+  - "[[Coriantumr Among the People of Zarahemla Ties Ether to Omni]]"
   - "[[Book of Mormon Evidences]]"
 scripture:
   - "[[Alma 27.17|Alma 27:17]]"
@@ -16,6 +18,7 @@ scripture:
   - "[[Alma 36.6-13|Alma 36:6-13]]"
 sources:
   - "[[The Stick of Joseph - Internal Consistencies of the Book of Mormon]]"
+  - "[[FAIR - Internally Consistent References in the Book of Mormon Part 15]]"
 tags: [type/claim, tradition/lds, topic/book-of-mormon, topic/translation, topic/historicity, by/jeff-markham, channel/the-stick-of-joseph]
 ---
 #type/claim
@@ -42,6 +45,8 @@ Jeff Markham argues that the Book of Mormon contains roughly **120 "internal con
 7. **The 30 Jaredite kings, reversed then unwound.** Ether 1:6-32 lists ~30 Jaredite kings in reverse genealogical order (Ether back to Jared); the narrative from Ether 6 onward then runs the same 30 *forward* in exact order, while weaving in a dozen non-royal "mingling" names without ever confusing the succession. Detailed under [[The Dictation Feat - Reversed Jaredite Kings and a Hundred Names of Christ]], to which Markham's independent treatment (and the Shiblon/Shiblom scribal-error point) has been added.[^9] *Evidence rating: Strong. Argument weight: Primary.*
 
 **The amplifier — dictation conditions.** Markham stresses (citing [[Brian Hales]]) that the text was a "verbatim run-on sentence" of ~270,000 words with "no edits, no corrections": a slip could not be scratched out and repaired later, so every one of these latent details had to be tracked live and closed correctly, sometimes 60 chapters after being opened. On his uniform-output model the number of open details Joseph would have had to juggle at once "gets up into the 30s."[^2][^10] See [[Dictation Speed and Method Argue Against Fabrication]].
+
+**More worked examples (Markham's FAIR series).** The same catalogue was published on FAIR in 15 parts; the concluding installment adds cases from the *shortest* books, captured in [[The Small-Plates Concluding Books Interlock With the Nephite Record]] (consecrated offices, a planted prophecy of lost inheritance, and a wars-then-peace setup in Jacob, Omni, and Words of Mormon) and [[Coriantumr Among the People of Zarahemla Ties Ether to Omni]] (a one-verse aside in Omni resolving a Jaredite cliffhanger in Ether).[^17]
 
 ## Best Quotes
 > "Very subtle details that are hinted at in one spot and then not brought up again until 60 chapters later… which is weeks of translation later." [^1]
@@ -80,6 +85,7 @@ Jeff Markham argues that the Book of Mormon contains roughly **120 "internal con
 [^14]: [[The Stick of Joseph - Internal Consistencies of the Book of Mormon|Stick of Joseph — Internal Consistencies]], [26:30]–[27:30], https://youtu.be/Eq4H9672qNM
 [^15]: [[The Stick of Joseph - Internal Consistencies of the Book of Mormon|Stick of Joseph — Internal Consistencies]], [53:00]–[54:32], https://youtu.be/Eq4H9672qNM
 [^16]: [[The Stick of Joseph - Internal Consistencies of the Book of Mormon|Stick of Joseph — Internal Consistencies]], [40:30]–[46:32], https://youtu.be/Eq4H9672qNM
+[^17]: [[FAIR - Internally Consistent References in the Book of Mormon Part 15|FAIR — BoM Internal Consistency Pt 15]], examples 116–120, https://www.fairlatterdaysaints.org/blog/2020/08/15/a-detailed-look-at-internally-consistent-references-in-the-book-of-mormon-text-part-15
 
 ---
-See also: [[Concepts]] · [[The Stick of Joseph - Internal Consistencies of the Book of Mormon]] · [[Jeff Markham]] · [[Book of Mormon Evidences]]
+See also: [[Concepts]] · [[The Stick of Joseph - Internal Consistencies of the Book of Mormon]] · [[FAIR - Internally Consistent References in the Book of Mormon Part 15]] · [[Jeff Markham]] · [[Book of Mormon Evidences]]

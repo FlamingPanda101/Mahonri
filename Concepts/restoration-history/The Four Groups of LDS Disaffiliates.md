@@ -31,6 +31,8 @@ The stereotype — fueled by the most vocal ex-Mormon activists online — is th
 
 4. **Geography of the warm leavers (rated: moderate).** Faithkeepers and faith-leaners were disproportionately *outside* Utah and Idaho, consistent with leaving via relocation rather than rejection.[^4] *Steelman:* clustering solutions are partly analyst-defined (number of groups, labels, thresholds), and "warm feelings" on a survey are not the same as practice — some faithkeepers may still be functionally gone even if affectively positive.
 
+5. **The published labels and exact shares (rated: strong, primary source).** The report's official latent-profile solution (n=527) names the four groups Faith Staying (22%), Faith Bordering (32%), Faith Distancing (36%), and Faith Leaving (10%). The two faith-valuing groups total 54% of leavers; only the 10% Faith Leaving wholly reject both religion and spirituality.[^5] And most keep the door open: about 2 in 3 of all who deidentify leave open some chance of recommitting — only 36% say returning is "never going to happen," and among the two faith-valuing groups just 19% and 25% rule it out.[^6] See [[Faithkeepers Would Return if a Friend Invited Them]].
+
 ## Best Quotes
 
 > "The statistics identified four different groups. And we labeled them as faithkeepers, faith-leaners, faith-distant, and faith-rejectors."[^1]
@@ -40,6 +42,7 @@ The stereotype — fueled by the most vocal ex-Mormon activists online — is th
 > "These are individuals — and that's about 10% of the sample — that is like zero on thinking religion is a good thing."[^3]
 
 ## References
+- [[LDS Religiousness Report - Dyer Erickson Hardy]] — the primary report
 - [[Informed Saints - The Surprising REAL Reason People Are Leaving The Church]]
 - [[Justin Dyer]]
 - [[Ryan Burge]]
@@ -51,3 +54,5 @@ The stereotype — fueled by the most vocal ex-Mormon activists online — is th
 [^2]: [[Informed Saints - The Surprising REAL Reason People Are Leaving The Church|Informed Saints - Why People Are Leaving The Church]], [21:30]–[22:30], https://youtu.be/7IMZGScnEok
 [^3]: [[Informed Saints - The Surprising REAL Reason People Are Leaving The Church|Informed Saints - Why People Are Leaving The Church]], [24:30]–[25:00], https://youtu.be/7IMZGScnEok
 [^4]: [[Informed Saints - The Surprising REAL Reason People Are Leaving The Church|Informed Saints - Why People Are Leaving The Church]], [22:02]–[22:30], https://youtu.be/7IMZGScnEok
+[^5]: [[LDS Religiousness Report - Dyer Erickson Hardy|LDS Religiousness Report]], [p.37]
+[^6]: [[LDS Religiousness Report - Dyer Erickson Hardy|LDS Religiousness Report]], [p.44]
